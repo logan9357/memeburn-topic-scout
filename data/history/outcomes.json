@@ -1,0 +1,92 @@
+[
+  {
+    "brief_date": "2026-11-02",
+    "rank": 1,
+    "working_title": "FBI Blames North Korea for Record $6.3B Binance Hack",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 79,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-02",
+    "rank": 2,
+    "working_title": "Zelda 40th Anniversary Switch 2 Restocks November 5",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 77,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-02",
+    "rank": 3,
+    "working_title": "Pixel 11 and Galaxy S26 Are Both on Sale Right Now",
+    "category": "phone",
+    "urgency": "today",
+    "format": "comparison",
+    "score": 76,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-02",
+    "rank": 4,
+    "working_title": "Xiaomi 18 Pro Series Goes Global — How It Compares to the iPhone 18 Pro Max",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "comparison",
+    "score": 67,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-02",
+    "rank": 5,
+    "working_title": "How to Reclaim 15GB of Storage After the iOS 27 Update",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "how-to",
+    "score": 64,
+    "published": true,
+    "article_url": "https://memeburn.com/apple-intelligence-storage-ios-27/",
+    "article_title": "How to Reclaim 15GB of Storage After the iOS 27 Update, and What You Give Up",
+    "author": "Vincee Cole",
+    "hours_to_publish": 12.0,
+    "pageviews": null
+  },
+  {
+    "brief_date": "2026-11-02",
+    "rank": 6,
+    "working_title": "ChatGPT Could Soon Tap Into Your Android Health Data",
+    "category": "ai",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 63,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-02",
+    "rank": 7,
+    "working_title": "Best MacBook Deals Right Now: November 2026",
+    "category": "tech",
+    "urgency": "evergreen",
+    "format": "listicle",
+    "score": 63,
+    "published": true,
+    "article_url": "https://memeburn.com/black-friday-tablet-deals-2026/",
+    "article_title": "Black Friday Tablet Deals 2026: Most iPad Discounts Still Sit Above Launch Price",
+    "author": "Marko Nguyen",
+    "hours_to_publish": -0.9,
+    "pageviews": null
+  },
+  {
+    "brief_date": "2026-11-02",
+    "rank": 8,
+    "working_title": "Google's Zoom Bug Broke Image Viewing — Here's the Fix",
+    "category": "tech",
+    "urgency": "today",
+    "format": "how-to",
+    "score": 57,
+    "published": false
+  }
+]

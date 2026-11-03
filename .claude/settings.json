@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/crawl_trends.py:*)",
+      "Bash(python scripts/fetch_memeburn.py:*)",
+      "Bash(python scripts/track_outcomes.py:*)",
+      "Bash(python scripts/build_candidates.py:*)",
+      "Bash(python scripts/learn_stats.py:*)",
+      "Bash(python scripts/post_slack.py:*)",
+      "Bash(python -c:*)",
+      "WebFetch",
+      "Read",
+      "Edit",
+      "Write"
+    ]
+  }
+}

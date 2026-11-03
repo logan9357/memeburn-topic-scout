@@ -1,0 +1,65 @@
+# Trend sources. type: rss | google_trends | hn | reddit | coingecko
+# category_hint biases classification
+sources:
+  # --- What people are searching right now
+  - name: Google Trends US
+    type: google_trends
+    url: https://trends.google.com/trending/rss?geo=US
+    region: global
+
+  # --- Tech news aggregators / wires
+  - name: Techmeme
+    type: rss
+    url: https://www.techmeme.com/feed.xml
+    category_hint: tech
+  - name: The Verge
+    type: rss
+    url: https://www.theverge.com/rss/index.xml
+  - name: TechCrunch
+    type: rss
+    url: https://techcrunch.com/feed/
+  - name: Engadget
+    type: rss
+    url: https://www.engadget.com/rss.xml
+
+  # --- Phones
+  - name: GSMArena
+    type: rss
+    url: https://news.google.com/rss/search?q=site:gsmarena.com+when:1d&hl=en-US&gl=US&ceid=US:en
+    category_hint: phone
+  - name: Android Authority
+    type: rss
+    url: https://www.androidauthority.com/feed/
+    category_hint: phone
+  - name: 9to5Mac
+    type: rss
+    url: https://9to5mac.com/feed/
+    category_hint: phone
+
+  # --- AI
+  - name: Hacker News front page
+    type: hn
+    limit: 30
+  - name: The Decoder
+    type: rss
+    url: https://the-decoder.com/feed/
+    category_hint: ai
+
+  # --- Crypto
+  - name: CoinGecko trending
+    type: coingecko
+    category_hint: crypto
+  - name: CoinDesk
+    type: rss
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/
+    category_hint: crypto
+  - name: Cointelegraph
+    type: rss
+    url: https://cointelegraph.com/rss
+    category_hint: crypto
+
+  # --- Community buzz (Reddit may block datacenter IPs such as GitHub Actions; failures are logged, not fatal)
+  - name: Reddit
+    type: reddit
+    subreddits: [technology, Android, apple, artificial, CryptoCurrency]
+    limit: 15

@@ -1,0 +1,102 @@
+# Keyword maps used for pre-classification. Claude makes the final call.
+categories:
+  phone:
+    - iphone
+    - android
+    - samsung
+    - galaxy
+    - pixel
+    - xiaomi
+    - huawei
+    - oppo
+    - vivo
+    - honor
+    - oneplus
+    - nothing phone
+    - motorola
+    - smartphone
+    - foldable
+    - ios
+    - one ui
+    - hyperos
+    - snapdragon
+    - dimensity
+    - tecno
+    - infinix
+    - smartwatch
+    - airpods
+    - wearable
+  ai:
+    - ai
+    - artificial intelligence
+    - openai
+    - chatgpt
+    - gpt
+    - gemini
+    - claude
+    - anthropic
+    - llm
+    - copilot
+    - deepseek
+    - mistral
+    - llama
+    - grok
+    - nvidia
+    - deepfake
+    - chatbot
+    - agent
+    - agents
+    - midjourney
+    - sora
+  crypto:
+    - bitcoin
+    - btc
+    - ethereum
+    - eth
+    - crypto
+    - cryptocurrency
+    - solana
+    - xrp
+    - stablecoin
+    - binance
+    - coinbase
+    - luno
+    - valr
+    - blockchain
+    - token
+    - memecoin
+    - etf
+    - defi
+    - nft
+    - fsca
+  tech:
+    - apple
+    - google
+    - microsoft
+    - meta
+    - amazon
+    - tesla
+    - spacex
+    - starlink
+    - netflix
+    - spotify
+    - whatsapp
+    - instagram
+    - tiktok
+    - youtube
+    - x.com
+    - windows
+    - macos
+    - playstation
+    - xbox
+    - nintendo
+    - gaming
+    - cybersecurity
+    - data breach
+    - hack
+    - startup
+    - fibre
+    - 5g
+    - ev
+    - laptop
+    - chip

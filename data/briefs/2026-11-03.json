@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-03",
+  "language": "en",
+  "summary": "Apple's Q4 earnings dominate — record revenue but real warnings on memory costs and iPhone Duo supply — alongside a fresh crypto-exchange hack (Brazil's Mercado Bitcoin, tied to the Binance hackers' laundering trail) and Anthropic's rocky pre-IPO numbers (12x revenue growth, $23B loss, valuation cut). 16 topics today per the new capacity model (5-8 articles/writer x 2 writers).",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01"],
+      "working_title": "Apple Still Can't Say When It'll Have Enough iPhone Duo Units",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "why_now": "Apple CEO John Ternus told Reuters today the company can't predict when iPhone Duo supply will catch up with demand; covered by The Verge, TechCrunch, and 9to5Mac within hours of each other.",
+      "angle": "Give buyers the practical answer: is it worth ordering now, what are realistic wait times, and which retailers/carriers have the best odds right now.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Apple Still Can't Say When It'll Have Enough iPhone Duo Units",
+        "Should You Even Try to Buy an iPhone Duo Right Now?"
+      ],
+      "seo_keywords": ["iphone duo availability", "iphone duo supply shortage", "when will iphone duo be in stock"],
+      "sources": [
+        {"title": "Apple is 'not able to predict' when it'll have enough iPhone Duos to go around — The Verge", "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"},
+        {"title": "Apple says it's 'hard to predict' when iPhone Duo constraints will improve — TechCrunch", "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/"}
+      ],
+      "notes_for_writer": "Fast-moving supply story — check for any retailer stock updates at time of writing rather than just repeating the Reuters interview quotes."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c13"],
+      "working_title": "SpaceX Reportedly Wants to Buy Boost Mobile to Take On AT&T, T-Mobile, and Verizon",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 77,
+      "why_now": "SpaceX is reportedly eyeing a Boost Mobile acquisition to give Starlink direct terrestrial cellular access — a potential major shake-up in the US carrier market, covered by TechCrunch and Android Authority.",
+      "angle": "Explain what owning a carrier would actually let SpaceX/Starlink do that it can't do today, and what it could mean for US customers' phone plans and coverage.",
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": [
+        "SpaceX Reportedly Wants to Buy Boost Mobile — Here's Why",
+        "Could SpaceX Become Your Next Cell Carrier?"
+      ],
+      "seo_keywords": ["spacex boost mobile acquisition", "starlink mobile carrier", "spacex cellular network"],
+      "sources": [
+        {"title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon — TechCrunch", "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"},
+        {"title": "SpaceX eyes US carrier acquisition for its growing cellular ambitions — Android Authority", "url": "https://www.androidauthority.com/spacex-echostar-boost-mobile-acquisition-3730712/"}
+      ],
+      "notes_for_writer": "This is still a 'reportedly' deal — be clear it's not confirmed, and note any SpaceX/Boost Mobile statement if one appears before publishing."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c14", "c17", "c18", "c28"],
+      "working_title": "Anthropic's IPO Hits a Rough Patch: 12x Revenue Growth, $23B Loss, and a Valuation Cut",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 73,
+      "why_now": "Anthropic's revised S-1 shows revenue up 12x but a $23B operating loss; WSJ reports institutional investors want the IPO valuation cut to $1.5-1.6T from $2T. Separately, HN is debating both 'Anthropic's growth just flattened' (112 pts) and an opinion piece arguing the SEC should block the IPO (107 pts) — high engagement right as the IPO approaches.",
+      "angle": "Cut through the noise: what the actual S-1 numbers say, why investors are nervous, and what it means for anyone watching the Anthropic IPO or using Claude day to day.",
+      "format": "explainer",
+      "est_words": 900,
+      "headline_options": [
+        "Anthropic's IPO Hits a Rough Patch: 12x Revenue Growth, $23B Loss, and a Valuation Cut",
+        "Why Wall Street Is Suddenly Nervous About the Anthropic IPO"
+      ],
+      "seo_keywords": ["anthropic ipo valuation", "anthropic revenue loss", "anthropic ipo 2026"],
+      "sources": [
+        {"title": "Anthropic grows revenue twelvefold but posts $23 billion loss — The Decoder", "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/"},
+        {"title": "Sources: institutional investors told Anthropic its IPO valuation should be $1.5T-$1.6T — Techmeme/WSJ", "url": "https://www.techmeme.com/261102/p42#a261102p42"}
+      ],
+      "notes_for_writer": "Stick to the filed numbers and reported investor sentiment — don't editorialize on whether the IPO 'should' happen; that's the HN opinion piece's job, not ours. No investment advice."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c05", "c22", "c25"],
+      "working_title": "Apple Posts Record Q4 Revenue, But Warns Memory Costs Could Pinch Holiday Profits",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 72,
+      "why_now": "Apple just reported record Q4 revenue ($114.48B, +12% YoY), but execs flagged rising memory chip costs and Siri AI spend as headwinds for the holiday quarter, and inventory surged 154%.",
+      "angle": "Translate the earnings-call jargon into what it means for shoppers this holiday — could memory costs push device prices up, and is this a good or shaky position for Apple heading into year-end.",
+      "format": "explainer",
+      "est_words": 800,
+      "headline_options": [
+        "Apple Posts Record Q4 Revenue, But Warns Memory Costs Could Pinch Holiday Profits",
+        "Apple's Best Quarter Ever Comes With a Warning Sign"
+      ],
+      "seo_keywords": ["apple q4 2026 earnings", "apple memory costs holiday", "apple earnings record revenue"],
+      "sources": [
+        {"title": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts] — 9to5Mac", "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/"},
+        {"title": "Apple says memory costs and Siri AI will weigh on holiday quarter profit margins — 9to5Mac", "url": "https://9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins/"}
+      ],
+      "notes_for_writer": "Verify the exact inventory and R&D figures against Apple's own newsroom release before publishing, not just secondary summaries."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c44"],
+      "working_title": "Google Says an Android Partner Turned 1.3 Million Devices Into a Botnet",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "Google confirmed an Android manufacturing partner (Shenzhen-based Videostrong) built a secret backdoor into 1.3M set-top boxes and turned them into a botnet before being banned — a real security story with a direct 'is my device affected' consumer hook.",
+      "angle": "Explain which devices/brands were affected, what Google did about it, and how readers can check if they own one of the compromised devices.",
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "Google Says an Android Partner Turned 1.3 Million Devices Into a Botnet",
+        "Is Your Android Set-Top Box Part of a Secret Botnet?"
+      ],
+      "seo_keywords": ["android botnet 1.3 million devices", "google android backdoor", "videostrong android ban"],
+      "sources": [
+        {"title": "One of Google's Android partners turned 1.3 million set-top boxes into a botnet — The Verge", "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"}
+      ],
+      "notes_for_writer": "Single-source — verify with Google's own security blog if one exists before publishing specific device/brand names."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c02"],
+      "working_title": "Brazil's Largest Crypto Exchange Halts Withdrawals After $46M Hack",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 67,
+      "why_now": "Mercado Bitcoin, Brazil's largest crypto exchange, halted withdrawals after a $46M breach; Tether froze 4.5M+ USDT in response. Chainalysis separately reports the original Binance hackers are now laundering stolen Solana into Bitcoin — a fresh, connected development a day after our FBI/Binance piece.",
+      "angle": "Explain what happened at Mercado Bitcoin specifically, who's affected, and tie it back to the broader wave of crypto-exchange security incidents this week.",
+      "format": "news",
+      "est_words": 600,
+      "headline_options": [
+        "Brazil's Largest Crypto Exchange Halts Withdrawals After $46M Hack",
+        "Mercado Bitcoin Hack: What Happened and Is Your Money Safe"
+      ],
+      "seo_keywords": ["mercado bitcoin hack", "mercado bitcoin withdrawals halted", "crypto exchange hack november 2026"],
+      "sources": [
+        {"title": "Brazil's largest crypto exchange Mercado Bitcoin halts withdrawals after a breach — Techmeme", "url": "https://www.techmeme.com/261102/p43#a261102p43"},
+        {"title": "Brazil's Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains — CoinDesk", "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"}
+      ],
+      "notes_for_writer": "This is a new development, not a repeat of yesterday's Binance pick — say explicitly it's a separate exchange. No investment advice."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c08"],
+      "working_title": "OpenAI Is Merging ChatGPT's Chat and Work Tabs",
+      "category": "ai",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 65,
+      "why_now": "OpenAI confirmed it's merging the Chat and Work tabs and retiring the ChatGPT Classic app — a direct UX change every ChatGPT user will notice.",
+      "angle": "Explain what's actually changing for users, when it rolls out, and what happens to Work-tab-specific settings people have already set up.",
+      "format": "how-to",
+      "est_words": 500,
+      "headline_options": [
+        "OpenAI Is Merging ChatGPT's Chat and Work Tabs — Here's What Changes",
+        "ChatGPT Classic App Is Being Retired: What to Know"
+      ],
+      "seo_keywords": ["chatgpt chat work tabs merge", "chatgpt classic app retiring"],
+      "sources": [
+        {"title": "OpenAI is finally merging ChatGPT's Chat and Work tabs — TechCrunch", "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"},
+        {"title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs — 9to5Mac", "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/"}
+      ],
+      "notes_for_writer": "Confirm the actual rollout date/timeline directly from OpenAI's own changelog before publishing."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c31"],
+      "working_title": "Apple Just Set an iPhone Sales Record Without a New Standard Model",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "Apple's Q4 report shows record iPhone revenue ($57.58B, +17% YoY) despite skipping a new standard-model refresh this cycle — a genuinely surprising data point about what's actually driving iPhone demand right now.",
+      "angle": "Dig into what's actually driving the record — the iPhone Duo, Pro-model upgrades, or something else — and what it signals about Apple's product strategy going into next year.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Apple Just Set an iPhone Sales Record Without a New Standard Model",
+        "What's Actually Driving Apple's Record iPhone Quarter?"
+      ],
+      "seo_keywords": ["iphone sales record 2026", "apple iphone revenue q4", "iphone duo sales"],
+      "sources": [
+        {"title": "Apple set an iPhone sales record even without a new standard iPhone — The Verge", "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings"}
+      ],
+      "notes_for_writer": "Pairs with the main Q4 earnings piece (rank 4) — keep this one focused on the sales-record angle specifically, don't just repeat the margin/cost story."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c11"],
+      "working_title": "Elon Musk Cuts Grok Bot Limits Just Weeks After Calling It His Fastest-Growing Product",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "Musk abruptly throttled Grok Bot usage limits due to 'unsustainably high' costs, weeks after calling it his fastest-growing product ever — a notable reversal with a real 'will my access change' consumer question.",
+      "angle": "Explain what's actually being throttled, for which users/tiers, and the broader pattern of AI companies tightening free/flat-rate usage as compute costs bite.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Elon Musk Cuts Grok Bot Limits Just Weeks After Calling It His Fastest-Growing Product",
+        "Why Grok Bot Just Got a Lot More Restrictive"
+      ],
+      "seo_keywords": ["grok bot limits", "grok bot throttled", "grok bot usage cut"],
+      "sources": [
+        {"title": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs — TechCrunch", "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"},
+        {"title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product — The Decoder", "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/"}
+      ],
+      "notes_for_writer": "Confirm exact new limits/tiers before publishing specific numbers — reporting is still secondhand as of this morning."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c07"],
+      "working_title": "Coinbase Stock Downgraded as Wall Street Slashes Price Target 53%",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Morgan Stanley cut its Coinbase price target by over 50%, citing a weak earnings outlook and fallout from the Binance hack rattling trading activity — a direct market reaction story.",
+      "angle": "Explain what the downgrade means for everyday Coinbase users, and whether this is about Coinbase specifically or the whole crypto-trading sector cooling off.",
+      "format": "news",
+      "est_words": 450,
+      "headline_options": [
+        "Coinbase Stock Downgraded as Wall Street Slashes Price Target 53%",
+        "Why Is Coinbase Getting Hammered by Wall Street Right Now?"
+      ],
+      "seo_keywords": ["coinbase stock downgrade", "coinbase price target cut", "coinbase morgan stanley"],
+      "sources": [
+        {"title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% — CoinDesk", "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook"},
+        {"title": "Coinbase hit with 50% price target cut as post-earnings rout deepens — Cointelegraph", "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "Market/analyst commentary only — explicitly no investment advice or price predictions per house rules."
+    },
+    {
+      "rank": 11,
+      "candidate_ids": ["c24"],
+      "working_title": "Quick Share Is Coming Directly to Android and iOS Apps",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Google is opening Quick Share as an SDK so developers can bake file-sharing directly into their own apps on both Android and iOS — a genuinely cross-platform move.",
+      "angle": "Explain what this actually unlocks for users (no more switching to a separate Quick Share flow) and when third-party apps might start using it.",
+      "format": "news",
+      "est_words": 450,
+      "headline_options": [
+        "Quick Share Is Coming Directly to Android and iOS Apps",
+        "Google's Quick Share Just Got a Lot More Useful"
+      ],
+      "seo_keywords": ["quick share sdk", "quick share android ios apps", "google quick share update"],
+      "sources": [
+        {"title": "Quick Share will soon work directly in Android and iOS apps — Android Authority", "url": "https://www.androidauthority.com/quick-share-sdk-launch-time-frame-3730882/"}
+      ],
+      "notes_for_writer": "Single-source — check Google's developer blog for the actual SDK launch timeframe before publishing specific dates."
+    },
+    {
+      "rank": 12,
+      "candidate_ids": ["c47"],
+      "working_title": "How to Customize iOS 27.2's New Messages 'Suggested Actions' Feature",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "iOS 27.2's 'Suggested Actions' feature in Messages can be customized — a genuine how-to opportunity most users won't discover on their own.",
+      "angle": "Step-by-step on how to customize Suggested Actions, plus a quick mention of the companion iPadOS 27.2 multitasking change in the same update.",
+      "format": "how-to",
+      "est_words": 550,
+      "headline_options": [
+        "How to Customize iOS 27.2's New Messages 'Suggested Actions' Feature",
+        "iOS 27.2's Best Hidden Feature, Explained"
+      ],
+      "seo_keywords": ["ios 27.2 suggested actions", "ios 27.2 messages feature", "how to customize ios messages"],
+      "sources": [
+        {"title": "iOS 27.2's clever new Messages feature can be tailored to your needs — 9to5Mac", "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/"},
+        {"title": "iPadOS 27.2 adds convenient new multitasking option on iPad — 9to5Mac", "url": "https://9to5mac.com/2026/11/02/ipados-27-2-adds-convenient-new-multitasking-option-on-ipad/"}
+      ],
+      "notes_for_writer": "Walk through the actual settings menu on a device running iOS 27.2 to verify steps before publishing."
+    },
+    {
+      "rank": 13,
+      "candidate_ids": ["c16"],
+      "working_title": "Apple's Leaked HomeView Could Turn an Old iPad Into a Security Camera",
+      "category": "tech",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Leaked HomeView code shows Apple building full HomeKit security-camera features — directly targeting a gap Google's Pixel Tablet skipped entirely.",
+      "angle": "Explain what HomeView would actually let an old iPad/HomePod do as a security camera, and how it stacks up against Google's approach.",
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "Apple's HomeView Could Turn an Old iPad Into a Security Camera",
+        "Apple Is About to One-Up Google's Pixel Tablet on Home Security"
+      ],
+      "seo_keywords": ["apple homeview security camera", "homeview ipad security camera", "apple homekit camera"],
+      "sources": [
+        {"title": "Apple HomeView is getting ready to teach Google's Pixel Tablet a home security lesson — Android Authority", "url": "https://www.androidauthority.com/apple-homeview-security-camera-leak-3730503/"},
+        {"title": "HomeView could double as a HomeKit security camera, shows code — 9to5Mac", "url": "https://9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code/"}
+      ],
+      "notes_for_writer": "This is based on leaked/unreleased code — be clear it's not an official Apple announcement and could change or never ship."
+    },
+    {
+      "rank": 14,
+      "candidate_ids": ["c12"],
+      "working_title": "Readwise's New App Wants to Replace Your Kindle and Goodreads",
+      "category": "tech",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "Readwise just launched a dedicated e-book/reading-tracker app combining store, stats, and AI features — a direct challenge to Amazon's reading ecosystem.",
+      "angle": "What Readwise Books actually offers vs. Kindle/Goodreads, who it's for, and whether it's worth switching.",
+      "format": "review-roundup",
+      "est_words": 650,
+      "headline_options": [
+        "Readwise's New App Wants to Replace Your Kindle and Goodreads",
+        "Is Readwise Books Worth Ditching Kindle For?"
+      ],
+      "seo_keywords": ["readwise books app", "readwise vs kindle", "readwise vs goodreads"],
+      "sources": [
+        {"title": "Readwise takes on Amazon's Kindle and Goodreads with its new app for book lovers — TechCrunch", "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/"}
+      ],
+      "notes_for_writer": "Try the actual app before writing the comparison — don't just paraphrase the press description as a review."
+    },
+    {
+      "rank": 15,
+      "candidate_ids": ["c38"],
+      "working_title": "Meta Is Ending Quest 2 OS Updates in 2027",
+      "category": "tech",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "Meta confirmed the Quest 2 and Quest Pro will get their final OS update (v213) by March 2027, after which only security patches continue — a clear end-of-life timeline owners need to know.",
+      "angle": "What stops working, what still gets patched, and whether current Quest 2 owners should upgrade now or ride it out.",
+      "format": "how-to",
+      "est_words": 500,
+      "headline_options": [
+        "Meta Is Ending Quest 2 OS Updates in 2027 — Here's What That Means",
+        "Should You Upgrade Before Meta Ends Quest 2 Support?"
+      ],
+      "seo_keywords": ["quest 2 end of support", "quest 2 os updates ending", "meta quest 2 2027"],
+      "sources": [
+        {"title": "Meta will end Quest 2 OS updates in 2027 — The Verge", "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates"}
+      ],
+      "notes_for_writer": "Single-source — confirm the exact v213 cutoff date and what 'security patches only' covers via Meta's own support page."
+    },
+    {
+      "rank": 16,
+      "candidate_ids": ["c26"],
+      "working_title": "New Jersey Clears the Way for Coinbase Staking Again",
+      "category": "crypto",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "New Jersey lifted its staking ban on Coinbase and dropped a $5M penalty — a notable regulatory thaw right as crypto heads into a politically sensitive midterm week.",
+      "angle": "Explain what changes for Coinbase users in New Jersey specifically, and what it signals about the broader US regulatory mood toward crypto staking.",
+      "format": "news",
+      "est_words": 450,
+      "headline_options": [
+        "New Jersey Clears the Way for Coinbase Staking Again",
+        "Coinbase Staking Is Back in New Jersey — Here's What Changed"
+      ],
+      "seo_keywords": ["coinbase staking new jersey", "coinbase staking ban lifted", "crypto staking regulation"],
+      "sources": [
+        {"title": "New Jersey drops Coinbase staking order ahead of crypto's midterm test — Cointelegraph", "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "Single-source — verify directly with the New Jersey Bureau of Securities filing or Coinbase's own statement before publishing."
+    }
+  ],
+  "watchlist": [
+    "Binance hackers laundering stolen Solana into Bitcoin; Gate froze two linked accounts (Chainalysis)",
+    "EU entity suspected of losing $106M from crypto exchange accounts (ZachXBT)",
+    "Anthropic confirms new Claude Code limits to block game-cloning/IP infringement",
+    "OpenAI's Grid Protectors Program — piloting data-center power-sharing in Georgia",
+    "Oracle files to sell $20B in new stock and bonds to finance its AI buildout",
+    "Palantir Q3 revenue up 96% YoY to $2.31B, raises FY2026 guidance"
+  ]
+}

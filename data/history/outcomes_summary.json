@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-11-03T00:09:05.278862+00:00",
+  "topics_suggested": 8,
+  "topics_published": 2,
+  "by_category": {
+    "crypto": {
+      "suggested": 1,
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    },
+    "tech": {
+      "suggested": 3,
+      "published": 1,
+      "pickup_rate": 0.33,
+      "avg_pageviews": null
+    },
+    "phone": {
+      "suggested": 3,
+      "published": 1,
+      "pickup_rate": 0.33,
+      "avg_pageviews": null
+    },
+    "ai": {
+      "suggested": 1,
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    }
+  },
+  "by_format": {
+    "explainer": {
+      "suggested": 2,
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    },
+    "news": {
+      "suggested": 1,
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    },
+    "comparison": {
+      "suggested": 2,
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    },
+    "how-to": {
+      "suggested": 2,
+      "published": 1,
+      "pickup_rate": 0.5,
+      "avg_pageviews": null
+    },
+    "listicle": {
+      "suggested": 1,
+      "published": 1,
+      "pickup_rate": 1.0,
+      "avg_pageviews": null
+    }
+  }
+}

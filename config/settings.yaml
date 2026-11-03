@@ -1,0 +1,21 @@
+# Global settings for the Memeburn topic scout
+timezone: Africa/Johannesburg        # all "today" dates are SAST
+brief_language: en                   # language of the Slack brief: en | vi
+topics_per_brief: 16                 # 2 writers x 5-8 articles/day each = 10-16 topics/day needed (see knowledge/process/beats.md)
+max_candidates: 60                   # how many pre-scored clusters Claude gets to review
+freshness_hours: 48                  # ignore items older than this
+
+memeburn:
+  base_url: https://memeburn.com
+  coverage_lookback_days: 3          # topic counts as "already covered" if published within N days
+  learn_lookback_days: 90            # window used by /learn-process
+
+dedupe_lookback_days: 3              # don't re-suggest the same topic within N days (unless new development)
+
+# Optional: Slack user IDs per beat so the brief can @mention the right writer.
+# Find an ID in Slack: profile -> ⋮ -> Copy member ID
+writers:
+  phone: []      # e.g. ["U01ABCDEF"]
+  tech: []
+  ai: []
+  crypto: []

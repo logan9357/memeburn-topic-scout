@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-02",
+  "language": "en",
+  "summary": "The Binance hack dominates — FBI now formally blames North Korea — so today leads with that, alongside two flagship phone comparisons (our current best-performing format: Pixel 11 vs Galaxy S26, Xiaomi 18 Pro vs iPhone 18 Pro Max) and a hot Zelda Switch 2 restock. Note: knowledge/editorial_profile.md is still a placeholder (run /learn-process) — today's picks lean on the general rubric and knowledge/process/ SOPs only.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01", "c04", "c05"],
+      "working_title": "FBI Blames North Korea for Record $6.3B Binance Hack",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 79,
+      "why_now": "FBI has formally attributed the record $6.3B Binance hack to North Korea's 'TraderTraitor' group; Binance has resumed phased withdrawals and replaced ~90% of stolen funds. Covered by The Verge, TechCrunch, and multiple CoinDesk/Cointelegraph pieces in the last 24h. Memeburn: none yet.",
+      "angle": "Explain what happened in plain terms, confirm what the FBI attribution actually means, and answer the question readers actually have: is my money on Binance safe, and what should I do.",
+      "format": "explainer",
+      "est_words": 900,
+      "headline_options": [
+        "FBI Blames North Korea for Record $6.3B Binance Hack: What to Know",
+        "Is Your Crypto Safe? Inside the $6.3B Binance Hack the FBI Pinned on North Korea"
+      ],
+      "seo_keywords": ["binance hack", "binance hack north korea", "is binance safe", "binance hack fbi"],
+      "sources": [
+        {"title": "North Korea linked to massive Binance crypto heist — The Verge", "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"},
+        {"title": "FBI blames North Korea for record $6.3B Binance hack — Cointelegraph", "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"},
+        {"title": "Binance resumes withdrawals following $6.3 billion breach — TechCrunch", "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"}
+      ],
+      "notes_for_writer": "Fast-moving story — confirm withdrawal status and recovered-funds percentage at time of writing (was 90-95% as of Nov 1). Stick to facts and practical guidance for affected users; no price predictions or investment advice."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c06"],
+      "working_title": "Zelda 40th Anniversary Switch 2 Restocks November 5",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 77,
+      "why_now": "Trending on Google Trends US; restock reported for Target on Nov. 5 at $519.99, with Best Buy also expected to carry it. High purchase intent, time-boxed urgency.",
+      "angle": "Confirm exact restock retailers, time, and price, plus what's actually in the 40th Anniversary bundle vs. the standard Switch 2 — give readers a clear buy-or-skip verdict.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Zelda 40th Anniversary Switch 2 Restocks at Target Nov. 5",
+        "Where to Buy the Zelda 40th Anniversary Switch 2 Before It Sells Out Again"
+      ],
+      "seo_keywords": ["zelda 40th anniversary switch 2 restock", "where to buy zelda switch 2", "zelda switch 2 price"],
+      "sources": [
+        {"title": "Zelda Switch 2 Restock: Target Nov. 5, $519.99 [2026]", "url": "https://shattered.io/zelda-switch-2-40th-anniversary-restock-target-nov-5-best-buy-2026/"}
+      ],
+      "notes_for_writer": "Single-source signal — verify restock time/price against Target's own listing before publishing; confirm whether Best Buy actually carries it too."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c39"],
+      "working_title": "Pixel 11 and Galaxy S26 Are Both on Sale Right Now",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 76,
+      "why_now": "GSMArena flags simultaneous discounts on both flagship lines — a direct head-to-head buying decision for anyone shopping this week, and comparison content is currently our best-performing phone format.",
+      "angle": "Don't just list prices — tell readers which one to actually buy based on use case (camera, software support window, price-per-spec), not just who's cheaper today.",
+      "format": "comparison",
+      "est_words": 750,
+      "headline_options": [
+        "Pixel 11 or Galaxy S26: Which Deal Is Actually Worth It?",
+        "Pixel 11 and Galaxy S26 Are Both Discounted — Here's Which to Buy"
+      ],
+      "seo_keywords": ["pixel 11 deal", "galaxy s26 deal", "pixel 11 vs galaxy s26"],
+      "sources": [
+        {"title": "Deals: the Pixel 11 series is on sale and so is the Galaxy S26 series — GSMArena", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRE1YSzZSMnlsVEl2Y20tWVh0bGpJR1hPajA0ZDF4MHpESmlaSk82TURFcUs1dTItSlAxX2wwTFd2YUNWbUN0cjJHRS1hTVg4U2hVbUROUWlpQjktSjVmN1dWbi1fS2lKSnNXdHVRblRKdEFoOEdnMHlXVzBRR051UUJtS1JIT2FkOEwzU1EtLXVHS1poMFlnbV80cWt5eEdKcG1vU0VmZUo2WDBG0gGoAUFVX3lxTE5fT0UxcTlIWEl4NWVid0dESTQ3U28wblVkMEdmNzZ4YkZ6aTJJTnR3aTVJMW9BbWh4eElMS1RtMHNmRFdyOVRFNjdGcE1jSU1LbmRyb2VUbXFmbnJwU0k2MTRhVlk0M2tSTmQxMUNwUGVmTHJYWFZhWFZMSnhoVFlSM2xwd2V6VGx0ckh6Z0F3Y3BqaGZlTUVVRDhJVEZxVHZ3UUxlME1yTA?oc=5"}
+      ],
+      "notes_for_writer": "Single-source (GSMArena digest) — verify actual sale prices and retailers (Amazon/Best Buy/carrier) directly before publishing specific $ figures."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c17"],
+      "working_title": "Xiaomi 18 Pro Series Goes Global — How It Compares to the iPhone 18 Pro Max",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 67,
+      "why_now": "Xiaomi confirmed global availability for the 18 Pro series this month; readers are already comparing it against the iPhone 18 Pro Max and Oppo Find X10 Pro Max in forums.",
+      "angle": "A spec-and-price comparison against the iPhone 18 Pro Max for readers deciding between the two before year-end — focus on camera, chipset, and price-per-feature, not just the spec sheet.",
+      "format": "comparison",
+      "est_words": 800,
+      "headline_options": [
+        "Xiaomi 18 Pro Goes Global: How It Compares to the iPhone 18 Pro Max",
+        "Should You Buy the Xiaomi 18 Pro Over the iPhone 18 Pro Max?"
+      ],
+      "seo_keywords": ["xiaomi 18 pro global release", "xiaomi 18 pro vs iphone 18 pro max", "xiaomi 18 pro price"],
+      "sources": [
+        {"title": "Xiaomi 18 Pro series is going global this month — GSMArena", "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGdGLUtncnFBWWc1eVZkTU52aWxsQjFTRENMTlBYQ3NfblRDcl9DaW4tUktsV3V0bFJmUmhXLU5SOGlGYm02NzBLWHFWQkVxU0dTcUVjenpLQ2ZtVkczaDl6d3ZLYmRaN3lWQzNidW1CMDBtWWhITXlkYldMUFlzM0syY2t2VkdsZnlmaTdRU07SAYwBQVVfeXFMT3M2bWlwTGdPVzd0NlRMcEE3OU9RVm5NQ2ZJYkhERWp2NTluemw3WmdWNXB5NTNINnFOVUpFakNEU1E2NUNjYmJYVkYtejhEWUJiVkRCNFZHazdxSUZ0YUREVW41MElMeEtsM2xrVzJmaEt1V3FEcU9wa3JIdUtabmVTRmVoYlBkMW4yT1k?oc=5"},
+        {"title": "Apple iPhone 18 Pro Max — User opinions and reviews — GSMArena", "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aUFJ3SDRvLU1qenJXSkg3bG1oenhJcWM2aVd3eVJjUlYyM0R2LXlzTFNuX2ZzbGVXQVQyOU1kcG1uQk9GdzBELUtpRzBMUmhHTFVJNmdDRV9zWHlQUWU3SjV1WGVxSkRJNDdKdzlrR0tpai1t?oc=5"}
+      ],
+      "notes_for_writer": "GSMArena digest is a secondary aggregator — pull actual specs/pricing from Xiaomi's own launch page and Apple's spec page before publishing; don't cite GSMArena reader-opinion threads as sources for specs."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c34"],
+      "working_title": "How to Reclaim 15GB of Storage After the iOS 27 Update",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "iOS 27 is eating up to 15GB of temporary storage on update — a common post-update complaint with strong 'how to fix' search intent.",
+      "angle": "Clear step-by-step fix, plus explain why the update needs that much temporary space so readers aren't alarmed.",
+      "format": "how-to",
+      "est_words": 600,
+      "headline_options": [
+        "How to Reclaim 15GB of Storage After Updating to iOS 27",
+        "iOS 27 Taking Up Too Much Space? Here's the Fix"
+      ],
+      "seo_keywords": ["ios 27 storage fix", "free up space after ios 27 update", "ios 27 storage full"],
+      "sources": [
+        {"title": "Here's how to reclaim 15GB of storage after iOS 27 update — GSMArena", "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaldfdW9sYzZIY1FsVmRHU2tDdmhxTnhfNDZDTWE1YjJBM2RUbjJ0ZzNGeEFMY1p2RFctODVBNXcxcGxxcjZkSUZrbkFjZDBwZURpeHk2b0dTZjFSdndJRk5jcmpSeWF3bURITFFneFFuaDRYbElPdXZaNnpvRDZlTUlWYUNBTEVUdXNTUDJ0NVdnYk5fNFo5TnVRUWthMldVRHBXbGxzMS1WcXNFWGtBSGg0djVKUmp0dE1oWFBkTWpsaXo4OG1WV0VQamctWG5G0gHMAUFVX3lxTFA5Z1BQbDFSazhnUW82X09zRnNPdmNHRnFoTDlKQTJFNTMyMkV2aXJuTWFBUDNpbW9KYTh1azhtYnNNS3d6NjgxaktWSTBuVUtpUXphb3BsVnZ5alEydUp6ZDh6bmg3NWN0eUNKZzNwWWtfcTBuNjFGckNLcXBJTU54c2VoZmtiOXZJVEZpR01HSG9COXlpRHFwcGJmTEk5ZVN2TzN6ZG40OGwwN3FjVF8wUE1mcUhrOThyakVfNmdpRXVERnRhdmVRWmFVNg?oc=5"}
+      ],
+      "notes_for_writer": "Verify the exact fix steps directly on a device running iOS 27 before publishing."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c03"],
+      "working_title": "ChatGPT Could Soon Tap Into Your Android Health Data",
+      "category": "ai",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 63,
+      "why_now": "An APK teardown shows ChatGPT building Google Health Connect integration on Android — a genuine new capability, not yet live, that would let users ask ChatGPT about their own health data.",
+      "angle": "Explain what the integration would actually let you do, how to turn it on once live, and the privacy trade-off of handing health data to an AI chatbot.",
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": [
+        "ChatGPT May Soon Read Your Android Health Data — Here's What That Means",
+        "Is ChatGPT's New Health Data Feature Worth the Privacy Trade-Off?"
+      ],
+      "seo_keywords": ["chatgpt android health data", "chatgpt google health connect", "chatgpt health integration"],
+      "sources": [
+        {"title": "ChatGPT could soon turn your Android health data into something you can actually use — Android Authority", "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/"}
+      ],
+      "notes_for_writer": "This is an unreleased APK teardown finding, not a confirmed launch — be clear in the piece that it's not live yet and could change before shipping."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c21"],
+      "working_title": "Best MacBook Deals Right Now: November 2026",
+      "category": "tech",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 63,
+      "why_now": "Apple's memory-shortage price hikes earlier this year make current discounts more notable; 'best deals' roundups have reliable month-long search tails.",
+      "angle": "A curated, verified roundup rather than a re-post — call out which models are genuinely worth buying now vs. waiting for next-gen.",
+      "format": "listicle",
+      "est_words": 650,
+      "headline_options": [
+        "Best MacBook Deals Right Now (November 2026)",
+        "These MacBook Discounts Are Worth Buying This Week"
+      ],
+      "seo_keywords": ["best macbook deals november 2026", "macbook discount"],
+      "sources": [
+        {"title": "These are the best MacBook deals right now: November 2026 Buyer's Guide — 9to5Mac", "url": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/"}
+      ],
+      "notes_for_writer": "Verify current prices directly on Apple/retailer sites before publishing — deal prices change daily."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c09"],
+      "working_title": "Google's Zoom Bug Broke Image Viewing — Here's the Fix",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 57,
+      "why_now": "A widely-hit bug made zooming into images go dark/unusable across Google surfaces including Chrome; Android Authority confirms a fix exists.",
+      "angle": "Fast, practical 'is this happening to you too, here's the fix' piece — the kind of quick-turnaround story that captures same-day search traffic.",
+      "format": "how-to",
+      "est_words": 400,
+      "headline_options": [
+        "Google's Image Zoom Bug Is Breaking Chrome — Here's the Fix",
+        "Why Is Zooming Into Images Broken? Google's Bug, Explained"
+      ],
+      "seo_keywords": ["google zoom bug fix", "chrome image zoom not working"],
+      "sources": [
+        {"title": "Google bug made zooming into images a nightmare, but there's a fix — Android Authority", "url": "https://www.androidauthority.com/google-images-zooming-dark-screen-bug-fix-3730494/"}
+      ],
+      "notes_for_writer": "Confirm the exact fix steps work before publishing; note which Google surfaces are affected (Chrome, Photos, etc.)."
+    }
+  ],
+  "watchlist": [
+    "Binance hack fallout: Bitcoin clawing back toward $79K; Bitcoin ETFs posted $643M in Friday outflows",
+    "THORChain halted swaps after a block reorg bug while trying to slow the Binance hackers",
+    "Scammers are impersonating the Binance hacker, asking strangers to send them bitcoin",
+    "China's first frontier AI export controls (Mofcom Announcement No. 48) — new compliance angle for AI hardware exporters",
+    "OpenAI reportedly considering rebranding its data centers as 'AI compute campuses'"
+  ]
+}
