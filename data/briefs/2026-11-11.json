@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-11",
+  "language": "en",
+  "summary": "AI-heavy day — Anthropic's IPO pricing (Nvidia's $10B investment, $70-78/share, $1.4T implied valuation, founders cashing out) is the unmissable story and takes rank 1, which pushes phone to 6/9 picks (~67%, slightly under the usual 70% target) rather than force-cutting genuinely major non-phone news. On phone: Google shipped Pixel Tag (its $30 AirTag rival) and a big November Pixel Drop, plus Samsung's Gallery/Google storage sync and early smart-glasses prep.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c05", "c17", "c52"],
+      "working_title": "Anthropic Prices Its IPO at $70-78/Share, Targeting a $1.4 Trillion Valuation",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 86,
+      "why_now": "Multiple outlets (TechCrunch, The Decoder, Techmeme citing NYT/The Information) confirmed the IPO price range, Nvidia's ~$10B planned investment, each founder cashing out ~$250M, and a further ~$10B Azure/Google Cloud commitment — all within the same day. Memeburn has nothing on the IPO roadshow yet.",
+      "angle": "Pull the roadshow details into one clear explainer: what the $70-78 range and $1.404T valuation actually mean, who's cashing out, and why Nvidia and the cloud giants are doubling down right as Anthropic goes public.",
+      "format": "explainer",
+      "est_words": 750,
+      "headline_options": ["Anthropic Prices Its IPO at $70-78/Share, Targeting a $1.4 Trillion Valuation", "Anthropic's IPO Roadshow, Explained: Nvidia's $10B Bet and a Trillion-Dollar Price Tag"],
+      "seo_keywords": ["anthropic ipo price", "anthropic ipo valuation", "anthropic stock ipo", "nvidia anthropic investment"],
+      "sources": [
+        {"title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion", "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"},
+        {"title": "All 7 Anthropic founders will each cash out about $250M in IPO", "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"},
+        {"title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation", "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"},
+        {"title": "Updated S-1: Anthropic commits ~$10B more to Microsoft Azure and Google Cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't yet plan to", "url": "https://www.techmeme.com/261110/p42#a261110p42"}
+      ],
+      "notes_for_writer": "This is a roadshow price range, not the final IPO price — don't present $70-78 as the confirmed listing price. Watch for the actual pricing/debut in the coming days, which would be a natural same-week follow-up piece."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c01"],
+      "working_title": "Google's Pixel Tag, Its $30 Answer to Apple's AirTag, Is Now Available",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 79,
+      "why_now": "The Verge, TechCrunch and Android Authority (including a hands-on test) all covered the launch within hours; it's a direct, priced, buyable product launch with an obvious AirTag comparison angle.",
+      "angle": "Straight comparison piece: Pixel Tag vs AirTag on price, Android/iOS compatibility, UWB precision finding, and real-world performance per Android Authority's hands-on (it aced downtown but struggled on a trail).",
+      "format": "comparison",
+      "est_words": 650,
+      "headline_options": ["Google's Pixel Tag, Its $30 Answer to Apple's AirTag, Is Now Available", "Pixel Tag vs AirTag: Which $30 Tracker Should You Actually Buy?"],
+      "seo_keywords": ["pixel tag vs airtag", "pixel tag price", "google pixel tag review"],
+      "sources": [
+        {"title": "Google's Pixel Tag tracker is now available", "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding"},
+        {"title": "Pixel Tag, Google's $30 Android-ready answer to Apple's AirTag, is now available", "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"},
+        {"title": "I lost my keys twice to test the Pixel Tag: It aced downtown but struggled on a quiet trail", "url": "https://www.androidauthority.com/google-pixel-tag-hands-on-3733166/"}
+      ],
+      "notes_for_writer": "Cite Android Authority's hands-on performance notes directly rather than claiming performance results of our own."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c04"],
+      "working_title": "Oura Is Buying AI Health Startup Counsel Health for $625M",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 69,
+      "why_now": "The Verge and TechCrunch both confirmed the deal size and terms same-day; Oura is one of the most widely owned wearables in the US, so an AI-health acquisition directly affects a large existing user base.",
+      "angle": "Focus on what current Oura ring owners should actually expect — is AI-driven primary care coming to the Oura app, and on what timeline — rather than just restating the deal terms.",
+      "format": "news",
+      "est_words": 550,
+      "headline_options": ["Oura Is Buying AI Health Startup Counsel Health for $625M", "Why Oura Just Spent $625M on an AI Doctor Startup"],
+      "seo_keywords": ["oura counsel health acquisition", "oura ai health", "oura ring ai doctor"],
+      "sources": [
+        {"title": "Oura is acquiring medical AI chatbot startup Counsel Health", "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"},
+        {"title": "Oura to acquire AI-native primary care startup Counsel Health for $625M", "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"}
+      ],
+      "notes_for_writer": "Don't imply AI medical advice is live in the Oura app today — the acquisition just closed/was announced; check for an integration timeline before stating one."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c55", "c56", "c57", "c58", "c59", "c60"],
+      "working_title": "Everything New in Google's November Pixel Drop",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 67,
+      "why_now": "Android Authority's coverage of the November Pixel Drop spans over a dozen individual features released the same day — strong 'what's new on my Pixel' search intent right as it rolls out.",
+      "angle": "One roundup, led with the feature that affects the most readers (Pixel 11's smarter natural-language Search expanding all the way back to Pixel 6), then a scannable list of the rest (custom icons, Calculator's Pixel Solver, Pixel Watch notification summaries and step-by-step workouts, automatic Transit Mode).",
+      "format": "listicle",
+      "est_words": 700,
+      "headline_options": ["Everything New in Google's November Pixel Drop", "Pixel 11's Smarter Search Is Coming to Every Pixel Since 2021 — Plus 11 More New Features"],
+      "seo_keywords": ["november pixel drop features", "pixel drop 2026", "what's new pixel update"],
+      "sources": [
+        {"title": "Google's November Pixel Drop brings over 12 new features, and Pixel 10 owners are the big winners", "url": "https://www.androidauthority.com/google-pixel-drop-november-2026-all-new-features-3733178/"},
+        {"title": "Pixel 11's better Pixel Search is expanding to every Pixel launched since 2021", "url": "https://www.androidauthority.com/pixel-11-search-natural-language-pixel-6-3733219/"},
+        {"title": "Pixel phones are getting 10 new custom icon styles", "url": "https://www.androidauthority.com/pixel-custom-icon-expansion-3733125/"},
+        {"title": "Pixel's Transit Mode is now automatic, and your daily commutes just got easier", "url": "https://www.androidauthority.com/november-pixel-drop-transit-mode-2-0-3733242/"}
+      ],
+      "notes_for_writer": "Confirm which features are Pixel 10/11-exclusive vs. rolling out to older models before listing device compatibility — Android Authority's pieces flag this per-feature."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c11"],
+      "working_title": "Samsung's Gallery App Now Officially Syncs Photos to Your Google Storage",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "GSMArena and Android Authority both confirm Samsung has officially detailed the feature — a direct 'will this eat my Google storage' question for Galaxy owners.",
+      "angle": "Practical explainer: how the sync works, whether it duplicates Google Photos backups, and what it means for your free 15GB Google storage quota.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["Samsung's Gallery App Now Officially Syncs Photos to Your Google Storage", "Does Samsung's New Gallery Sync Eat Your Google Storage? Here's What to Know"],
+      "seo_keywords": ["samsung gallery google storage sync", "samsung gallery sync setup", "galaxy photos google storage"],
+      "sources": [
+        {"title": "It's official: Samsung Gallery now uses your Google storage to sync your photos and videos", "url": "https://www.androidauthority.com/samsung-gallery-sync-google-storage-3733418/"},
+        {"title": "Samsung officially details Gallery sync with Google storage - GSMArena.com news - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWJpV0NYa040MlZDdHdtQzB5VkpUTmF5WUtkMUctLVczM0JEdzZYM2x3Ulg1ZUZENGZRdGdXNHgzWDl2N0ZoUHFKTm0wekNscHpIcnNFNjdkeEt4cFFfbC1nbzY2dHkwTllpeFNUYWJpaU9pcnNrcll1TjZtTldWSGwwbTcwTEtSQ003b0t2aF8wbFhMT0ZwdlBrNXl0akdI0gGcAUFVX3lxTE5ScGVVbFFzZlJVWmRod0ViUXpqQkRuNXpxZU9iY3RkMVo4Ny1mTFlDMGRkc0ZwN1E5WnNIVGx3Wk04dDJ4SUxIOW1ENFlCUzB0VElGd2wzRlQ2eGNZZ0RnZTU1eWFseDUtVmVGQUhLOWlxTDZNdGZyRHAzeGFCZlRzTlM2RXJyN3Bhd3R6X1dSWDlTbFFOeEhGai1zRQ?oc=5"}
+      ],
+      "notes_for_writer": "Verify whether this is opt-in or default-on, and whether it's separate from or layered on top of Google Photos backup, before publishing setup instructions."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c10"],
+      "working_title": "Citigroup, Goldman Sachs and 19 Other Banks Commit $270M to a Stablecoin Venture",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 63,
+      "why_now": "CoinDesk and Techmeme (citing Bloomberg) confirm a 21-bank consortium has committed ~$270M to fund five years of the stablecoin venture first announced in September — a major TradFi-crypto crossover signal.",
+      "angle": "Explain what this consortium stablecoin is actually for, which major US banks are involved, and why Wall Street is now funding stablecoin infrastructure directly instead of just watching from the sidelines.",
+      "format": "news",
+      "est_words": 550,
+      "headline_options": ["Citigroup, Goldman Sachs and 19 Other Banks Commit $270M to a Stablecoin Venture", "Why Wall Street's Biggest Banks Just Bankrolled a Stablecoin Project"],
+      "seo_keywords": ["bank stablecoin venture", "citigroup goldman sachs stablecoin", "bank consortium stablecoin 2026"],
+      "sources": [
+        {"title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture", "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"},
+        {"title": "Sources: Citigroup, Goldman Sachs, and others in a 21-bank consortium have committed ~$270M to fund five years of a stablecoin venture announced in September", "url": "https://www.techmeme.com/261110/p41#a261110p41"}
+      ],
+      "notes_for_writer": "Sourced to unnamed people familiar with the matter per Bloomberg — attribute accordingly, not as an on-record bank confirmation."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c42"],
+      "working_title": "Samsung Is Prepping Its Galaxy Wearable App Ahead of a Smart Glasses Debut",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 61,
+      "why_now": "Android Authority spotted Samsung readying its Galaxy Wearable app for smart glasses support — an early signal ahead of an anticipated product category launch, worth getting in front of rather than waiting to react.",
+      "angle": "Frame as an early-look/anticipation piece: what app-level prep like this usually signals about launch timing, and how Samsung's approach compares to Meta's Ray-Ban glasses and Google's Android XR push.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["Samsung Is Prepping Its Galaxy Wearable App Ahead of a Smart Glasses Debut", "Samsung's Smart Glasses Are Coming — Here's the Clue Hiding in a Recent App Update"],
+      "seo_keywords": ["samsung smart glasses", "samsung galaxy wearable app update", "samsung smart glasses release date"],
+      "sources": [
+        {"title": "Samsung is getting its Galaxy Wearable app ready for its smart glasses debut", "url": "https://www.androidauthority.com/samsung-prepares-wearable-app-for-smart-glasses-3733581/"}
+      ],
+      "notes_for_writer": "No confirmed launch date exists yet — don't speculate on a specific release date beyond what Android Authority reports; frame clearly as an early signal, not a launch announcement."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c24"],
+      "working_title": "Google Details Everything New in Android 17 QPR2",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "Android Authority has Google's full rundown of the Android 17 QPR2 stable release, a direct 'what's new, how do I get it' moment for the broad Android installed base.",
+      "angle": "Scannable breakdown of the most noticeable changes, plus how/when to get the update.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["Google Details Everything New in Android 17 QPR2", "Android 17 QPR2 Is Rolling Out — Here's What's New"],
+      "seo_keywords": ["android 17 qpr2 features", "android 17 qpr2 update", "how to get android 17 qpr2"],
+      "sources": [
+        {"title": "Google details everything new in Android 17 QPR2", "url": "https://www.androidauthority.com/android-17-qpr2-stable-3733645/"}
+      ],
+      "notes_for_writer": "Confirm device eligibility (Pixel-only at first vs. broader OEM rollout) before publishing a 'how to get it' section."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c47"],
+      "working_title": "Apple Just Released New AirPods Pro 3 Firmware",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "9to5Mac reports Apple quietly shipped new firmware for AirPods Pro 3 (and AirPods 5) the same day — a quick, actionable update for a very large existing owner base.",
+      "angle": "Quick-hit: what's in the firmware update, how to check your version, and whether it's worth updating now.",
+      "format": "news",
+      "est_words": 350,
+      "headline_options": ["Apple Just Released New AirPods Pro 3 Firmware", "Here's What's New in Apple's Latest AirPods Pro 3 Firmware Update"],
+      "seo_keywords": ["airpods pro 3 firmware update", "how to update airpods firmware", "airpods pro 3 new features"],
+      "sources": [
+        {"title": "Apple just released new AirPods Pro 3 firmware and more", "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/"}
+      ],
+      "notes_for_writer": "Apple rarely publishes detailed firmware changelogs — note clearly if specific fixes/features aren't officially documented."
+    }
+  ],
+  "watchlist": [
+    "ChatGPT is getting verified AI 'Business Agents' (OpenAI) — direct consumer-facing feature, worth a full pick if it gets more pickup.",
+    "SpaceX announces Starlink Mini 2 with a swappable battery, $999 — solid product story, cut today for space.",
+    "Bitcoin slips to an 11-week low ahead of the US CPI inflation report — market-moving, watch for a bigger move to justify a dedicated piece.",
+    "Coinbase, Kalshi and Kraken's parent back the CFTC in a legal fight over stock perpetual futures — regulatory, developing.",
+    "vivo X500 Ultra camera-sensor leak — real GSMArena signal but vivo has no official US retail presence, low US relevance for now."
+  ]
+}

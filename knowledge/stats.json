@@ -1,0 +1,721 @@
+{
+  "generated_at": "2026-11-13T03:34:03.125551+00:00",
+  "source_method": "wp-api",
+  "window_days": 90,
+  "post_count": 1041,
+  "posts_per_day": 11.6,
+  "categories": [
+    [
+      "News",
+      813
+    ],
+    [
+      "Tech News",
+      415
+    ],
+    [
+      "AI News",
+      254
+    ],
+    [
+      "Tech",
+      164
+    ],
+    [
+      "Crypto News",
+      138
+    ],
+    [
+      "AI",
+      36
+    ],
+    [
+      "Crypto",
+      21
+    ],
+    [
+      "Partnered",
+      12
+    ]
+  ],
+  "top_tags": [
+    [
+      "best of",
+      72
+    ],
+    [
+      "tool review",
+      18
+    ],
+    [
+      "ai crypto",
+      16
+    ],
+    [
+      "comparison",
+      15
+    ],
+    [
+      "learn crypto",
+      7
+    ],
+    [
+      "learn tech",
+      5
+    ],
+    [
+      "Artificial Intelligence",
+      4
+    ],
+    [
+      "crypto",
+      2
+    ],
+    [
+      "tech review",
+      1
+    ]
+  ],
+  "authors": [
+    [
+      "Vincee Cole",
+      450
+    ],
+    [
+      "Marko Nguyen",
+      417
+    ],
+    [
+      "Temaz Tra",
+      38
+    ],
+    [
+      "Jennie Pham",
+      36
+    ],
+    [
+      "Michael Sacchitello",
+      30
+    ],
+    [
+      "Mabel Kenneth",
+      26
+    ],
+    [
+      "Josephine Abiodun",
+      20
+    ],
+    [
+      "Archana Shivkumar",
+      11
+    ],
+    [
+      "Staff Reporter",
+      10
+    ],
+    [
+      "Norris",
+      3
+    ]
+  ],
+  "author_categories": {
+    "Vincee Cole": [
+      [
+        "News",
+        390
+      ],
+      [
+        "Tech News",
+        234
+      ],
+      [
+        "AI News",
+        81
+      ],
+      [
+        "Crypto News",
+        75
+      ],
+      [
+        "Tech",
+        51
+      ]
+    ],
+    "Marko Nguyen": [
+      [
+        "News",
+        339
+      ],
+      [
+        "Tech News",
+        181
+      ],
+      [
+        "AI News",
+        96
+      ],
+      [
+        "Tech",
+        71
+      ],
+      [
+        "Crypto News",
+        63
+      ]
+    ],
+    "Temaz Tra": [
+      [
+        "AI News",
+        38
+      ],
+      [
+        "News",
+        38
+      ]
+    ],
+    "Jennie Pham": [
+      [
+        "AI News",
+        36
+      ],
+      [
+        "News",
+        36
+      ]
+    ],
+    "Michael Sacchitello": [
+      [
+        "Tech",
+        18
+      ],
+      [
+        "Crypto",
+        7
+      ],
+      [
+        "AI",
+        5
+      ]
+    ],
+    "Mabel Kenneth": [
+      [
+        "Tech",
+        11
+      ],
+      [
+        "Crypto",
+        9
+      ],
+      [
+        "AI",
+        6
+      ]
+    ],
+    "Josephine Abiodun": [
+      [
+        "AI",
+        11
+      ],
+      [
+        "Tech",
+        8
+      ],
+      [
+        "Crypto",
+        1
+      ]
+    ],
+    "Archana Shivkumar": [
+      [
+        "Tech",
+        5
+      ],
+      [
+        "AI",
+        4
+      ],
+      [
+        "Crypto",
+        2
+      ]
+    ],
+    "Staff Reporter": [
+      [
+        "News",
+        10
+      ],
+      [
+        "Partnered",
+        7
+      ],
+      [
+        "AI News",
+        3
+      ]
+    ],
+    "Norris": [
+      [
+        "Partnered",
+        3
+      ]
+    ]
+  },
+  "publish_hour_local": [
+    [
+      0,
+      69
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      2,
+      21
+    ],
+    [
+      3,
+      62
+    ],
+    [
+      4,
+      92
+    ],
+    [
+      5,
+      31
+    ],
+    [
+      6,
+      23
+    ],
+    [
+      7,
+      65
+    ],
+    [
+      8,
+      79
+    ],
+    [
+      9,
+      14
+    ],
+    [
+      10,
+      19
+    ],
+    [
+      11,
+      64
+    ],
+    [
+      12,
+      68
+    ],
+    [
+      13,
+      19
+    ],
+    [
+      14,
+      23
+    ],
+    [
+      15,
+      81
+    ],
+    [
+      16,
+      71
+    ],
+    [
+      17,
+      27
+    ],
+    [
+      18,
+      29
+    ],
+    [
+      19,
+      56
+    ],
+    [
+      20,
+      58
+    ],
+    [
+      21,
+      28
+    ],
+    [
+      22,
+      11
+    ],
+    [
+      23,
+      22
+    ]
+  ],
+  "publish_weekday": [
+    [
+      "Thu",
+      164
+    ],
+    [
+      "Sat",
+      152
+    ],
+    [
+      "Wed",
+      150
+    ],
+    [
+      "Sun",
+      149
+    ],
+    [
+      "Mon",
+      144
+    ],
+    [
+      "Fri",
+      142
+    ],
+    [
+      "Tue",
+      140
+    ]
+  ],
+  "word_count": {
+    "median": 1442,
+    "p25": 1221.0,
+    "p75": 1735.5
+  },
+  "avg_h2": 7.3,
+  "avg_images": 5.1,
+  "headline": {
+    "median_chars": 71,
+    "patterns": [
+      [
+        "straight-news",
+        469
+      ],
+      [
+        "colon/split",
+        399
+      ],
+      [
+        "price/launch",
+        191
+      ],
+      [
+        "comparison",
+        140
+      ],
+      [
+        "question",
+        133
+      ],
+      [
+        "number/listicle",
+        48
+      ],
+      [
+        "how-to",
+        18
+      ],
+      [
+        "sa-localised",
+        6
+      ]
+    ]
+  },
+  "top_outbound_sources": [
+    [
+      "amzn.to",
+      353
+    ],
+    [
+      "x.com",
+      123
+    ],
+    [
+      "gsmarena.com",
+      94
+    ],
+    [
+      "link.amazon",
+      48
+    ],
+    [
+      "notebookcheck.net",
+      41
+    ],
+    [
+      "apple.com",
+      37
+    ],
+    [
+      "t.co",
+      37
+    ],
+    [
+      "gizmochina.com",
+      34
+    ],
+    [
+      "openai.com",
+      30
+    ],
+    [
+      "techcrunch.com",
+      30
+    ],
+    [
+      "coindesk.com",
+      29
+    ],
+    [
+      "macrumors.com",
+      28
+    ],
+    [
+      "91mobiles.com",
+      27
+    ],
+    [
+      "tomsguide.com",
+      26
+    ],
+    [
+      "androidauthority.com",
+      26
+    ],
+    [
+      "finance.yahoo.com",
+      26
+    ],
+    [
+      "anthropic.com",
+      25
+    ],
+    [
+      "news.samsung.com",
+      23
+    ],
+    [
+      "blog.google",
+      22
+    ],
+    [
+      "reuters.com",
+      22
+    ],
+    [
+      "cnbc.com",
+      22
+    ],
+    [
+      "fortune.com",
+      20
+    ],
+    [
+      "techradar.com",
+      20
+    ],
+    [
+      "theblock.co",
+      19
+    ],
+    [
+      "cryptobriefing.com",
+      19
+    ],
+    [
+      "9to5google.com",
+      18
+    ],
+    [
+      "sec.gov",
+      17
+    ],
+    [
+      "androidcentral.com",
+      17
+    ],
+    [
+      "forbes.com",
+      17
+    ],
+    [
+      "github.com",
+      16
+    ],
+    [
+      "samsung.com",
+      15
+    ],
+    [
+      "nftplazas.com",
+      15
+    ],
+    [
+      "support.apple.com",
+      14
+    ],
+    [
+      "axios.com",
+      14
+    ],
+    [
+      "mi.com",
+      13
+    ],
+    [
+      "sammobile.com",
+      13
+    ],
+    [
+      "amazon.com",
+      12
+    ],
+    [
+      "ithome.com",
+      12
+    ],
+    [
+      "decrypt.co",
+      12
+    ],
+    [
+      "claude.com",
+      11
+    ]
+  ],
+  "sample_headlines": [
+    "Claude Fable 5.2 vs Fable 5.1: Which Tasks Got Better, and Which Claude Model to Use for Each",
+    "The OnePlus 17 May Go Wide for Gaming. A Wider Screen Makes Games Bigger, but Not Always Wider",
+    "Ethereum Could Succeed Without Burning More ETH. Vitalik Makes His Case",
+    "Xiaomi 18 Pro vs Xiaomi 17 Pro: Is the Upgrade Worth It?",
+    "Anthropic’s IPO Price Range Says $1.02 Trillion, $1.3 Trillion or $1.4 Trillion. Which Number Is Real?",
+    "Xiaomi 18 Pro vs POCO F8 Pro: Is the Chinese Flagship Worth $300 More?",
+    "Huawei Just Fit a Foldable PC Into an Envelope. The MateBook Fold S Adds the One Thing the Big Model Lacked",
+    "Xiaomi 18 Pro vs Google Pixel 11: Same $899, Opposite Strengths",
+    "Galaxy A17 5G vs Moto G 2026: Samsung Wins 4 of 7 Rounds, the Moto Packs the Extras",
+    "Xiaomi 18 Pro vs Samsung Galaxy S26: Is Samsung’s Support Worth the Battery You Give Up?",
+    "Realme GT 7T vs Moto G77: The Realme Wins 5 of 7 Rounds, but the Moto Costs Half as Much",
+    "Xiaomi 18 Pro Global vs China: Is the Bigger Battery Worth Importing?",
+    "Will the AI Bubble Burst? I Asked ChatGPT, Claude and Gemini to Predict It",
+    "Jensen Huang Reportedly Hired a Crisis PR Firm a Year Before His Admission",
+    "Galaxy Tab S12+ vs Galaxy Tab S10+: Is Samsung’s Newer Tablet Worth the Premium?",
+    "Nvidia Without Jensen Huang? The 5 Jobs He Does That No One Else at Nvidia Does Today",
+    "Xiaomi Pad 8 Pro vs iPad Air M4: What Actually Makes a Better Tablet in 2026?",
+    "Honor’s 700 Series Puts Your Heart Rate on the Back of the Phone. Here’s What Honor Still Hasn’t Explained",
+    "iQOO 16 vs OnePlus 15: Is Next-Generation Gaming Worth Paying More For?",
+    "Huawei’s OSTA O1 Pro Leak Shows a 6.39-Inch Phone With the Screen of a 6.9-Inch One",
+    "vivo X300 Pro vs Galaxy S25 Ultra 2026: Which Flagship Makes More Sense?",
+    "Realme C100x vs Honor X7d: Realme Lasts Longer, Honor Survives More Drops, and Europe’s Lab Labels Prove Both",
+    "Tecno Pova 8 5G vs Oppo K14 Plus: Oppo’s Price Hike Turned a Tie Into a ₹3,000 Decision",
+    "OnePlus ColorOS 17 November 2026 Schedule: Exact Update Dates",
+    "ColorOS 17 on OnePlus 15: 3 Changes That Matter Before You Update",
+    "What the Midterm Results Mean for Crypto: The Two Committees That Write Its Rules Now Go to Its Toughest Critics",
+    "Apple’s New CEO Is Pushing Siri to Become a Real AI Agent",
+    "Nvidia’s Board Is Investigating Jensen Huang After He Admitted an Affair. The Probe Has to Answer Two Very Different Questions",
+    "iPhone Air 2 Is Coming in Spring 2027. The Leaks Fix 3 of the First Air’s 7 Biggest Problems",
+    "The Xiaomi 18 Just Passed 3C With 100W Charging. Our Timeline Math Puts Its Launch Around Mid-December",
+    "Vivo Y600 vs OnePlus Nord CE6 Lite: Vivo’s 10,000mAh Phone Costs $78 More",
+    "Realme C100i vs Moto G17: The Realme Packs 25% More Battery, the Moto Packs Almost Everything Else",
+    "Black Friday VPN Deals 2026: Why a $2.03 Plan Changes the Three-Year Cost",
+    "AI Shopping Statistics 2026 Across Buyers and Brands",
+    "Black Friday Mini PC Deals 2026: The $511 Windows PC That Changes the $569 Pick",
+    "Best AI Presentation Makers in 2026: 10 Tools Compared, Including the One You Might Already Own",
+    "Best AI Summarizer in 2026: 8 Tools Matched to What You Actually Need to Read",
+    "Black Friday Crypto Deals 2026: 8 Exchange and Wallet Offers",
+    "iOS 27.2 Adds Three iPhone Settings Worth Customizing",
+    "The Last $65.6 Million WLFI Buyback Is Worth About $21 Million Now",
+    "Apple’s DOJ Antitrust Fight Pulls in Epic, Samsung, Oura, and Roblox",
+    "Best AI Tools for Finance in 2026: 9 Picks by Workflow",
+    "Vivo’s Rumored Wide Phone Is Under 6.5 Inches, but It Could Show as Much as a 6.9-Inch Phone",
+    "vivo X300 Ultra vs Galaxy S26 Ultra: Which Camera Phone Earns Its Price?",
+    "Best AI Tools for HR in 2026: 9 Picks for Real HR Work",
+    "Huawei Enjoy 100 Pro vs Pro Max: $30 More Buys 2,700mAh and a Sharper Screen, but Costs You the Better Selfie Camera",
+    "Pixel 11 Pro Fold vs HONOR Magic V5 in 2026: Pay More for Google?",
+    "10 Best Black Friday AI Gadget Deals in 2026: Top Picks",
+    "Best AI Transcription Tools in 2026: 8 Picks by Use Case",
+    "Best AI Tools for Social Media in 2026: 10 Picks for Writing, Scheduling, Clips and Design",
+    "POCO M8 Pro vs realme P4: The Battery Trade-Off Is Bigger Than 500mAh",
+    "Huawei’s OSTA Leak Hints at a Pricier Honor in 2026",
+    "Best AI Detectors in 2026: 10 Tools Ranked by How Rarely They Accuse Real Writers",
+    "Ledger Black Friday Deals 2026: Best Sales and Discounts",
+    "T-Mobile’s Un-Carrier Pledge Meets Higher Fees in 2026",
+    "Your Galaxy Buds Could Become Hearing Aids This Year: Who Qualifies, Which Phones Work and What’s Still Missing",
+    "Apple and Samsung Are the Only Smartphone Chip Winners as Shipments Tumble 21%",
+    "Redmi M100 Pro vs Galaxy A27 5G: Same CPU Cores, Very Different Phones to Own",
+    "Postman AI Plugin Backlash Could Benefit Bruno in 2026",
+    "realme 16 Pro+ vs POCO X8 Pro: Which Extras Are Worth Paying for in 2026?"
+  ],
+  "sample_openings": [
+    {
+      "title": "Claude Fable 5.2 vs Fable 5.1: Which Tasks Got Better, and Which Claude Model to Use for Each",
+      "opening": "Claude Fable 5.2 beats Fable 5.1 on every task Anthropic measured and costs 20% less per token, so if you’re a developer or a Claude subscriber, the real decision is no longer 5.1 or 5.2 but when Fable 5.2 is worth twice the per-token price of Opus 5.5. Anthropic released Fable 5.2 on November 9 alo"
+    },
+    {
+      "title": "The OnePlus 17 May Go Wide for Gaming. A Wider Screen Makes Games Bigger, but Not Always Wider",
+      "opening": "OnePlus’s numbered phones have always followed the tall, narrow shape that nearly every phone uses today. A new leak says the OnePlus 17 could break that pattern. On November 10, 2026 , Weibo tipster Smart Pikachu posted that the OnePlus 17 is among next year’s high-performance wide-screen phones , "
+    },
+    {
+      "title": "Ethereum Could Succeed Without Burning More ETH. Vitalik Makes His Case",
+      "opening": "Ethereum co-founder Vitalik Buterin has challenged one of ETH’s most familiar investment arguments: that transaction-fee burns give the token a reliable valuation floor. In a November 8 post, he argued that Ethereum should prioritize ETH as a store of value, even if burning fees never comes close to"
+    },
+    {
+      "title": "Xiaomi 18 Pro vs Xiaomi 17 Pro: Is the Upgrade Worth It?",
+      "opening": "For most Xiaomi 17 Pro owners, the upgrade to the 18 Pro isn’t worth it, because the new phone adds only 700mAh of battery, swaps the 17 Pro’s 5x periscope for a shorter 3.2x lens, uses a lower-resolution screen and costs 20% more at launch, while owners who unlocked their 17 Pro would give up softw"
+    },
+    {
+      "title": "Anthropic’s IPO Price Range Says $1.02 Trillion, $1.3 Trillion or $1.4 Trillion. Which Number Is Real?",
+      "opening": "How much is Anthropic worth? Depending on which headline you read on November 10, 2026 , the answer was $1.02 trillion , $1.3 trillion or $1.4 trillion . All three come from the same document: an updated filing in which the maker of the Claude AI models set its Anthropic IPO price range at $70 to $7"
+    },
+    {
+      "title": "Xiaomi 18 Pro vs POCO F8 Pro: Is the Chinese Flagship Worth $300 More?",
+      "opening": "The Chinese Xiaomi 18 Pro is worth its roughly $320 premium over the POCO F8 Pro only if cameras are your priority, because its battery lead is just 13%, while the POCO runs Xiaomi’s global software and avoids every China ROM problem that comes with importing the 18 Pro. Both phones come from Xiaomi"
+    },
+    {
+      "title": "Huawei Just Fit a Foldable PC Into an Envelope. The MateBook Fold S Adds the One Thing the Big Model Lacked",
+      "opening": "In a teaser video posted on November 10, 2026 , Huawei consumer chief Richard Yu unfolds the company’s 18-inch foldable laptop, closes it, slides it into a brown paper envelope, and then pulls out something smaller. That smaller device is the Huawei MateBook Fold S , a foldable PC with a 14.7-inch s"
+    },
+    {
+      "title": "Xiaomi 18 Pro vs Google Pixel 11: Same $899, Opposite Strengths",
+      "opening": "The Chinese Xiaomi 18 Pro and the Google Pixel 11 both start at about $899, and they spend that money in opposite directions: Xiaomi puts it into a 7,000mAh battery, 100W charging and two 200MP cameras, while Google puts it into Gemini, seven years of updates and software that works on every US carr"
+    },
+    {
+      "title": "Galaxy A17 5G vs Moto G 2026: Samsung Wins 4 of 7 Rounds, the Moto Packs the Extras",
+      "opening": "The Galaxy A17 5G vs Moto G 2026 fight is screen and support against sound and extras. Samsung gives you a sharper AMOLED display, a stabilized camera, and security updates until 2031, while Motorola gives you stereo speakers, a headphone jack, and a faster-charging battery. Samsung launched the Gal"
+    },
+    {
+      "title": "Xiaomi 18 Pro vs Samsung Galaxy S26: Is Samsung’s Support Worth the Battery You Give Up?",
+      "opening": "On paper, the Chinese Xiaomi 18 Pro beats the Samsung Galaxy S26 on battery, charging and zoom while costing less at list price, but for most American buyers the Galaxy S26 is still the better phone, because it’s the one that works with Android Auto, US carriers and seven years of updates without an"
+    },
+    {
+      "title": "Realme GT 7T vs Moto G77: The Realme Wins 5 of 7 Rounds, but the Moto Costs Half as Much",
+      "opening": "The Realme GT 7T vs Moto G77 fight is a 2025 performance phone against a 2026 mid-ranger. Realme gives you about 3.5 times the benchmark score, 120W charging, and a longer update promise, while Motorola gives you a lighter body, newer software and a much lower price. Realme announced the GT 7T at a "
+    },
+    {
+      "title": "Xiaomi 18 Pro Global vs China: Is the Bigger Battery Worth Importing?",
+      "opening": "For most buyers, the bigger battery in the Chinese Xiaomi 18 Pro series isn’t worth importing, because the extra 1,450mAh on the 18 Pro Max comes with a bootloader you can never unlock, late notifications and no Android Auto, while the global version launches in Paris on November 17. The Chinese mod"
+    },
+    {
+      "title": "Will the AI Bubble Burst? I Asked ChatGPT, Claude and Gemini to Predict It",
+      "opening": "The Nasdaq Composite fell 5.5% on November 5, 2026 , as investors questioned whether the AI infrastructure boom could withstand tighter scrutiny and a slower data-center rollout. Four days later, we gave ChatGPT, Claude and Gemini the same questions about an AI bubble, its possible triggers and the "
+    },
+    {
+      "title": "Jensen Huang Reportedly Hired a Crisis PR Firm a Year Before His Admission",
+      "opening": "Hiring a crisis communications firm isn’t a scandal. Big companies and powerful executives do it all the time. What makes the latest Jensen Huang PR firm report important is the calendar. On November 9, 2026 , Wired reported that Nvidia’s CEO had hired Heller Inc. , a New York firm known for handlin"
+    },
+    {
+      "title": "Galaxy Tab S12+ vs Galaxy Tab S10+: Is Samsung’s Newer Tablet Worth the Premium?",
+      "opening": "The Galaxy Tab S12+ is a substantial performance upgrade over the Galaxy Tab S10+, but it is not an across-the-board replacement for the 2024 tablet. Samsung has increased screen size and battery capacity, reduced weight and moved to a newer flagship processor. At the same time, the older model reta"
+    }
+  ]
+}

@@ -21,9 +21,11 @@ FORMATS = {"news", "explainer", "how-to", "listicle", "comparison", "review-roun
 
 LABELS = {
     "en": {"header": "Memeburn topic picks", "why": "Why now", "angle": "Angle", "headlines": "Headlines",
-           "kw": "Keywords", "src": "Sources", "writer": "Suggested writer", "watch": "Watchlist", "notes": "Note"},
+           "kw": "Keywords", "src": "Sources", "writer": "Suggested writer", "watch": "Watchlist", "notes": "Note",
+           "upcoming": "Upcoming events — prep ahead"},
     "vi": {"header": "Gợi ý topic Memeburn", "why": "Vì sao nên viết ngay", "angle": "Góc viết", "headlines": "Tiêu đề gợi ý",
-           "kw": "Từ khoá", "src": "Nguồn", "writer": "Writer gợi ý", "watch": "Theo dõi thêm", "notes": "Lưu ý"},
+           "kw": "Từ khoá", "src": "Nguồn", "writer": "Writer gợi ý", "watch": "Theo dõi thêm", "notes": "Lưu ý",
+           "upcoming": "Sự kiện sắp tới — nên chuẩn bị bài"},
 }
 
 
@@ -58,6 +60,9 @@ def validate(brief: dict, candidates: dict | None) -> list[str]:
         for s in t.get("sources", []):
             if known_urls and s.get("url") not in known_urls:
                 errs.append(f"{p}: source URL not found in candidates (no invented links): {s.get('url')}")
+    for i, e in enumerate(brief.get("upcoming", []), 1):
+        if not e.get("date") or not e.get("event"):
+            errs.append(f"upcoming #{i}: needs `date` and `event`")
     return errs
 
 
@@ -96,6 +101,11 @@ def build_payload(brief: dict) -> dict:
     ]
     for t in topics[:14]:  # Slack caps a message at 50 blocks
         blocks += topic_blocks(t, L)
+    if brief.get("upcoming"):
+        lines = [f"• *{e['date']}* — {e['event']}" + (f": {e['prep_idea']}" if e.get("prep_idea") else "")
+                 for e in brief["upcoming"][:4]]
+        blocks.append({"type": "section", "text": {"type": "mrkdwn",
+                       "text": (f"📅 *{L['upcoming']}:*\n" + "\n".join(lines))[:2900]}})
     if brief.get("watchlist"):
         blocks.append({"type": "context", "elements": [{"type": "mrkdwn",
                        "text": f"👀 *{L['watch']}:* " + " · ".join(brief["watchlist"])[:2800]}]})

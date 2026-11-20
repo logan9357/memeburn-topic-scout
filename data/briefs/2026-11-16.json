@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-16",
+  "language": "en",
+  "summary": "(reconstructed 2026-11-20 from Slack history — original was never committed to git due to a CI git-add bug; not for re-posting, for outcome-tracking analysis only)",
+  "topics": [
+    {
+      "rank": 1,
+      "category": "tech",
+      "working_title": "ULA's Vulcan rocket fails, destroys 40 Amazon Leo internet satellites",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 84,
+      "format": "news",
+      "est_words": 900,
+      "headline_options": [
+        "Amazon's Starlink Rival Just Lost 40 Satellites in a Rocket Explosion",
+        "ULA's Vulcan Rocket Fails for the First Time, Taking 40 Amazon Satellites With It"
+      ],
+      "seo_keywords": [
+        "vulcan rocket failure",
+        "amazon leo satellites",
+        "ula vulcan explosion",
+        "amazon kuiper vs starlink"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "ai",
+      "working_title": "Jensen Huang comeback push gains steam as Nvidia insiders petition for his return",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 80,
+      "format": "news",
+      "est_words": 1100,
+      "headline_options": [
+        "Nvidia Insiders Petition to Bring Jensen Huang Back -- the White House Isn't So Sure",
+        "115,000 People Want Jensen Huang Back as Nvidia CEO. Trump Suggested Tim Cook Instead."
+      ],
+      "seo_keywords": [
+        "jensen huang nvidia return",
+        "bring jensen back petition",
+        "nvidia ceo replacement",
+        "jensen huang reinstated"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "crypto",
+      "working_title": "Bitcoin crashes to a 4-month low near $62K as the broader crypto selloff deepens",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 79,
+      "format": "explainer",
+      "est_words": 1200,
+      "headline_options": [
+        "Why Is Bitcoin Crashing? Inside the Selloff Dragging Crypto to 4-Month Lows",
+        "Bitcoin Falls to $62K, XRP to a 2-Year Low -- What's Driving Crypto's Worst Week"
+      ],
+      "seo_keywords": [
+        "why is bitcoin crashing",
+        "bitcoin price today",
+        "crypto market selloff",
+        "bitcoin 4 month low",
+        "xrp price crash"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "tech",
+      "working_title": "Apple's first smart glasses: WWDC reveal, Siri AI integration, and a 2026 launch",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 77,
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "Apple's Smart Glasses Are Coming: Here's Everything We Know So Far",
+        "Apple vs. Meta Ray-Bans: How Apple's First Smart Glasses Will Actually Be Different"
+      ],
+      "seo_keywords": [
+        "apple smart glasses release date",
+        "apple glasses vs meta ray-ban",
+        "apple smart glasses price",
+        "apple siri ai glasses"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "tech",
+      "working_title": "Early Black Friday Apple deals: AirPods Pro 3 at $179, Apple Watch Series 12 lowest-ever",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 73,
+      "format": "listicle",
+      "est_words": 900,
+      "headline_options": [
+        "Black Friday Came Early: AirPods Pro 3 Are $70 Off Right Now",
+        "The Best Early Black Friday Apple Deals You Can Already Get (AirPods, Watch, MacBook Air)"
+      ],
+      "seo_keywords": [
+        "airpods pro 3 black friday deal",
+        "apple watch series 12 deal",
+        "early black friday apple deals 2026",
+        "macbook air black friday"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "ai",
+      "working_title": "Anthropic's IPO is reportedly 7x oversubscribed, seeking up to $90.4B",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "format": "news",
+      "est_words": 1000,
+      "headline_options": [
+        "Anthropic's IPO Is Reportedly 7x Oversubscribed -- Here's What That Means",
+        "Anthropic Seeks Up to $90.4B in What Could Be the Biggest Tech IPO Ever"
+      ],
+      "seo_keywords": [
+        "anthropic ipo",
+        "anthropic ipo price",
+        "claude ipo",
+        "biggest tech ipo 2026"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "phone",
+      "working_title": "Samsung is killing Quick Measure and AR Doodle in December -- here's what to do",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 66,
+      "format": "how-to",
+      "est_words": 900,
+      "headline_options": [
+        "Samsung Is Discontinuing These Galaxy Apps in December -- Download Them Now",
+        "Your Galaxy Phone Is Losing Quick Measure and AR Doodle Soon. Here's What to Do"
+      ],
+      "seo_keywords": [
+        "samsung quick measure discontinued",
+        "samsung ar doodle shutting down",
+        "galaxy apps discontinued december 2026"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "phone",
+      "working_title": "Apple reportedly testing Face ID for iPhone Duo 2's outer display",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "format": "news",
+      "est_words": 800,
+      "headline_options": [
+        "iPhone Duo 2 May Finally Get Face ID on Its Outer Display",
+        "Apple Is Reportedly Testing Face ID for the iPhone Duo 2 -- but It Might Not Ship"
+      ],
+      "seo_keywords": [
+        "iphone duo 2 face id",
+        "iphone duo 2 rumors",
+        "iphone duo 2 features"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "category": "ai",
+      "working_title": "Anthropic's Claude Fable 5.2 doesn't generate images -- it paints them stroke by stroke",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 63,
+      "format": "explainer",
+      "est_words": 1200,
+      "headline_options": [
+        "This AI Doesn't Generate Images -- It Paints Them, One Brushstroke at a Time",
+        "Claude Fable 5.2's Weirdest Feature: It Can't Undo a Single Brushstroke"
+      ],
+      "seo_keywords": [
+        "claude fable 5.2 image generation",
+        "ai that paints images",
+        "anthropic ai art brushstrokes"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "category": "tech",
+      "working_title": "Wi-Fi 8 isn't about speed -- it's trying to fix dead zones and dropped connections",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 60,
+      "format": "explainer",
+      "est_words": 1100,
+      "headline_options": [
+        "What Is Wi-Fi 8? The New Standard That's Not About Speed",
+        "Wi-Fi 8 Won't Make Your Internet Faster -- It'll Make It Actually Reliable"
+      ],
+      "seo_keywords": [
+        "what is wifi 8",
+        "wifi 8 release date",
+        "wifi 8 vs wifi 7"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    }
+  ]
+}

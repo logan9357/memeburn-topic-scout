@@ -1,0 +1,343 @@
+{
+  "date": "2026-11-15",
+  "language": "en",
+  "summary": "(reconstructed 2026-11-20 from Slack history — original was never committed to git due to a CI git-add bug; not for re-posting, for outcome-tracking analysis only)",
+  "topics": [
+    {
+      "rank": 1,
+      "category": "ai",
+      "working_title": "Jensen Huang resigns as Nvidia CEO amid scandal with national-security overtones",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 92,
+      "format": "news",
+      "est_words": 1000,
+      "headline_options": [
+        "Jensen Huang resigns as Nvidia CEO: what happens next",
+        "Nvidia without Jensen Huang: interim CEO, reinstatement petition, and what's at stake",
+        "Why Jensen Huang's Nvidia exit is bigger than the scandal"
+      ],
+      "seo_keywords": [
+        "jensen huang resigns",
+        "nvidia ceo resigns",
+        "jensen huang nvidia news",
+        "who is nvidia's interim ceo"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "ai",
+      "working_title": "OpenAI launches ChatGPT Wallet, letting its AI agents shop and pay for you",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 84,
+      "format": "explainer",
+      "est_words": 900,
+      "headline_options": [
+        "ChatGPT Wallet: what it is and who can use it right now",
+        "OpenAI's ChatGPT Wallet lets AI agents shop for you — here's how it actually works",
+        "Should you let ChatGPT's AI agent hold your card details?"
+      ],
+      "seo_keywords": [
+        "chatgpt wallet",
+        "chatgpt wallet how it works",
+        "chatgpt wallet who can use it",
+        "openai ai agent shopping"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "tech",
+      "working_title": "What actually caused Friday's nationwide FAA ground stop",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 81,
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": [
+        "What caused the FAA's nationwide ground stop? Here's what we know",
+        "A faulty router grounded every US flight — here's what actually happened",
+        "Was AI behind the FAA ground stop? Officials say no"
+      ],
+      "seo_keywords": [
+        "faa ground stop",
+        "why were flights grounded",
+        "faa ground stop cause",
+        "sean duffy faa outage"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "tech",
+      "working_title": "SpaceX catches Starship for the first time, ending Flight 15",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 78,
+      "format": "news",
+      "est_words": 450,
+      "headline_options": [
+        "SpaceX catches Starship for the first time in Flight 15",
+        "Watch SpaceX's Starship get caught by its launch tower — a first"
+      ],
+      "seo_keywords": [
+        "spacex starship catch",
+        "starship flight 15",
+        "spacex chopstick catch"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "crypto",
+      "working_title": "Bitcoin falls to a 3-month low as US ETFs keep bleeding money",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 76,
+      "format": "news",
+      "est_words": 600,
+      "headline_options": [
+        "Why is Bitcoin crashing? It just hit a 3-month low",
+        "Bitcoin ETFs keep bleeding money as price falls below $64K",
+        "Bitcoin's 'fourth capitulation wave', explained"
+      ],
+      "seo_keywords": [
+        "why is bitcoin crashing",
+        "bitcoin price today",
+        "bitcoin etf outflows",
+        "bitcoin 3 month low"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "tech",
+      "working_title": "Tesla opens Cybercab 'personal use' pre-orders — but read the fine print",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 72,
+      "format": "news",
+      "est_words": 600,
+      "headline_options": [
+        "Tesla's Cybercab 'personal use' pre-orders come with major fine print",
+        "You can now buy a Tesla Cybercab for personal use — if you read this first",
+        "Tesla Cybercab costs $29,990 plus $299/month — here's what that gets you"
+      ],
+      "seo_keywords": [
+        "tesla cybercab personal use",
+        "tesla cybercab price",
+        "tesla cybercab subscription fee",
+        "tesla cybercab pre-order"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "ai",
+      "working_title": "Why GPU prices never came down: Nvidia's financing deals, explained",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 68,
+      "format": "explainer",
+      "est_words": 1000,
+      "headline_options": [
+        "Why are GPU prices still so high? Blame Nvidia's financing deals",
+        "Nvidia's circular GPU financing, explained",
+        "The GPU-pricing story behind Jensen Huang's exit"
+      ],
+      "seo_keywords": [
+        "why are gpu prices so high",
+        "nvidia gpu prices explained",
+        "nvidia circular financing"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "phone",
+      "working_title": "Motorola Signature 27 vs. Samsung Galaxy S25+: which should you buy?",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 64,
+      "format": "comparison",
+      "est_words": 900,
+      "headline_options": [
+        "Motorola Signature 27 vs. Samsung Galaxy S25+: full comparison",
+        "Should you buy the Motorola Signature 27 or the Galaxy S25+?"
+      ],
+      "seo_keywords": [
+        "motorola signature 27 vs galaxy s25+",
+        "motorola signature 27 review",
+        "galaxy s25+ comparison"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "category": "tech",
+      "working_title": "The best early Black Friday tech deals so far",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 61,
+      "format": "listicle",
+      "est_words": 700,
+      "headline_options": [
+        "The best early Black Friday tech deals you can get right now",
+        "Early Black Friday 2026: AirPods, MacBook Air, AirTag deals worth grabbing"
+      ],
+      "seo_keywords": [
+        "best black friday tech deals 2026",
+        "early black friday deals",
+        "black friday airpods deal",
+        "black friday macbook air deal"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "category": "phone",
+      "working_title": "9 iPhone Duo settings worth changing right now",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 59,
+      "format": "how-to",
+      "est_words": 700,
+      "headline_options": [
+        "9 iPhone Duo settings that make it way easier to use",
+        "Got an iPhone Duo? Change these settings first"
+      ],
+      "seo_keywords": [
+        "iphone duo settings",
+        "iphone duo tips",
+        "ios 27 camera feature"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "category": "ai",
+      "working_title": "Anthropic says your old Claude prompting habits are slowing you down",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 57,
+      "format": "how-to",
+      "est_words": 600,
+      "headline_options": [
+        "Stop saying 'think hard' to Claude — here's what to do instead",
+        "Claude Opus 5.5 prompting tips, straight from Anthropic"
+      ],
+      "seo_keywords": [
+        "claude opus 5.5 prompting tips",
+        "how to prompt claude better",
+        "claude opus 5.5 default"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "category": "phone",
+      "working_title": "The hidden Android menu that shows what's draining your battery",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 55,
+      "format": "how-to",
+      "est_words": 450,
+      "headline_options": [
+        "This hidden Android menu shows exactly what's running on your phone",
+        "How to check which apps are secretly draining your Android battery"
+      ],
+      "seo_keywords": [
+        "android running services menu",
+        "what's draining my android battery",
+        "hidden android settings"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    }
+  ]
+}

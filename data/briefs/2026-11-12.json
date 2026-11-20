@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-12",
+  "language": "en",
+  "summary": "The Jensen Huang saga escalates sharply — Nvidia's board is reportedly preparing to oust him and Congress wants him to answer for an alleged Chinese spy affair, a genuine new development since Memeburn's Nov 8 piece on the board's investigation. United Airlines banning AI booking agents and OKX/ICE's Nov 23 tokenized-stock launch round out the non-phone side. Phone comes in at 6/9 (~67%), led by a real, practical iPhone security warning from Binance.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c03"],
+      "working_title": "Nvidia's Board Is Reportedly Preparing to Oust Jensen Huang",
+      "category": "ai",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 88,
+      "why_now": "WSJ (via HN), The Verge, TechCrunch, Techmeme and Cointelegraph all report the board is preparing to remove Huang and could meet as soon as Wednesday; Congress now wants to question him over an alleged Chinese-spy affair. This is a material escalation beyond Memeburn's Nov 8 piece on the board merely investigating the affair — say explicitly that this is the new 'ouster' development, not a rehash.",
+      "angle": "Update, don't repeat: lead with what's new (ouster preparations + Congressional interest), link back to the original affair/investigation piece for context, and avoid treating unconfirmed 'preparing to oust' reporting as a done deal.",
+      "format": "news",
+      "est_words": 700,
+      "headline_options": ["Nvidia's Board Is Reportedly Preparing to Oust Jensen Huang", "Jensen Huang Could Be Out as Nvidia CEO — Here's What's New"],
+      "seo_keywords": ["jensen huang fired", "nvidia ceo ouster", "jensen huang nvidia news", "nvidia board jensen huang"],
+      "sources": [
+        {"title": "Nvidia is reportedly preparing to fire Jensen Huang", "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"},
+        {"title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair", "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"},
+        {"title": "Sources: Nvidia's board is preparing to oust Jensen Huang; it plans to meet as soon as Wednesday", "url": "https://www.techmeme.com/261111/p44#a261111p44"},
+        {"title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ", "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "All reporting is sourced to unnamed people familiar with the matter (via WSJ) — hedge language throughout ('reportedly', 'preparing to'), and link back to Memeburn's Nov 8 investigation piece for readers catching up. Watch for the board meeting outcome as a fast-follow."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c01"],
+      "working_title": "United Airlines Bans AI Agents From Booking Your Flights",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 77,
+      "why_now": "CBS News, Techmeme and The Verge all confirmed the policy same-day, citing data-privacy concerns — a direct, practical 'can I still use my AI assistant to book flights' question for travelers.",
+      "angle": "Explain exactly what's banned (autonomous AI agents booking on a traveler's behalf) vs. what still works (a person using AI to research, then booking themselves), and why United cites data privacy as the reason.",
+      "format": "explainer",
+      "est_words": 550,
+      "headline_options": ["United Airlines Bans AI Agents From Booking Your Flights", "Can You Still Use AI to Book a United Flight? Here's the New Rule"],
+      "seo_keywords": ["united airlines ai agent ban", "can ai book flights", "united airlines ai booking policy"],
+      "sources": [
+        {"title": "United Airlines bans AI agents from booking flights on behalf of travelers", "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"},
+        {"title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy", "url": "https://www.techmeme.com/261111/p39#a261111p39"},
+        {"title": "United won't let your AI agent book your flight", "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"}
+      ],
+      "notes_for_writer": "Check whether other major US airlines (Delta, American) have similar policies for a useful comparison angle."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c05"],
+      "working_title": "OKX and ICE's Tokenized-Stock Venue Launches Nov 23 — Despite Pushback From 56 of 62 Companies Targeted",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 73,
+      "why_now": "Bloomberg (via Techmeme) and Cointelegraph confirm OKXICE is moving ahead with its US tokenized-stock venue for November 23, listing 70+ assets, even though most of the companies it targeted for listing objected.",
+      "angle": "Set up the Nov 23 launch date clearly (anticipated-launch angle), explain what a 'tokenized stock' actually is for a crypto-curious reader, and flag the company pushback as the real tension to watch.",
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": ["OKX and ICE's Tokenized-Stock Venue Launches Nov 23 — Despite Pushback From Most Companies Targeted", "What Is OKXICE's Tokenized Stock Venture, and Why Are Companies Pushing Back?"],
+      "seo_keywords": ["okxice tokenized stocks", "okx ice tokenized stock launch", "tokenized stocks november 23"],
+      "sources": [
+        {"title": "OKX and ICE's joint venture OKXICE plans to launch a US tokenized stock venue on November 23 and list 70+ assets; 56 of the 62 companies it targeted objected", "url": "https://www.techmeme.com/261111/p42#a261111p42"},
+        {"title": "OKXICE moves ahead with tokenized stocks as blue chips push back", "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "Good candidate for a short follow-up piece around Nov 23 itself once the launch actually happens (or doesn't)."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c27"],
+      "working_title": "Binance Warns iPhone Crypto Holders of an Unpatched Security Flaw",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 66,
+      "why_now": "9to5Mac reports Binance has warned iPhone users holding crypto about a security flaw that researchers say remains unpatched — a direct 'is my crypto safe' question for a large overlapping audience of iPhone and crypto users.",
+      "angle": "Fast, factual, practical: what the flaw actually is, which apps/wallets are affected, and what iPhone crypto holders should do right now while it's unpatched.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": ["Binance Warns iPhone Crypto Holders of an Unpatched Security Flaw", "Is Your iPhone Crypto Wallet at Risk? What Binance's New Warning Means"],
+      "seo_keywords": ["binance iphone security flaw", "iphone crypto wallet vulnerability", "is my iphone crypto safe"],
+      "sources": [
+        {"title": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched", "url": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/"}
+      ],
+      "notes_for_writer": "Single-sourced so far — verify with Apple's own security advisories or the named researchers directly before publishing specifics about exploitability."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c23"],
+      "working_title": "Rumor: Samsung and Apple Are Both Working on Bigger Wide Foldables",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "GSMArena reports fresh rumors that both Samsung and Apple are independently developing larger wide-foldable form factors — a direct head-to-head comparison angle as foldables go mainstream.",
+      "angle": "Frame as a 'who gets there first and why it matters' comparison: Samsung's foldable head start vs. Apple's expected entry, and what 'bigger wide foldable' likely means for usability.",
+      "format": "comparison",
+      "est_words": 550,
+      "headline_options": ["Rumor: Samsung and Apple Are Both Working on Bigger Wide Foldables", "Samsung vs. Apple: The Race for a Bigger Foldable Phone Is On"],
+      "seo_keywords": ["samsung apple wide foldable", "apple foldable iphone rumor", "samsung foldable 2027"],
+      "sources": [
+        {"title": "Samsung and Apple are both working on bigger wide foldables, new rumor claims - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnZUTW9uRjRYU2xQX2hWWGx1dEFBc213a1hKTk0wWXIzQnNHMzZXZzBXRkVLNmFhS0pwdV84WDBaVmNYeGNtb1dNOEFzVDNFTGllM2VBc19WenBvTjBPQ0JZYWloemM0WkdBSURSMzVWT0R6eGtpd1VKOVJQMHpTOHRkQ3FiQTh5NWdybFBlRHh3U0VLbkdFbkZkM3FvQ05JcF9LOXpENm5OSEtSVkpHN0hQOHZLSjA?oc=5"}
+      ],
+      "notes_for_writer": "Single-source rumor — hedge clearly ('rumored', 'claims'), no specific launch dates exist yet."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c24"],
+      "working_title": "iPhone Duo One Week Later: Is It the Future, or Not for Everyone?",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 63,
+      "why_now": "9to5Mac's own week-later usage piece gives real-world verdict data right as early iPhone Duo buyers are deciding whether to keep it — strong 'should I buy this' search intent.",
+      "angle": "Pull out the concrete pros/cons from the hands-on rather than just summarizing the reviewer's opinion — who it's actually for (and who should skip it).",
+      "format": "review-roundup",
+      "est_words": 600,
+      "headline_options": ["iPhone Duo One Week Later: Is It the Future, or Not for Everyone?", "We Waited a Week to Judge the iPhone Duo — Here's the Verdict"],
+      "seo_keywords": ["iphone duo review", "is iphone duo worth it", "iphone duo one week later"],
+      "sources": [
+        {"title": "iPhone Duo one week later: The future, or not for me?", "url": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/"}
+      ],
+      "notes_for_writer": "This is one reviewer's personal take — frame it as such rather than a definitive verdict, and note Samsung's recent dig at the Duo's sidebar as a quick aside if space allows."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c50"],
+      "working_title": "Samsung Is Reportedly Working on a Phone With an Expandable Display",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "GSMArena reports an early rumor of a Samsung phone with an expandable (not foldable) display — a genuinely novel form factor worth flagging early.",
+      "angle": "Explain clearly how 'expandable' differs from 'foldable' displays, and why this would be a new form factor rather than just another Fold variant.",
+      "format": "explainer",
+      "est_words": 450,
+      "headline_options": ["Samsung Is Reportedly Working on a Phone With an Expandable Display", "Forget Foldables: Samsung May Be Building an Expandable-Screen Phone"],
+      "seo_keywords": ["samsung expandable display phone", "samsung rollable phone rumor", "samsung new phone form factor"],
+      "sources": [
+        {"title": "Samsung reportedly working on a phone with an expandable display - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOazk0RnBvbl9ydVVRdmozVnJFUE42MHBYSTROb2hob2xzWDRmeUJxWUJ0Z2lSNUNFV1VzTjB2V0hYdjNaZWJUYndRTW85ZGhHakw1cnlpdW9MUEFGRnB3dkg2aGdqajFWNlpsZHFhLTdObDdmaW1qWWxLaWphQUZjUmpvWUtHS09qUjBYdHFFMjZ6a2RHMERibkF4MEhXVEhTd1BXU0JmMA?oc=5"}
+      ],
+      "notes_for_writer": "Very early-stage rumor, single source — don't speculate on launch timing or pricing beyond what's reported."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c55"],
+      "working_title": "First Look: Nothing's Upcoming Screenless AI-Native Device",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 57,
+      "why_now": "GSMArena has an early look at Nothing's rumored screenless AI-native device — an anticipated-launch angle worth getting ahead of, following the same pattern as Humane's AI Pin and Rabbit's R1.",
+      "angle": "Position it honestly in the 'screenless AI gadget' lineage (Humane, Rabbit) and what Nothing might do differently given its phone-hardware track record, rather than overselling an early leak as a confirmed product.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["First Look: Nothing's Upcoming Screenless AI-Native Device", "Is Nothing About to Try Its Own Humane AI Pin?"],
+      "seo_keywords": ["nothing screenless ai device", "nothing ai gadget leak", "nothing company new device"],
+      "sources": [
+        {"title": "Here's your first look at Nothing's upcoming screenless AI-native device - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWh4LUxiU3BmTmRwTTZrbFFNN3hmOFRObDZvX3pFbGdfVXExVkpkWURyOUtEOFI0N2JXV0EyYjYyc2VmZGxmNC1LbEpLRjBiUHhEVWFsWFRZcTJhbGlhaVhoR3p1bFlqQUNBUjhYY3BFYXNjZzJaeUNKcElXZFlEdVBPZVNtdlpoTjdMbUZzYmVUN1E2WnpmbGVVRGNFM1JiRWd6UGFtSGQ2Q2FCQnfSAaoBQVVfeXFMTWlzN2ZNM2RRQloyNTJKaVpwcmxGUnJmV05SWjlmbWFLRFFYOGdMSTlSZE5sWlRoa1VNUlZjODlaWDNVdTcyR3BPZEtBRDFqcXVYYTF3X0ROVHluOFhiVFBLU2hlaDdFTWJrakZWQmtpQjVmQ1hDRkdTVEhERE5aVTZLWFRBcnNXQ0VseWJkRDNIR0FsVnR0c3NtN0tFNUt5ZXJJSWRmdEJWYUE?oc=5"}
+      ],
+      "notes_for_writer": "Very early leak — treat as speculative, no confirmed name, price, or release date yet."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c40"],
+      "working_title": "iCloud+ Has a New Perk in iOS 27 if You Pay for More Storage",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "9to5Mac flags a new iCloud+ perk tied to higher storage tiers in iOS 27 — a quick, actionable update for existing iCloud+ subscribers.",
+      "angle": "Quick-hit: what the new perk is, which storage tier unlocks it, and whether it's worth upgrading your plan for.",
+      "format": "news",
+      "est_words": 350,
+      "headline_options": ["iCloud+ Has a New Perk in iOS 27 if You Pay for More Storage", "Should You Upgrade Your iCloud+ Plan for This New iOS 27 Perk?"],
+      "seo_keywords": ["icloud+ new perk ios 27", "icloud+ storage tiers", "ios 27 icloud features"],
+      "sources": [
+        {"title": "iCloud+ has new perk in iOS 27 if you pay for more storage", "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/"}
+      ],
+      "notes_for_writer": "Confirm the exact storage tier/price threshold required before publishing a specific upgrade recommendation."
+    }
+  ],
+  "watchlist": [
+    "OpenAI's quarterly revenue reportedly crosses $10B for the first time — good business follow-up to the Anthropic IPO coverage, cut today for space.",
+    "Google brings the standalone Gemini app and Gemini Live to Apple CarPlay — solid consumer AI story, cut today for space.",
+    "Samsung takes a jab at iPhone Duo's sidebar — minor marketing banter, folded as an aside into the iPhone Duo pick (rank 6) instead of standalone.",
+    "Kraken's xStocks adds 200 UK and EU shares, tops $1.1B in assets — real signal but low US relevance right now.",
+    "Apple reportedly met with Thai officials over spyware alerts sent to politicians — serious security/political story, developing, worth a follow if more details emerge."
+  ]
+}

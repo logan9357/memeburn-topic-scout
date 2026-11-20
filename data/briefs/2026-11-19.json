@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-19",
+  "language": "en",
+  "summary": "(reconstructed 2026-11-20 from Slack history — original was never committed to git due to a CI git-add bug; not for re-posting, for outcome-tracking analysis only)",
+  "topics": [
+    {
+      "rank": 1,
+      "category": "ai",
+      "working_title": "Anthropic prices IPO at $83 a share, valuing Claude's maker at $1.5 trillion",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 85,
+      "format": "news",
+      "est_words": 700,
+      "headline_options": [
+        "Anthropic prices IPO at $83 a share, now worth $1.5 trillion",
+        "Claude's maker Anthropic just had one of the biggest tech IPOs ever — here's what that means"
+      ],
+      "seo_keywords": [
+        "anthropic ipo price",
+        "anthropic stock",
+        "anthropic valuation",
+        "claude ai ipo"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "phone",
+      "working_title": "iPhone 18, iPhone Air 2, and the 20th-anniversary iPhone Pro: every 2027 leak so far",
+      "urgency": "evergreen",
+      "traffic_potential": "high",
+      "score": 80,
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "Every iPhone 18, iPhone Air 2, and 20th-anniversary iPhone leak so far",
+        "iPhone 2027: what every leak says about Apple's next lineup"
+      ],
+      "seo_keywords": [
+        "iphone 18 release date",
+        "iphone air 2",
+        "iphone 20th anniversary",
+        "iphone duo 2"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "ai",
+      "working_title": "Google launches Gemini 4 Neon, its fourth new Gemini model in a month",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 77,
+      "format": "news",
+      "est_words": 700,
+      "headline_options": [
+        "Google's Gemini 4 Neon is here — here's how it compares to Carbon and Hydrogen",
+        "Gemini 4 Neon: price, speed, and where you can use it today"
+      ],
+      "seo_keywords": [
+        "gemini 4 neon",
+        "gemini 4 neon price",
+        "gemini models explained"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "ai",
+      "working_title": "US school districts are considering dropping Google Search over its AI push",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 76,
+      "format": "news",
+      "est_words": 650,
+      "headline_options": [
+        "Google won't let schools turn off Gemini without losing Search too",
+        "Why NYC, LA, and Chicago schools are reconsidering Google Search"
+      ],
+      "seo_keywords": [
+        "google search schools gemini",
+        "google ai schools opt out",
+        "gemini schools"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "phone",
+      "working_title": "One UI 9.5: every new Galaxy feature, and how to install the beta today",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 73,
+      "format": "how-to",
+      "est_words": 900,
+      "headline_options": [
+        "How to install the One UI 9.5 beta — and what's new when you do",
+        "One UI 9.5: App Lock, secure erase, and lost-phone IMEI, explained"
+      ],
+      "seo_keywords": [
+        "one ui 9.5 beta",
+        "how to install one ui 9.5",
+        "one ui 9.5 features"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "tech",
+      "working_title": "Instagram now lets you edit Stories after you post them — here's the catch",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 65,
+      "format": "how-to",
+      "est_words": 500,
+      "headline_options": [
+        "How to edit your Instagram Story after you post it",
+        "Instagram Stories editing is here — but you only get 15 minutes"
+      ],
+      "seo_keywords": [
+        "edit instagram story after posting",
+        "instagram story edit feature"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "tech",
+      "working_title": "DHS says recent US tech outages weren't hacks — but AI-powered cyberattacks are coming anyway",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 63,
+      "format": "news",
+      "est_words": 800,
+      "headline_options": [
+        "The government says recent outages weren't cyberattacks — tech leaders warn that's about to change",
+        "Palmer Luckey and Satya Nadella warn AI cyberattacks are outpacing our defenses"
+      ],
+      "seo_keywords": [
+        "ai cyberattacks 2026",
+        "are the outages a cyberattack",
+        "palmer luckey ai cyberattack"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "crypto",
+      "working_title": "Bitcoin drops below $63K as the Fed talks 'shock' rate hikes and Nvidia earnings jitters hit",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 63,
+      "format": "news",
+      "est_words": 600,
+      "headline_options": [
+        "Why is Bitcoin down today? Blame the Fed, not Nvidia",
+        "Bitcoin falls below $63,000 as the Fed hints at a bigger rate hike"
+      ],
+      "seo_keywords": [
+        "why is bitcoin down today",
+        "bitcoin price fed rate hike",
+        "bitcoin 63000"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "category": "crypto",
+      "working_title": "Binance wins $6.5 billion freezing order to chase hackers after exchange breach",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "format": "news",
+      "est_words": 550,
+      "headline_options": [
+        "Binance gets a $6.5B freezing order after a hack — and can now serve legal notices on-chain",
+        "How Binance is using a $6.5 billion court order to chase stolen crypto"
+      ],
+      "seo_keywords": [
+        "binance hack freezing order",
+        "binance $6.5 billion",
+        "crypto hack recovery"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "category": "crypto",
+      "working_title": "Ledger warns Berlin buyers to check their hardware wallets for tampering",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "Bought a Ledger in Berlin this year? Here's what to check",
+        "Ledger's hardware wallet tampering warning: what buyers need to know"
+      ],
+      "seo_keywords": [
+        "ledger hardware wallet tampering",
+        "ledger berlin warning",
+        "is my ledger wallet safe"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    }
+  ]
+}

@@ -3,3 +3,4 @@ __pycache__/
 data/raw/*.json
 data/memeburn/*.json
 .venv/
+logs/

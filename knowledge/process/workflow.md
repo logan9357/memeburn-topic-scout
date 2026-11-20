@@ -7,8 +7,12 @@ _Last confirmed: 2026-11-02, via interview with Logan. Source for the writing/so
 - **Logan** has final say on which topics get written. Nothing gets written on spec — see Assignment below.
 
 ## Assignment
-- Logan reviews and assigns via **Slack**.
-- Before any writing starts, the writer sends an **outline** to Logan for approval (title, main keyword, slug, angle, 2 new angles vs. existing coverage, estimated word count). Writing only begins after outline approval.
+- **Updated 2026-11-13 (confirmed by Logan):** the outline-approval step below is no longer happening
+  day-to-day. The current flow is simpler — the ranked brief is posted to Slack and Huy/Duy self-select
+  what fits their day directly from it, no separate outline sign-off before writing starts.
+- ~~Logan reviews and assigns via Slack. Before any writing starts, the writer sends an outline to Logan
+  for approval (title, main keyword, slug, angle, 2 new angles vs. existing coverage, estimated word
+  count). Writing only begins after outline approval.~~ *(as confirmed 2026-11-02; superseded above)*
 - Daily capacity: **Huy** and **Duy** each write **5–8 articles/day**, covering all four beats interchangeably.
 - Category cap: **AI News** and **Crypto News** are capped at **5 published articles/week** combined (team-wide, not per writer).
 - Priority: **phone comparison** pieces currently get the most resourcing — they're the best traffic driver.

@@ -1,0 +1,2932 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T01:06:34.391527+00:00",
+  "crawl_errors": [
+    {
+      "source": "Reddit",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/technology/top.json?t=day&limit=15"
+    }
+  ],
+  "candidate_count": 60,
+  "candidates": [
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "category": "ai",
+      "prescore": 83.1,
+      "score_breakdown": {
+        "source_diversity": 50,
+        "search_demand": 0,
+        "community_buzz": 10.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 913,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "claude",
+          "anthropic"
+        ],
+        "tech": [
+          "cybersecurity"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 5,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "published": "2026-11-09T18:56:29+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 913,
+            "hn_comments": 551
+          }
+        },
+        {
+          "source": "Hacker News front page",
+          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "published": "2026-11-09T20:04:55+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 271,
+            "hn_comments": 190
+          }
+        },
+        {
+          "source": "The Verge",
+          "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "published": "2026-11-09T19:00:00+00:00",
+          "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+          "published": "2026-11-09T19:24:51+00:00",
+          "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Anthropic upgrades Claude with new Fable 5.2 model, details here",
+          "url": "https://9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here/",
+          "published": "2026-11-09T19:03:36+00:00",
+          "summary": "Anthropic is out with its second big update to Claude Fable 5 since introducing the model class back in June. Here’s what’s new with Claude Fable 5.2. more…",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+          "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+          "published": "2026-11-09T21:15:23+00:00",
+          "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and write more than 90 percent of the changes merged into Anthropic's core code, according to the company. ",
+          "signal": {}
+        }
+      ],
+      "id": "c01"
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "category": "ai",
+      "prescore": 66.3,
+      "score_breakdown": {
+        "source_diversity": 40,
+        "search_demand": 0,
+        "community_buzz": 4.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 238,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "gpt",
+          "claude",
+          "agent",
+          "agents"
+        ],
+        "tech": [
+          "meta"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 4,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Our Smallest, Most Efficient Model: Muse Ember",
+          "url": "https://research.meta.ai/blog/muse-ember",
+          "published": "2026-11-09T17:58:46+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 238,
+            "hn_comments": 98
+          }
+        },
+        {
+          "source": "Techmeme",
+          "title": "Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna (Russell Brandom/TechCrunch)",
+          "url": "https://www.techmeme.com/261109/p35#a261109p35",
+          "published": "2026-11-09T18:15:00+00:00",
+          "summary": "Russell Brandom / TechCrunch : Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna — Meta Superintelligence Lab released a new AI model on Monday called Muse Ember, the lab's lightest and most cost-efficient AI model yet.",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "published": "2026-11-09T18:00:00+00:00",
+          "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+          "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+          "published": "2026-11-09T19:41:51+00:00",
+          "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks. The article Meta launches Muse Ember, a small AI model built for the repetitive ",
+          "signal": {}
+        }
+      ],
+      "id": "c02"
+    },
+    {
+      "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
+      "category": "tech",
+      "prescore": 54.0,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.0
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
+          "url": "https://www.techmeme.com/261109/p45#a261109p45",
+          "published": "2026-11-09T23:05:00+00:00",
+          "summary": "Ryan Christoffel / 9to5Mac : Apple is now offering additional AI access via one-time $50 “intelligence usage packs” when monthly usage caps are met, starting in its Creator Studio apps — Apple has said it will eventually charge for expanded usage of select AI features. Now the first 'intelligence usage packs …",
+          "signal": {}
+        },
+        {
+          "source": "The Verge",
+          "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+          "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "published": "2026-11-09T19:09:58+00:00",
+          "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple launches $50 ‘intelligence usage packs’ for select AI features",
+          "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+          "published": "2026-11-09T16:32:12+00:00",
+          "summary": "Apple has said it will eventually charge for expanded usage of select AI features. Now the first ‘intelligence usage packs’ have arrived tied to Apple Creator Studio apps. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c03"
+    },
+    {
+      "title": "Dacity Coin (DACITY) trending on CoinGecko (+110.8% 24h)",
+      "category": "crypto",
+      "prescore": 45.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 10,
+        "freshness": 15.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": 1
+        },
+        "newest_hours": 0.0
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "btc",
+          "solana",
+          "xrp"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinGecko trending",
+          "title": "Dacity Coin (DACITY) trending on CoinGecko (+110.8% 24h)",
+          "url": "https://www.coingecko.com/en/coins/dacity-coin-4",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 1,
+            "price_change_24h": 110.84292620020415,
+            "market_cap_rank": 690
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Pudgy Penguins (PENGU) trending on CoinGecko (+1.4% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 2,
+            "price_change_24h": 1.4317408215663823,
+            "market_cap_rank": 116
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Avalanche (AVAX) trending on CoinGecko (+8.5% 24h)",
+          "url": "https://www.coingecko.com/en/coins/avalanche-2",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 3,
+            "price_change_24h": 8.549112744534183,
+            "market_cap_rank": 26
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Kinetiq (KNTQ) trending on CoinGecko (-5.1% 24h)",
+          "url": "https://www.coingecko.com/en/coins/kinetiq",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 4,
+            "price_change_24h": -5.089516425735983,
+            "market_cap_rank": 224
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Bitcoin (BTC) trending on CoinGecko (-0.2% 24h)",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 5,
+            "price_change_24h": -0.2118762256027613,
+            "market_cap_rank": 1
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Chainlink (LINK) trending on CoinGecko (+0.8% 24h)",
+          "url": "https://www.coingecko.com/en/coins/chainlink",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 6,
+            "price_change_24h": 0.7805044496620168,
+            "market_cap_rank": 17
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Zcash (ZEC) trending on CoinGecko (-4.8% 24h)",
+          "url": "https://www.coingecko.com/en/coins/zcash",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 7,
+            "price_change_24h": -4.840135941418556,
+            "market_cap_rank": 10
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Solana (SOL) trending on CoinGecko (-1.1% 24h)",
+          "url": "https://www.coingecko.com/en/coins/solana",
+          "published": "2026-11-10T01:06:18.329026+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 8,
+            "price_change_24h": -1.118146637773018,
+            "market_cap_rank": 7
+          }
+        }
+      ],
+      "id": "c04"
+    },
+    {
+      "title": "adrian peterson",
+      "category": "phone",
+      "prescore": 44.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 9.3,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 5000,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "honor"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Google Trends US",
+          "title": "adrian peterson",
+          "url": "https://www.nytimes.com/athletic/7762552/2026/11/09/adrian-peterson-vikings-ring-of-honor-mnf/",
+          "published": "2026-11-10T00:40:00+00:00",
+          "summary": "Adrian Peterson’s Ring of Honor induction conjures up great memories for Vikings",
+          "signal": {
+            "trends_traffic": 5000
+          }
+        }
+      ],
+      "id": "c05"
+    },
+    {
+      "title": "Leak details Samsung's plans for Galaxy AI Premium: new features on free and paid tiers - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 44.0,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.1
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android",
+          "samsung",
+          "galaxy",
+          "pixel",
+          "one ui"
+        ],
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Leak details Samsung's plans for Galaxy AI Premium: new features on free and paid tiers - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMTA3N3Mwem9LTDhpcGtHZFVEMGtKRkxpMGswMVdYZXRsVDY4UGEwY3Y0enVpS29jU2RYUktMbkdaRHNkNThGMG1McHlrU0hvWWZacWtOR2ZpSV9Ra1hWRzNrUFJvSEZQVVlCMVEtdFhJZzNYRmc5T3lJR0M4WUhPQmd3UGVneEE0dkZGWlFnYjNXeExCOTlsUVYyYXIxSVZYYk5iQ096WkJ3MDRma2dvLWgtbEV2eTRyTXUtOVZlaVp2X0HSAb8BQVVfeXFMT3Rqc3dfQ1daYlVQUjJXZGhfYXdkbTVoS25SWDJENkZTbnFYTUw3cXhYZ2lfbGFnLXZIcnhaZXp1YWJHcFpvLUNVcXQtMnFFZlp3V3JPeEdvXzA2SkprS2dfeldLemlwZHhJUVJmQ1VDc29kc3Q3NzNwRGN0bC1ieFJ2bFJqczZlYWRYdzRWT1FhVzFvMlhzUlh6UDFBbUFfMXZMYV9nUFE1Yk4zbTFJMXR4R0Jjdl9Jd1NvTnZfNVE?oc=5",
+          "published": "2026-11-09T17:01:02+00:00",
+          "summary": "Leak details Samsung's plans for Galaxy AI Premium: new features on free and paid tiers - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Samsung made limited edition Galaxy Buds4 Pro with Nina Chuba - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUtLRzl6cnhnTE5VTzlCblduLXNDY3R6M2k1WHhwSl84VkFfN3pibHRwQW1keGNEeFlpbjVxNmloSU9tUGZpTl9WdzZXcE1wT1VCU1FiWkFWX2lIRnVRX3Z2cDZ3eUlCQ2ZRbFRFbjI0N0dySXNiTzM5YlY4UFlxcVR3T1Vudnp1b3pLSUNaSE1sYmI3OUVlRzFwc21JMFliVG1z0gGfAUFVX3lxTE1nMy1VNHZXTDYzbHNHd0o5UTB3T3d0S0F3Ty1lY2lyUm9FYWZHT0l2VWhZTUxYdDlZSmY3SnNBOUw3Vk40V1RPWWJOUC1PaEtrRkw1WGwwMWdvU3huVEdrd3MtVk5VWmNXVS1sSWVFZm5xamUzS1pLSDVyYjNQM1M4Uk5uSzRZVFU1YnZZY0FNOWxTaUdCQVpILVMtSl84Zw?oc=5",
+          "published": "2026-11-09T20:02:02+00:00",
+          "summary": "Samsung made limited edition Galaxy Buds4 Pro with Nina Chuba - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Samsung Galaxy Watch8 is now receiving the update to One UI 9 Watch based on Wear OS 7 - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZQakhHYUR1WktmMTJxX1pqWlc5RUdpOTd3VHVHTldtdmhSaXZFZENvTHVaa2IzSkIyZEJYNXlLc2g4QnVMOFJjQWhiODh5OG1jX1prMXVBOGNVZ2FLY01WMEQyN3JkbkVpd082ZnpVUWFHTjc3dUF6cjc4Ui1TS1RSd1VtTUduLXRFZVAxYnU1MllMUTczZ0tDV2N4WktNVy1rbFpTX3Qxa3FtdlJMRGJTcU5HdTRoOERjRFpsY1o5Yjg40gHAAUFVX3lxTE84b0RjMmluQWtVUVhYVXVIWTRQT3pXZTRDcHVzRkpUYU1xTkRUSG5aTTFodGVHdGE1YzJpdW5kSUpCdjQzNHliTTVSMU9laURKbFhmU1NmRF93Zl9PMGMyVlNtS1pkUEloakVvd09ERjljNGhHeThQSWctcV9uUVFIdUNXaHFoR045dWRXVzNBX0xKY0RuUWVuelJvME4zNy1SOW9zM0Q1blVRdmw4ZUJXaVVLWWEyQ01LWEIwLVRkNg?oc=5",
+          "published": "2026-11-09T23:01:02+00:00",
+          "summary": "Samsung Galaxy Watch8 is now receiving the update to One UI 9 Watch based on Wear OS 7 - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Samsung could soon start charging for Galaxy AI with a new $4.99 Premium subscription (Updated)",
+          "url": "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/",
+          "published": "2026-11-09T12:32:43+00:00",
+          "summary": "Samsung could test Galaxy AI Premium with Galaxy S27 users first.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "One UI 9.5 could give Samsung Internet a dedicated desktop mode for DeX users",
+          "url": "https://www.androidauthority.com/samsung-internet-dex-desktop-mode-one-ui-9-5-leak-3732817/",
+          "published": "2026-11-09T09:07:10+00:00",
+          "summary": "Early test builds introduce a PC-style interface, desktop sidebar, and dedicated Galaxy AI tools for DeX.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Samsung starts rolling out stable One UI 9 with Wear OS 7 to Galaxy Watch 8 series",
+          "url": "https://www.androidauthority.com/galaxy-watch-8-one-ui-9-wear-os-7-stable-update-3732792/",
+          "published": "2026-11-09T08:41:07+00:00",
+          "summary": "The Galaxy Watch 8 series gets its first major OS upgrade.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "DroidDeck PC game emulator for Android now supports your Pixel and Exynos-powered Galaxy phones too",
+          "url": "https://www.androidauthority.com/droiddeck-pc-game-emulator-pixel-samsung-3732737/",
+          "published": "2026-11-09T07:39:36+00:00",
+          "summary": "Dual-screen mode gets better with a dedicated Linux-like desktop in one while the game runs in another.",
+          "signal": {}
+        }
+      ],
+      "id": "c06"
+    },
+    {
+      "title": "Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds (Emily Nicolle/Bloomberg)",
+      "category": "crypto",
+      "prescore": 42.7,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.7
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto",
+          "binance",
+          "blockchain"
+        ],
+        "tech": [
+          "hack"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds (Emily Nicolle/Bloomberg)",
+          "url": "https://www.techmeme.com/261109/p36#a261109p36",
+          "published": "2026-11-09T18:35:01+00:00",
+          "summary": "Emily Nicolle / Bloomberg : Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds — The hackers who stole $6.3 billion from Binance Holdings Ltd. in crypto's biggest ever heist have turned to one of the sector's …",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+          "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T20:26:34+00:00",
+          "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+          "signal": {}
+        }
+      ],
+      "id": "c07"
+    },
+    {
+      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "category": "crypto",
+      "prescore": 42.4,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.2
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "galaxy"
+        ],
+        "crypto": [
+          "solana"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+          "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+          "published": "2026-11-09T12:41:35+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+          "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T19:52:34+00:00",
+          "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+          "signal": {}
+        }
+      ],
+      "id": "c08"
+    },
+    {
+      "title": "French officials say Iran's Revolutionary Guards were behind the cyberattacks that knocked out commercial refrigerators and freezers across France in October (Reuters)",
+      "category": "tech",
+      "prescore": 42.1,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.8
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "French officials say Iran's Revolutionary Guards were behind the cyberattacks that knocked out commercial refrigerators and freezers across France in October (Reuters)",
+          "url": "https://www.techmeme.com/261109/p33#a261109p33",
+          "published": "2026-11-09T17:05:00+00:00",
+          "summary": "Reuters : French officials say Iran's Revolutionary Guards were behind the cyberattacks that knocked out commercial refrigerators and freezers across France in October — French officials on Monday accused Iran's Revolutionary Guards of responsibility for the cyberattacks that knocked …",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+          "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+          "published": "2026-11-09T19:19:24+00:00",
+          "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+          "signal": {}
+        }
+      ],
+      "id": "c09"
+    },
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "category": "tech",
+      "prescore": 42.1,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "apple",
+          "startup"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+          "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+          "published": "2026-11-09T19:21:46+00:00",
+          "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+          "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
+          "published": "2026-11-08T15:55:23+00:00",
+          "summary": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to Bloomberg’s Mark Gurman , new Apple CEO John Ternus is reportedly pushing on software chief Craig Federighi to ‘accelerate’ Apple’s roadmap for software. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c10"
+    },
+    {
+      "title": "Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco (Andrew J. Hawkins/The Verge)",
+      "category": "tech",
+      "prescore": 41.1,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.9
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco (Andrew J. Hawkins/The Verge)",
+          "url": "https://www.techmeme.com/261109/p34#a261109p34",
+          "published": "2026-11-09T17:15:14+00:00",
+          "summary": "Andrew J. Hawkins / The Verge : Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco — Powered by its SpotHero acquisition, Uber's new parking reservation tool is a play for commuter loyalty — and a staging ground for its robotaxi future.",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+          "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+          "published": "2026-11-09T17:00:00+00:00",
+          "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+          "signal": {}
+        }
+      ],
+      "id": "c11"
+    },
+    {
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "category": "tech",
+      "prescore": 40.2,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.6
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "meta",
+          "instagram"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Meta expands Instagram’s AI age-guessing tech globally",
+          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+          "published": "2026-11-09T15:32:27+00:00",
+          "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Teens and parents can expect Instagram notifications about AI age estimation",
+          "url": "https://9to5mac.com/2026/11/09/teens-and-parents-can-expect-instagram-notifications-about-ai-age-estimation/",
+          "published": "2026-11-09T12:53:40+00:00",
+          "summary": "Meta says it’s expanding its AI age estimation globally to automatically extend Instagram account protections to millions more teenagers. It says parents in the US can also expect to receive notifications later this month … more…",
+          "signal": {}
+        }
+      ],
+      "id": "c12"
+    },
+    {
+      "title": "Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack",
+      "category": "tech",
+      "prescore": 39.4,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 9.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 11.2
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "crypto": [
+          "binance"
+        ],
+        "tech": [
+          "apple",
+          "hack"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack",
+          "url": "https://9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack/",
+          "published": "2026-11-09T11:00:00+00:00",
+          "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Managem",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
+          "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T13:52:46+00:00",
+          "summary": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.",
+          "signal": {}
+        }
+      ],
+      "id": "c13"
+    },
+    {
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "category": "phone",
+      "prescore": 38.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 10.0,
+        "crypto_trending": 0,
+        "freshness": 8.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 837,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 12.8
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "foldable"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Foldable Flight: The Best Paper Airplanes",
+          "url": "https://www.foldableflight.com",
+          "published": "2026-11-09T12:19:22+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 837,
+            "hn_comments": 135
+          }
+        }
+      ],
+      "id": "c14"
+    },
+    {
+      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+      "category": "crypto",
+      "prescore": 38.3,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 8.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 13.5
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto",
+          "coinbase"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+          "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+          "published": "2026-11-09T10:00:00+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Coinbase’s US national trust bank charter takes effect",
+          "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T11:38:52+00:00",
+          "summary": "Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products.",
+          "signal": {}
+        }
+      ],
+      "id": "c15"
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "category": "ai",
+      "prescore": 37.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 6.2,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 372,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "gemini"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://github.com/thisisme6598/gemini_files/",
+          "published": "2026-11-09T18:24:38+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 372,
+            "hn_comments": 95
+          }
+        }
+      ],
+      "id": "c16"
+    },
+    {
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "category": "ai",
+      "prescore": 35.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 1.6,
+        "crypto_trending": 0,
+        "freshness": 13.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 94,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.8
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "A year after the 100% AI mandate nobody understands our code",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+          "published": "2026-11-09T22:19:12+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 94,
+            "hn_comments": 97
+          }
+        }
+      ],
+      "id": "c17"
+    },
+    {
+      "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
+      "category": "tech",
+      "prescore": 34.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "ios"
+        ],
+        "tech": [
+          "apple",
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
+          "url": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
+          "published": "2026-11-10T00:49:31+00:00",
+          "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+          "signal": {}
+        }
+      ],
+      "id": "c18"
+    },
+    {
+      "title": "HIVE’s Bitcoin output jumps 49%, but mining revenue still falls",
+      "category": "crypto",
+      "prescore": 34.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "crypto": [
+          "bitcoin"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "HIVE’s Bitcoin output jumps 49%, but mining revenue still falls",
+          "url": "https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-10T00:42:39+00:00",
+          "summary": "HIVE’s mining revenue fell 7.4% despite higher production, while its AI hosting business grew 71%.",
+          "signal": {}
+        }
+      ],
+      "id": "c19"
+    },
+    {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "category": "ai",
+      "prescore": 34.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.6
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+          "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+          "published": "2026-11-10T00:28:49+00:00",
+          "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+          "signal": {}
+        }
+      ],
+      "id": "c20"
+    },
+    {
+      "title": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards - GSMArena.com",
+      "category": "phone",
+      "prescore": 34.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.6
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUZub2gxWVJrUDBPbkJzZnpUemdRNnR1c0YzZnFuMHlWLTZac0pPREIwZGh6bC1nWVN4LW1pUzctZHNBT3FkbHkyRmNNQmJfLVlMSkNJNFZIMlhUVTJRXzZlcHk1YUs1RjcwZHlkQU1QSUJDUzFlV1lUNmp1NXRLVlREZXpJR0ZlWUw1NWZfdUxFNi1BWnVJaHQwVXZwTDJmUzVrYQ?oc=5",
+          "published": "2026-11-10T00:31:02+00:00",
+          "summary": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c21"
+    },
+    {
+      "title": "Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI (Jason Schreier/Bloomberg)",
+      "category": "tech",
+      "prescore": 34.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.0
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI (Jason Schreier/Bloomberg)",
+          "url": "https://www.techmeme.com/261109/p47#a261109p47",
+          "published": "2026-11-10T00:05:01+00:00",
+          "summary": "Jason Schreier / Bloomberg : Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI — The video-game publisher may have hurt one game's sales with another of its own games — Take-Two Interactive Software Inc …",
+          "signal": {}
+        }
+      ],
+      "id": "c22"
+    },
+    {
+      "title": "Google Wallet gets Alipay Plus support with Traveler QR",
+      "category": "tech",
+      "prescore": 33.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.2
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google Wallet gets Alipay Plus support with Traveler QR",
+          "url": "https://www.androidauthority.com/google-wallet-alipay-plus-2-3733150/",
+          "published": "2026-11-09T22:56:21+00:00",
+          "summary": "The system extends payment support across merchants in Southeast Asia.",
+          "signal": {}
+        }
+      ],
+      "id": "c23"
+    },
+    {
+      "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
+      "category": "tech",
+      "prescore": 33.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.2
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
+          "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
+          "published": "2026-11-09T22:54:52+00:00",
+          "summary": "Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c24"
+    },
+    {
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "category": "crypto",
+      "prescore": 33.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.2
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+          "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+          "published": "2026-11-09T22:56:27+00:00",
+          "summary": "",
+          "signal": {}
+        }
+      ],
+      "id": "c25"
+    },
+    {
+      "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
+      "category": "phone",
+      "prescore": 33.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.8
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone",
+          "ios"
+        ],
+        "tech": [
+          "apple",
+          "macos"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
+          "url": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
+          "published": "2026-11-09T22:17:36+00:00",
+          "summary": "Apple today released macOS updates that address a security gap involving compromised eMudhra certificates, after initially blocking them in Safari, Mail, and other apps in October. Here are the details. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
+          "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
+          "published": "2026-11-09T20:20:00+00:00",
+          "summary": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms. Here are the security fix details for each update. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple releases iOS 26.7.3, watchOS 27.2.1, and more",
+          "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
+          "published": "2026-11-09T18:26:35+00:00",
+          "summary": "Today Apple released a variety of software updates with the latest security fixes, including iOS 26.7.3 for iPhone, watchOS 27.2.1 for Apple Watch, and more. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple releases macOS 27.2.1 Golden Gate, Tahoe 26.7.3, and Sequoia 15.8.3",
+          "url": "https://9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3/",
+          "published": "2026-11-09T18:25:58+00:00",
+          "summary": "After rolling out the first Release Candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 last week, Apple today released the official versions of both systems, alongside macOS 27.2.1 Golden Gate. Here are the details. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple releases iOS 27.2.1 for iPhone, here’s what’s new",
+          "url": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
+          "published": "2026-11-09T18:09:45+00:00",
+          "summary": "Apple has released a minor new software update for iPhone users today: iOS 27.2.1. Here’s what’s new. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c26"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "category": "crypto",
+      "prescore": 33.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.0
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "crypto",
+          "blockchain",
+          "defi"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T22:06:26+00:00",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "signal": {}
+        }
+      ],
+      "id": "c27"
+    },
+    {
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "category": "tech",
+      "prescore": 33.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "gaming"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+          "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+          "published": "2026-11-09T21:43:41+00:00",
+          "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-inch screen is well-featured […]",
+          "signal": {}
+        }
+      ],
+      "id": "c28"
+    },
+    {
+      "title": "iPhone 18 and 18e to feature same sized screens and batteries - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 33.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "iPhone 18 and 18e to feature same sized screens and batteries - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEVkYklpWm5RTzBWUl90SWFKaXUwQmwwRGY3a3pTUkI0OXc0aTBrbXFjTlRxaU9COUUzcXlKN1F5QVVpXzJvdWZ1bC10SnpFTTFHTHdReUd0TGN2a0hSZlNhZkdUWXZfX0RiTF9NSC1IWWF1RFViRVFKV1dib0stQ0NHajVGVi16NWtqLUtnU3RRM3Uta2RoS0ZCVVdVMXhXWmpydUNn0gGiAUFVX3lxTE1KTkx6WmMtQWkzVWxoMXZrZGRqVW9jTHNBc0doWWRBb211VDBYZVc5bEZlNS1ldkRxS3BLV213UzZGVG9mSFNpZmllQlRJUm11MlpZTU9fa3ZHbTQycktCM0VEbUxQVXdnNXdzNlAzdTF0NmhoaHktdjRtTlFVQzVWTE1VMkJzSGZ2a0dTSEZBUzFYeHZGM1pOSG9WUVdVeUIwUQ?oc=5",
+          "published": "2026-11-09T15:48:01+00:00",
+          "summary": "iPhone 18 and 18e to feature same sized screens and batteries - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "iPhone 18 and 18e to feature same sized screens and batteries - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxR3BMc0RmRnNuRDNaTUxnRFYwa0lWZ210LWlBN3Q2VFotbFZzU1ZDV1UxRUZJYWxpcGNaVGdmYzBjMHVDUE1hMWhjaDZibTBaaXRITS1B?oc=5",
+          "published": "2026-11-09T21:45:00+00:00",
+          "summary": "iPhone 18 and 18e to feature same sized screens and batteries - Reader comments GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c29"
+    },
+    {
+      "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
+      "category": "phone",
+      "prescore": 33.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.3
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
+          "url": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
+          "published": "2026-11-09T21:46:15+00:00",
+          "summary": "HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services. That’s according to Skydance, the company that came out of Paramount’s Warner Bros. Discovery acquisition. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c30"
+    },
+    {
+      "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
+      "category": "tech",
+      "prescore": 33.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
+          "url": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
+          "published": "2026-11-09T21:30:57+00:00",
+          "summary": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright ( Baby Driver , Shaun of the Dead ). Watch the new ad below. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c31"
+    },
+    {
+      "title": "AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)",
+      "category": "ai",
+      "prescore": 33.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)",
+          "url": "https://www.techmeme.com/261109/p42#a261109p42",
+          "published": "2026-11-09T21:15:14+00:00",
+          "summary": "Anna Tong / Forbes : AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month — Two customers told Forbes they had already substantially moved their business off Fireworks' systems, with one describing a series …",
+          "signal": {}
+        }
+      ],
+      "id": "c32"
+    },
+    {
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "category": "ai",
+      "prescore": 33.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "The global pledge to use AI for climate good is a cruel joke",
+          "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+          "published": "2026-11-09T21:13:16+00:00",
+          "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]",
+          "signal": {}
+        }
+      ],
+      "id": "c33"
+    },
+    {
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "category": "phone",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 1.2,
+        "crypto_trending": 0,
+        "freshness": 11.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 73,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+          "url": "https://meowdisplay.app/",
+          "published": "2026-11-09T18:39:22+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 73,
+            "hn_comments": 26
+          }
+        }
+      ],
+      "id": "c34"
+    },
+    {
+      "title": "SpaceX plans a gas-fired power plant and super-compute facility in Starbase, TX, with ~$24B of investment for initial phases, per a public hearing notice (Bloomberg)",
+      "category": "tech",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.1
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "spacex"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "SpaceX plans a gas-fired power plant and super-compute facility in Starbase, TX, with ~$24B of investment for initial phases, per a public hearing notice (Bloomberg)",
+          "url": "https://www.techmeme.com/261109/p41#a261109p41",
+          "published": "2026-11-09T21:00:48+00:00",
+          "summary": "Bloomberg : SpaceX plans a gas-fired power plant and super-compute facility in Starbase, TX, with ~$24B of investment for initial phases, per a public hearing notice — SpaceX plans to construct, own and operate a gas-fired power plant and super-compute facility at its company town in Starbase, Texas …",
+          "signal": {}
+        }
+      ],
+      "id": "c35"
+    },
+    {
+      "title": "Honor 700 devices teased to come with an interesting feature on the rear screen - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.0
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "honor"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Honor 700 devices teased to come with an interesting feature on the rear screen - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2xvclpiZVNLOGlWdVkwMzNkS1lULUdDUTQ4dWgxbFdEUndzc21QalJWbFRLYXhRdDh5TVNpN3M5b0RReHozUVpBS01adzJZNHBWZUpoZTNpUkU0d3hrTFZhemZYb1RPU2k5d3llSWxfQ1hlZ1ZleGlseWdHWFpFN2tVeG9ORHRoT0ZUcThUaEtRa29pNGtLTGtoOENPT0k3SEdlQnRXcklod01sdzNuUzZGYmNLeWs1NktB0gG3AUFVX3lxTFA0YnQ5Zks2SXR0V3hyRW5JZ19MZ2t2ejN0akl0WDM0d015ZEw3U1g4S3VPNXhSQmFqSzIzVllCbUV4QnAxT3I0V05MVGFpR1R5d3l6VXpTVnJLNUdxX2dGa1ZSYlZjSk9OaVpVMDhtbzVQSkhlbmFMbUk4b0JrbVZZOUZIb2YtNHd0ZmZBcmROR3NWSExVZklXSFlSeHVDRkNadzVHS015a2VuWDE1MjB6RXlWazhVZw?oc=5",
+          "published": "2026-11-09T09:33:02+00:00",
+          "summary": "Honor 700 devices teased to come with an interesting feature on the rear screen - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Honor 700 devices teased to come with an interesting feature on the rear screen - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01SE1JVks2SGQ2d25oU2dEb2syb1Y3Tll5WUpNU3lqOUlCMTFaX2wyRG1oaC1kQVZjNzY5anMwWEtyc0hvT2JjYm41REh2SEJwVzVISWN3?oc=5",
+          "published": "2026-11-09T21:05:22+00:00",
+          "summary": "Honor 700 devices teased to come with an interesting feature on the rear screen - Reader comments GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c36"
+    },
+    {
+      "title": "How to customize or disable the touchscreen on the new MacBook Pro",
+      "category": "phone",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "ios",
+          "airpods"
+        ],
+        "tech": [
+          "apple",
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "How to customize or disable the touchscreen on the new MacBook Pro",
+          "url": "https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/",
+          "published": "2026-11-09T21:11:30+00:00",
+          "summary": "A headlining feature of Apple’s new MacBook Pro with PROLED XDR Display is the long-awaited addition of a touchscreen. However, not everyone has been so thrilled about this addition. Here’s how you can turn it off. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Our favorite gear to elevate your new MacBook Pro setup",
+          "url": "https://9to5mac.com/2026/11/09/our-favorite-gear-to-elevate-your-new-macbook-pro-setup/",
+          "published": "2026-11-09T20:15:38+00:00",
+          "summary": "The all-new M6 MacBook and the touch display PROLED XDR have now arrived, and we are taking a look at some of our favorite accessories to upgrade the experience. From the latest Apple Magic Keyboard and Trackpad , as well as its World Travel kit , we also have MacBook stands to tidy up your workstation, expandable storage , charging stations for your desktop, and our favorite mouse solutions . The",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13",
+          "url": "https://9to5mac.com/2026/11/09/deals-m5-macbook-touch-display-proled-ultra-4/",
+          "published": "2026-11-09T16:29:04+00:00",
+          "summary": "The pre-order deals on the new Apple HomeView are still rolling alongside the $50 price drop on AirPods Pro 3 and a chance to secure some 2026 Apple Polishing Cloths at $9 Prime shipped , but we do have a series of other deals to scope out as we move into Week 2 of Black Friday month. Alongside Apple’s most affordable M5 MacBook Air now $200 off and the 1TB models at $250 off via Amazon, we also h",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "9to5Mac Overtime 089: Live Rewind, Siri Recap, and Apple Watch privacy",
+          "url": "https://9to5mac.com/2026/11/09/9to5mac-overtime-089-live-rewind-siri-recap-and-apple-watch-privacy/",
+          "published": "2026-11-09T14:43:58+00:00",
+          "summary": "On this episode of Overtime, we answer your comments on the touchscreen MacBook Pro and the iPad mini’s missing 120Hz display, then dive into the iOS 27.3 beta. Safari adopts adaptive dark mode and vertical tabs, StandBy is redesigned, and the new Health app returns. We also debate Apple Watch’s controversial Siri Recap and Live Rewind features. Is your watch always listening, and should you be wo",
+          "signal": {}
+        }
+      ],
+      "id": "c37"
+    },
+    {
+      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "category": "crypto",
+      "prescore": 32.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.1
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+          "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T21:00:00+00:00",
+          "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
+          "signal": {}
+        }
+      ],
+      "id": "c38"
+    },
+    {
+      "title": "Compare Infinix Smart 20e - GSMArena.com",
+      "category": "phone",
+      "prescore": 32.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "infinix"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Compare Infinix Smart 20e - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQVzAyT2tmVWkyNmNCOXduU0FIVDdvX3BfU3dvSmhFd3l2cWp3OEhwazhSS0RoYVBYNkU2Uk50c0h2WjdHcjQzR0JWYjJaV2Rsa3FQa1o0VWtJWEVJbmVsdm9n?oc=5",
+          "published": "2026-11-09T20:37:17+00:00",
+          "summary": "Compare Infinix Smart 20e GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c39"
+    },
+    {
+      "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
+      "category": "tech",
+      "prescore": 32.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.3
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
+          "url": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
+          "published": "2026-11-09T20:47:38+00:00",
+          "summary": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c40"
+    },
+    {
+      "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
+      "category": "ai",
+      "prescore": 32.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.1
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "claude",
+          "anthropic"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
+          "url": "https://www.techmeme.com/261109/p40#a261109p40",
+          "published": "2026-11-09T20:00:51+00:00",
+          "summary": "Frederic Lardinois / The New Stack : Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens — On Monday, Anthropic launched Claude Fable 5.2 and Mythos 5.2, the latest versions of its duo of flagship models.",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
+          "url": "https://www.techmeme.com/261109/p39#a261109p39",
+          "published": "2026-11-09T19:15:01+00:00",
+          "summary": "Jay Peters / The Verge : Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems — Claude Fable 5.2 is designed to take on big technical challenges, and it's available today.",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Anthropic releases Mythos 5.2 and Fable 5.2, saying they are \"best for the most ambitious, open-ended technical work\", with outputs up to 30% faster than 5.1 (Anthropic)",
+          "url": "https://www.techmeme.com/261109/p38#a261109p38",
+          "published": "2026-11-09T19:02:08+00:00",
+          "summary": "Anthropic : Anthropic releases Mythos 5.2 and Fable 5.2, saying they are “best for the most ambitious, open-ended technical work”, with outputs up to 30% faster than 5.1 — We've upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges.",
+          "signal": {}
+        }
+      ],
+      "id": "c41"
+    },
+    {
+      "title": "Apple to open new Developer Center in Istanbul as part of broader Turkey investment",
+      "category": "tech",
+      "prescore": 32.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.0
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple to open new Developer Center in Istanbul as part of broader Turkey investment",
+          "url": "https://9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment/",
+          "published": "2026-11-09T20:07:24+00:00",
+          "summary": "Apple today announced a long-term investment in Turkey, with seven new facilities focused on app development and manufacturing set to open in the country starting next year. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c42"
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "category": "ai",
+      "prescore": 32.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.9,
+        "crypto_trending": 0,
+        "freshness": 11.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 52,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.0
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+          "url": "https://github.com/Dodaios/ste80-humanizer",
+          "published": "2026-11-09T18:05:44+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 52,
+            "hn_comments": 13
+          }
+        }
+      ],
+      "id": "c43"
+    },
+    {
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "category": "tech",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "youtube"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+          "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+          "published": "2026-11-09T19:39:41+00:00",
+          "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+          "signal": {}
+        }
+      ],
+      "id": "c44"
+    },
+    {
+      "title": "Score $70 off the Skullcandy Crusher 720 in this Amazon deal",
+      "category": "tech",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.3
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Score $70 off the Skullcandy Crusher 720 in this Amazon deal",
+          "url": "https://www.androidauthority.com/skullcandy-crusher-720-deal-3733108/",
+          "published": "2026-11-09T19:46:22+00:00",
+          "summary": "The Skullcandy Crusher 720 adds bass you can feel to music and games, and it is 33% off on Amazon.",
+          "signal": {}
+        }
+      ],
+      "id": "c45"
+    },
+    {
+      "title": "One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard",
+      "category": "phone",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung",
+          "one ui"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard",
+          "url": "https://www.androidauthority.com/samsung-keyboard-one-ui-9-5-shorten-translate-leak-3733097/",
+          "published": "2026-11-09T19:40:45+00:00",
+          "summary": "Samsung's next One UI update could give its keyboard a couple of extra tricks.",
+          "signal": {}
+        }
+      ],
+      "id": "c46"
+    },
+    {
+      "title": "Here's your first look at Huawei's wide-screen phone from sub-brand Osta - Reader comments - GSMArena.com",
+      "category": "phone",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "huawei"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Here's your first look at Huawei's wide-screen phone from sub-brand Osta - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92SG9oZ2Nacl9la08wMnpqeVU0OUxNT1o3d05PdkhwWG9iNjNfWFdPUjBpR1RYb2JZdjdmSC0zWkp6S3hUcGdWbk1pRHI1ZW8weEMteS1B?oc=5",
+          "published": "2026-11-09T19:33:44+00:00",
+          "summary": "Here's your first look at Huawei's wide-screen phone from sub-brand Osta - Reader comments GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Here's your first look at Huawei's wide-screen phone from sub-brand Osta - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeE9Hd2plYkFpN2pLbjRhektNWFNEaFVlZldwc0Rra1BDclVjUThkRjk3Nm5aaUxKaVgzMURsVXRBaGY5MHlvZ29KQzhaMVQ2cEF5RXB2REpuVl83Z0NNcy03bnFGaG02a2pzUnJqVUYzRTc0aW1ORnVHY0xMWXp3akc2bTFPTThlZjZPT3VvWG5HQ0kxZDRydlBFaExLY2NyUHpYRzRiRFJtb3du0gGoAUFVX3lxTE1RNUhTc0lNUkF4dWlveXNlVzZaalQwRWE5OHFEaUJCcmQ5SkpFRG8xWnlRZ3d6SWd2SzRwZFJULTdHdkoyVlZTVk1XcDNVazFDaTRDOW9hamdsMEY4SDJnbHFaS2pqUTgwVFFwSUwydUUyY3A1aDd4eFJXUUxqTURFeGdnelFqWFZXaHNHSmVJUFlGSjYtM01sdHljdW5ab2V0UkZxTmVMZg?oc=5",
+          "published": "2026-11-09T14:46:02+00:00",
+          "summary": "Here's your first look at Huawei's wide-screen phone from sub-brand Osta - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c47"
+    },
+    {
+      "title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro",
+      "category": "phone",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.7
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung",
+          "galaxy"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro",
+          "url": "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/",
+          "published": "2026-11-09T19:25:54+00:00",
+          "summary": "Samsung really wants you to buy one of its premium phones.",
+          "signal": {}
+        }
+      ],
+      "id": "c48"
+    },
+    {
+      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "category": "crypto",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.5
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+          "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+          "published": "2026-11-09T19:36:15+00:00",
+          "summary": "",
+          "signal": {}
+        }
+      ],
+      "id": "c49"
+    },
+    {
+      "title": "MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash",
+      "category": "phone",
+      "prescore": 32.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.0
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash",
+          "url": "https://9to5mac.com/2026/11/09/pelicans-magsafe-wallet-is-for-the-people-who-still-carry-cash/",
+          "published": "2026-11-09T19:09:00+00:00",
+          "summary": "I’ve been on a Pelican kick this fall. It started with the Pelican MagSafe Wallet , then the Pelican MagSafe Battery Pack , and the reason is pretty simple: once the weather turns cool, I want iPhone accessories built for the outdoors because I am outside more. The Pelican Protector Magnetic Money Clip Wallet is really helpful is you want something rugged, but also supports holding cash. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c50"
+    },
+    {
+      "title": "Mavria, which aims to build modular data centers that can be shipped by trucks, raised $130M across pre-seed and seed rounds at a $1B valuation led by Paradigm (Jennifer Hiller/Wall Street Journal)",
+      "category": "tech",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.3
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Mavria, which aims to build modular data centers that can be shipped by trucks, raised $130M across pre-seed and seed rounds at a $1B valuation led by Paradigm (Jennifer Hiller/Wall Street Journal)",
+          "url": "https://www.techmeme.com/261109/p37#a261109p37",
+          "published": "2026-11-09T18:50:03+00:00",
+          "summary": "Jennifer Hiller / Wall Street Journal : Mavria, which aims to build modular data centers that can be shipped by trucks, raised $130M across pre-seed and seed rounds at a $1B valuation led by Paradigm — Mavria has raised money at a $1 billion valuation to build modular data centers that can be shipped by truck",
+          "signal": {}
+        }
+      ],
+      "id": "c51"
+    },
+    {
+      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+      "category": "ai",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "pixel"
+        ],
+        "ai": [
+          "gpt"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Decoder",
+          "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+          "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+          "published": "2026-11-09T18:50:01+00:00",
+          "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2.5 Sunburst in realism. A Pro version is planned. The article Bytedance's Seedream 5.5 promises pixel-stable image editi",
+          "signal": {}
+        }
+      ],
+      "id": "c52"
+    },
+    {
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "category": "tech",
+      "prescore": 31.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.5
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "xbox"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+          "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+          "published": "2026-11-09T18:35:25+00:00",
+          "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings […]",
+          "signal": {}
+        }
+      ],
+      "id": "c53"
+    },
+    {
+      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+      "category": "crypto",
+      "prescore": 31.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.7
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin"
+        ],
+        "tech": [
+          "hack"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T18:25:29+00:00",
+          "summary": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
+          "signal": {}
+        }
+      ],
+      "id": "c54"
+    },
+    {
+      "title": "Articles tagged Osta - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.8
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Articles tagged Osta - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBucGtJYlN3cFFpY29PUnhTRHBZRE01ZUQtTlFQUGpnQXQ3U0dvZ21McWxVVUU1V1VsUXNzNW0wbklpU0xlck40dUxCWlBJakV1dG51TQ?oc=5",
+          "published": "2026-11-09T18:15:49+00:00",
+          "summary": "Articles tagged Osta GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c55"
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "category": "ai",
+      "prescore": 31.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.0
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "chatbot"
+        ],
+        "tech": [
+          "instagram",
+          "macos"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+          "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+          "published": "2026-11-09T18:07:23+00:00",
+          "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
+          "signal": {}
+        }
+      ],
+      "id": "c56"
+    },
+    {
+      "title": "Google is bringing Chrome’s real-time scam protection to Incognito and Guest modes",
+      "category": "tech",
+      "prescore": 31.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.2
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google is bringing Chrome’s real-time scam protection to Incognito and Guest modes",
+          "url": "https://www.androidauthority.com/chrome-incognito-guest-mode-real-time-safe-browsing-3733040/",
+          "published": "2026-11-09T17:54:16+00:00",
+          "summary": "Google wants Chrome Incognito to forget your history, not its security checks.",
+          "signal": {}
+        }
+      ],
+      "id": "c57"
+    },
+    {
+      "title": "PNC Bank tests turning USDC payments into dollar deposits",
+      "category": "crypto",
+      "prescore": 31.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.3
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "ethereum",
+          "token"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "PNC Bank tests turning USDC payments into dollar deposits",
+          "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T17:48:35+00:00",
+          "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
+          "signal": {}
+        }
+      ],
+      "id": "c58"
+    },
+    {
+      "title": "Amazon drops Samsung Odyssey G3 200Hz gaming monitor to $119.99",
+      "category": "tech",
+      "prescore": 31.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung"
+        ],
+        "tech": [
+          "amazon",
+          "gaming"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Amazon drops Samsung Odyssey G3 200Hz gaming monitor to $119.99",
+          "url": "https://www.androidauthority.com/samsung-odyssey-g3-monitor-deal-3733067/",
+          "published": "2026-11-09T17:37:07+00:00",
+          "summary": "Grab 25% off the Samsung Odyssey G3 on Amazon and get a 24-inch 200Hz IPS gaming monitor for smoother 1080p play.",
+          "signal": {}
+        }
+      ],
+      "id": "c59"
+    },
+    {
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "category": "crypto",
+      "prescore": 31.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.4
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto",
+          "blockchain",
+          "token"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+          "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-09T17:41:02+00:00",
+          "summary": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
+          "signal": {}
+        }
+      ],
+      "id": "c60"
+    }
+  ]
+}

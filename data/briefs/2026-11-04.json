@@ -1,0 +1,329 @@
+{
+  "date": "2026-11-04",
+  "language": "en",
+  "summary": "A quiet day for phones but a loaded one for AI: Postman's silent AI-plugin auto-install (939 HN points) is today's biggest story, alongside Google's school AI ultimatum, Anthropic's new model-identity tool, and the CFTC clearing perpetual futures on stocks. 14 strong picks today rather than padding to 16 -- phone news was thin.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01", "c13"],
+      "working_title": "iOS 27.3 Beta: Siri AI Opens to All Developers, Plus Adaptive Dark Mode",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "why_now": "Apple just released iOS 27.3 beta 1 with a big feature set: Siri AI now open to all developers via App Intents, Safari gets Adaptive Dark Mode and Vertical Tabs, Apple Intelligence lands in China, and the iPhone Duo's StandBy mode expands to other iPhones. Covered by Techmeme, The Verge, 9to5Mac (7+ posts), and WebKit's own blog within hours; 190 HN points.",
+      "angle": "Cut through the flood of 9to5Mac posts into one clear \"what's actually new and what it means for you\" roundup -- which features you can try now in the beta and which need a developer to adopt them first.",
+      "format": "explainer",
+      "est_words": 800,
+      "headline_options": [
+        "iOS 27.3 Beta: Siri AI Opens to All Developers, Plus Adaptive Dark Mode",
+        "Everything New in iOS 27.3 Beta, From Siri AI to Safari's Dark Mode"
+      ],
+      "seo_keywords": ["ios 27.3 beta features", "ios 27.3 siri ai developers", "ios 27.3 adaptive dark mode"],
+      "sources": [
+        {"title": "Safari introduces Adaptive Dark Mode in 27.3 -- WebKit", "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"},
+        {"title": "Apple starts giving Siri AI access to third-party apps -- The Verge", "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"},
+        {"title": "iOS 27.3 brings the iPhone Duo's revamped StandBy to other iPhones -- 9to5Mac", "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-the-iphone-duos-revamped-standby-to-other-iphones/"}
+      ],
+      "notes_for_writer": "This is a beta -- be clear features can change before public release. Don't claim hands-on testing unless someone on the team actually installed the beta."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c10"],
+      "working_title": "Postman Is Silently Auto-Installing AI Plugins and Sharing Your API Data",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "why_now": "A GitHub issue documenting Postman silently auto-installing AI plugins and attempting to share all API data has exploded to 939 Hacker News points and 304 comments -- a major developer trust/privacy story breaking right now.",
+      "angle": "Translate the GitHub issue into plain language for a general tech audience: what Postman is doing, what data is at risk, and the exact steps to check your own installation and opt out.",
+      "format": "how-to",
+      "est_words": 650,
+      "headline_options": [
+        "Postman Is Silently Auto-Installing AI Plugins and Sharing Your API Data",
+        "How to Check If Postman Is Sharing Your API Data Without Asking"
+      ],
+      "seo_keywords": ["postman ai plugin privacy", "postman sharing api data", "disable postman ai features"],
+      "sources": [
+        {"title": "Postman silently auto-installs AI plugins and attempts to share all API data -- GitHub", "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"}
+      ],
+      "notes_for_writer": "Single-source (a GitHub issue thread) -- verify the claims hold up and check for any official Postman response before publishing; quote the most credible comments, not just the original poster."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c08"],
+      "working_title": "CFTC Clears the Way for Perpetual Futures on Stocks",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 77,
+      "why_now": "The CFTC cleared perpetual futures on stocks for US exchanges -- bringing a trading product popularized by crypto exchanges onto Wall Street. Covered by CoinDesk and multiple Cointelegraph pieces within hours, tied to broader bitcoin price action around the US midterms.",
+      "angle": "Explain what perpetual futures actually are (in plain terms), why crypto exchanges pioneered them, and what it means now that US stock traders can access the same product.",
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": [
+        "CFTC Clears Perpetual Futures on Stocks -- What That Means",
+        "Crypto's Favorite Trading Product Just Came to Wall Street"
+      ],
+      "seo_keywords": ["perpetual futures stocks cftc", "what are perpetual futures", "cftc stock perpetuals"],
+      "sources": [
+        {"title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street -- CoinDesk", "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street"},
+        {"title": "CFTC clears stock perpetual futures for trading on US exchanges -- Cointelegraph", "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "No investment advice or price predictions -- stick to explaining the regulatory mechanism and what it enables."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c09"],
+      "working_title": "Google Will Let Schools Disable AI Tools -- But They Lose Search Entirely",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "Schools that want to opt out of Google's AI features will now lose access to Google Search altogether, since AI is now baked into Search itself -- a real bind for education IT departments, covered by TechCrunch and Android Authority within hours.",
+      "angle": "Explain exactly what schools lose and keep under each option, and why Google has structured the choice this way.",
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "Google Will Let Schools Disable AI -- But They Lose Search Entirely",
+        "Schools Can't Opt Out of Google AI Without Losing Search Too"
+      ],
+      "seo_keywords": ["google schools disable ai", "google search ai opt out schools"],
+      "sources": [
+        {"title": "Google will let schools disable its AI tools, but not without sacrificing Search -- TechCrunch", "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"},
+        {"title": "Google is making it harder for schools to say no to AI -- Android Authority", "url": "https://www.androidauthority.com/google-to-turn-off-ai-for-students-3731314/"}
+      ],
+      "notes_for_writer": "Check for an official Google statement (Android Authority's piece notes an update with one) and include it if available."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c03"],
+      "working_title": "Steam Game Reviews Now Take Up to 12 Business Days",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 67,
+      "why_now": "Valve confirmed Steam's game review times have stretched to up to 12 business days (from the usual 3-5) due to a surge in submissions -- a real pain point for indie developers, confirmed directly by Valve and covered by The Verge/Techmeme within the hour.",
+      "angle": "Explain what's driving the submission surge, what Valve is changing to cope, and what it means for developers planning a launch date.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Steam Game Reviews Now Take Up to 12 Business Days",
+        "Why Your Steam Game Launch Might Get Delayed"
+      ],
+      "seo_keywords": ["steam review time 2026", "steam game submission delay"],
+      "sources": [
+        {"title": "Valve is making changes to deal with a 'significant increase' in Steam game submissions -- The Verge", "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions"}
+      ],
+      "notes_for_writer": "Primary source is Valve's own post -- link to it directly rather than only the secondary coverage."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c34"],
+      "working_title": "Stop Overpaying for Your Wireless Plan: A Quick Price Check",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 65,
+      "why_now": "Most US wireless customers pay $60-100+/month without realizing cheaper MVNO options like Tello cover the same networks for a fraction of the cost -- a classic evergreen 'am I overpaying' search that performs reliably.",
+      "angle": "A straightforward comparison framework (not just one brand) for checking whether your current plan is overpriced, and what to actually look for before switching.",
+      "format": "how-to",
+      "est_words": 500,
+      "headline_options": [
+        "Are You Overpaying for Wireless? Here's How to Check",
+        "This Simple Check Could Cut Your Phone Bill in Half"
+      ],
+      "seo_keywords": ["cheap wireless plans 2026", "am i overpaying for my phone plan"],
+      "sources": [
+        {"title": "Don't miss this scary-good deal: make your wireless bill less frightening this Halloween -- 9to5Mac", "url": "https://9to5mac.com/2026/11/03/dont-miss-this-scary-good-deal-make-your-wireless-bill-less-frightening-this-halloween/"}
+      ],
+      "notes_for_writer": "Verify current MVNO pricing directly before publishing specific dollar figures -- don't just repeat one sponsor's numbers as fact."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c45"],
+      "working_title": "How AI Companies Are Trying to Keep Their Tools Out of the US Midterms",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "OpenAI, Anthropic and others are actively working to prevent their AI tools from being used to disrupt today's US midterm elections -- including Anthropic's first-ever election 'war room' -- reported by the New York Times via Techmeme.",
+      "angle": "Explain concretely what these AI companies are actually doing (not just vowing to do), and why election security has become a specific AI-safety focus area.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Anthropic's First-Ever 'War Room' Is Watching the US Midterms",
+        "How OpenAI and Anthropic Are Trying to Keep AI Out of Election Interference"
+      ],
+      "seo_keywords": ["ai companies us midterms", "anthropic election war room"],
+      "sources": [
+        {"title": "How OpenAI, Anthropic, and others are trying to prevent anyone from using their AI tools to disrupt the US midterms -- Techmeme/NYT", "url": "https://www.techmeme.com/261103/p26#a261103p26"}
+      ],
+      "notes_for_writer": "This is a tech/AI-safety story, not a political endorsement piece -- keep it focused on what the companies are doing, not election predictions or commentary."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c05"],
+      "working_title": "Anthropic's FlashProve Can Verify an AI Response Actually Came From Claude",
+      "category": "ai",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "Anthropic released FlashProve, an open-source prototype that cryptographically proves an AI response came from the model it claims to be from -- rather than a cheaper model a router secretly swapped in. Covered by Techmeme and TechCrunch within hours.",
+      "angle": "Explain the actual problem this solves (silent model-swapping by API providers) in plain terms, and why it matters for anyone paying for a specific AI model's output.",
+      "format": "explainer",
+      "est_words": 650,
+      "headline_options": [
+        "Anthropic's FlashProve Can Verify an AI Response Actually Came From Claude",
+        "How Do You Know You're Really Talking to the AI Model You Paid For?"
+      ],
+      "seo_keywords": ["anthropic flashprove", "verify ai model identity", "ai model swapping"],
+      "sources": [
+        {"title": "Anthropic is working on a system to prove AI models' identity -- TechCrunch", "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"},
+        {"title": "Anthropic releases FlashProve -- Techmeme", "url": "https://www.techmeme.com/261103/p32#a261103p32"}
+      ],
+      "notes_for_writer": "This is an open-source prototype, not a shipped product feature -- be clear it's not something end users can use yet."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c15"],
+      "working_title": "US Tech Giants' Hidden AI Debt Has Swelled 90% to $3.2 Trillion",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 63,
+      "why_now": "A new report finds US tech giants' off-balance-sheet AI infrastructure debt jumped 90% to $3.2 trillion in six months -- a striking number feeding into broader AI-bubble concerns, with 104 Hacker News points of discussion.",
+      "angle": "Explain what counts as 'hidden' AI debt (off-balance-sheet financing structures), which companies are most exposed, and what it would mean if AI spending cools off.",
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": [
+        "US Tech Giants' Hidden AI Debt Has Swelled 90% to $3.2 Trillion",
+        "The $3.2 Trillion AI Debt Problem Nobody's Talking About"
+      ],
+      "seo_keywords": ["ai debt tech companies 2026", "hidden ai infrastructure debt"],
+      "sources": [
+        {"title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months -- Nikkei Asia", "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"}
+      ],
+      "notes_for_writer": "Single-source -- verify the methodology and named companies against the original report before publishing the headline figure."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c40"],
+      "working_title": "Pixel Buds Pro 2 Drop to Their Lowest Price Ever at $169",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 63,
+      "why_now": "Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store -- matching their lowest price ever, with the deal confirmed to run through November 8.",
+      "angle": "Quick, practical buy-now-or-wait verdict for Android/Pixel owners, with a note on whether this beats past Black Friday pricing.",
+      "format": "news",
+      "est_words": 400,
+      "headline_options": [
+        "Pixel Buds Pro 2 Drop to Their Lowest Price Ever at $169",
+        "Should You Buy the Pixel Buds Pro 2 at Their Record-Low Price?"
+      ],
+      "seo_keywords": ["pixel buds pro 2 deal", "pixel buds pro 2 price $169"],
+      "sources": [
+        {"title": "The Pixel Buds Pro 2 have returned to their lowest price to date -- The Verge", "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale"}
+      ],
+      "notes_for_writer": "Verify the deal is still live and at which retailers before publishing -- deal ends Nov 8 per the source."
+    },
+    {
+      "rank": 11,
+      "candidate_ids": ["c06"],
+      "working_title": "Revolut Cut AI Coding Costs 90% by Dropping Claude Code for Self-Hosted Models",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Revolut says it slashed AI coding inference costs by roughly 90% in under a year by defaulting to self-hosted GLM models over commercial tools like Claude Code -- while separately, Goldman Sachs just pulled AI coding tools from traders and bankers entirely, citing risk management.",
+      "angle": "Explain the actual cost tradeoffs companies are weighing between commercial AI coding assistants and self-hosted open models, using both examples as data points in the same trend.",
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "Revolut Cut AI Coding Costs 90% by Ditching Claude Code for Self-Hosted Models",
+        "Why Companies Are Rethinking Commercial AI Coding Tools"
+      ],
+      "seo_keywords": ["revolut ai coding costs", "self-hosted ai models vs claude code"],
+      "sources": [
+        {"title": "Revolut says it cut AI coding inference costs by ~90% -- Techmeme/The Register", "url": "https://www.techmeme.com/261103/p36#a261103p36"},
+        {"title": "Goldman Sachs pulls AI coding tools from traders and bankers -- The Decoder", "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"}
+      ],
+      "notes_for_writer": "Be factual and neutral -- this isn't a knock on Claude Code specifically, it's a broader enterprise cost/risk trend worth covering straight."
+    },
+    {
+      "rank": 12,
+      "candidate_ids": ["c04"],
+      "working_title": "Canva Cuts 22% of Its Workforce in Major Restructuring",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Canva announced a restructuring affecting 1,271 employees (22% of staff) as it merges its product, growth, and platform teams -- confirmed directly by CEO Melanie Perkins and covered by The Verge and Techmeme within the hour.",
+      "angle": "Explain what's actually changing inside Canva (team mergers, centralized hubs) and what it signals about the design-software market's growth slowdown.",
+      "format": "news",
+      "est_words": 450,
+      "headline_options": [
+        "Canva Cuts 22% of Its Workforce in Major Restructuring",
+        "Canva Lays Off 1,271 Employees as Growth Slows"
+      ],
+      "seo_keywords": ["canva layoffs 2026", "canva restructuring"],
+      "sources": [
+        {"title": "Canva is announcing changes and layoffs affecting 22 percent of its staff -- The Verge", "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"}
+      ],
+      "notes_for_writer": "Use Perkins' own statement as the primary quote rather than secondary paraphrasing."
+    },
+    {
+      "rank": 13,
+      "candidate_ids": ["c33"],
+      "working_title": "Ubisoft and Others Reportedly Want to Buy Arkane Studios From Microsoft",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Sources say Ubisoft and at least two other gaming companies have offered to acquire Arkane Studios (Dishonored, Marvel's Blade) from Microsoft, which is reportedly exploring options before a December deadline, per Bloomberg via Techmeme.",
+      "angle": "Explain what this would mean for Arkane's upcoming games and staff, and why Microsoft's gaming division is looking to divest the studio now.",
+      "format": "news",
+      "est_words": 450,
+      "headline_options": [
+        "Ubisoft and Others Reportedly Want to Buy Arkane Studios From Microsoft",
+        "Arkane Studios Could Be Sold Off Before December"
+      ],
+      "seo_keywords": ["arkane studios sale microsoft", "arkane studios ubisoft acquisition"],
+      "sources": [
+        {"title": "Sources: Ubisoft and at least two other gaming companies offered to acquire Arkane Studios from Microsoft -- Techmeme/Bloomberg", "url": "https://www.techmeme.com/261103/p33#a261103p33"}
+      ],
+      "notes_for_writer": "This is sourced reporting, not confirmed by Microsoft or Ubisoft -- frame it clearly as a report, not a done deal."
+    },
+    {
+      "rank": 14,
+      "candidate_ids": ["c22"],
+      "working_title": "AMD and Super Micro Earnings Show the AI Chip Boom Still Isn't Slowing Down",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "AMD reported Q3 revenue up 45% YoY with Data Center revenue up 97%, and Super Micro posted Q1 revenue up 298% YoY -- both beating estimates and forecasting more growth, a real-time read on AI hardware demand.",
+      "angle": "Pull out what these numbers actually say about AI infrastructure demand heading into next year, for readers tracking whether the AI buildout is slowing or accelerating.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "AMD and Super Micro Earnings Show the AI Chip Boom Isn't Slowing Down",
+        "AI Chip Demand Just Posted Its Best Quarter Yet"
+      ],
+      "seo_keywords": ["amd q3 earnings 2026", "super micro ai chip demand"],
+      "sources": [
+        {"title": "AMD reports Q3 revenue up 45% YoY to $13.38B -- Techmeme/CNBC", "url": "https://www.techmeme.com/261103/p34#a261103p34"},
+        {"title": "Super Micro reports Q1 revenue up 298% YoY to $19.95B -- Techmeme/Reuters", "url": "https://www.techmeme.com/261103/p35#a261103p35"}
+      ],
+      "notes_for_writer": "Financial news, not investment advice -- stick to reported figures and company guidance, no stock predictions."
+    }
+  ],
+  "watchlist": [
+    "US midterm election results and what they mean for crypto regulation (live coverage ongoing)",
+    "What happens if North Korea's Binance hackers target Wall Street's tokenized assets next",
+    "Muscle-reading wearables that let you 'speak' without making a sound -- very early stage, watch for a real product",
+    "Xiaomi Watch S5 41mm leak suggests a big battery capacity increase",
+    "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week"
+  ]
+}

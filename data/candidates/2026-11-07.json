@@ -1,0 +1,2822 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T02:23:48.942646+00:00",
+  "crawl_errors": [
+    {
+      "source": "Reddit",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/technology/top.json?t=day&limit=15"
+    }
+  ],
+  "candidate_count": 60,
+  "candidates": [
+    {
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "category": "tech",
+      "prescore": 55.3,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.7,
+        "crypto_trending": 0,
+        "freshness": 14.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 41,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+          "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+          "published": "2026-11-06T20:09:14+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 41,
+            "hn_comments": 7
+          }
+        },
+        {
+          "source": "Techmeme",
+          "title": "Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project (Lynn Doan/Bloomberg)",
+          "url": "https://www.techmeme.com/261106/p25#a261106p25",
+          "published": "2026-11-06T23:15:02+00:00",
+          "summary": "Lynn Doan / Bloomberg : Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project — Alphabet Inc.'s Google has bought out Crusoe's data center site in southeast Wyoming, opting to take on the project itself …",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Crusoe sells troubled Wyoming data center project to Google",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "published": "2026-11-07T01:40:28+00:00",
+          "summary": "The deal highlights the challenges of developing massive AI data centers.",
+          "signal": {}
+        }
+      ],
+      "id": "c01"
+    },
+    {
+      "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+      "category": "ai",
+      "prescore": 54.7,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.6
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "wearable"
+        ],
+        "ai": [
+          "ai",
+          "agent"
+        ],
+        "tech": [
+          "meta"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+          "url": "https://www.techmeme.com/261106/p28#a261106p28",
+          "published": "2026-11-07T01:50:00+00:00",
+          "summary": "Frederic Lardinois / The New Stack : Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users — Meta trained new models using its frontier Muse Wonder model and is shipping them to all Muse and Meta AI users today, while keeping Wonder itself for harder subscriber tasks.",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Meta says US users can now video chat with their Muse AI avatar",
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "published": "2026-11-05T19:48:28+00:00",
+          "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Meta’s Muse AI agent gets a voice chat mode with hundreds of voices",
+          "url": "https://www.androidauthority.com/meta-muse-real-time-voice-chat-mode-3732321/",
+          "published": "2026-11-06T07:20:07+00:00",
+          "summary": "You can talk to your Muse agent and have it do the work while you sit back and relax.",
+          "signal": {}
+        }
+      ],
+      "id": "c02"
+    },
+    {
+      "title": "Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang (New York Times)",
+      "category": "ai",
+      "prescore": 53.3,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "openai",
+          "nvidia"
+        ],
+        "tech": [
+          "google",
+          "meta"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang (New York Times)",
+          "url": "https://www.techmeme.com/261106/p24#a261106p24",
+          "published": "2026-11-06T21:46:41+00:00",
+          "summary": "New York Times : Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang — U.S. intelligence concluded that Alice Huang, a Chinese business executive who developed a close relationship with Nvidia's leader …",
+          "signal": {}
+        },
+        {
+          "source": "The Verge",
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "published": "2026-11-06T23:00:44+00:00",
+          "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+          "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+          "published": "2026-11-06T15:55:23+00:00",
+          "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI",
+          "signal": {}
+        }
+      ],
+      "id": "c03"
+    },
+    {
+      "title": "Bitcoin (BTC) trending on CoinGecko (-0.1% 24h)",
+      "category": "crypto",
+      "prescore": 45.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 10,
+        "freshness": 15.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": 1
+        },
+        "newest_hours": 0.0
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "btc",
+          "solana",
+          "xrp"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinGecko trending",
+          "title": "Bitcoin (BTC) trending on CoinGecko (-0.1% 24h)",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 1,
+            "price_change_24h": -0.06864056551890196,
+            "market_cap_rank": 1
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Pearl (PEARL) trending on CoinGecko (+11.3% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pearl-2",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 2,
+            "price_change_24h": 11.306417380646819,
+            "market_cap_rank": 88
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Zcash (ZEC) trending on CoinGecko (+3.8% 24h)",
+          "url": "https://www.coingecko.com/en/coins/zcash",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 3,
+            "price_change_24h": 3.8124448415619585,
+            "market_cap_rank": 10
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Sui (SUI) trending on CoinGecko (+1.5% 24h)",
+          "url": "https://www.coingecko.com/en/coins/sui",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 4,
+            "price_change_24h": 1.5349074232133113,
+            "market_cap_rank": 29
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Akedo (AKE) trending on CoinGecko (+156.6% 24h)",
+          "url": "https://www.coingecko.com/en/coins/akedo",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 5,
+            "price_change_24h": 156.55958551494257,
+            "market_cap_rank": 222
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Solana (SOL) trending on CoinGecko (+0.6% 24h)",
+          "url": "https://www.coingecko.com/en/coins/solana",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 6,
+            "price_change_24h": 0.5615214369203975,
+            "market_cap_rank": 7
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Pudgy Penguins (PENGU) trending on CoinGecko (-1.3% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 7,
+            "price_change_24h": -1.2752983350474427,
+            "market_cap_rank": 114
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "XRP (XRP) trending on CoinGecko (-3.4% 24h)",
+          "url": "https://www.coingecko.com/en/coins/ripple",
+          "published": "2026-11-07T02:23:41.922104+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 8,
+            "price_change_24h": -3.4002959904308954,
+            "market_cap_rank": 5
+          }
+        }
+      ],
+      "id": "c04"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "category": "ai",
+      "prescore": 43.5,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 5.0,
+        "crypto_trending": 0,
+        "freshness": 8.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 297,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 12.8
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "gemini"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Gemini Omni 1.2 Flash",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "published": "2026-11-06T13:35:27+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 297,
+            "hn_comments": 220
+          }
+        },
+        {
+          "source": "The Decoder",
+          "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+          "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+          "published": "2026-11-05T19:05:31+00:00",
+          "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more. The article Google's Gemini Omni 1.2 Flash stretche",
+          "signal": {}
+        }
+      ],
+      "id": "c05"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "category": "ai",
+      "prescore": 42.9,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.2
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "agent"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "published": "2026-11-05T22:40:55+00:00",
+          "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Airbnb is building an AI travel agent that designs its own interface - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUhpRjBpLVgtSl9YM2MwYmxENEw5RzRmbGl3UURrRC1JRUwyZExFTlAwTDRkMXlITmNVeVhvOVRCWlkwLUtvbTBVUXd5eFFLcjNpdk9sQWtwdjFRV0wtUHpIaVRiQ0hqVkh6dUtQZHlMQ3FTbDl5cmR0V2RkUG80YVNzcU9WWU51MFVDWVNoem12TDRxeUNTb0tlZXFfNU94YXk0OEtYM1JicWhR0gGoAUFVX3lxTFBlUFRfQ3RtRHV0MVdRZlZPclNzamdsUmx0S0ZIYmRCYnF4aG9vSE14NEtzWV95VHA4M0RXelE5SklmcTlWbTltNFRHa1JMb1pfOFJNdFUzRjR3NXJrTnA3SWZvcVNac2ZYMm9CaWY5UUEwelBMYVdUV0diYXJlTEFOWkgzd0hRVEZNaml6RWNiNFlLUGVKWU54UDRKSDVyZTlENFBfTXM1eQ?oc=5",
+          "published": "2026-11-06T22:09:02+00:00",
+          "summary": "Airbnb is building an AI travel agent that designs its own interface - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c06"
+    },
+    {
+      "title": "Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox's board and will co-chair a new Tubi, Fox One, and Roku unit (Todd Spangler/Variety)",
+      "category": "tech",
+      "prescore": 39.8,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 9.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 10.3
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox's board and will co-chair a new Tubi, Fox One, and Roku unit (Todd Spangler/Variety)",
+          "url": "https://www.techmeme.com/261106/p14#a261106p14",
+          "published": "2026-11-06T15:30:01+00:00",
+          "summary": "Todd Spangler / Variety : Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox's board and will co-chair a new Tubi, Fox One, and Roku unit — Surprise! Fox Corp. has closed its acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date.",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Fox completes its $22B acquisition of Roku",
+          "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+          "published": "2026-11-06T16:05:36+00:00",
+          "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+          "signal": {}
+        }
+      ],
+      "id": "c07"
+    },
+    {
+      "title": "Oppo Find X10 Ultra has reportedly been cancelled - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 39.0,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 9.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 12.0
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "oppo"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Oppo Find X10 Ultra has reportedly been cancelled - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU09GSFlJU3d0WTExaFVGSXlPRVg4cko3S1ZYNW9xcUpqS19NSEFlWlF6MTFONXFxbklRZ2x4SzFjTVFOWG94UkpGSl84QjQzbjk4ajhENnZHbzlwQWQ4aTFjdElMS1Z1TDdTbXhseUNUN3N5bUY4YnpqTkFxcE02aldyc0M4MTJ4R1F30gGHAUFVX3lxTE0zSWptUU9iU1JlSjM1YnRoVTJYY0hNWUJvV2laZzhtXzRBV1dsaXRjV3BlRWFFUnBjN3Mwb2k4WnVOU1NWTG90bXNXTURUSWxqOWk2OEpKbVZzS3MyZ2N5eS10ZTlCSlB5eUFyOC1iaWFtX09mVE9jX2VKaER5bnl1MjdYS1YtUQ?oc=5",
+          "published": "2026-11-06T14:23:02+00:00",
+          "summary": "Oppo Find X10 Ultra has reportedly been cancelled - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Leaker says OPPO may have suspended the Find X10 Ultra",
+          "url": "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/",
+          "published": "2026-11-06T14:19:51+00:00",
+          "summary": "The successor to one of the best camera phones in the business may have been cancelled.",
+          "signal": {}
+        }
+      ],
+      "id": "c08"
+    },
+    {
+      "title": "CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B (Loren Grush/Bloomberg)",
+      "category": "ai",
+      "prescore": 38.8,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": -15,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "openai",
+          "anthropic"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [
+        {
+          "date": "2026-11-05",
+          "title": "Apple Is Cutting Engineers' Daily AI Spending Budgets"
+        },
+        {
+          "date": "2026-11-06",
+          "title": "Investors Grow Skeptical Anthropic's IPO Can Hit a $1.5 Trillion Valuation"
+        }
+      ],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B (Loren Grush/Bloomberg)",
+          "url": "https://www.techmeme.com/261106/p27#a261106p27",
+          "published": "2026-11-07T00:01:09+00:00",
+          "summary": "Loren Grush / Bloomberg : CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B — CesiumAstro raised $730 million in its latest funding round, a cash infusion the Austin-based satellite manufacturer will use …",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
+          "url": "https://www.techmeme.com/261106/p22#a261106p22",
+          "published": "2026-11-06T21:15:00+00:00",
+          "summary": "Bloomberg : Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total — OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.",
+          "signal": {}
+        },
+        {
+          "source": "The Verge",
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "published": "2026-11-06T23:46:18+00:00",
+          "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "published": "2026-11-06T22:53:46+00:00",
+          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "published": "2026-11-06T15:54:47+00:00",
+          "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+          "signal": {}
+        }
+      ],
+      "id": "c09"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "category": "tech",
+      "prescore": 37.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 10.0,
+        "crypto_trending": 0,
+        "freshness": 7.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 861,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 14.2
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "tesla"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Tesla to wind down Cybertruck production",
+          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+          "published": "2026-11-06T12:13:51+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 861,
+            "hn_comments": 1725
+          }
+        }
+      ],
+      "id": "c10"
+    },
+    {
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "category": "crypto",
+      "prescore": 37.3,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 7.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 15.3
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto",
+          "cryptocurrency",
+          "defi"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+          "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+          "published": "2026-11-06T08:47:42+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Greece approves 10% tax on crypto gains starting in 2027",
+          "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T11:05:36+00:00",
+          "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
+          "signal": {}
+        }
+      ],
+      "id": "c11"
+    },
+    {
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "category": "crypto",
+      "prescore": 36.7,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 6.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 16.5
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+          "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+          "published": "2026-11-06T09:53:27+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+          "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T08:19:18+00:00",
+          "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
+          "signal": {}
+        }
+      ],
+      "id": "c12"
+    },
+    {
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "category": "crypto",
+      "prescore": 36.3,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 6.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 17.4
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+          "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+          "published": "2026-11-06T05:14:48+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+          "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T09:00:36+00:00",
+          "summary": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.",
+          "signal": {}
+        }
+      ],
+      "id": "c13"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "category": "ai",
+      "prescore": 35.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 3.5,
+        "crypto_trending": 0,
+        "freshness": 12.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 210,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "AI is dramatically accelerating AI research",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "published": "2026-11-06T20:27:23+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 210,
+            "hn_comments": 158
+          }
+        }
+      ],
+      "id": "c14"
+    },
+    {
+      "title": "Apple Music Classical gets new black-and-white icon in latest update",
+      "category": "tech",
+      "prescore": 34.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.2
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple Music Classical gets new black-and-white icon in latest update",
+          "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
+          "published": "2026-11-07T02:11:48+00:00",
+          "summary": "Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated Apple Music Classical to match the new design. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c15"
+    },
+    {
+      "title": "New Realme 17 Pro spec leak helps clarify its place in the upcoming lineup - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 34.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.8
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "New Realme 17 Pro spec leak helps clarify its place in the upcoming lineup - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlJwOGM5X3E3MHowcTIwc3FoLWtHU0EyaWRmZEZEczdoc1phdXR5WTJ2MFloa2Rrd3ZtTU93YXRnNFNVWVFsdndZQ1dCZEZGSDNDX01aYmx5cFRsN1czb0xKVXVNb0dCTzI2Q0stMGpzbHhIZVRfekdZMzhXdUhOajdmNDZKdG5CSE4weXBYNkVlV191bjYyc0xjdk5SVmJJWV9nMldQSUnSAaQBQVVfeXFMUEJGd09LTWN0dWcyVjN5d203alNlX1JXNnFJM0VCcHFJbVEzVGZ0TFh3MGxBbU1tSkFPSVdTMV80QkFoaG5HXzFwSlROVDlDOXBadWtSY3J3djNHcDFNLVBCQmNNbnV0QnJvbmtEYVQtRXNjRHBIck42WnNWN21oc2RqTXFlbVVkQ0x3aVo3aVBrQ0RRMzB1VVZrRzE3SS00RkhwQ08?oc=5",
+          "published": "2026-11-07T01:33:02+00:00",
+          "summary": "New Realme 17 Pro spec leak helps clarify its place in the upcoming lineup - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c16"
+    },
+    {
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "category": "ai",
+      "prescore": 34.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 1.2,
+        "crypto_trending": 0,
+        "freshness": 13.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 73,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.6
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "chatgpt"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+          "published": "2026-11-06T22:50:43+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 73,
+            "hn_comments": 33
+          }
+        }
+      ],
+      "id": "c17"
+    },
+    {
+      "title": "4 fresh AI apps and tools worth trying this week, including an Arc Browser replacement",
+      "category": "ai",
+      "prescore": 34.4,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 9.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": -15,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 11.1
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android"
+        ],
+        "ai": [
+          "ai",
+          "claude",
+          "anthropic"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [
+        {
+          "date": "2026-11-04",
+          "title": "How AI Companies Are Trying to Keep Their Tools Out of the US Midterms"
+        }
+      ],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "4 fresh AI apps and tools worth trying this week, including an Arc Browser replacement",
+          "url": "https://www.androidauthority.com/new-ai-apps-services-tao-browser-3732359/",
+          "published": "2026-11-06T15:15:27+00:00",
+          "summary": "A vibecoded mapping tool, a file-sending service, and a useful screenshot utility for Android also feature.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Anthropic upgrades Claude with new Personal Finance feature",
+          "url": "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature/",
+          "published": "2026-11-05T18:14:22+00:00",
+          "summary": "Having the right context is what makes AI tools useful. Anthropic just launched the ability to securely use personal finance data with Claude. The company emphasizes that the feature is read-only and can’t take financial actions. more…",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "Anthropic adds bank account access to Claude so users can track their spending",
+          "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+          "published": "2026-11-06T11:33:13+00:00",
+          "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder .",
+          "signal": {}
+        }
+      ],
+      "id": "c18"
+    },
+    {
+      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+      "category": "crypto",
+      "prescore": 34.4,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 4.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 21.3
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto",
+          "binance",
+          "coinbase"
+        ],
+        "tech": [
+          "hack"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+          "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+          "published": "2026-11-05T14:21:50+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+          "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T05:07:00+00:00",
+          "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.",
+          "signal": {}
+        }
+      ],
+      "id": "c19"
+    },
+    {
+      "title": "Future iPhones will have one less button, new rumor claims - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 33.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.7
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Future iPhones will have one less button, new rumor claims - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0ZMaUM0Q1oyWXJlN3NSWERJMXUyWVJSRGVOeV9fSVVmSnh4ajJGZ1FhcnRyTW90Rmc2OHAtZ3VoaVgyYnVkLUhVNUg2V1h0RENQUm1sdW1lODRZY19uNlQ2RlhvY3dzck82Qk0zQnYyYURVZjdwYjlaU3ZZbDZQdEQwWG9tNGZyZXZCLWk2Snp0VmRPbml2NTZ0Sm1aZ9IBmgFBVV95cUxOZ09sZjNIRTVoNzlCTE0yLU1DT1pXZEVQWTRXYjNLWDFjUDEzTDlHUnVVMURKU1N3YjNhTmV1MmJEZmEyVzBCSUJWZVlkQzZvTkQzOU5fVHRSallnTTlqM3BHYlB2TDQ1TFRnaDdqalFmWDZZUGg4UFJnbHlNZXEzVWNfTTVLWWRmeU53RkFTN1NUUW5vdGtzZEx3?oc=5",
+          "published": "2026-11-06T23:42:02+00:00",
+          "summary": "Future iPhones will have one less button, new rumor claims - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c20"
+    },
+    {
+      "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
+      "category": "tech",
+      "prescore": 33.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple",
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
+          "url": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
+          "published": "2026-11-06T23:47:18+00:00",
+          "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+          "signal": {}
+        }
+      ],
+      "id": "c21"
+    },
+    {
+      "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
+      "category": "tech",
+      "prescore": 33.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.1
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
+          "url": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
+          "published": "2026-11-06T23:15:19+00:00",
+          "summary": "Award-winning culinary show ‘ Knife Edge: Chasing Michelin Stars ’ is getting a third season, in an announcement that came hours after its second season came to a close. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c22"
+    },
+    {
+      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+      "category": "tech",
+      "prescore": 33.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "spacex",
+          "starlink",
+          "5g"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+          "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+          "published": "2026-11-06T22:45:43+00:00",
+          "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal […]",
+          "signal": {}
+        }
+      ],
+      "id": "c23"
+    },
+    {
+      "title": "Google Messages’ new pinned chats are dividing users, and we want your take",
+      "category": "tech",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google Messages’ new pinned chats are dividing users, and we want your take",
+          "url": "https://www.androidauthority.com/google-messages-pinned-chats-redesign-user-reactions-3732689/",
+          "published": "2026-11-06T22:27:43+00:00",
+          "summary": "Do you love it or hate it?",
+          "signal": {}
+        }
+      ],
+      "id": "c24"
+    },
+    {
+      "title": "Raycast combines voice dictation and screen awareness in new AI feature",
+      "category": "ai",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Raycast combines voice dictation and screen awareness in new AI feature",
+          "url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
+          "published": "2026-11-06T22:28:13+00:00",
+          "summary": "Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c25"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "category": "crypto",
+      "prescore": 32.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.4
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "crypto",
+          "blockchain",
+          "defi"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T22:00:15+00:00",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "signal": {}
+        }
+      ],
+      "id": "c26"
+    },
+    {
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "category": "tech",
+      "prescore": 32.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "amazon",
+          "netflix"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+          "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+          "published": "2026-11-06T21:50:32+00:00",
+          "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 […]",
+          "signal": {}
+        }
+      ],
+      "id": "c27"
+    },
+    {
+      "title": "Google Health app 5.12 update revamps glucose, blood pressure, and resilience tracking",
+      "category": "tech",
+      "prescore": 32.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google Health app 5.12 update revamps glucose, blood pressure, and resilience tracking",
+          "url": "https://www.androidauthority.com/google-health-5-12-update-3732684/",
+          "published": "2026-11-06T21:50:40+00:00",
+          "summary": "Google is releasing a big update for the Health app.",
+          "signal": {}
+        }
+      ],
+      "id": "c28"
+    },
+    {
+      "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
+      "category": "tech",
+      "prescore": 32.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
+          "url": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
+          "published": "2026-11-06T21:46:36+00:00",
+          "summary": "Reuters and The Washington Post report that Apple is among the tech giants potentially facing congressional investigations as Democrats prepare to take control of both chambers in January. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c29"
+    },
+    {
+      "title": "Microsoft’s 2026 Surface Laptop gets a $450 Amazon discount",
+      "category": "tech",
+      "prescore": 32.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.7
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple",
+          "microsoft",
+          "amazon",
+          "laptop"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Microsoft’s 2026 Surface Laptop gets a $450 Amazon discount",
+          "url": "https://www.androidauthority.com/microsoft-2026-surface-laptop-deal-3732694/",
+          "published": "2026-11-06T21:38:51+00:00",
+          "summary": "Save 23% off the RRP on Microsoft’s 2026 Surface Laptop with 16GB RAM, 1TB SSD, and a 13.8-inch 2K touchscreen.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "13-inch MacBook Air with M5 and 1TB SSD falls $250",
+          "url": "https://www.androidauthority.com/13-inch-macbook-air-deal-3732616/",
+          "published": "2026-11-06T15:51:24+00:00",
+          "summary": "Apple’s 13-inch MacBook Air with M5, 16GB RAM, and 1TB SSD is down to $1,349 on Amazon, its lowest price since June.",
+          "signal": {}
+        }
+      ],
+      "id": "c30"
+    },
+    {
+      "title": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)",
+      "category": "ai",
+      "prescore": 32.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.2
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "claude",
+          "anthropic"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)",
+          "url": "https://www.techmeme.com/261106/p21#a261106p21",
+          "published": "2026-11-06T21:12:51+00:00",
+          "summary": "Financial Times : Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T — Claude-maker intends to list before Thanksgiving despite brutal tech rout — Anthropic is pressing on with its high-stakes IPO …",
+          "signal": {}
+        }
+      ],
+      "id": "c31"
+    },
+    {
+      "title": "Gentle Monster teases Samsung Android XR glasses with some help from Joaquin Phoenix",
+      "category": "phone",
+      "prescore": 32.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.1
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android",
+          "samsung"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Gentle Monster teases Samsung Android XR glasses with some help from Joaquin Phoenix",
+          "url": "https://www.androidauthority.com/joaquin-phoenix-smart-glasses-teaser-3732678/",
+          "published": "2026-11-06T21:15:33+00:00",
+          "summary": "Tapping into some Hollywood talent for a short film teaser.",
+          "signal": {}
+        }
+      ],
+      "id": "c32"
+    },
+    {
+      "title": "Apple’s funny new Apple Card ad features an awkward therapy session",
+      "category": "tech",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.5
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple",
+          "youtube"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple’s funny new Apple Card ad features an awkward therapy session",
+          "url": "https://9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session/",
+          "published": "2026-11-06T20:55:39+00:00",
+          "summary": "Apple shared a new Apple Card ad on its YouTube page today featuring a therapist who realizes she really needs a vacation. Watch it below. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c33"
+    },
+    {
+      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+      "category": "crypto",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.3
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+          "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T21:05:25+00:00",
+          "summary": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.",
+          "signal": {}
+        }
+      ],
+      "id": "c34"
+    },
+    {
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "category": "crypto",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.5
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+          "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T20:51:23+00:00",
+          "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
+          "signal": {}
+        }
+      ],
+      "id": "c35"
+    },
+    {
+      "title": "Samsung Health bug leaves users with missing step history",
+      "category": "phone",
+      "prescore": 32.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.8
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Samsung Health bug leaves users with missing step history",
+          "url": "https://www.androidauthority.com/samsung-health-missing-step-history-update-3732669/",
+          "published": "2026-11-06T20:37:20+00:00",
+          "summary": "Don't worry, you step data hasn't been wiped clean.",
+          "signal": {}
+        }
+      ],
+      "id": "c36"
+    },
+    {
+      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+      "category": "crypto",
+      "prescore": 32.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.8
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "binance"
+        ],
+        "tech": [
+          "hack"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+          "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T20:36:25+00:00",
+          "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+          "signal": {}
+        }
+      ],
+      "id": "c37"
+    },
+    {
+      "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
+      "category": "phone",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
+          "url": "https://9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more/",
+          "published": "2026-11-06T20:06:06+00:00",
+          "summary": "Several tech companies are pushing back against subpoenas issued by Apple and the DOJ in their ongoing antitrust battle. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c38"
+    },
+    {
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "category": "tech",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.2
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto"
+        ],
+        "tech": [
+          "apple",
+          "meta"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+          "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+          "published": "2026-11-06T20:09:18+00:00",
+          "summary": "",
+          "signal": {}
+        }
+      ],
+      "id": "c39"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "category": "ai",
+      "prescore": 31.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "All the latest updates on AI data centers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "published": "2026-11-06T20:02:22+00:00",
+          "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+          "signal": {}
+        }
+      ],
+      "id": "c40"
+    },
+    {
+      "title": "Some Nest doorbells have stopped showing the live video feed",
+      "category": "phone",
+      "prescore": 31.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.3
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Some Nest doorbells have stopped showing the live video feed",
+          "url": "https://www.androidauthority.com/nest-doorbell-live-view-broken-3732672/",
+          "published": "2026-11-06T20:04:09+00:00",
+          "summary": "Can’t see who’s at the door? You aren't the only one.",
+          "signal": {}
+        }
+      ],
+      "id": "c41"
+    },
+    {
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "category": "crypto",
+      "prescore": 31.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.3
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+          "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T20:04:27+00:00",
+          "summary": "While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans.",
+          "signal": {}
+        }
+      ],
+      "id": "c42"
+    },
+    {
+      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+      "category": "tech",
+      "prescore": 31.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+          "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+          "published": "2026-11-06T19:47:02+00:00",
+          "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars […]",
+          "signal": {}
+        }
+      ],
+      "id": "c43"
+    },
+    {
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "category": "ai",
+      "prescore": 31.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.6
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Decoder",
+          "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+          "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+          "published": "2026-11-06T19:47:04+00:00",
+          "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small. The article Ripple-65B Prev",
+          "signal": {}
+        }
+      ],
+      "id": "c44"
+    },
+    {
+      "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)",
+      "category": "ai",
+      "prescore": 31.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.8
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "anthropic"
+        ],
+        "tech": [
+          "startup"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)",
+          "url": "https://www.techmeme.com/261106/p20#a261106p20",
+          "published": "2026-11-06T19:35:01+00:00",
+          "summary": "PSI : AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 — The Aaronson-Ambainis conjecture is now a theorem. — Open since 2008, the conjecture of Scott Aaronson and Andris Ambainis concerns …",
+          "signal": {}
+        }
+      ],
+      "id": "c45"
+    },
+    {
+      "title": "HomeKit Weekly: Airversa’s Humelle is the Thread humidifier my house needs this winter",
+      "category": "tech",
+      "prescore": 31.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.8
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "HomeKit Weekly: Airversa’s Humelle is the Thread humidifier my house needs this winter",
+          "url": "https://9to5mac.com/2026/11/06/airversa-humelle/",
+          "published": "2026-11-06T19:33:00+00:00",
+          "summary": "I love natural gas heat for a few reasons, but one is avoiding AUX heat from a heat pump and watching the bill rise. The downside is when the gas heat kicks on, the air in mt house is bone dry. My nose ends up being super dry for months. A humidifier like the Airversa Humelle works with Apple Home over Thread, so it can run itself based on what the air actually needs, and with the temps in my area",
+          "signal": {}
+        }
+      ],
+      "id": "c46"
+    },
+    {
+      "title": "Compare Honor 700 Pro - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "honor"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Compare Honor 700 Pro - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52dnRrV3ctN0g4bzNxdVVOcExOWU9fUTFtLWUyelFrUHF4Y29JVGNGZ2NfR2pvRGlZenZvOHBpYlBuUHN1MDNNNTY5UXRydTF3ajNSZUVoSC12cDRUZGM0M0hn?oc=5",
+          "published": "2026-11-06T19:29:38+00:00",
+          "summary": "Compare Honor 700 Pro GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c47"
+    },
+    {
+      "title": "vivo V80 review - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.1
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "vivo"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "vivo V80 review - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10WmJrdG9XSzNYM1QwNHpDelczNTZ3VkZlbFJVODM5WXI3UVdub1JJU2ppNGtKc2syZ2UwSk5NRXI5MVB3VjdidHdZcTNlVHRWMklCdXV4X1QyRUxiZkE?oc=5",
+          "published": "2026-11-06T19:15:37+00:00",
+          "summary": "vivo V80 review GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c48"
+    },
+    {
+      "title": "Samsung Display tipped to lead OLED supply for 2027 iPad Air - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Samsung Display tipped to lead OLED supply for 2027 iPad Air - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmJHQ21CcHlMZVhJZDVKQ3h5OERRVWdZSXRVR0t2Z2g0UURoUldCQ08zaFlMSjVWNEd0eHNwWGk2SVY4bFhiUFBPMlVNdjlkbkozM3ZralU2ejZ0cWI1N09IMlJPc3NIQnR0SlpnRjlxOEl5N0lqb1lyV3VGLTBGTms4WDZLVXJBLVktQUVmRjRkNTVRNjd1NGVsdEZ1akNmanfSAZ4BQVVfeXFMUDFiY01rOUNNR2Rfd2xJWk5jTHFibHVxRTBScmJXc1hCaEhDMXp2MDVYTTl3Z0c2LTBLN2pqdzhIdnhKVnd1eEs3c2NZMlRVZU1YMXFzRlZrb1ctazFyRU9Cb0F5NDYwUWlwZk9kdENCVUhLeG8tSUJCTGxWX1YxUjlMQnktamRnQUNWMElXaHhrZWhmTFBhVWRwamJSaFE?oc=5",
+          "published": "2026-11-06T19:01:02+00:00",
+          "summary": "Samsung Display tipped to lead OLED supply for 2027 iPad Air - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c49"
+    },
+    {
+      "title": "Google says almost no one wants NFC in the Fitbit Edge but readers strongly disagree",
+      "category": "tech",
+      "prescore": 31.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google says almost no one wants NFC in the Fitbit Edge but readers strongly disagree",
+          "url": "https://www.androidauthority.com/fitbit-edge-missing-nfc-3732642/",
+          "published": "2026-11-06T18:59:50+00:00",
+          "summary": "Over half want the feature.",
+          "signal": {}
+        }
+      ],
+      "id": "c50"
+    },
+    {
+      "title": "iOS 27.2 adds three new ways to customize your iPhone",
+      "category": "phone",
+      "prescore": 31.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone",
+          "ios"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "iOS 27.2 adds three new ways to customize your iPhone",
+          "url": "https://9to5mac.com/2026/11/06/ios-27-2-adds-three-new-ways-to-customize-your-iphone/",
+          "published": "2026-11-06T18:55:34+00:00",
+          "summary": "iOS 27.2 launched last week with a lot of new features, and also several ways you can customize your iPhone. Here’s what’s new for iPhone personalization. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c51"
+    },
+    {
+      "title": "Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 (Bloomberg)",
+      "category": "tech",
+      "prescore": 31.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "spacex"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 (Bloomberg)",
+          "url": "https://www.techmeme.com/261106/p19#a261106p19",
+          "published": "2026-11-06T18:50:01+00:00",
+          "summary": "Bloomberg : Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 — SpaceX's reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away …",
+          "signal": {}
+        }
+      ],
+      "id": "c52"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "category": "ai",
+      "prescore": 31.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "published": "2026-11-06T18:44:38+00:00",
+          "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+          "signal": {}
+        }
+      ],
+      "id": "c53"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "category": "ai",
+      "prescore": 31.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "agent",
+          "agents"
+        ],
+        "tech": [
+          "meta"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "published": "2026-11-06T18:44:20+00:00",
+          "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+          "signal": {}
+        }
+      ],
+      "id": "c54"
+    },
+    {
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "category": "crypto",
+      "prescore": 31.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.6
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "btc",
+          "eth",
+          "crypto"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+          "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T18:47:45+00:00",
+          "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
+          "signal": {}
+        }
+      ],
+      "id": "c55"
+    },
+    {
+      "title": "Huawei Pura X View - User opinions and reviews - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.8
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "huawei"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Huawei Pura X View - User opinions and reviews - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tTi0yLWVLWng0T1o0YVRhQ2RjSGYzY1pnUkw4U1BrNVRtd25VRklOWEdkZ3p1R1FwcU9uUG1rVW9qZ1dFelJKbWpYc3lTbkZiRlBqc0VRNWR3cl9VMmVZeGh2OEdaUjkxSU1xV1dn?oc=5",
+          "published": "2026-11-06T18:38:17+00:00",
+          "summary": "Huawei Pura X View - User opinions and reviews GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c56"
+    },
+    {
+      "title": "Photo zoom - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.0
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Photo zoom - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFp3TWlpb2lGTFVFUmJoM0RGU1Fqd2VQYnVPZVZIb182NGZXclNUSDBfR29TdFQxekQyZ19DVHRhVy12ajJUY0tpbzBYbEswZWpKT2drOUdHUndfTTZvV1NrZFZOT25WdUxwckZjWGNEXzk5SVNJZWg0WDNKdW50MjJDLWVoN21RNnVnSW1pU3RKeGk0UVFsOG5HeS1uWFBDYUJXLWstNU1VVF9MTUU2NGpR?oc=5",
+          "published": "2026-11-06T18:26:28+00:00",
+          "summary": "Photo zoom GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Photo zoom - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1MwMDh2cERGanR1MTFHQ2xnOTR5UXMzY1BEU3ZMNUx0cEVwNjNxc0t0aWNNcTJXVzZiNFk4d1g3bnJFVGg5MGdISWJ1cWJEMGJYUU10TVNsTnp6NzA5NTlieUNNMU1qTTZEdUdmUlFtbHphWGdGdnpjRkZPZGR2OWFSaDhzMmpjZ2xWeHB0SXNmb1Y4WUlabjFQOFJzUThEbFR0enVCNFNfSFgxV1IyMGZB?oc=5",
+          "published": "2026-11-06T14:51:27+00:00",
+          "summary": "Photo zoom GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c57"
+    },
+    {
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "category": "crypto",
+      "prescore": 31.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.0
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "crypto": [
+          "bitcoin",
+          "btc"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+          "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-06T18:22:42+00:00",
+          "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+          "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-05T22:43:18+00:00",
+          "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
+          "signal": {}
+        }
+      ],
+      "id": "c58"
+    },
+    {
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "category": "ai",
+      "prescore": 30.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.2
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "meta"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "published": "2026-11-06T18:10:10+00:00",
+          "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]",
+          "signal": {}
+        }
+      ],
+      "id": "c59"
+    },
+    {
+      "title": "Google is bringing iOS-style Settings icons to Chrome for Android",
+      "category": "phone",
+      "prescore": 30.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android",
+          "ios"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google is bringing iOS-style Settings icons to Chrome for Android",
+          "url": "https://www.androidauthority.com/chrome-android-colorful-settings-icons-redesign-3732624/",
+          "published": "2026-11-06T18:07:34+00:00",
+          "summary": "The UI makeover is taking shape in Canary.",
+          "signal": {}
+        }
+      ],
+      "id": "c60"
+    }
+  ]
+}

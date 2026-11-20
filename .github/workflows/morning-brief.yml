@@ -71,6 +71,10 @@ jobs:
         run: |
           git config user.name "memeburn-topic-scout"
           git config user.email "actions@users.noreply.github.com"
-          git add data/briefs data/candidates data/history knowledge/stats.json 2>/dev/null || true
+          # Add known-present dirs first; knowledge/stats.json only exists after /learn-process has
+          # run at least once (not part of this daily job) — a missing pathspec makes `git add` fail
+          # for ALL paths given in one call, so it must be added separately, not in the same command.
+          git add data/briefs data/candidates data/history
+          if [ -f knowledge/stats.json ]; then git add knowledge/stats.json; fi
           git commit -m "brief: $(TZ=Africa/Johannesburg date +%F)" || echo "nothing to commit"
           git push || echo "push failed (non-fatal)"

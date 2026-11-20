@@ -39,6 +39,28 @@ and this rubric disagree, the profile (and the SOPs in `knowledge/process/`) win
 - Crypto moves → "why is X up/down", USD price context, Coinbase/Kraken availability, SEC/regulatory angle. Never price predictions or investment advice.
 - Phone comparisons are the current priority format — extra resourcing goes here (best traffic driver per `knowledge/process/beats.md`).
 
+**Confirmed 2026-11-20, 14-day outcome review (140 suggested topics, see `knowledge/editorial_profile.md` "What wins"):**
+- Comparison format is the strongest performer on both traffic (~1,900 avg pageviews, 1.8–7x every other
+  format) and writer pickup (60%) — yet it's still a small share of what gets suggested. Actively look for
+  more comparison-shaped candidates (phone "X vs Y" especially), not just the one obvious match per day.
+- AI topics get picked up by writers more than any other beat (57%) but drive the second-lowest traffic
+  per published pick — don't let a high pickup rate alone justify a high `score`/`traffic_potential` for a
+  routine AI product-update explainer. Reserve top AI scores for genuinely major stories (IPOs, executive
+  shakeups, major model launches with broad coverage), not incremental feature news.
+- `how-to` is the weakest format on both pickup rate (16%) and traffic when it does run — only suggest one
+  if it's tied to a concrete, high-search-intent problem (a widely-reported bug/outage), not a routine
+  feature walkthrough.
+- Tech has the lowest pickup rate (23%) despite being suggested almost as often as AI — prefer fewer,
+  sharper tech picks over padding the brief with tech news writers are unlikely to choose.
+
+## Annual calendar hooks & upcoming launches
+(confirmed by Logan, 2026-11-11 — see `knowledge/process/beats.md` for the recurring-events list)
+Alongside reactive news, actively watch for candidates tied to recurring industry events or anticipated launches (CES, Galaxy Unpacked, MWC, Apple's spring event, Black Friday/Cyber Monday, tax-season crypto content, etc.). These earn extra weight on **Shelf life & search** and **Gap** — "what to expect at X" / rumor-roundup / buying-guide-ahead-of-launch pieces have long search tails and let Memeburn be early rather than reactive. Only pull a specific date, price, or spec into `why_now` or the headline if it's actually backed by a source in today's candidates file — don't reach for a date from memory just because the event is calendar-known. If the crawl has no real signal for an upcoming event yet, it belongs in `watchlist`, not in a ranked topic.
+
+**Surface these in the brief's `upcoming` list too** (confirmed by Logan, 2026-11-13 — see `config/brief_schema.md`), separate from both ranked topics and `watchlist`: a short dated reminder (`date`, `event`, `prep_idea`) for a recurring event or announced launch close enough to be worth a writer starting prep now, even if there's no ranked pick for it yet today. This renders as its own "📅 Upcoming events" section in Slack so writers can plan ahead (e.g. drafting a Black Friday listicle before deals are confirmed).
+
+**Be selective — don't list everything on the calendar** (confirmed by Logan, 2026-11-13: this list should stay tight so writers aren't wading through noise). Max **2–4 entries**, only the ones with genuinely high expected reader interest right now — Black Friday/Cyber Monday, a confirmed flagship launch (Galaxy Unpacked, CES, MWC, Apple event) once it's close enough to matter, something with a real dated signal in today's crawl. Skip anything months out, low-stakes, or "watchlist-only" per the recurring-events list in `knowledge/process/beats.md` — those stay off `upcoming` entirely until they're actually near and hot. **This is not a daily requirement** — most days have nothing that clears the bar, and on those days just omit `upcoming` from the brief entirely rather than including it empty or padding it with a weak entry. Keep `date` to a real, sourced or well-established calendar date — never invent one — and keep `prep_idea` to one concrete next step, not a restatement of the event name.
+
 ## What to skip
 - Already covered by Memeburn in 3 days without a new development.
 - Niche developer news with no consumer hook, purely partisan political fights with no tech hook, pure celebrity gossip.
@@ -56,7 +78,7 @@ and this rubric disagree, the profile (and the SOPs in `knowledge/process/`) win
 - Suggested `format` and `est_words` should match the profile's typical article shapes.
 
 ## Mix for the brief
-Roughly 2 per beat on a normal day, but follow the news — don't force a weak crypto pick on a quiet crypto day.
+**Phone should be ~70% of the brief** (confirmed by Logan, 2026-11-04 — see `knowledge/process/beats.md`), with comparison-style phone pieces (X vs Y, buying guides, deal comparisons) especially favored — they're showing the strongest traffic signal right now. AI/crypto/tech split the remaining ~30%, still capped by AI/crypto's weekly published-article limit. On a thin phone-news day, widen the net (deals, software how-tos, spec leaks) before giving the slot to another beat — but still don't force weak filler just to hit the ratio.
 Put the single best pick at rank 1. Add 2–5 developing stories to `watchlist`.
 
 See `references/examples.md` for worked good/bad picks.

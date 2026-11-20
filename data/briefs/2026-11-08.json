@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-08",
+  "language": "en",
+  "summary": "Nvidia CEO Jensen Huang's admitted affair with a suspected Chinese spy -- and the board investigation it triggered -- is the biggest story by far today. Apple's push to make Siri more agentic and Goldman Sachs pulling Claude Code from bankers round out AI. Phone picks lean on genuine hands-on content: iPhone Duo cases, a OnePlus 15 ColorOS 17 test, and a fresh deals roundup. 7/10 picks are phone (70%).",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01"],
+      "working_title": "Nvidia's Board Is Investigating Jensen Huang After He Admits an Affair With a Suspected Chinese Spy",
+      "category": "ai",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 78,
+      "why_now": "Nvidia CEO Jensen Huang admitted in a staff email to a romantic relationship with Megaspeed executive Alice Huang, who US intelligence says was recruited by China's top spy agency to collect intelligence on him. Nvidia's board launched an independent investigation within hours. Covered by Nvidia's own statement, Axios, Bloomberg, The Verge, and TechCrunch -- five-plus outlets in under an hour.",
+      "angle": "Lay out exactly what Nvidia's board statement says, what Huang admitted to in his own words, and what's actually being investigated (vs. what's still allegation).",
+      "format": "news",
+      "est_words": 750,
+      "headline_options": [
+        "Nvidia's Board Is Investigating Jensen Huang After He Admits an Affair With a Suspected Chinese Spy",
+        "Jensen Huang Admits Affair With Alleged Chinese Spy as Nvidia Launches Investigation"
+      ],
+      "seo_keywords": ["jensen huang affair chinese spy", "nvidia board investigation jensen huang", "jensen huang alice huang"],
+      "sources": [
+        {"title": "Nvidia is investigating Jensen Huang's relationship with a Chinese spy -- The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"},
+        {"title": "Email to staff: Jensen Huang admits an affair, takes 'full responsibility' -- Techmeme/Axios", "url": "https://www.techmeme.com/261108/p14#a261108p14"},
+        {"title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot -- Techmeme/Bloomberg", "url": "https://www.techmeme.com/261108/p13#a261108p13"}
+      ],
+      "notes_for_writer": "Fast-moving story -- stick strictly to what Nvidia's board statement and Huang's own email say; attribute the spy-recruitment claim to US intelligence/NYT reporting, not as settled fact. Nvidia says it has no reason to believe company secrets were compromised -- include that."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c02"],
+      "working_title": "Apple's New CEO Is Pushing Siri to Become a Real AI Agent",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 67,
+      "why_now": "Bloomberg's Mark Gurman reports new Apple CEO John Ternus is pressuring software chief Craig Federighi to move Siri AI beyond its current tweaks into genuine agentic capability, competing with OpenAI's Dots and Meta's Muse. Covered by Techmeme, The Verge, and 9to5Mac within hours.",
+      "angle": "Explain what 'agentic' Siri would actually mean in daily use (multi-step tasks across apps, not just voice commands) and how far behind Siri currently is versus Dots and Muse.",
+      "format": "explainer",
+      "est_words": 650,
+      "headline_options": [
+        "Apple's New CEO Is Pushing Siri to Become a Real AI Agent",
+        "Why Apple's CEO Thinks Siri Still Isn't Good Enough"
+      ],
+      "seo_keywords": ["siri ai agent apple", "apple siri agentic upgrade"],
+      "sources": [
+        {"title": "Apple is racing to make Siri more agentic -- The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"},
+        {"title": "Sources: John Ternus wants more urgency in Apple's AI efforts -- Techmeme/Bloomberg", "url": "https://www.techmeme.com/261108/p9#a261108p9"}
+      ],
+      "notes_for_writer": "This is internal pressure reporting, not a product announcement -- no confirmed release timeline exists yet."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c06"],
+      "working_title": "Goldman Sachs Is Pulling Claude Code From Its Bankers and Traders",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 66,
+      "why_now": "Goldman Sachs is reportedly pulling Claude Code access from traders and bankers, limiting it to engineers -- a real enterprise-AI-risk story with 346 Hacker News points and 220 comments.",
+      "angle": "Explain why a bank would restrict AI coding tools for non-engineers specifically, and what it signals about enterprise AI risk management more broadly.",
+      "format": "news",
+      "est_words": 550,
+      "headline_options": [
+        "Goldman Sachs Is Pulling Claude Code From Its Bankers and Traders",
+        "Why Is Goldman Sachs Restricting Claude Code Access?"
+      ],
+      "seo_keywords": ["goldman sachs claude code", "goldman sachs ai coding restriction"],
+      "sources": [
+        {"title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders -- The State of AI", "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"}
+      ],
+      "notes_for_writer": "Single-source -- verify with a Goldman Sachs statement if one is available, and check whether this is a blanket policy or specific to certain desks."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c58"],
+      "working_title": "iPhone Air 2 Is Coming Next Year -- and It Has More to Prove Than Ever",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "Apple is reportedly set to unveil the second-generation iPhone Air next spring, after reworking the design to add a second camera -- but with iPhone Duo now the flashier option, Air 2 needs a clearer reason to exist.",
+      "angle": "Lay out what's changing in the redesign and make the case for who Air 2 should actually target now that Duo has taken the 'cool phone' spotlight.",
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": [
+        "iPhone Air 2 Is Coming Next Year -- and It Has More to Prove Than Ever",
+        "Why iPhone Air 2 Needs to Be Different From the Original"
+      ],
+      "seo_keywords": ["iphone air 2 release date", "iphone air 2 rumors 2027"],
+      "sources": [
+        {"title": "iPhone Air 2 is coming next year, here's why it has more to prove than ever -- 9to5Mac", "url": "https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/"}
+      ],
+      "notes_for_writer": "Single-source analysis piece -- clearly separate confirmed leak details (second camera) from the writer's own speculation about positioning."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c26"],
+      "working_title": "The Latest Samsung Foldables and Pixel 11 Series Are Discounted Right Now",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 61,
+      "why_now": "Fresh deals on Samsung's latest foldables and the Pixel 11 series are live now, per GSMArena.",
+      "angle": "Round up the actual current prices and retailers for each discounted model, with a clear buy-or-wait verdict per model.",
+      "format": "listicle",
+      "est_words": 550,
+      "headline_options": [
+        "The Latest Samsung Foldables and Pixel 11 Series Are Discounted Right Now",
+        "Best Phone Deals This Week: Samsung Foldables and Pixel 11"
+      ],
+      "seo_keywords": ["samsung foldable deals november 2026", "pixel 11 deal this week"],
+      "sources": [
+        {"title": "Deals: Latest Samsung foldables, Pixel 11 series, and more discounted -- GSMArena", "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNGJHZDBha0NhTXhxSVdzLUZ4NVVnU25FaWJ4U3c1dVhKc0lRVVRkclNKVHpLMjZZZmoySGNqSWl0czExWkRKR0hmZkVuT2xRM0JGRkRIVzdOeC1wT2F2YWRtWVdIQkROZEp4SF80X3AyT0djUVo0SEh3ZzBLLXg3MmVobTJXNmRUWkpfLUd4S2k4SUJFZXhabXgwYnlHTWo0Sjh1MHlmWmtPUQ?oc=5"}
+      ],
+      "notes_for_writer": "Verify exact current prices/retailers before publishing -- deal pricing changes daily."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c57"],
+      "working_title": "I Tested a Bunch of iPhone Duo Cases -- Here Are My Favorites",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 61,
+      "why_now": "With iPhone Duo cases now maturing into a real product category with varied designs, this is a genuine buying-guide opportunity as more shoppers own the device.",
+      "angle": "Build an original case buying guide around real use cases (drop protection, grip, pass-through functionality) rather than just copying someone else's picks.",
+      "format": "comparison",
+      "est_words": 700,
+      "headline_options": [
+        "I Tested a Bunch of iPhone Duo Cases -- Here Are My Favorites",
+        "The Best iPhone Duo Cases Worth Buying Right Now"
+      ],
+      "seo_keywords": ["best iphone duo cases", "iphone duo case buying guide"],
+      "sources": [
+        {"title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites -- 9to5Mac", "url": "https://9to5mac.com/2026/11/07/hands-on-i-tested-a-bunch-of-iphone-duo-cases-these-are-my-favorites-video/"}
+      ],
+      "notes_for_writer": "If possible, test cases firsthand rather than just re-listing another outlet's picks -- this format performs best as original testing, not aggregation."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c54"],
+      "working_title": "This New iPhone Camera App Finally Fixes Apple's Overprocessed Photos",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "Chromagraph Camera, a new third-party iPhone camera app from director Rian Johnson, is winning praise for producing less-processed, more natural-looking photos than Apple's own camera app.",
+      "angle": "Explain what Chromagraph actually does differently, who it's for, and how it compares to Apple's native film-texture option on iPhone 18 Pro/iPhone Duo.",
+      "format": "review-roundup",
+      "est_words": 600,
+      "headline_options": [
+        "This New iPhone Camera App Finally Fixes Apple's Overprocessed Photos",
+        "Chromagraph Camera Might Be the Best iPhone Camera App Right Now"
+      ],
+      "seo_keywords": ["chromagraph camera app iphone", "best iphone camera app 2026"],
+      "sources": [
+        {"title": "Chromagraph Camera is exactly the camera app I've been looking for on iPhone -- 9to5Mac", "url": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/"}
+      ],
+      "notes_for_writer": "Try the app yourself before publishing specific claims about image quality -- don't just restate 9to5Mac's opinion as fact."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c56"],
+      "working_title": "Anker's New MagGo 2 Pro Power Bank Offers Fast 25W MagSafe Charging",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "Anker's new MagGo 2 Pro power bank combines 25W MagSafe fast charging, active cooling, 10,000mAh capacity, and a smart display in one accessory -- a genuinely new option for iPhone users.",
+      "angle": "Compare it directly to Apple's own MagSafe battery pack and other top Anker/Belkin options on price and charging speed.",
+      "format": "review-roundup",
+      "est_words": 550,
+      "headline_options": [
+        "Anker's New MagGo 2 Pro Power Bank Offers Fast 25W MagSafe Charging",
+        "Is Anker's MagGo 2 Pro the Best MagSafe Power Bank Yet?"
+      ],
+      "seo_keywords": ["anker maggo 2 pro review", "best magsafe power bank 2026"],
+      "sources": [
+        {"title": "Hands-on: Anker's 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand -- 9to5Mac", "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/"}
+      ],
+      "notes_for_writer": "Confirm current US price and availability before publishing a buying recommendation."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c35"],
+      "working_title": "I Tested ColorOS 17 on the OnePlus 15: 3 Things You Need to Know",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "ColorOS 17 marks a notably different, AI-ambitious direction for OnePlus, based on genuine hands-on testing on the OnePlus 15.",
+      "angle": "Pull out the three most practically useful findings for someone deciding whether to update, rather than a full feature dump.",
+      "format": "review-roundup",
+      "est_words": 600,
+      "headline_options": [
+        "I Tested ColorOS 17 on the OnePlus 15: 3 Things You Need to Know",
+        "Is ColorOS 17 Worth Updating to on Your OnePlus 15?"
+      ],
+      "seo_keywords": ["coloros 17 oneplus 15", "coloros 17 review"],
+      "sources": [
+        {"title": "I tested ColorOS 17 on the OnePlus 15. Here are 3 things you need to know -- Android Authority", "url": "https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/"}
+      ],
+      "notes_for_writer": "Pair with the ColorOS 17 rollout schedule (watchlist) if you want a 'when will I get it' companion section."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c53"],
+      "working_title": "OnePlus Releases Its ColorOS 17 Rollout Schedule for November",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "OnePlus has published which devices get ColorOS 17 and when this November, fresh from GSMArena.",
+      "angle": "List exactly which OnePlus phones get the update and on what dates, in a scannable format.",
+      "format": "news",
+      "est_words": 400,
+      "headline_options": [
+        "OnePlus Releases Its ColorOS 17 Rollout Schedule for November",
+        "When Is Your OnePlus Phone Getting ColorOS 17?"
+      ],
+      "seo_keywords": ["coloros 17 rollout schedule", "which oneplus phones get coloros 17"],
+      "sources": [
+        {"title": "OnePlus releases its ColorOS 17 rollout schedule for November -- GSMArena", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SakVDaVppNzVmQ29Ob3cyQmhFb0IzNUdsSlBvb0E3QnNCR1prWldUNDczWjJlb3hzQUZ3ME5fQi1FeTdHQ184UVVZakJzYmFlQWFJN3Vn?oc=5"}
+      ],
+      "notes_for_writer": "Confirm the exact model list and dates against OnePlus's own community announcement before publishing."
+    }
+  ],
+  "watchlist": [
+    "Apple HomeView may add chatbot support -- code in iOS 27.3 beta references a 'Conversational Apps' category",
+    "macOS 27.3 could change how you grant AI agents Full Disk Access",
+    "Binance users in some European countries told to withdraw crypto before accounts close Dec. 31",
+    "DeepSeek's open-source agent app Harness hit 1.54M daily active users in under 3 months",
+    "vivo X500 Ultra reportedly on track to launch next year"
+  ]
+}

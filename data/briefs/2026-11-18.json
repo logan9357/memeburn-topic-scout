@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-18",
+  "language": "en",
+  "summary": "(reconstructed 2026-11-20 from Slack history — original was never committed to git due to a CI git-add bug; not for re-posting, for outcome-tracking analysis only)",
+  "topics": [
+    {
+      "rank": 1,
+      "category": "tech",
+      "working_title": "Apple services outage: iCloud, App Store, Apple Music down for users",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 85,
+      "format": "news",
+      "est_words": 400,
+      "headline_options": [
+        "Apple services down: iCloud, App Store, and Apple Music all affected",
+        "Is Apple down right now? Here's what's happening with iCloud and the App Store"
+      ],
+      "seo_keywords": [
+        "is apple down",
+        "icloud down",
+        "app store down",
+        "apple services outage"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "ai",
+      "working_title": "OpenAI launches GPT-6.2 Astra and Sol: what's new in ChatGPT and Codex",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 82,
+      "format": "news",
+      "est_words": 700,
+      "headline_options": [
+        "OpenAI's GPT-6.2 Astra and Sol are here — here's what's new",
+        "GPT-6.2 Astra vs. Sol: price, access, and how they compare to Claude and Gemini"
+      ],
+      "seo_keywords": [
+        "gpt-6.2 astra",
+        "gpt-6.2 sol",
+        "chatgpt gpt-6.2 price",
+        "gpt-6.2 vs claude"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "ai",
+      "working_title": "Nvidia's first earnings since Jensen Huang's exit: $115.8B revenue, no more H200 sales to China, SEC investigation",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "format": "news",
+      "est_words": 800,
+      "headline_options": [
+        "Nvidia beats estimates, exits China H200 sales, and faces an SEC probe — all in one earnings call",
+        "Nvidia's Q3 earnings: the numbers, the China exit, and the SEC investigation"
+      ],
+      "seo_keywords": [
+        "nvidia q3 earnings",
+        "nvidia h200 china",
+        "nvidia sec investigation",
+        "nvidia revenue 2026"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "crypto",
+      "working_title": "178 websites hacked to steal crypto from iPhone users — is your wallet at risk?",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 76,
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "178 websites were hacked to steal iPhone users' crypto — here's what to check",
+        "Is your iPhone at risk? Major sites hit by crypto-stealing malware"
+      ],
+      "seo_keywords": [
+        "iphone crypto malware",
+        "websites hacked crypto theft",
+        "is my iphone safe from malware",
+        "crypto wallet hack 2026"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "tech",
+      "working_title": "Why does it feel like everything is breaking? Inside a week of Apple, Microsoft and FAA outages",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 63,
+      "format": "explainer",
+      "est_words": 800,
+      "headline_options": [
+        "Why tech keeps breaking: a week of outages, explained",
+        "From Microsoft to Apple: why outages are hitting everything at once"
+      ],
+      "seo_keywords": [
+        "tech outages this week",
+        "why is everything down",
+        "microsoft 365 outage explained"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "crypto",
+      "working_title": "Why is Bitcoin dropping? Nvidia's selloff is dragging crypto toward $60K",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 62,
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Bitcoin risks falling below $60K as Nvidia's earnings rattle crypto markets",
+        "Why Bitcoin is sliding today: Nvidia, ETF outflows, and what it means"
+      ],
+      "seo_keywords": [
+        "why is bitcoin down today",
+        "bitcoin price today",
+        "bitcoin 60000",
+        "bitcoin nvidia selloff"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "phone",
+      "working_title": "iOS 27.3 beta: face unlock for iPhone Duo, a redesigned Health app, and 200K optimized apps",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 61,
+      "format": "listicle",
+      "est_words": 700,
+      "headline_options": [
+        "iOS 27.3 beta: every new feature worth knowing about",
+        "iPhone Duo's iOS 27.3 beta adds face unlock — here's what else is new"
+      ],
+      "seo_keywords": [
+        "ios 27.3 beta features",
+        "iphone duo face unlock",
+        "ios 27.3 release date"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "tech",
+      "working_title": "Google Wallet is coming to iPhone — here's what it can (and can't) do",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 59,
+      "format": "comparison",
+      "est_words": 500,
+      "headline_options": [
+        "Google Wallet is now on iPhone, but don't expect tap-to-pay",
+        "Google Wallet vs. Apple Wallet on iPhone: what's actually different"
+      ],
+      "seo_keywords": [
+        "google wallet ios",
+        "google wallet iphone",
+        "google wallet vs apple wallet"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "category": "phone",
+      "working_title": "How to set up EV routing on CarPlay and Android Auto",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 58,
+      "format": "how-to",
+      "est_words": 700,
+      "headline_options": [
+        "How to set up EV routing on CarPlay and Android Auto",
+        "EV road trip? Here's how to turn on charger routing on your phone"
+      ],
+      "seo_keywords": [
+        "ev routing carplay",
+        "android auto ev charging",
+        "how to find ev chargers carplay"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "category": "phone",
+      "working_title": "Leak: Samsung could beat Apple to a bezel-less phone display",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 57,
+      "format": "comparison",
+      "est_words": 500,
+      "headline_options": [
+        "Samsung could beat Apple to a bezel-less phone — here's the leak",
+        "Bezel-less phones: is Samsung about to beat Apple to it?"
+      ],
+      "seo_keywords": [
+        "samsung bezel-less phone",
+        "samsung vs apple display",
+        "bezel-less smartphone 2027"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    }
+  ]
+}

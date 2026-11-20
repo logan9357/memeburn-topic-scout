@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-10",
+  "language": "en",
+  "summary": "Thin phone-news day (6/9 picks, ~67%, below the usual 70% target — widened the net on leaks/accessories rather than force weak filler) but Anthropic's Claude Fable 5.2/Mythos 5.2 launch is the big story across every major outlet. Samsung's Galaxy AI going partly paid is the top phone angle, with iPhone 18/18e and Galaxy S27 buying-decision leaks rounding out the mix.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01"],
+      "working_title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 81,
+      "why_now": "Announced within the last ~18 hours; covered within hours by The Verge, TechCrunch, 9to5Mac and The Decoder, plus 900+ points on HN. Memeburn has nothing on it yet.",
+      "angle": "Cut through the launch-day noise: what's actually new in Fable 5.2 vs Mythos 5.2, the Artificial Analysis benchmark claim, and the $8/$40 per-million-token pricing — framed for readers deciding which model to use, not for ML researchers.",
+      "format": "news",
+      "est_words": 650,
+      "headline_options": ["Anthropic Launches Claude Fable 5.2 and Mythos 5.2 — Here's What's New", "Claude Fable 5.2 Just Topped the AI Benchmarks — Should You Switch?"],
+      "seo_keywords": ["claude fable 5.2", "claude mythos 5.2", "claude fable 5.2 vs mythos", "anthropic new ai model"],
+      "sources": [
+        {"title": "Anthropic launches new Claude Fable and Mythos 5.2 models", "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"},
+        {"title": "Anthropic releases new Mythos and Fable models amid RSI concerns", "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"},
+        {"title": "Anthropic upgrades Claude with new Fable 5.2 model, details here", "url": "https://9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here/"}
+      ],
+      "notes_for_writer": "TechCrunch's RSI (recursive self-improvement) framing is speculative editorializing — don't restate it as confirmed fact. Pricing ($8/1M input, $40/1M output) should be cited as Anthropic's own stated figures."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c06"],
+      "working_title": "Leak: Samsung's Galaxy AI Is Going Partly Paid With a New Premium Tier",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 79,
+      "why_now": "GSMArena and Android Authority both report a leaked Samsung plan for a ~$4.99 Galaxy AI Premium subscription alongside a free tier — a direct 'will I have to pay for Galaxy AI' question US Galaxy owners will be searching.",
+      "angle": "Clear breakdown of what stays free vs. what the leak says moves behind the $4.99 paywall, and how that compares to what Apple and Google currently charge (or don't) for their AI assistants — classic comparison format.",
+      "format": "comparison",
+      "est_words": 700,
+      "headline_options": ["Leak: Samsung's Galaxy AI Is Going Partly Paid With a New Premium Tier", "Here's What Galaxy AI Features Might Soon Cost You $4.99/Month"],
+      "seo_keywords": ["galaxy ai premium price", "samsung galaxy ai subscription", "galaxy ai free vs paid"],
+      "sources": [
+        {"title": "Leak details Samsung's plans for Galaxy AI Premium: new features on free and paid tiers", "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMTA3N3Mwem9LTDhpcGtHZFVEMGtKRkxpMGswMVdYZXRsVDY4UGEwY3Y0enVpS29jU2RYUktMbkdaRHNkNThGMG1McHlrU0hvWWZacWtOR2ZpSV9Ra1hWRzNrUFJvSEZQVVlCMVEtdFhJZzNYRmc5T3lJR0M4WUhPQmd3UGVneEE0dkZGWlFnYjNXeExCOTlsUVYyYXIxSVZYYk5iQ096WkJ3MDRma2dvLWgtbEV2eTRyTXUtOVZlaVp2X0HSAb8BQVVfeXFMT3Rqc3dfQ1daYlVQUjJXZGhfYXdkbTVoS25SWDJENkZTbnFYTUw3cXhYZ2lfbGFnLXZIcnhaZXp1YWJHcFpvLUNVcXQtMnFFZlp3V3JPeEdvXzA2SkprS2dfeldLemlwZHhJUVJmQ1VDc29kc3Q3NzNwRGN0bC1ieFJ2bFJqczZlYWRYdzRWT1FhVzFvMlhzUlh6UDFBbUFfMXZMYV9nUFE1Yk4zbTFJMXR4R0Jjdl9Jd1NvTnZfNVE?oc=5"},
+        {"title": "Samsung could soon start charging for Galaxy AI with a new $4.99 Premium subscription", "url": "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/"}
+      ],
+      "notes_for_writer": "This is a leak, not a confirmation — say so explicitly in the headline/lede. Samsung hasn't officially announced pricing or a rollout date."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c03"],
+      "working_title": "Apple's New $50 'Intelligence Usage Packs' Let You Buy More AI When You Hit Your Cap",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 73,
+      "why_now": "Confirmed same-day by Techmeme, The Verge and 9to5Mac: Apple is now selling one-time $50 AI top-ups in Creator Studio apps like Logic Pro once monthly usage caps are hit.",
+      "angle": "Explain exactly who this affects (Creator Studio/Logic Pro users hitting AI caps), what $50 buys, and whether it signals Apple Intelligence pricing more broadly moving toward pay-as-you-go.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["Apple's New $50 'Intelligence Usage Packs' Let You Buy More AI When You Hit Your Cap", "Hit Your Apple Intelligence Limit? That'll Be $50"],
+      "seo_keywords": ["apple intelligence usage pack", "apple ai usage pack price", "apple creator studio ai limit"],
+      "sources": [
+        {"title": "Apple's $50 Intelligence Usage Packs extend access to some AI features", "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"},
+        {"title": "Apple launches $50 \"intelligence usage packs\" for select AI features", "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"}
+      ],
+      "notes_for_writer": "Confirm whether this applies only to Creator Studio/Logic Pro or is rolling out more broadly to standard Apple Intelligence features before publishing."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c29"],
+      "working_title": "Leak: iPhone 18 and 18e Will Reportedly Share the Same Screen and Battery Size",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 71,
+      "why_now": "GSMArena reports a fresh leak claiming the iPhone 18 and 18e will share identical screen and battery dimensions, feeding directly into 'should I wait for the 18 or get the cheaper 18e' searches that run for months pre-launch.",
+      "angle": "Straightforward comparison: if the leak holds, what's left to actually differentiate the 18 from the 18e (chip, cameras, price), and whether the cheaper model becomes a much easier recommendation.",
+      "format": "comparison",
+      "est_words": 550,
+      "headline_options": ["Leak: iPhone 18 and 18e Will Reportedly Share the Same Screen and Battery Size", "iPhone 18 vs 18e: The Gap Might Be Smaller Than You Think"],
+      "seo_keywords": ["iphone 18 vs 18e", "iphone 18e screen size", "iphone 18 leak"],
+      "sources": [
+        {"title": "iPhone 18 and 18e to feature same sized screens and batteries - GSMArena.com news - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEVkYklpWm5RTzBWUl90SWFKaXUwQmwwRGY3a3pTUkI0OXc0aTBrbXFjTlRxaU9COUUzcXlKN1F5QVVpXzJvdWZ1bC10SnpFTTFHTHdReUd0TGN2a0hSZlNhZkdUWXZfX0RiTF9NSC1IWWF1RFViRVFKV1dib0stQ0NHajVGVi16NWtqLUtnU3RRM3Uta2RoS0ZCVVdVMXhXWmpydUNn0gGiAUFVX3lxTE1KTkx6WmMtQWkzVWxoMXZrZGRqVW9jTHNBc0doWWRBb211VDBYZVc5bEZlNS1ldkRxS3BLV213UzZGVG9mSFNpZmllQlRJUm11MlpZTU9fa3ZHbTQycktCM0VEbUxQVXdnNXdzNlAzdTF0NmhoaHktdjRtTlFVQzVWTE1VMkJzSGZ2a0dTSEZBUzFYeHZGM1pOSG9WUVdVeUIwUQ?oc=5"}
+      ],
+      "notes_for_writer": "Single-source leak — hedge language ('reportedly', 'if accurate') throughout, don't present as confirmed spec."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c48"],
+      "working_title": "Samsung Is Reportedly Putting 70% of Galaxy S27 Production Into the Ultra and Pro",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "Android Authority reports Samsung is weighting Galaxy S27 manufacturing heavily toward the Ultra and a new Pro tier — a supply signal that directly informs which model US buyers will actually be able to get.",
+      "angle": "Frame as a buying-guide signal: if the base S27 gets a smaller production run, what that means for availability/discounting at launch, and whether that nudges buyers toward Ultra/Pro anyway.",
+      "format": "comparison",
+      "est_words": 550,
+      "headline_options": ["Samsung Is Reportedly Putting 70% of Galaxy S27 Production Into the Ultra and Pro", "Galaxy S27: Why the Base Model Might Be Hard to Find at Launch"],
+      "seo_keywords": ["galaxy s27 ultra vs pro", "galaxy s27 production", "which galaxy s27 to buy"],
+      "sources": [
+        {"title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro", "url": "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/"}
+      ],
+      "notes_for_writer": "Single-source supply-chain report — attribute to Android Authority's sourcing and avoid stating it as Samsung's confirmed plan."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c02"],
+      "working_title": "Meta Releases Muse Ember, a Small AI Model Built for Everyday Agent Tasks",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "Same-day coverage from Techmeme, TechCrunch and The Decoder on Meta's new lightweight model aimed at cheap, repetitive agent work rather than frontier benchmarks.",
+      "angle": "Explain what 'smallest, most efficient' actually buys developers/readers in practice — cost and latency for simple agent tasks — rather than another benchmark chart nobody outside ML will parse.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": ["Meta Releases Muse Ember, a Small AI Model Built for Everyday Agent Tasks", "Meta's New Muse Ember Model Is Tiny on Purpose — Here's Why"],
+      "seo_keywords": ["meta muse ember", "muse ember ai model", "meta small ai model"],
+      "sources": [
+        {"title": "Meta releases Muse Ember, a new lightweight model for agent execution", "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"},
+        {"title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do", "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/"}
+      ],
+      "notes_for_writer": "Check Meta's own research blog post for exact pricing/availability details before publishing."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c21"],
+      "working_title": "GSMArena Announces Finalists for Its 2026 End-of-Year Phone Awards",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 67,
+      "why_now": "GSMArena's year-end awards finalists just dropped, feeding the perennial 'best phone of 2026' search surge that runs through December.",
+      "angle": "Don't just re-list the finalists — pull out the categories most relevant to US buyers (best flagship, best value, best camera) and add a quick take on who Memeburn thinks should win.",
+      "format": "listicle",
+      "est_words": 650,
+      "headline_options": ["GSMArena Just Named Its 2026 Phone Award Finalists — Here Are the Big Snubs", "The Best Phones of 2026, According to GSMArena's Award Finalists"],
+      "seo_keywords": ["best phone 2026", "gsmarena 2026 awards", "best phone of the year 2026"],
+      "sources": [
+        {"title": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUZub2gxWVJrUDBPbkJzZnpUemdRNnR1c0YzZnFuMHlWLTZac0pPREIwZGh6bC1nWVN4LW1pUzctZHNBT3FkbHkyRmNNQmJfLVlMSkNJNFZIMlhUVTJRXzZlcHk1YUs1RjcwZHlkQU1QSUJDUzFlV1lUNmp1NXRLVlREZXpJR0ZlWUw1NWZfdUxFNi1BWnVJaHQwVXZwTDJmUzVrYQ?oc=5"}
+      ],
+      "notes_for_writer": "Pull the actual finalist list from the article before writing — don't guess at nominees."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c46"],
+      "working_title": "Leak: One UI 9.5 Adds 'Shorten' and 'Translate' Shortcuts to Samsung Keyboard",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "Android Authority spotted new Shorten and Translate shortcuts for Samsung Keyboard in a One UI 9.5 build — a small but concrete feature leak for Galaxy owners tracking the update.",
+      "angle": "Quick-hit feature breakdown: what Shorten and Translate actually do in practice, and whether they're AI-powered extras or simple keyboard shortcuts.",
+      "format": "news",
+      "est_words": 350,
+      "headline_options": ["Leak: One UI 9.5 Adds 'Shorten' and 'Translate' Shortcuts to Samsung Keyboard", "Samsung Keyboard Is Getting Smarter in One UI 9.5 — Here's How"],
+      "seo_keywords": ["one ui 9.5 samsung keyboard", "one ui 9.5 new features", "samsung keyboard translate shortcut"],
+      "sources": [
+        {"title": "One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard", "url": "https://www.androidauthority.com/samsung-keyboard-one-ui-9-5-shorten-translate-leak-3733097/"}
+      ],
+      "notes_for_writer": "Short, quick-turnaround piece — pairs well with the Galaxy AI Premium story (rank 2) as a same-update companion link."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c50"],
+      "working_title": "This MagSafe Wallet Is Built for People Who Still Carry Cash",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "9to5Mac's roundup highlights Pelican's new MagSafe wallet accessory — timely as holiday gift-guide searches for iPhone accessories start ramping up in mid-November.",
+      "angle": "Treat as a quick gift-guide-style accessory highlight: who it's for, price, and how it stacks up against Apple's own MagSafe wallet.",
+      "format": "review-roundup",
+      "est_words": 400,
+      "headline_options": ["This MagSafe Wallet Is Built for People Who Still Carry Cash", "Pelican's New MagSafe Wallet Wants to Replace Your Old Leather One"],
+      "seo_keywords": ["best magsafe wallet 2026", "pelican magsafe wallet", "magsafe wallet for cash"],
+      "sources": [
+        {"title": "MagSafe Monday: Pelican's MagSafe wallet is built for the people who still carry cash", "url": "https://9to5mac.com/2026/11/09/pelicans-magsafe-wallet-is-for-the-people-who-still-carry-cash/"}
+      ],
+      "notes_for_writer": "Confirm current US price/availability before publishing a buying recommendation."
+    }
+  ],
+  "watchlist": [
+    "Elliptic/Bloomberg: North Korean hackers behind the $6.3B Binance heist laundered ~$430K via at least six NEAR-chain memecoins — worth a follow if US regulators (OFAC/SEC) comment.",
+    "Coinbase gets a full U.S. trust charter from its federal banking regulator — regulatory crypto story, watch for market reaction.",
+    "Solana's Formation Securities plans a tokenized-stock trading venue under an SEC exemption, listing Galaxy — early-stage, watch for launch date.",
+    "Show HN 'MeowDisplay' (reverse iPhone-to-Mac mirroring tool) — niche but gaining HN traction; revisit if it crosses into mainstream coverage.",
+    "Honor 700's rear-screen teaser — currently low US relevance (no official US retail), watch if a US launch gets confirmed."
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-07",
+  "language": "en",
+  "summary": "Tesla winding down Cybertruck production (861 HN points) and OpenAI's fresh $11B raise at a $1.25T valuation dominate the non-phone slots, while phone news leans on Apple's DOJ antitrust fight, a one-less-button iPhone rumor, and the Oppo Find X10 Ultra's reported cancellation. 7/10 picks are phone (70%).",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c10"],
+      "working_title": "Tesla Is Winding Down Cybertruck Production",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 73,
+      "why_now": "Tesla is winding down Cybertruck production after years of poor sales, according to NBC News -- a huge story with 861 Hacker News points and 1,725 comments.",
+      "angle": "Explain what's actually happening to the Cybertruck line (not a full shutdown necessarily), why sales underperformed, and what it means for anyone who already owns or ordered one.",
+      "format": "news",
+      "est_words": 650,
+      "headline_options": [
+        "Tesla Is Winding Down Cybertruck Production",
+        "Why Is Tesla Scaling Back the Cybertruck?"
+      ],
+      "seo_keywords": ["tesla cybertruck production end", "cybertruck discontinued", "tesla cybertruck sales"],
+      "sources": [
+        {"title": "Tesla to wind down Cybertruck production -- NBC News", "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"}
+      ],
+      "notes_for_writer": "Single-source -- verify with Tesla's own statements or production data before framing this as a confirmed full wind-down vs. a scale-back."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c09"],
+      "working_title": "OpenAI Raises $11B More, Now Valued at $1.25 Trillion",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 71,
+      "why_now": "OpenAI has closed roughly $11B in new funding at a $1.25T valuation, with the round potentially growing to $20B -- just months after raising $122B in March at $852B. Covered by Bloomberg via Techmeme, The Verge, and TechCrunch.",
+      "angle": "Put the valuation jump in context against OpenAI's past rounds and against rival Anthropic's shakier IPO prospects reported the same week.",
+      "format": "news",
+      "est_words": 600,
+      "headline_options": [
+        "OpenAI Raises $11B More, Now Valued at $1.25 Trillion",
+        "OpenAI's Valuation Just Jumped to $1.25 Trillion -- Here's What Changed"
+      ],
+      "seo_keywords": ["openai valuation $1.25 trillion", "openai funding round 2026"],
+      "sources": [
+        {"title": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation -- Techmeme/Bloomberg", "url": "https://www.techmeme.com/261106/p22#a261106p22"},
+        {"title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO -- The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"}
+      ],
+      "notes_for_writer": "Financial news, not investment advice -- stick to reported figures."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c38"],
+      "working_title": "Apple's DOJ Antitrust Fight Is Dragging in Epic, Samsung, Oura, and Roblox",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 63,
+      "why_now": "Several tech companies are pushing back against subpoenas issued by Apple and the DOJ in their ongoing antitrust battle -- fresh details from 9to5Mac.",
+      "angle": "Explain what each company is being asked to hand over and why they're resisting, and what this phase of the case means for the broader antitrust fight.",
+      "format": "explainer",
+      "est_words": 650,
+      "headline_options": [
+        "Apple's DOJ Antitrust Fight Is Dragging in Epic, Samsung, Oura, and Roblox",
+        "Why Are Epic, Samsung, and Oura Fighting Subpoenas in Apple's DOJ Case?"
+      ],
+      "seo_keywords": ["apple doj antitrust case 2026", "apple antitrust epic samsung subpoena"],
+      "sources": [
+        {"title": "Apple's DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more -- 9to5Mac", "url": "https://9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more/"}
+      ],
+      "notes_for_writer": "Single-source -- check court filings directly where possible for the specific subpoena disputes."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c03"],
+      "working_title": "US Intelligence Says China Recruited an AI Exec to Spy on Nvidia's Jensen Huang",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency to collect intelligence on Nvidia CEO Jensen Huang, per the New York Times, covered by The Verge and Techmeme within hours.",
+      "angle": "Lay out exactly what intelligence officials allege happened and why Jensen Huang specifically is a target given Nvidia's chip-export significance.",
+      "format": "news",
+      "est_words": 600,
+      "headline_options": [
+        "US Intelligence Says China Recruited an AI Exec to Spy on Nvidia's Jensen Huang",
+        "Why US Intelligence Thinks China Targeted Nvidia's CEO"
+      ],
+      "seo_keywords": ["jensen huang china spy allegations", "nvidia china espionage"],
+      "sources": [
+        {"title": "China reportedly recruited AI exec to spy on Jensen Huang -- The Verge", "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"},
+        {"title": "Sources: US intelligence concluded Alice Huang was recruited by China's MSS -- Techmeme/NYT", "url": "https://www.techmeme.com/261106/p24#a261106p24"}
+      ],
+      "notes_for_writer": "This is an espionage allegation, not a proven fact -- attribute every claim to US intelligence sources/NYT reporting, don't state it as settled fact."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c20"],
+      "working_title": "Future iPhones Will Have One Less Button, New Rumor Claims",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "A new rumor claims future iPhones will ditch a physical button, fresh from GSMArena.",
+      "angle": "Explain which button is reportedly being cut, what would replace its function, and how this fits Apple's broader minimalist-hardware trend (Action Button, Camera Control history).",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Future iPhones Will Have One Less Button, New Rumor Claims",
+        "Is Apple About to Remove a Physical Button From the iPhone?"
+      ],
+      "seo_keywords": ["future iphone no button rumor", "iphone button removed leak"],
+      "sources": [
+        {"title": "Future iPhones will have one less button, new rumor claims -- GSMArena", "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0ZMaUM0Q1oyWXJlN3NSWERJMXUyWVJSRGVOeV9fSVVmSnh4ajJGZ1FhcnRyTW90Rmc2OHAtZ3VoaVgyYnVkLUhVNUg2V1h0RENQUm1sdW1lODRZY19uNlQ2RlhvY3dzck82Qk0zQnYyYURVZjdwYjlaU3ZZbDZQdEQwWG9tNGZyZXZCLWk2Snp0VmRPbml2NTZ0Sm1aZ9IBmgFBVV95cUxOZ09sZjNIRTVoNzlCTE0yLU1DT1pXZEVQWTRXYjNLWDFjUDEzTDlHUnVVMURKU1N3YjNhTmV1MmJEZmEyVzBCSUJWZVlkQzZvTkQzOU5fVHRSallnTTlqM3BHYlB2TDQ1TFRnaDdqalFmWDZZUGg4UFJnbHlNZXEzVWNfTTVLWWRmeU53RkFTN1NUUW5vdGtzZEx3?oc=5"}
+      ],
+      "notes_for_writer": "Single-source leak -- label clearly as a rumor, specify which button is affected rather than being vague."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c32"],
+      "working_title": "Samsung's Android XR Glasses Get a Joaquin Phoenix Teaser",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "Eyewear brand Gentle Monster teased Samsung's upcoming Android XR glasses with a short film featuring Joaquin Phoenix -- a notable celebrity tie-in for a product that hasn't formally launched. Fresh from Android Authority.",
+      "angle": "Explain what's actually confirmed about the Samsung/Gentle Monster Android XR glasses partnership versus what's still speculation, and when a real launch might happen.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Samsung's Android XR Glasses Get a Joaquin Phoenix Teaser",
+        "Joaquin Phoenix Is Starring in Samsung's Android XR Glasses Teaser"
+      ],
+      "seo_keywords": ["samsung android xr glasses", "samsung gentle monster glasses"],
+      "sources": [
+        {"title": "Gentle Monster teases Samsung Android XR glasses with some help from Joaquin Phoenix -- Android Authority", "url": "https://www.androidauthority.com/joaquin-phoenix-smart-glasses-teaser-3732678/"}
+      ],
+      "notes_for_writer": "No hardware specs or release date are confirmed yet -- don't speculate beyond the teaser's actual content."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c51"],
+      "working_title": "iOS 27.2 Adds Three New Ways to Customize Your iPhone",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "iOS 27.2, which launched last week, includes several new iPhone personalization options that haven't gotten much attention yet.",
+      "angle": "Walk through each of the three customization options step by step so readers can actually try them.",
+      "format": "how-to",
+      "est_words": 550,
+      "headline_options": [
+        "iOS 27.2 Adds Three New Ways to Customize Your iPhone",
+        "3 iOS 27.2 Features That Make Your iPhone Feel New"
+      ],
+      "seo_keywords": ["ios 27.2 customize iphone", "ios 27.2 new features"],
+      "sources": [
+        {"title": "iOS 27.2 adds three new ways to customize your iPhone -- 9to5Mac", "url": "https://9to5mac.com/2026/11/06/ios-27-2-adds-three-new-ways-to-customize-your-iphone/"}
+      ],
+      "notes_for_writer": "Walk through each customization option on an actual device running iOS 27.2 to verify the steps."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c08"],
+      "working_title": "Oppo's Find X10 Ultra Has Reportedly Been Cancelled",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "The successor to one of the best camera phones around may have been scrapped, according to GSMArena and Android Authority leaks published within minutes of each other.",
+      "angle": "Explain what's reportedly driving the cancellation and what it means for Oppo's flagship camera-phone ambitions going forward.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Oppo's Find X10 Ultra Has Reportedly Been Cancelled",
+        "What Happened to the Oppo Find X10 Ultra?"
+      ],
+      "seo_keywords": ["oppo find x10 ultra cancelled", "oppo find x10 ultra news"],
+      "sources": [
+        {"title": "Oppo Find X10 Ultra has reportedly been cancelled -- GSMArena", "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU09GSFlJU3d0WTExaFVGSXlPRVg4cko3S1ZYNW9xcUpqS19NSEFlWlF6MTFONXFxbklRZ2x4SzFjTVFOWG94UkpGSl84QjQzbjk4ajhENnZHbzlwQWQ4aTFjdElMS1Z1TDdTbXhseUNUN3N5bUY4YnpqTkFxcE02aldyc0M4MTJ4R1F30gGHAUFVX3lxTE0zSWptUU9iU1JlSjM1YnRoVTJYY0hNWUJvV2laZzhtXzRBV1dsaXRjV3BlRWFFUnBjN3Mwb2k4WnVOU1NWTG90bXNXTURUSWxqOWk2OEpKbVZzS3MyZ2N5eS10ZTlCSlB5eUFyOC1iaWFtX09mVE9jX2VKaER5bnl1MjdYS1YtUQ?oc=5"},
+        {"title": "Leaker says OPPO may have suspended the Find X10 Ultra -- Android Authority", "url": "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/"}
+      ],
+      "notes_for_writer": "This is unconfirmed by Oppo -- label clearly as a leak/report, not a confirmed cancellation."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c36"],
+      "working_title": "Samsung Health Bug Is Wiping Out Users' Step History",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 57,
+      "why_now": "A Samsung Health bug is leaving users with missing step history -- a real 'is this happening to me too' consumer issue, fresh from Android Authority.",
+      "angle": "Confirm whether the data is actually lost or just hidden/delayed, and give affected users practical steps to check and recover their history.",
+      "format": "how-to",
+      "est_words": 450,
+      "headline_options": [
+        "Samsung Health Bug Is Wiping Out Users' Step History",
+        "Is Your Samsung Health Step Data Missing? Here's What to Do"
+      ],
+      "seo_keywords": ["samsung health missing steps", "samsung health step history bug"],
+      "sources": [
+        {"title": "Samsung Health bug leaves users with missing step history -- Android Authority", "url": "https://www.androidauthority.com/samsung-health-missing-step-history-update-3732669/"}
+      ],
+      "notes_for_writer": "Per the source, data isn't actually wiped -- make that reassurance clear early in the piece rather than alarming readers."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c41"],
+      "working_title": "Some Nest Doorbells Have Stopped Showing Live Video",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "Some Nest doorbell owners have lost live video feed access -- a practical, affects-real-people issue, fresh from Android Authority.",
+      "angle": "Confirm which Nest models are affected, whether Google has acknowledged the issue, and any workaround while a fix is pending.",
+      "format": "how-to",
+      "est_words": 400,
+      "headline_options": [
+        "Some Nest Doorbells Have Stopped Showing Live Video",
+        "Is Your Nest Doorbell's Live Feed Broken? You're Not Alone"
+      ],
+      "seo_keywords": ["nest doorbell live view not working", "nest doorbell broken 2026"],
+      "sources": [
+        {"title": "Some Nest doorbells have stopped showing the live video feed -- Android Authority", "url": "https://www.androidauthority.com/nest-doorbell-live-view-broken-3732672/"}
+      ],
+      "notes_for_writer": "Check Google's support forums/status page for an official acknowledgment or fix timeline before publishing."
+    }
+  ],
+  "watchlist": [
+    "Google acquired Crusoe's troubled Wyoming data center site after Crusoe failed to lock in customers",
+    "Greece approves 10% tax on crypto gains and 15% levy on DeFi income starting 2027",
+    "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+    "Bitcoin recovers $76,000 level as ETFs shed $430M after the tech rout",
+    "Zcash's NU7 upgrade goes live but leaves $15M in legacy Sprout funds unspendable"
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "date": "2026-11-17",
+  "language": "en",
+  "summary": "(reconstructed 2026-11-20 from Slack history — original was never committed to git due to a CI git-add bug; not for re-posting, for outcome-tracking analysis only)",
+  "topics": [
+    {
+      "rank": 1,
+      "category": "ai",
+      "working_title": "California's AG Sues OpenAI Over Rogue AI Agents That Hacked Hugging Face",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 82,
+      "format": "news",
+      "est_words": 650,
+      "headline_options": [
+        "California Sues OpenAI Over AI Agents That Hacked Hugging Face",
+        "The First Lawsuit Over a Rogue AI Agent Hack Just Landed"
+      ],
+      "seo_keywords": [
+        "california sues openai",
+        "openai hugging face lawsuit",
+        "openai rogue ai agents",
+        "rob bonta openai"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "ai",
+      "working_title": "Nvidia's Board Rules Out a Jensen Huang Comeback — Now It's a National Security Probe",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "format": "news",
+      "est_words": 650,
+      "headline_options": [
+        "Nvidia's Board Just Ruled Out Bringing Jensen Huang Back",
+        "Why Nvidia's Jensen Huang Story Just Became a National Security Matter"
+      ],
+      "seo_keywords": [
+        "jensen huang nvidia board",
+        "nvidia national security investigation",
+        "jensen huang return"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "tech",
+      "working_title": "Chase, Wells Fargo and Bank of America Go Down in a Widespread Online Banking Outage",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 76,
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "Chase, Wells Fargo and Bank of America Are Down — Here's What Happened",
+        "Is Your Bank Down? What We Know About Today's Outage"
+      ],
+      "seo_keywords": [
+        "chase down",
+        "bank of america outage",
+        "wells fargo online banking down",
+        "is chase down today"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "phone",
+      "working_title": "The iPhone Duo Is Getting Face Unlock — But It's Not Face ID",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 75,
+      "format": "news",
+      "est_words": 550,
+      "headline_options": [
+        "The iPhone Duo Is Getting Face Unlock — But It's Not Face ID",
+        "Here's What iPhone Duo's New Face Unlock Actually Does"
+      ],
+      "seo_keywords": [
+        "iphone duo face unlock",
+        "iphone duo face id",
+        "ios 27.3 beta features"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "crypto",
+      "working_title": "Bitcoin Is Flirting With a 4-Month Low as Nvidia's Earnings Loom",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 70,
+      "format": "explainer",
+      "est_words": 650,
+      "headline_options": [
+        "Why Bitcoin Is Sliding Toward a 4-Month Low Right Before Nvidia's Earnings",
+        "Bitcoin's Next Move Might Depend on Nvidia, Not Crypto News"
+      ],
+      "seo_keywords": [
+        "why is bitcoin down",
+        "bitcoin 4 month low",
+        "bitcoin price nvidia earnings",
+        "bitcoin $60000"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "tech",
+      "working_title": "Uber and Cybersecurity Giant Infoblox Both Confirm Data Breaches",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "Uber Confirms Driver's License Data Stolen in a Breach — What to Do",
+        "Two Big Breaches in One Day: What Infoblox and Uber Are Telling Customers"
+      ],
+      "seo_keywords": [
+        "uber data breach drivers license",
+        "infoblox security incident",
+        "is uber driver data safe"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "tech",
+      "working_title": "A Hacked Ad-Testing Tool Served Malicious Code to CNN, BBC, Zoom and 175 Other Sites",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 66,
+      "format": "news",
+      "est_words": 600,
+      "headline_options": [
+        "A Hacked Ad Tool Served Malicious Code to CNN, BBC, Zoom and 175 Other Sites",
+        "Why a Single Hacked Tool Just Hit Zoom, HSBC and the BBC at Once"
+      ],
+      "seo_keywords": [
+        "optimizely hack",
+        "optimizely malicious javascript",
+        "supply chain attack 178 organizations"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "crypto",
+      "working_title": "Crypto Exchange Lighter Suspends Withdrawals After a $10.4 Million Exploit",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "format": "news",
+      "est_words": 550,
+      "headline_options": [
+        "Lighter Suspends Withdrawals After a $10.4 Million Exploit",
+        "Lighter Recovers Half of What Hackers Stole — Here's the Full Story"
+      ],
+      "seo_keywords": [
+        "lighter exploit",
+        "lighter withdrawals suspended",
+        "lighter dex hack"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "category": "tech",
+      "working_title": "Carnegie Mellon Just Put Its Computer Science Courses on YouTube for Free",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 63,
+      "format": "how-to",
+      "est_words": 600,
+      "headline_options": [
+        "Carnegie Mellon Put Its Computer Science Courses on YouTube for Free",
+        "You Can Now Watch Carnegie Mellon's CS Classes for Free — Here's What's There"
+      ],
+      "seo_keywords": [
+        "free computer science courses",
+        "carnegie mellon youtube cs courses",
+        "learn computer science free"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "category": "ai",
+      "working_title": "Google Says Fully Automated AI Cyberattacks Have Already Started",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 62,
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": [
+        "Google Says Fully Automated AI Cyberattacks Have Already Started",
+        "An AI Framework Just Hacked Systems With Zero Human Help, Google Says"
+      ],
+      "seo_keywords": [
+        "ai cyberattacks automated",
+        "google exploit_agent",
+        "autonomous ai hacking"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "category": "ai",
+      "working_title": "The Questions Nvidia Needs to Answer at Tuesday's Earnings — and Probably Won't",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 60,
+      "format": "explainer",
+      "est_words": 600,
+      "headline_options": [
+        "What to Watch For in Nvidia's Big Earnings Call This Week",
+        "Nvidia Reports Earnings Tuesday — Here's What's Actually at Stake"
+      ],
+      "seo_keywords": [
+        "nvidia earnings date",
+        "nvidia q3 2026 earnings",
+        "colette kress nvidia"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "category": "tech",
+      "working_title": "Instagram Now Lets Creators Drop Amazon Affiliate Links Right Into Reels and Posts",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 59,
+      "format": "how-to",
+      "est_words": 500,
+      "headline_options": [
+        "Instagram Now Lets Creators Add Amazon Links Directly to Reels",
+        "How Creators Can Add Amazon Affiliate Links to Instagram Reels"
+      ],
+      "seo_keywords": [
+        "instagram amazon affiliate links",
+        "instagram reels amazon links",
+        "how to add amazon links instagram"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "category": "phone",
+      "working_title": "Android Fast Switch Looks Like Google's Answer to iPhone's Handoff",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "Android Fast Switch Looks Like Google's Answer to iPhone's Handoff",
+        "Google Is Building Its Own Version of Apple's Handoff for Android"
+      ],
+      "seo_keywords": [
+        "android fast switch",
+        "android handoff feature",
+        "google sim sharing tool"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "category": "phone",
+      "working_title": "T-Mobile Is Reportedly Building New Prepaid Plans Starting at $20 a Month",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 58,
+      "format": "news",
+      "est_words": 500,
+      "headline_options": [
+        "T-Mobile Is Reportedly Building $20-a-Month Prepaid Plans",
+        "T-Mobile's New Prepaid Plans Could Start at Just $20 — Here's What's Known"
+      ],
+      "seo_keywords": [
+        "t-mobile prepaid plans 2026",
+        "cheap phone plan t-mobile",
+        "t-mobile $20 plan"
+      ],
+      "why_now": "(reconstructed from Slack post-hoc, original brief file was never committed)",
+      "angle": "(reconstructed from Slack post-hoc)",
+      "sources": [
+        {
+          "title": "reconstructed",
+          "url": "https://memeburn.com/"
+        }
+      ]
+    }
+  ]
+}

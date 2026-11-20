@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-13",
+  "language": "en",
+  "summary": "Huge AI day: Jensen Huang has actually resigned as Nvidia CEO — a major escalation from yesterday's 'board preparing to oust' reporting — alongside Google's Gemini 4 Hydrogen launch and a Microsoft Outlook outage. That non-phone news is too big and too fast-moving to trim, so phone comes in at 5/10 (50%) today, well under the usual 70% target; phone itself was a genuinely quiet day (US carrier news, a market-share stat, minor leaks) rather than thin because of neglect.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01", "c16", "c29", "c43"],
+      "working_title": "Jensen Huang Resigns as Nvidia CEO Amid Affair Scandal",
+      "category": "ai",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 90,
+      "why_now": "This is a confirmed resignation, not just board deliberation — TechCrunch, The Verge, Android Authority and Techmeme (citing NYT/Reuters) report Huang is out, Colette Kress is interim CEO, Huang has agreed to testify before Congress, a third affair has been reported, and Trump has floated Tim Cook as a successor. This is a material escalation from Memeburn's Nov 8 and our Nov 12 brief's 'board preparing to oust' coverage — lead with what's new: he's actually out.",
+      "angle": "One clear update-style piece: confirm the resignation and interim leadership, summarize the scandal timeline in two sentences for readers catching up, and cover the two live threads readers will search for — who becomes permanent CEO, and what Congress wants from him.",
+      "format": "news",
+      "est_words": 800,
+      "headline_options": ["Jensen Huang Resigns as Nvidia CEO Amid Affair Scandal", "Jensen Huang Is Out at Nvidia — Here's What Happens Next"],
+      "seo_keywords": ["jensen huang resigns", "nvidia ceo resignation", "who is colette kress", "jensen huang nvidia scandal"],
+      "sources": [
+        {"title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?", "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"},
+        {"title": "Jensen Huang agrees to testify before Congress", "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"},
+        {"title": "NVIDIA CEO Jensen Huang resigns amid mounting scandals", "url": "https://www.androidauthority.com/jensen-huang-nvidia-resignation-3734527/"},
+        {"title": "Trump floats Apple chairman Tim Cook as Jensen Huang's successor", "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"}
+      ],
+      "notes_for_writer": "Fast-moving story with multiple sourced-to-anonymous-sources claims (third affair, Trump's comments) — attribute each claim to its outlet, don't blend them into one confirmed narrative. Link back to our Nov 8 and Nov 12 coverage for readers following along. Tim Cook as successor is Trump 'floating' an idea, not a nomination — don't headline it as likely."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c04", "c05", "c14"],
+      "working_title": "Google Launches Gemini 4 Hydrogen, and It's Already Beating Its Bigger Sibling",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 77,
+      "why_now": "Google's own blog, The Verge, TechCrunch and Android Authority confirm the launch same-day; Artificial Analysis' Intelligence Index has it nearly tying Claude Sonnet 5.5 and GPT-6.1 Sol at a fraction of the cost, and it's already rolling into Google Search.",
+      "angle": "Two-part story: what Gemini 4 Hydrogen actually changes for everyday Search users (better answers to complex questions), plus the benchmark angle for the more technical reader — where it lands against Sonnet 5.5 and Sol on price-to-performance.",
+      "format": "explainer",
+      "est_words": 650,
+      "headline_options": ["Google Launches Gemini 4 Hydrogen, and It's Already Beating Its Bigger Sibling", "Gemini 4 Hydrogen Is Here — Here's What Changes in Google Search"],
+      "seo_keywords": ["gemini 4 hydrogen", "gemini 4 hydrogen vs claude", "google search ai mode gemini 4"],
+      "sources": [
+        {"title": "Google announces Gemini 4 Hydrogen with \"significant leaps\" in speed, intelligence", "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/"},
+        {"title": "Google's new Gemini model is better at understanding complicated questions", "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"},
+        {"title": "Google's latest Search upgrade promises better answers to your most complicated questions", "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"}
+      ],
+      "notes_for_writer": "Cite the Artificial Analysis benchmark as their index specifically, not as an absolute industry-wide ranking — different benchmarks disagree."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c12", "c13", "c24", "c25", "c60"],
+      "working_title": "Is Outlook Down? Microsoft Confirms a Widespread Outage",
+      "category": "tech",
+      "urgency": "breaking",
+      "traffic_potential": "medium",
+      "score": 67,
+      "why_now": "TechCrunch, The Verge, 9to5Mac and Android Authority all confirmed the same outage hitting Outlook (and possibly Teams/Office) within hours — classic high-intent 'is it down for everyone or just me' search traffic.",
+      "angle": "Fast, factual, practical: what's affected, Microsoft's own status-page wording, and what to do in the meantime (web vs. app, alternative ways to check email).",
+      "format": "news",
+      "est_words": 350,
+      "headline_options": ["Is Outlook Down? Microsoft Confirms a Widespread Outage", "Outlook Down Again: What's Happening and What to Do"],
+      "seo_keywords": ["is outlook down", "microsoft outlook outage today", "outlook not working"],
+      "sources": [
+        {"title": "Microsoft's Outlook email hit by new outage", "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"},
+        {"title": "Microsoft Outlook is still down", "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"},
+        {"title": "Microsoft Outlook is experiencing a major outage", "url": "https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/"}
+      ],
+      "notes_for_writer": "Publish fast and update in place as the status changes rather than writing multiple separate posts — link Microsoft's live status page for readers tracking resolution."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c06"],
+      "working_title": "Anthropic's IPO Is Reportedly About 6x Oversubscribed",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 66,
+      "why_now": "Techmeme reports bankers have told prospective investors Anthropic's IPO demand is running roughly 6x the shares on offer — a strong, concrete follow-up to the Nov 11 roadshow pricing story.",
+      "angle": "Explain what 'oversubscribed' actually means for where the stock might price/trade on debut, tying back to the $70-78 range and $1.4T valuation covered earlier this week.",
+      "format": "news",
+      "est_words": 450,
+      "headline_options": ["Anthropic's IPO Is Reportedly About 6x Oversubscribed", "Anthropic's IPO Demand Is Through the Roof — Here's What That Means"],
+      "seo_keywords": ["anthropic ipo oversubscribed", "anthropic ipo demand", "anthropic stock debut"],
+      "sources": [
+        {"title": "Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors", "url": "https://www.techmeme.com/261112/p55#a261112p55"}
+      ],
+      "notes_for_writer": "Sourced to bankers speaking to prospective investors — hedge as reported demand, not a confirmed final allocation. Good one-week-of-IPO-coverage link-back to Monday's pricing piece."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c03"],
+      "working_title": "DOJ Moves to Seize $1.2B of the Crypto Frozen After North Korea's $6.3B Binance Hack",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 65,
+      "why_now": "Bloomberg (via Techmeme) and CoinDesk confirm the DOJ got court authorization to seize or restrain $1.2B of the $2.7B that Tether and Circle froze after the October 29 Binance hack — a concrete follow-up with a real dollar figure.",
+      "angle": "Explain what 'seize or restrain' actually means in practice, how much of the original $6.3B this recovers, and what it signals about US agencies' ability to claw back stolen crypto.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["DOJ Moves to Seize $1.2B of the Crypto Frozen After North Korea's $6.3B Binance Hack", "The US Just Moved to Claw Back $1.2B From North Korea's Binance Hack"],
+      "seo_keywords": ["doj seize binance hack crypto", "north korea binance hack recovery", "tether circle frozen crypto doj"],
+      "sources": [
+        {"title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto", "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"},
+        {"title": "The DOJ says it got court authorization to seize or restrain $1.2B of the $2.7B frozen by Tether and Circle after North Korea's $6.3B Binance hack on October 29", "url": "https://www.techmeme.com/261112/p61#a261112p61"}
+      ],
+      "notes_for_writer": "This is a court authorization to seize, not confirmation the funds are already recovered — be precise about that distinction."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c39"],
+      "working_title": "Fairphone 6+ Gets Its First US Carrier Partner in Boost Mobile",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "GSMArena reports Fairphone's 6+ has landed its first official US carrier deal via Boost Mobile — a genuinely new US-availability milestone for a phone brand that's had almost no US retail presence.",
+      "angle": "Frame for US readers who've never had a way to buy a Fairphone: what it costs through Boost, what makes Fairphone different (repairability, modular parts), and who it's actually a good fit for.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": ["Fairphone 6+ Gets Its First US Carrier Partner in Boost Mobile", "You Can Finally Buy a Fairphone in the US — Here's How"],
+      "seo_keywords": ["fairphone 6+ us release", "fairphone boost mobile", "buy fairphone in the us"],
+      "sources": [
+        {"title": "Fairphone 6+ gets its first US carrier partner in Boost Mobile - GSMArena.com news - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTBzQjJMcmNIZ2lHM0xqTTk4YmhtY0V5bjFXcHlHVW5TOG1ieV9RUDBBdjkzbmJrbWthbERoTE5rY3Q0a3NfcnFFUkhKNkJqSWRYWVhvZ2hNSlBVRjk2S3pkMDFRN2RMcmptcU9CUnl3aVFJRElKVTc2UXRZYllkY3l0SHctWGVfdjNmWGcxUE40eGEtcDRFN1NHVkM1UGZCNUh30gGfAUFVX3lxTE8zVUY3XzBwZUpOcWdRSVZReDNTRG43MGxCU0VVSF8xaEJBM3lYS3VQeUxidmlPcWhQVm1vQU92QmdMN1ZBMll2RHpxUmk3d1dQR3ZxcmRnTEp3YUtOZm9QelM1empHTGc3U3J1TDI4RllnVmtkX2xJdUlZZ3E2b3U2UUdRekJleWliOTNEQjM5TTI3YXFkTWxuaDFwcHJxYw?oc=5"}
+      ],
+      "notes_for_writer": "Confirm exact pricing/plan terms through Boost Mobile before publishing specific numbers."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c54"],
+      "working_title": "Samsung Held Two-Thirds of the Global Foldable Market in Q3, Thanks to the Z Fold8",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "GSMArena cites analyst data showing Samsung's commanding two-thirds share of the global foldable market in Q3, driven by the Z Fold8 — a concrete stat for the ongoing 'foldables going mainstream' narrative.",
+      "angle": "Use the stat as a hook to explain why Samsung still dominates foldables while Apple and others are only just entering the category (ties into this week's wide-foldable rumors).",
+      "format": "news",
+      "est_words": 450,
+      "headline_options": ["Samsung Held Two-Thirds of the Global Foldable Market in Q3, Thanks to the Z Fold8", "Why Samsung Still Owns the Foldable Phone Market"],
+      "seo_keywords": ["samsung foldable market share", "z fold8 sales", "best selling foldable phone 2026"],
+      "sources": [
+        {"title": "Analysts: Samsung held two-thirds of the global foldable market in Q3, thanks to the Z Fold8 - GSMArena.com news - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejZ1VnZUaHVGd0VUeG80bnVmQXNCaEdycVh2Y3RjMjRsMU14dDI0VHlLbXV0WVNJMS1EMXJvY2tNdHd1OWpBVkdVUzE5aktHa3A5VERGZW5ZVU1tY2d5dWN2UkpxTFIxYU1IbnJpbl8zQkp5aEZzTW45YWJWeDZRNDhwYmZwRG9ubGxXRUxpbXpsQ3FBMVlOQVZyLW0wd3NjMXQ5aGNaZ1dMb3lVOVRUUWEydGlOSnRTR2R2VHB3UWF2WVJmUm1SQ9IBxAFBVV95cUxPajVsV0FJZEFYUlJDWTIwVHZfcllsRnJ2NkdEV0dhWGlOMUpuWUJvOE5kSkRKZTdNQ3dFLWM4czdUSHpGQ3l2ZTgtNlFTU3B1R2xvdUJNekkybFlycTFaMm11UzJyNUVDVUd2NkxMa1pkaGJiTkdyVG1yeWVHVjE0QlZGbDh3c3FPTzRmVmdwVEJ5MDV4WDg3ejJMcW1QTEhxd1lneGh5Q3l1NzMzVldlU0RHYXc4blpHbmo5czB2bGVTZzNJ?oc=5"}
+      ],
+      "notes_for_writer": "Attribute the market-share figure to the specific analyst firm GSMArena cites, not to GSMArena itself."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c28"],
+      "working_title": "Google's Fitbit Air Sync Issues Are Blocking Some iPhone Users From Their Health Data",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "Android Authority reports ongoing Fitbit Air syncing problems specifically affecting iPhone users' access to their own health data — a practical 'is this happening to me too' issue.",
+      "angle": "Fast, factual: what's broken, which app/OS combination is affected, and any workaround Google has suggested, if any.",
+      "format": "news",
+      "est_words": 350,
+      "headline_options": ["Google's Fitbit Air Sync Issues Are Blocking Some iPhone Users From Their Health Data", "Fitbit Air Not Syncing on iPhone? You're Not Alone"],
+      "seo_keywords": ["fitbit air not syncing iphone", "fitbit air iphone sync issue", "fitbit air health data missing"],
+      "sources": [
+        {"title": "Google Fitbit Air syncing issues leave some iPhone users unable to access health data", "url": "https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/"}
+      ],
+      "notes_for_writer": "Check Google's support forums/status page for an official acknowledgment or fix timeline before publishing."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c49"],
+      "working_title": "Opera One for iOS Adds a Data Saver Feature That Cuts Browsing Data Use by 80%",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "9to5Mac reports Opera One for iOS now has a Data Saver mode claiming up to 80% less data usage — a concrete, actionable number for anyone on a limited data plan.",
+      "angle": "Quick-hit: how to turn it on, what trade-offs (if any) come with heavy compression, and who benefits most (travelers, limited-data plans).",
+      "format": "how-to",
+      "est_words": 350,
+      "headline_options": ["Opera One for iOS Adds a Data Saver Feature That Cuts Browsing Data Use by 80%", "This Opera One Setting Could Cut Your iPhone Data Usage by 80%"],
+      "seo_keywords": ["opera one ios data saver", "how to save mobile data iphone browser", "opera one data saver feature"],
+      "sources": [
+        {"title": "Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%", "url": "https://9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80/"}
+      ],
+      "notes_for_writer": "The 80% figure is Opera's own claim — note it as such rather than an independently verified benchmark."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c36", "c52"],
+      "working_title": "Samsung's One UI 9.5 Leaks Keep Coming: A Social Contacts App and a Blocked-Calls Hub",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "Android Authority has two separate One UI 9.5 leaks the same week — Samsung Contacts getting Gaming Hub-style social integration, and a new dashboard to manage blocked calls — both pointing at a feature-rich update.",
+      "angle": "Quick combined roundup of the smaller One UI 9.5 leaks that don't individually justify their own post, framed as 'what else is coming' alongside the bigger Galaxy AI Premium and Gallery-sync stories covered earlier this week.",
+      "format": "listicle",
+      "est_words": 400,
+      "headline_options": ["Samsung's One UI 9.5 Leaks Keep Coming: A Social Contacts App and a Blocked-Calls Hub", "Here's Everything Leaking About Samsung's One UI 9.5 So Far"],
+      "seo_keywords": ["one ui 9.5 leaks", "samsung contacts gaming hub", "samsung blocked calls dashboard"],
+      "sources": [
+        {"title": "Samsung Contacts is getting ready to go social with Gaming Hub integration for One UI 9.5", "url": "https://www.androidauthority.com/samsung-contacts-gaming-hub-integration-3734708/"},
+        {"title": "Samsung is working on a central hub to track all your blocked calls", "url": "https://www.androidauthority.com/samsung-one-ui-9-5-phone-blocked-calls-dashboard-3734645/"}
+      ],
+      "notes_for_writer": "Both are unreleased-feature leaks — hedge on timing, and link back to this week's other One UI 9.5 coverage (Galaxy AI Premium, Gallery sync) rather than treating this as a fresh standalone topic."
+    }
+  ],
+  "watchlist": [
+    "Chinese frontier AI models carry the fingerprint of export-controlled GPUs — geopolitical AI story, cut today for space.",
+    "Kalshi ends Donald Trump Jr.'s advisory contract over 1789 Capital's Polymarket investment — political conflict-of-interest angle, handle carefully if picked up later.",
+    "DTCC adds Solana to Wall Street tokenization plans, targeting a 2027 rollout — long-lead anticipated-launch story, revisit closer to 2027.",
+    "Android 17 QPR3 Beta 4 brings back a missing Bluetooth volume setting — minor, beta-only audience for now.",
+    "X now lets you share 5x more photos and videos per post — minor app feature, cut today for space."
+  ]
+}

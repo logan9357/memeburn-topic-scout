@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T00:09:05.597991+00:00",
+  "generated_at": "2026-11-03T02:09:08.862636+00:00",
   "crawl_errors": [
     {
       "source": "Reddit",
@@ -10,15 +10,15 @@
   "candidate_count": 60,
   "candidates": [
     {
-      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-      "category": "phone",
-      "prescore": 54.7,
+      "title": "John Ternus says Apple expects memory costs to increase into December and beyond; Apple's inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY (Sarah Perez/TechCrunch)",
+      "category": "tech",
+      "prescore": 54.5,
       "score_breakdown": {
         "source_diversity": 30,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.7,
+        "freshness": 14.5,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -28,7 +28,84 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 0.5
+        "newest_hours": 0.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ],
+        "tech": [
+          "apple",
+          "chip"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "John Ternus says Apple expects memory costs to increase into December and beyond; Apple's inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY (Sarah Perez/TechCrunch)",
+          "url": "https://www.techmeme.com/261102/p47#a261102p47",
+          "published": "2026-11-03T01:15:02+00:00",
+          "summary": "Sarah Perez / TechCrunch : John Ternus says Apple expects memory costs to increase into December and beyond; Apple's inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY — Apple's stockpiling of inventory, particularly computer memory, continued in its fiscal fourth-quarter, according to earnings reported Monday.",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report (Apple)",
+          "url": "https://www.techmeme.com/261102/p39#a261102p39",
+          "published": "2026-11-02T21:40:00+00:00",
+          "summary": "Apple : Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report — September quarter records for total company revenue, iPhone revenue, and EPS Services revenue reaches new all-time high CUPERTINO …",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Apple’s inventory surges 154% as memory chip costs climb",
+          "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+          "published": "2026-11-02T23:04:57+00:00",
+          "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
+          "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
+          "published": "2026-11-02T21:47:30+00:00",
+          "summary": "Today Apple reported record Q4 earnings , which beat Wall Street expectations overall. And in an interview with Reuters , CEO John Ternus addressed current iPhone Duo supply constraints and also referenced units that have been returned for display issues. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts]",
+          "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
+          "published": "2026-11-02T21:32:54+00:00",
+          "summary": "Apple just released its earnings report for the fourth fiscal quarter of 2026. The company reported $114.5 billion in revenue, and $30.71 billion in net profit. Here’s the full breakdown. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c01"
+    },
+    {
+      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+      "category": "phone",
+      "prescore": 53.7,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.5
       },
       "category_keyword_hits": {
         "phone": [
@@ -86,18 +163,18 @@
           "signal": {}
         }
       ],
-      "id": "c01"
+      "id": "c02"
     },
     {
       "title": "Brazil's largest crypto exchange Mercado Bitcoin halts withdrawals after a breach involving $46M+ in assets, per Arkham; Tether froze 4.5M+ USDT in response (Jason Shubnell/The Block)",
       "category": "crypto",
-      "prescore": 54.3,
+      "prescore": 53.3,
       "score_breakdown": {
         "source_diversity": 30,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.3,
+        "freshness": 13.3,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -107,7 +184,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.3
+        "newest_hours": 3.3
       },
       "category_keyword_hits": {
         "crypto": [
@@ -166,10 +243,10 @@
           "signal": {}
         }
       ],
-      "id": "c02"
+      "id": "c03"
     },
     {
-      "title": "AudaCity (DACITYCOIN) trending on CoinGecko (+7.9% 24h)",
+      "title": "Bitcoin (BTC) trending on CoinGecko (-1.7% 24h)",
       "category": "crypto",
       "prescore": 45.0,
       "score_breakdown": {
@@ -193,7 +270,8 @@
         "crypto": [
           "bitcoin",
           "btc",
-          "solana"
+          "ethereum",
+          "eth"
         ]
       },
       "memeburn_recent_similar": [],
@@ -202,113 +280,113 @@
       "items": [
         {
           "source": "CoinGecko trending",
-          "title": "AudaCity (DACITYCOIN) trending on CoinGecko (+7.9% 24h)",
-          "url": "https://www.coingecko.com/en/coins/audacity-2",
-          "published": "2026-11-03T00:08:54.648536+00:00",
+          "title": "Bitcoin (BTC) trending on CoinGecko (-1.7% 24h)",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "published": "2026-11-03T02:09:01.556267+00:00",
           "summary": "",
           "signal": {
             "coingecko_rank": 1,
-            "price_change_24h": 7.911393661658287,
-            "market_cap_rank": 817
-          }
-        },
-        {
-          "source": "CoinGecko trending",
-          "title": "Hyperliquid (HYPE) trending on CoinGecko (-4.4% 24h)",
-          "url": "https://www.coingecko.com/en/coins/hyperliquid",
-          "published": "2026-11-03T00:08:54.648536+00:00",
-          "summary": "",
-          "signal": {
-            "coingecko_rank": 2,
-            "price_change_24h": -4.435947207528359,
-            "market_cap_rank": 10
-          }
-        },
-        {
-          "source": "CoinGecko trending",
-          "title": "Pudgy Penguins (PENGU) trending on CoinGecko (-4.0% 24h)",
-          "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-          "published": "2026-11-03T00:08:54.648536+00:00",
-          "summary": "",
-          "signal": {
-            "coingecko_rank": 3,
-            "price_change_24h": -3.982363853724643,
-            "market_cap_rank": 113
-          }
-        },
-        {
-          "source": "CoinGecko trending",
-          "title": "Bitcoin (BTC) trending on CoinGecko (-2.1% 24h)",
-          "url": "https://www.coingecko.com/en/coins/bitcoin",
-          "published": "2026-11-03T00:08:54.648536+00:00",
-          "summary": "",
-          "signal": {
-            "coingecko_rank": 4,
-            "price_change_24h": -2.055914715180277,
+            "price_change_24h": -1.7002169028299028,
             "market_cap_rank": 1
           }
         },
         {
           "source": "CoinGecko trending",
-          "title": "Solana (SOL) trending on CoinGecko (-2.9% 24h)",
-          "url": "https://www.coingecko.com/en/coins/solana",
-          "published": "2026-11-03T00:08:54.648536+00:00",
+          "title": "Hyperliquid (HYPE) trending on CoinGecko (-4.1% 24h)",
+          "url": "https://www.coingecko.com/en/coins/hyperliquid",
+          "published": "2026-11-03T02:09:01.556381+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 2,
+            "price_change_24h": -4.062399665919732,
+            "market_cap_rank": 10
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Zcash (ZEC) trending on CoinGecko (-8.7% 24h)",
+          "url": "https://www.coingecko.com/en/coins/zcash",
+          "published": "2026-11-03T02:09:01.556381+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 3,
+            "price_change_24h": -8.67991817429417,
+            "market_cap_rank": 11
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "AudaCity (DACITYCOIN) trending on CoinGecko (-10.4% 24h)",
+          "url": "https://www.coingecko.com/en/coins/audacity-2",
+          "published": "2026-11-03T02:09:01.556381+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 4,
+            "price_change_24h": -10.378466249361539,
+            "market_cap_rank": 880
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Lighter (LIT) trending on CoinGecko (-2.0% 24h)",
+          "url": "https://www.coingecko.com/en/coins/lighter",
+          "published": "2026-11-03T02:09:01.556381+00:00",
           "summary": "",
           "signal": {
             "coingecko_rank": 5,
-            "price_change_24h": -2.864710120854266,
-            "market_cap_rank": 7
+            "price_change_24h": -1.962872215776847,
+            "market_cap_rank": 82
           }
         },
         {
           "source": "CoinGecko trending",
-          "title": "Quant (QNT) trending on CoinGecko (-4.0% 24h)",
-          "url": "https://www.coingecko.com/en/coins/quant-network",
-          "published": "2026-11-03T00:08:54.648536+00:00",
+          "title": "Monad (MON) trending on CoinGecko (-8.3% 24h)",
+          "url": "https://www.coingecko.com/en/coins/monad",
+          "published": "2026-11-03T02:09:01.556381+00:00",
           "summary": "",
           "signal": {
             "coingecko_rank": 6,
-            "price_change_24h": -4.049948967589179,
-            "market_cap_rank": 35
+            "price_change_24h": -8.34691701862571,
+            "market_cap_rank": 160
           }
         },
         {
           "source": "CoinGecko trending",
-          "title": "Monad (MON) trending on CoinGecko (-8.6% 24h)",
-          "url": "https://www.coingecko.com/en/coins/monad",
-          "published": "2026-11-03T00:08:54.648536+00:00",
+          "title": "Sui (SUI) trending on CoinGecko (-3.6% 24h)",
+          "url": "https://www.coingecko.com/en/coins/sui",
+          "published": "2026-11-03T02:09:01.556381+00:00",
           "summary": "",
           "signal": {
             "coingecko_rank": 7,
-            "price_change_24h": -8.550130541643671,
-            "market_cap_rank": 159
+            "price_change_24h": -3.6167731463137636,
+            "market_cap_rank": 30
           }
         },
         {
           "source": "CoinGecko trending",
-          "title": "Aerodrome Finance (AERO) trending on CoinGecko (-4.1% 24h)",
-          "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-          "published": "2026-11-03T00:08:54.648536+00:00",
+          "title": "POL (ex-MATIC) (POL) trending on CoinGecko (-2.7% 24h)",
+          "url": "https://www.coingecko.com/en/coins/polygon-ecosystem-token",
+          "published": "2026-11-03T02:09:01.556381+00:00",
           "summary": "",
           "signal": {
             "coingecko_rank": 8,
-            "price_change_24h": -4.102502362736861,
-            "market_cap_rank": 110
+            "price_change_24h": -2.6975204097147842,
+            "market_cap_rank": 75
           }
         }
       ],
-      "id": "c03"
+      "id": "c04"
     },
     {
-      "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
       "category": "ai",
-      "prescore": 45.0,
+      "prescore": 44.8,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 15.0,
+        "freshness": 14.8,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -318,7 +396,122 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 0.1
+        "newest_hours": 0.3
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+          "published": "2026-11-03T01:49:52+00:00",
+          "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
+          "url": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
+          "published": "2026-11-03T01:07:40+00:00",
+          "summary": "Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c05"
+    },
+    {
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "category": "tech",
+      "prescore": 44.7,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "deepfake"
+        ],
+        "tech": [
+          "apple",
+          "google",
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+          "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+          "published": "2026-11-02T17:49:41+00:00",
+          "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple to require 18+ age ratings for dating apps and AI romantic companions",
+          "url": "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/",
+          "published": "2026-11-03T01:28:51+00:00",
+          "summary": "Apple today announced new age rating requirements coming to the App Store , covering apps with location-sharing features, as well as dating and relationship features. Here are the details. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "AI apps with hidden sexual and violent deepfake features made it into the App Store",
+          "url": "https://9to5mac.com/2026/11/02/ai-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-app-store/",
+          "published": "2026-11-02T12:31:49+00:00",
+          "summary": "Hundreds of AI apps with hidden sexual and violent deepfake features made it into Apple’s App Store after passing app review. The same apps were also available in the Google Play Store. An investigation discovered more than 400 apps, apparently created by a single Chinese organization. The apps allow users to upload photos and then generate sexual and violent deepfakes which could be used to humil",
+          "signal": {}
+        }
+      ],
+      "id": "c06"
+    },
+    {
+      "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
+      "category": "ai",
+      "prescore": 44.0,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.1
       },
       "category_keyword_hits": {
         "ai": [
@@ -343,14 +536,6 @@
           "signal": {}
         },
         {
-          "source": "Techmeme",
-          "title": "Tutor Intelligence, which trains robot foundation models and builds AI warehouse robots, raised a $75M Series B led by a16z, taking its total funding to $117M (John Werner/Forbes)",
-          "url": "https://www.techmeme.com/261102/p33#a261102p33",
-          "published": "2026-11-02T17:50:01+00:00",
-          "summary": "John Werner / Forbes : Tutor Intelligence, which trains robot foundation models and builds AI warehouse robots, raised a $75M Series B led by a16z, taking its total funding to $117M — This voice experience is generated by AI. Learn more. … When you look at some of what robotics companies are doing today …",
-          "signal": {}
-        },
-        {
           "source": "TechCrunch",
           "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
           "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
@@ -359,18 +544,18 @@
           "signal": {}
         }
       ],
-      "id": "c04"
+      "id": "c07"
     },
     {
       "title": "Apple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and more, grew 10% YoY to $31.57B, vs. $31.58B est. (Loree Seitz/The Wrap)",
       "category": "tech",
-      "prescore": 44.3,
+      "prescore": 43.3,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.3,
+        "freshness": 13.3,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -380,7 +565,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.5
+        "newest_hours": 3.5
       },
       "category_keyword_hits": {
         "phone": [
@@ -412,50 +597,26 @@
           "signal": {}
         },
         {
-          "source": "Techmeme",
-          "title": "Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report (Apple)",
-          "url": "https://www.techmeme.com/261102/p39#a261102p39",
-          "published": "2026-11-02T21:40:00+00:00",
-          "summary": "Apple : Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report — September quarter records for total company revenue, iPhone revenue, and EPS Services revenue reaches new all-time high CUPERTINO …",
-          "signal": {}
-        },
-        {
           "source": "9to5Mac",
           "title": "9to5Mac Daily: November 2, 2026 – What’s next for the Mac and iPad",
           "url": "https://9to5mac.com/2026/11/02/daily-november-2-2026/",
           "published": "2026-11-02T22:40:40+00:00",
           "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
           "signal": {}
-        },
-        {
-          "source": "9to5Mac",
-          "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
-          "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
-          "published": "2026-11-02T21:47:30+00:00",
-          "summary": "Today Apple reported record Q4 earnings , which beat Wall Street expectations overall. And in an interview with Reuters , CEO John Ternus addressed current iPhone Duo supply constraints and also referenced units that have been returned for display issues. more…",
-          "signal": {}
-        },
-        {
-          "source": "9to5Mac",
-          "title": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts]",
-          "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
-          "published": "2026-11-02T21:32:54+00:00",
-          "summary": "Apple just released its earnings report for the fourth fiscal quarter of 2026. The company reported $114.5 billion in revenue, and $30.71 billion in net profit. Here’s the full breakdown. more…",
-          "signal": {}
         }
       ],
-      "id": "c05"
+      "id": "c08"
     },
     {
       "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
       "category": "crypto",
-      "prescore": 43.6,
+      "prescore": 42.6,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.6,
+        "freshness": 12.6,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -465,7 +626,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.9
+        "newest_hours": 4.9
       },
       "category_keyword_hits": {
         "crypto": [
@@ -494,18 +655,18 @@
           "signal": {}
         }
       ],
-      "id": "c06"
+      "id": "c09"
     },
     {
       "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
       "category": "crypto",
-      "prescore": 43.1,
+      "prescore": 42.1,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.1,
+        "freshness": 12.1,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -515,7 +676,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 3.8
+        "newest_hours": 5.8
       },
       "category_keyword_hits": {
         "crypto": [
@@ -547,122 +708,18 @@
           "signal": {}
         }
       ],
-      "id": "c07"
-    },
-    {
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "category": "ai",
-      "prescore": 43.0,
-      "score_breakdown": {
-        "source_diversity": 20,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 13.0,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 4.0
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "openai",
-          "chatgpt"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 2,
-      "items": [
-        {
-          "source": "TechCrunch",
-          "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-          "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-          "published": "2026-11-02T13:57:53+00:00",
-          "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-          "signal": {}
-        },
-        {
-          "source": "9to5Mac",
-          "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
-          "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
-          "published": "2026-11-02T20:07:21+00:00",
-          "summary": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired. Separately, OpenAI is also preparing to merge ChatGPT and Work into a single interface. Here are the details. more…",
-          "signal": {}
-        }
-      ],
-      "id": "c08"
-    },
-    {
-      "title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement is against its usage policy (Bruno Ferreira/Tom's Hardware)",
-      "category": "ai",
-      "prescore": 42.4,
-      "score_breakdown": {
-        "source_diversity": 20,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.4,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 5.2
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "ai",
-          "claude",
-          "anthropic"
-        ],
-        "tech": [
-          "gaming"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 2,
-      "items": [
-        {
-          "source": "Techmeme",
-          "title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement is against its usage policy (Bruno Ferreira/Tom's Hardware)",
-          "url": "https://www.techmeme.com/261102/p31#a261102p31",
-          "published": "2026-11-02T17:05:05+00:00",
-          "summary": "Bruno Ferreira / Tom's Hardware : Anthropic confirms new Claude Code limits “to steer it away from recreating someone else's specific game”, saying IP infringement is against its usage policy — Meanwhile, we now have direct reports of reverse engineering efforts being blocked, while online complaints grow.",
-          "signal": {}
-        },
-        {
-          "source": "The Verge",
-          "title": "Anthropic clamps down on Claude’s AI video game clones",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-          "published": "2026-11-02T18:56:02+00:00",
-          "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
-          "signal": {}
-        }
-      ],
-      "id": "c09"
+      "id": "c10"
     },
     {
       "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses meant \"to reduce electricity demand when the grid is under strain\" (OpenAI)",
       "category": "ai",
-      "prescore": 42.1,
+      "prescore": 41.1,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.1,
+        "freshness": 11.1,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -672,7 +729,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 5.8
+        "newest_hours": 7.8
       },
       "category_keyword_hits": {
         "ai": [
@@ -700,18 +757,18 @@
           "signal": {}
         }
       ],
-      "id": "c10"
+      "id": "c11"
     },
     {
       "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
       "category": "ai",
-      "prescore": 42.1,
+      "prescore": 41.1,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.1,
+        "freshness": 11.1,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -721,7 +778,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 5.9
+        "newest_hours": 7.9
       },
       "category_keyword_hits": {
         "ai": [
@@ -754,73 +811,18 @@
           "signal": {}
         }
       ],
-      "id": "c11"
-    },
-    {
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "category": "tech",
-      "prescore": 41.8,
-      "score_breakdown": {
-        "source_diversity": 20,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 11.8,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 6.3
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "ai",
-          "deepfake"
-        ],
-        "tech": [
-          "apple",
-          "google",
-          "amazon"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 2,
-      "items": [
-        {
-          "source": "TechCrunch",
-          "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-          "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-          "published": "2026-11-02T17:49:41+00:00",
-          "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-          "signal": {}
-        },
-        {
-          "source": "9to5Mac",
-          "title": "AI apps with hidden sexual and violent deepfake features made it into the App Store",
-          "url": "https://9to5mac.com/2026/11/02/ai-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-app-store/",
-          "published": "2026-11-02T12:31:49+00:00",
-          "summary": "Hundreds of AI apps with hidden sexual and violent deepfake features made it into Apple’s App Store after passing app review. The same apps were also available in the Google Play Store. An investigation discovered more than 400 apps, apparently created by a single Chinese organization. The apps allow users to upload photos and then generate sexual and violent deepfakes which could be used to humil",
-          "signal": {}
-        }
-      ],
       "id": "c12"
     },
     {
       "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
       "category": "tech",
-      "prescore": 41.3,
+      "prescore": 40.3,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 11.3,
+        "freshness": 10.3,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -830,7 +832,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 7.4
+        "newest_hours": 9.4
       },
       "category_keyword_hits": {
         "tech": [
@@ -864,13 +866,13 @@
     {
       "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
       "category": "ai",
-      "prescore": 41.1,
+      "prescore": 40.1,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 11.1,
+        "freshness": 10.1,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -880,7 +882,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 7.7
+        "newest_hours": 9.7
       },
       "category_keyword_hits": {
         "ai": [
@@ -913,13 +915,13 @@
     {
       "title": "Spotify reportedly wants up to $5 extra per month for AI covers and remixes - GSMArena.com news - GSMArena.com",
       "category": "ai",
-      "prescore": 39.9,
+      "prescore": 38.9,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 9.9,
+        "freshness": 8.9,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -929,7 +931,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 10.3
+        "newest_hours": 12.3
       },
       "category_keyword_hits": {
         "ai": [
@@ -965,13 +967,13 @@
     {
       "title": "Apple HomeView is getting ready to teach Google’s Pixel Tablet a home security lesson",
       "category": "tech",
-      "prescore": 38.9,
+      "prescore": 37.9,
       "score_breakdown": {
         "source_diversity": 20,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 8.9,
+        "freshness": 7.9,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -981,7 +983,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 12.2
+        "newest_hours": 14.2
       },
       "category_keyword_hits": {
         "phone": [
@@ -1016,69 +1018,25 @@
       "id": "c16"
     },
     {
-      "title": "Anthropic's growth just flattened",
-      "category": "ai",
-      "prescore": 36.1,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 1.9,
-        "crypto_trending": 0,
-        "freshness": 14.2,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 112,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 1.6
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "anthropic"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "Hacker News front page",
-          "title": "Anthropic's growth just flattened",
-          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-          "published": "2026-11-02T22:33:20+00:00",
-          "summary": "",
-          "signal": {
-            "hn_points": 112,
-            "hn_comments": 131
-          }
-        }
-      ],
-      "id": "c17"
-    },
-    {
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "category": "ai",
-      "prescore": 36.0,
+      "prescore": 36.6,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
-        "community_buzz": 1.8,
+        "community_buzz": 3.4,
         "crypto_trending": 0,
-        "freshness": 14.2,
+        "freshness": 13.2,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
         "signals": {
           "trends_traffic": 0,
-          "hn_points": 107,
+          "hn_points": 203,
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.6
+        "newest_hours": 3.6
       },
       "category_keyword_hits": {
         "ai": [
@@ -1096,37 +1054,37 @@
           "published": "2026-11-02T22:30:47+00:00",
           "summary": "",
           "signal": {
-            "hn_points": 107,
-            "hn_comments": 58
+            "hn_points": 203,
+            "hn_comments": 127
           }
         }
       ],
-      "id": "c18"
+      "id": "c17"
     },
     {
-      "title": "Apple reports fourth quarter results",
-      "category": "tech",
-      "prescore": 35.1,
+      "title": "Anthropic's growth just flattened",
+      "category": "ai",
+      "prescore": 35.9,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
-        "community_buzz": 1.1,
+        "community_buzz": 2.7,
         "crypto_trending": 0,
-        "freshness": 14.0,
+        "freshness": 13.2,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
         "signals": {
           "trends_traffic": 0,
-          "hn_points": 64,
+          "hn_points": 164,
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.9
+        "newest_hours": 3.6
       },
       "category_keyword_hits": {
-        "tech": [
-          "apple"
+        "ai": [
+          "anthropic"
         ]
       },
       "memeburn_recent_similar": [],
@@ -1135,38 +1093,127 @@
       "items": [
         {
           "source": "Hacker News front page",
-          "title": "Apple reports fourth quarter results",
-          "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-          "published": "2026-11-02T22:13:42+00:00",
+          "title": "Anthropic's growth just flattened",
+          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+          "published": "2026-11-02T22:33:20+00:00",
           "summary": "",
           "signal": {
-            "hn_points": 64,
-            "hn_comments": 54
+            "hn_points": 164,
+            "hn_comments": 194
+          }
+        }
+      ],
+      "id": "c18"
+    },
+    {
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "category": "tech",
+      "prescore": 35.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 1.3,
+        "crypto_trending": 0,
+        "freshness": 14.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 76,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.0
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "chip"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+          "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+          "published": "2026-11-03T00:08:53+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 76,
+            "hn_comments": 42
           }
         }
       ],
       "id": "c19"
     },
     {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "category": "ai",
-      "prescore": 35.0,
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "category": "crypto",
+      "prescore": 34.7,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
-        "community_buzz": 2.3,
+        "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.7,
+        "freshness": 14.7,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
         "signals": {
           "trends_traffic": 0,
-          "hn_points": 140,
+          "hn_points": 0,
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.7
+        "newest_hours": 0.6
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto",
+          "binance"
+        ],
+        "tech": [
+          "hack"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+          "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-03T01:32:39+00:00",
+          "summary": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.",
+          "signal": {}
+        }
+      ],
+      "id": "c20"
+    },
+    {
+      "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+      "category": "ai",
+      "prescore": 34.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.8
       },
       "category_keyword_hits": {
         "ai": [
@@ -1178,21 +1225,18 @@
       "source_count": 1,
       "items": [
         {
-          "source": "Hacker News front page",
-          "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-          "published": "2026-11-02T19:27:37+00:00",
-          "summary": "",
-          "signal": {
-            "hn_points": 140,
-            "hn_comments": 98
-          }
+          "source": "Techmeme",
+          "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+          "url": "https://www.techmeme.com/261102/p48#a261102p48",
+          "published": "2026-11-03T01:20:01+00:00",
+          "summary": "The Information : Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta — Salesforce extended its recent shopping spree, announcing on Monday plans to acquire Cresta, a nine-year-old provider of AI-powered contact center automation software.",
+          "signal": {}
         }
       ],
-      "id": "c20"
+      "id": "c21"
     },
     {
-      "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
       "category": "ai",
       "prescore": 34.5,
       "score_breakdown": {
@@ -1210,7 +1254,294 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
+        "newest_hours": 0.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "startup"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+          "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+          "published": "2026-11-03T01:12:55+00:00",
+          "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+          "signal": {}
+        }
+      ],
+      "id": "c22"
+    },
+    {
+      "title": "Motorola Signature 27 stars in hands-on promo video ahead of launch - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 34.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "xiaomi",
+          "motorola"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Motorola Signature 27 stars in hands-on promo video ahead of launch - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGNJWXZIRGxxVVJ3U2ppWHdGME9SQ2NabkdHT1Zic3RVeDNqak02Z25NLW14R0dXREZxWE05SkFHWmJ2aXRWTVE5eGFWSjZhajZRMkZ3UWhOU2FXbGdXTFpySFl5VzJuLW9ENU9MVkFDbHhVRzVFT2NvMktfeHFieXQ3UldvLWhBNDdYT0ZpaWVpYnF4Mk0zN05VVWdfakZnSXRXZUNJVjdPQdIBpgFBVV95cUxPV2syVE4zSUthME02TXJhNUtyV2VQczZlMUdKSUtLVjNzWU0wRGFSb3Jxd2tIaHdCT3lNeFNBdms1NW1oeWFsbnhyLWE4dEdDY0RIa0NmdEFKSzMtV3dDUGRzelFWMTVmbjRoWWNHelZoSHRCS3JQVGZvVTlFQVlpUkVBQXFLMVJVaHl5bjRtd195WGI4TFBVU3hFdmVkSUgyQ09kUE1n?oc=5",
+          "published": "2026-11-02T19:03:02+00:00",
+          "summary": "Motorola Signature 27 stars in hands-on promo video ahead of launch - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Motorola Signature 27 - User opinions and reviews - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZenZJaDhoOTdlSms3TkR0QldReWZWalpGeUtjZU9rb1A4c1BsWnRkYnJnem9zdVU4SGhKRjRmenVmSE5tdURhYkhDOWstSjRybktEZGwzZkUzVkRZSDNSdzFBQ2Zfa015T2ZYRkMxQjA3WHZMaGc?oc=5",
+          "published": "2026-11-02T15:01:20+00:00",
+          "summary": "Motorola Signature 27 - User opinions and reviews GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Xiaomi Poco F9 Ultra - User opinions and reviews - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ydnVLY2JZemVZczBtODMtakUwLVJJcTVxeTFkdXRsUmkwdDlNaVFhMG5pdDBJeW9ndFc3UVAyTUZtS1o2Rm1ZaWxEM2R5WktCVENoQzRQMV9LSUUwb1Bmd2lVRjNxZ3ZrdC1SNEd3aXhOWnVH?oc=5",
+          "published": "2026-11-02T07:58:59+00:00",
+          "summary": "Xiaomi Poco F9 Ultra - User opinions and reviews GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Motorola Signature 27 stars in hands-on promo video ahead of launch - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGbkFYMUNZVzl5cVd3QXloNzNyT3Jua0FHbWVJUG93N2hBRTVlZHZodjItODVBbEEwWGQtVkx2U3J2OU15NzdDa3Qxb1JXXy1PNG9uYXVn?oc=5",
+          "published": "2026-11-03T00:52:01+00:00",
+          "summary": "Motorola Signature 27 stars in hands-on promo video ahead of launch - Reader comments GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c23"
+    },
+    {
+      "title": "Google already has a fix rolling out for those Android Auto One UI 9 connectivity problems",
+      "category": "phone",
+      "prescore": 34.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
         "newest_hours": 1.1
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android",
+          "galaxy",
+          "one ui"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google already has a fix rolling out for those Android Auto One UI 9 connectivity problems",
+          "url": "https://www.androidauthority.com/android-auto-one-ui-9-fix-3730903/",
+          "published": "2026-11-03T01:03:04+00:00",
+          "summary": "One UI 9 and Android 17 users can look forward to some glitch-free Android Auto connectivity.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Android Auto and One UI 9 aren’t getting along for some Galaxy owners (Update: Fix)",
+          "url": "https://www.androidauthority.com/android-auto-one-ui-9-connection-issues-3730537/",
+          "published": "2026-11-02T10:24:45+00:00",
+          "summary": "A familiar dashboard headache is back, with no clear fix.",
+          "signal": {}
+        }
+      ],
+      "id": "c24"
+    },
+    {
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "category": "ai",
+      "prescore": 34.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 2.6,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 158,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+          "published": "2026-11-02T19:27:37+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 158,
+            "hn_comments": 118
+          }
+        }
+      ],
+      "id": "c25"
+    },
+    {
+      "title": "Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates (Samantha Kelly/Bloomberg)",
+      "category": "tech",
+      "prescore": 34.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.4
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates (Samantha Kelly/Bloomberg)",
+          "url": "https://www.techmeme.com/261102/p46#a261102p46",
+          "published": "2026-11-03T00:45:01+00:00",
+          "summary": "Samantha Kelly / Bloomberg : Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates — Match Group Inc. disappointed investors after posting weaker-than-expected quarterly revenue and forecasting adjusted earnings …",
+          "signal": {}
+        }
+      ],
+      "id": "c26"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "category": "ai",
+      "prescore": 34.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.6
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "agents"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "published": "2026-11-03T00:35:52+00:00",
+          "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+          "signal": {}
+        }
+      ],
+      "id": "c27"
+    },
+    {
+      "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
+      "category": "ai",
+      "prescore": 33.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.1
       },
       "category_keyword_hits": {
         "ai": [
@@ -1230,33 +1561,32 @@
           "signal": {}
         }
       ],
-      "id": "c21"
+      "id": "c28"
     },
     {
-      "title": "Apple’s inventory surges 154% as memory chip costs climb",
-      "category": "tech",
-      "prescore": 34.5,
+      "title": "Egoless Mathematics in the AI Era",
+      "category": "ai",
+      "prescore": 33.3,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
-        "community_buzz": 0.0,
+        "community_buzz": 2.0,
         "crypto_trending": 0,
-        "freshness": 14.5,
+        "freshness": 11.4,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
         "signals": {
           "trends_traffic": 0,
-          "hn_points": 0,
+          "hn_points": 118,
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.1
+        "newest_hours": 7.2
       },
       "category_keyword_hits": {
-        "tech": [
-          "apple",
-          "chip"
+        "ai": [
+          "ai"
         ]
       },
       "memeburn_recent_similar": [],
@@ -1264,26 +1594,29 @@
       "source_count": 1,
       "items": [
         {
-          "source": "TechCrunch",
-          "title": "Apple’s inventory surges 154% as memory chip costs climb",
-          "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-          "published": "2026-11-02T23:04:57+00:00",
-          "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
-          "signal": {}
+          "source": "Hacker News front page",
+          "title": "Egoless Mathematics in the AI Era",
+          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+          "published": "2026-11-02T18:54:44+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 118,
+            "hn_comments": 82
+          }
         }
       ],
-      "id": "c22"
+      "id": "c29"
     },
     {
       "title": "Here’s what happened in crypto today",
       "category": "crypto",
-      "prescore": 34.2,
+      "prescore": 33.2,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.2,
+        "freshness": 13.2,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1293,7 +1626,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.5
+        "newest_hours": 3.5
       },
       "category_keyword_hits": {
         "crypto": [
@@ -1325,18 +1658,18 @@
           "signal": {}
         }
       ],
-      "id": "c23"
+      "id": "c30"
     },
     {
       "title": "Quick Share will soon work directly in Android and iOS apps",
       "category": "phone",
-      "prescore": 34.1,
+      "prescore": 33.1,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.1,
+        "freshness": 13.1,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1346,7 +1679,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.8
+        "newest_hours": 3.8
       },
       "category_keyword_hits": {
         "phone": [
@@ -1370,18 +1703,18 @@
           "signal": {}
         }
       ],
-      "id": "c24"
+      "id": "c31"
     },
     {
       "title": "Apple spent a record $45.77 billion on R&D in fiscal 2026, up 32%",
       "category": "tech",
-      "prescore": 34.1,
+      "prescore": 33.1,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.1,
+        "freshness": 13.1,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1391,7 +1724,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.9
+        "newest_hours": 3.9
       },
       "category_keyword_hits": {
         "tech": [
@@ -1411,18 +1744,18 @@
           "signal": {}
         }
       ],
-      "id": "c25"
+      "id": "c32"
     },
     {
       "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
       "category": "crypto",
-      "prescore": 34.1,
+      "prescore": 33.1,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.1,
+        "freshness": 13.1,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1432,7 +1765,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.8
+        "newest_hours": 3.8
       },
       "category_keyword_hits": {
         "crypto": [
@@ -1453,62 +1786,18 @@
           "signal": {}
         }
       ],
-      "id": "c26"
-    },
-    {
-      "title": "Egoless Mathematics in the AI Era",
-      "category": "ai",
-      "prescore": 34.0,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 1.6,
-        "crypto_trending": 0,
-        "freshness": 12.4,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 96,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 5.2
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "ai"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "Hacker News front page",
-          "title": "Egoless Mathematics in the AI Era",
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-          "published": "2026-11-02T18:54:44+00:00",
-          "summary": "",
-          "signal": {
-            "hn_points": 96,
-            "hn_comments": 74
-          }
-        }
-      ],
-      "id": "c27"
+      "id": "c33"
     },
     {
       "title": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
       "category": "ai",
-      "prescore": 34.0,
+      "prescore": 33.0,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.0,
+        "freshness": 13.0,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1518,7 +1807,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.0
+        "newest_hours": 4.0
       },
       "category_keyword_hits": {
         "ai": [
@@ -1538,18 +1827,18 @@
           "signal": {}
         }
       ],
-      "id": "c28"
+      "id": "c34"
     },
     {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
       "category": "ai",
-      "prescore": 34.0,
+      "prescore": 33.0,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.0,
+        "freshness": 13.0,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1559,7 +1848,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 1.9
+        "newest_hours": 3.9
       },
       "category_keyword_hits": {
         "ai": [
@@ -1580,18 +1869,18 @@
           "signal": {}
         }
       ],
-      "id": "c29"
+      "id": "c35"
     },
     {
       "title": "Next time your flight touches down, Google Maps could be there with a custom greeting",
       "category": "tech",
-      "prescore": 34.0,
+      "prescore": 33.0,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 14.0,
+        "freshness": 13.0,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1601,7 +1890,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.1
+        "newest_hours": 4.1
       },
       "category_keyword_hits": {
         "tech": [
@@ -1621,18 +1910,18 @@
           "signal": {}
         }
       ],
-      "id": "c30"
+      "id": "c36"
     },
     {
       "title": "Apple set an iPhone sales record even without a new standard iPhone",
       "category": "phone",
-      "prescore": 33.9,
+      "prescore": 32.9,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.9,
+        "freshness": 12.9,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1642,7 +1931,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.1
+        "newest_hours": 4.1
       },
       "category_keyword_hits": {
         "phone": [
@@ -1665,18 +1954,18 @@
           "signal": {}
         }
       ],
-      "id": "c31"
+      "id": "c37"
     },
     {
       "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
       "category": "crypto",
-      "prescore": 33.9,
+      "prescore": 32.9,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.9,
+        "freshness": 12.9,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1686,7 +1975,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.2
+        "newest_hours": 4.2
       },
       "category_keyword_hits": {
         "ai": [
@@ -1709,18 +1998,62 @@
           "signal": {}
         }
       ],
-      "id": "c32"
+      "id": "c38"
+    },
+    {
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "category": "tech",
+      "prescore": 32.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 1.8,
+        "crypto_trending": 0,
+        "freshness": 11.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 107,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.9
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "windows"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+          "published": "2026-11-02T18:12:48+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 107,
+            "hn_comments": 37
+          }
+        }
+      ],
+      "id": "c39"
     },
     {
       "title": "Palantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% YoY to $984M, and raises FY 2026 revenue guidance to ~$8.53B (Samantha Subin/CNBC)",
       "category": "tech",
-      "prescore": 33.7,
+      "prescore": 32.7,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.7,
+        "freshness": 12.7,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1730,7 +2063,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.7
+        "newest_hours": 4.7
       },
       "category_keyword_hits": {},
       "memeburn_recent_similar": [],
@@ -1746,18 +2079,18 @@
           "signal": {}
         }
       ],
-      "id": "c33"
+      "id": "c40"
     },
     {
       "title": "Forget texting and driving, this everyday phone habit sends even more people to the ER",
       "category": "phone",
-      "prescore": 33.7,
+      "prescore": 32.7,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.7,
+        "freshness": 12.7,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1767,7 +2100,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.6
+        "newest_hours": 4.6
       },
       "category_keyword_hits": {},
       "memeburn_recent_similar": [],
@@ -1783,18 +2116,18 @@
           "signal": {}
         }
       ],
-      "id": "c34"
+      "id": "c41"
     },
     {
       "title": "Big crypto wants the one thing it can’t buy: your vote",
       "category": "crypto",
-      "prescore": 33.7,
+      "prescore": 32.7,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.7,
+        "freshness": 12.7,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1804,7 +2137,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.5
+        "newest_hours": 4.5
       },
       "category_keyword_hits": {
         "crypto": [
@@ -1824,32 +2157,32 @@
           "signal": {}
         }
       ],
-      "id": "c35"
+      "id": "c42"
     },
     {
-      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-      "category": "tech",
-      "prescore": 33.5,
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "category": "ai",
+      "prescore": 32.6,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
-        "community_buzz": 1.5,
+        "community_buzz": 2.1,
         "crypto_trending": 0,
-        "freshness": 12.0,
+        "freshness": 10.5,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
         "signals": {
           "trends_traffic": 0,
-          "hn_points": 89,
+          "hn_points": 125,
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 5.9
+        "newest_hours": 9.1
       },
       "category_keyword_hits": {
-        "tech": [
-          "windows"
+        "ai": [
+          "agents"
         ]
       },
       "memeburn_recent_similar": [],
@@ -1858,28 +2191,72 @@
       "items": [
         {
           "source": "Hacker News front page",
-          "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-          "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-          "published": "2026-11-02T18:12:48+00:00",
+          "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+          "url": "https://momentic.ai/",
+          "published": "2026-11-02T17:05:25+00:00",
           "summary": "",
           "signal": {
-            "hn_points": 89,
-            "hn_comments": 30
+            "hn_points": 125,
+            "hn_comments": 82
           }
         }
       ],
-      "id": "c36"
+      "id": "c43"
     },
     {
-      "title": "Roku Q3: revenue up 24% YoY to $1.5B, Platform revenue up 23% YoY to $1.3B, ad revenue up 23% YoY to $727.4M, and subscriptions revenue up 23% YoY to $580.9M (Todd Spangler/Variety)",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "category": "tech",
-      "prescore": 33.5,
+      "prescore": 32.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 1.7,
+        "crypto_trending": 0,
+        "freshness": 10.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 103,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "cybersecurity"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+          "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+          "published": "2026-11-02T17:47:40+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 103,
+            "hn_comments": 28
+          }
+        }
+      ],
+      "id": "c44"
+    },
+    {
+      "title": "Roku reports Q3 revenue up 24% YoY to $1.5B, Platform revenue up 23% to $1.3B, ad revenue up 23% to $727.4M, and subscription revenue up 23% to $580.9M (Todd Spangler/Variety)",
+      "category": "tech",
+      "prescore": 32.5,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.5,
+        "freshness": 12.5,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1889,7 +2266,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 2.9
+        "newest_hours": 4.9
       },
       "category_keyword_hits": {},
       "memeburn_recent_similar": [],
@@ -1898,25 +2275,25 @@
       "items": [
         {
           "source": "Techmeme",
-          "title": "Roku Q3: revenue up 24% YoY to $1.5B, Platform revenue up 23% YoY to $1.3B, ad revenue up 23% YoY to $727.4M, and subscriptions revenue up 23% YoY to $580.9M (Todd Spangler/Variety)",
+          "title": "Roku reports Q3 revenue up 24% YoY to $1.5B, Platform revenue up 23% to $1.3B, ad revenue up 23% to $727.4M, and subscription revenue up 23% to $580.9M (Todd Spangler/Variety)",
           "url": "https://www.techmeme.com/261102/p37#a261102p37",
           "published": "2026-11-02T21:15:01+00:00",
-          "summary": "Todd Spangler / Variety : Roku Q3: revenue up 24% YoY to $1.5B, Platform revenue up 23% YoY to $1.3B, ad revenue up 23% YoY to $727.4M, and subscriptions revenue up 23% YoY to $580.9M — For the third quarter, Roku handily topped Wall Street earnings expectations, with top-line growth of 24% to $1.50 billion in revenue.",
+          "summary": "Todd Spangler / Variety : Roku reports Q3 revenue up 24% YoY to $1.5B, Platform revenue up 23% to $1.3B, ad revenue up 23% to $727.4M, and subscription revenue up 23% to $580.9M — For the third quarter, Roku handily topped Wall Street earnings expectations, with top-line growth of 24% to $1.50 billion in revenue.",
           "signal": {}
         }
       ],
-      "id": "c37"
+      "id": "c45"
     },
     {
       "title": "Meta will end Quest 2 OS updates in 2027",
       "category": "tech",
-      "prescore": 33.5,
+      "prescore": 32.5,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.5,
+        "freshness": 12.5,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1926,7 +2303,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 3.1
+        "newest_hours": 5.1
       },
       "category_keyword_hits": {
         "tech": [
@@ -1946,18 +2323,18 @@
           "signal": {}
         }
       ],
-      "id": "c38"
+      "id": "c46"
     },
     {
-      "title": "Apple plans to refresh three iPads in the first half of 2027 - GSMArena.com news - GSMArena.com",
+      "title": "OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V - GSMArena.com news - GSMArena.com",
       "category": "phone",
-      "prescore": 33.4,
+      "prescore": 32.4,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.4,
+        "freshness": 12.4,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -1967,14 +2344,11 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 3.1
+        "newest_hours": 5.1
       },
       "category_keyword_hits": {
         "phone": [
           "oneplus"
-        ],
-        "tech": [
-          "apple"
         ]
       },
       "memeburn_recent_similar": [],
@@ -1983,18 +2357,10 @@
       "items": [
         {
           "source": "GSMArena",
-          "title": "Apple plans to refresh three iPads in the first half of 2027 - GSMArena.com news - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUsybXhzT1NsU3pWRjZoLXJBeVEwR3hXNnM5THp4RE0wRFA3VUNkS1ZIVWY2VVZzU0lKZURZWWh6ZzlDeEkwX2tsSkQzYkJ5MW5MNi1sTVl4Y0FDWFZYLVhYNmZnY3VTQjgyWVpNRTM0dXB0bjg1dXhUZThTY3Z2U0JEZFhUaFN0eEowWDFMcGxZWG5GZU1XQ3dZcDhKQzhYbnfSAZ4BQVVfeXFMTV9SYzJRVHppbzByRnN1MVIxUWtvbzV2N3dhRW14aEs2Uk9XOE9XTmgzei11SHJHTUdHYjNZOWcwZkktNTlRZE1pWU9ldnAzNDJWWjNZVFFpZ3gxbVhBSjlEdDU1Q3Q0WGtzVjlSY3lLempxcmZxazRoQXMtOVo0Mm9UUUhqLTY5cWZrdDZlZVVUUW5LcGxlVEpVdXdjV2c?oc=5",
-          "published": "2026-11-02T17:21:02+00:00",
-          "summary": "Apple plans to refresh three iPads in the first half of 2027 - GSMArena.com news GSMArena.com",
-          "signal": {}
-        },
-        {
-          "source": "GSMArena",
-          "title": "News - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmOGdReUh0cEtIY1ZVcFdnRWotOFhkblVzUkE3TGdyRERCeXhKZmRleGJlWko0TzBlamo1ZGp0RnZiWDlodWZZTk13TVU0S2tuN1RVTU5qc0U?oc=5",
-          "published": "2026-11-02T11:54:48+00:00",
-          "summary": "News GSMArena.com",
+          "title": "OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX05vc0JBTnpyU0tla0Mta1FOMDAtN0VqWDlRVjk5V2FDWUU2N284LTNGZklpclU0Q1JRWDg4Ukl2Tk1lR3V3V0tycDhKaU1sX2hxVC11Tk5LaHN5N3FTeWc5bnJDTHFVaXF2dENjcUZKZEVUUGRmT21JUWNjMjlucHNBVWJzemg2bTVNSm1tS2JNcXFhS1BfbHFjUUpfVnlpZFHSAZ4BQVVfeXFMT1ByODN6bmVOMUJpVzBKZWROck1leG90UmMtcHF0TXlBRko0bXVLcll4b0N1X29wLTF5UmFQMS0zRnlFZ0FsMGx6eUNOWG96YTdkMFFQOUExQlMzazdGd3c4dnExRnEyajE3N2ZmREtOeWxfQ3ozNmVvMnc0eS1WcVlnN01Tbm5PeUI1WmNPemIyams4Z0s4LVVCV1E5ckE?oc=5",
+          "published": "2026-11-02T10:25:02+00:00",
+          "summary": "OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V - GSMArena.com news GSMArena.com",
           "signal": {}
         },
         {
@@ -2004,20 +2370,28 @@
           "published": "2026-11-02T21:01:02+00:00",
           "summary": "OnePlus Turbo 7 key specs leak, and it's a big step up - GSMArena.com news GSMArena.com",
           "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZkk2NHRYS1VMZGd5ZU5wUkt1MzQ3MVZ5eDB1N3FKQ1J6elBVMkNiNzZaVlRsd3Juc0NEWlVCSzhHUkZzaUltQ1QwWHZUTHhRVEUtTzdB?oc=5",
+          "published": "2026-11-02T10:26:53+00:00",
+          "summary": "OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V - Reader comments GSMArena.com",
+          "signal": {}
         }
       ],
-      "id": "c39"
+      "id": "c47"
     },
     {
       "title": "Xiaomi Redmi Note 15 (China) - GSMArena.com",
       "category": "phone",
-      "prescore": 33.4,
+      "prescore": 32.4,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.4,
+        "freshness": 12.4,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2027,12 +2401,11 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 3.2
+        "newest_hours": 5.2
       },
       "category_keyword_hits": {
         "phone": [
-          "xiaomi",
-          "dimensity"
+          "xiaomi"
         ]
       },
       "memeburn_recent_similar": [],
@@ -2046,36 +2419,20 @@
           "published": "2026-11-02T20:58:04+00:00",
           "summary": "Xiaomi Redmi Note 15 (China) GSMArena.com",
           "signal": {}
-        },
-        {
-          "source": "GSMArena",
-          "title": "Compare Xiaomi Redmi M100 Pro - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wU1hfRVZyZEd6eDQwS1dIV2c2OU5LRE5CcHFheGMwcVI1TmgtMDV4bTJCVnczNHc2b01HUjNRdldTbWp1QXZPc3dlcUdmMXRfNDAxZTlhTWpoc2VzWE1TWVFR?oc=5",
-          "published": "2026-11-02T17:34:04+00:00",
-          "summary": "Compare Xiaomi Redmi M100 Pro GSMArena.com",
-          "signal": {}
-        },
-        {
-          "source": "GSMArena",
-          "title": "Redmi M100 Pro launches with Dimensity 7300-Ultra SoC and triple-rear cameras - GSMArena.com news - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDZHY19OSFJXOEdRc05UVGx6WHQwX1BaX3FnNnpYb2ZxS0lqa2hCVFVDSFdmNTdwRV84ak5rWmZZc242cDhGVUEyTGdzWjBjQWRiZE5xX3hhNXlNNVp0cUh5bFdNRDlnTWRqQUp5Z3ZSdnNweWU0WGNha1NHY1dYVkZBRmtDTjZnSU01TzFvaFdRUE41UXBUQmxiNWlvU2RZOWJHM0QzdHJxUWkyZndXLTJvYjAwd9IBsgFBVV95cUxNVFVXc3lOcUEyRFI5blBSS3NiQnptMzNQTDBHRHA1R0xKcEtWRFpvMnlseGR0MjFiWHJwS1BJajI2LUNMQjFseHdjcGw5cWpaalVDYlVwR3F4aE1pZE1WWV9xZDZ1RXVxdnZQRHFEeERvLVFEZXJkSm5rN29PMVhMVVozMnRDcXVoOW9QbDA0djNTbnpsMmV2UExpN1JaQTVMOW5HcUNLLTk5OGpiOEtZelh3?oc=5",
-          "published": "2026-11-02T12:51:02+00:00",
-          "summary": "Redmi M100 Pro launches with Dimensity 7300-Ultra SoC and triple-rear cameras - GSMArena.com news GSMArena.com",
-          "signal": {}
         }
       ],
-      "id": "c40"
+      "id": "c48"
     },
     {
       "title": "Sneak peek: Google app is preparing a big change for its bottom bar",
       "category": "tech",
-      "prescore": 33.4,
+      "prescore": 32.4,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.4,
+        "freshness": 12.4,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2085,7 +2442,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 3.2
+        "newest_hours": 5.2
       },
       "category_keyword_hits": {
         "tech": [
@@ -2105,62 +2462,18 @@
           "signal": {}
         }
       ],
-      "id": "c41"
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "category": "ai",
-      "prescore": 33.3,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 1.9,
-        "crypto_trending": 0,
-        "freshness": 11.5,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 112,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 7.1
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "agents"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "Hacker News front page",
-          "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-          "url": "https://momentic.ai/",
-          "published": "2026-11-02T17:05:25+00:00",
-          "summary": "",
-          "signal": {
-            "hn_points": 112,
-            "hn_comments": 73
-          }
-        }
-      ],
-      "id": "c42"
+      "id": "c49"
     },
     {
       "title": "Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch [U]",
       "category": "tech",
-      "prescore": 33.3,
+      "prescore": 32.3,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.3,
+        "freshness": 12.3,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2170,7 +2483,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 3.4
+        "newest_hours": 5.4
       },
       "category_keyword_hits": {
         "tech": [
@@ -2190,18 +2503,18 @@
           "signal": {}
         }
       ],
-      "id": "c43"
+      "id": "c50"
     },
     {
       "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
       "category": "phone",
-      "prescore": 33.2,
+      "prescore": 32.2,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.2,
+        "freshness": 12.2,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2211,7 +2524,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 3.5
+        "newest_hours": 5.5
       },
       "category_keyword_hits": {
         "phone": [
@@ -2234,18 +2547,18 @@
           "signal": {}
         }
       ],
-      "id": "c44"
+      "id": "c51"
     },
     {
-      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-      "category": "tech",
-      "prescore": 33.0,
+      "title": "New Samsung Galaxy S27+ certification confirms its charging prowess - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 32.2,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 13.0,
+        "freshness": 12.2,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2255,7 +2568,57 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.1
+        "newest_hours": 5.6
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung",
+          "galaxy"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "New Samsung Galaxy S27+ certification confirms its charging prowess - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2k2NWRScVZTY3FiUVBERUVYRkdYd0lKUGNqaGJlZ0NiMGczN2lzbWVFN2JXMldjMGp5T25uaXVQcW9lemd6N25TcE53cGRmOV9RV085RVB3OGxsaHoycTVhQ0s2SGExRTRwM282UWh4VnZhZlZGLWVPRElEMlN3STVfZC1GSWdYRzJhWF9keHhEUFBTWVFfRDFqUVNwQklkRFB30gGfAUFVX3lxTE8wd2h1dlc3UXhYNTdHS1B4R1hEQUdMeElPb0N5WnVnVEZlUWxmQjB2NDZJTWo0RzNadlhoRldvenpWbEVTZ252VW5hSmdlVmpfM05QeGozRV9SN012TU1YaGhlbzVoWDRuanczbkJDb24wM3Bpb1owcDdiUldncHJFbHlBa0VFR0hwVVhxdWNfUi10RzhwNWROUi16eTA1VQ?oc=5",
+          "published": "2026-11-02T16:09:02+00:00",
+          "summary": "New Samsung Galaxy S27+ certification confirms its charging prowess - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "New Samsung Galaxy S27+ certification confirms its charging prowess - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMmNlTnBGbmlCaE9qWEE2cGJVWkgweldXQUl3RGpILVkyV0xUeE5adHhMbFZKRlN5dEFaMWpmTkxheDBEazV4aF85OVZIVHBIcy1mbHlR?oc=5",
+          "published": "2026-11-02T20:30:17+00:00",
+          "summary": "New Samsung Galaxy S27+ certification confirms its charging prowess - Reader comments GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c52"
+    },
+    {
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "category": "tech",
+      "prescore": 32.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.1
       },
       "category_keyword_hits": {
         "tech": [
@@ -2275,18 +2638,18 @@
           "signal": {}
         }
       ],
-      "id": "c45"
+      "id": "c53"
     },
     {
-      "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+      "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
       "category": "ai",
-      "prescore": 32.9,
+      "prescore": 32.0,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.9,
+        "freshness": 12.0,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2296,7 +2659,49 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.1
+        "newest_hours": 6.0
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "openai",
+          "chatgpt"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+          "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+          "published": "2026-11-02T20:07:21+00:00",
+          "summary": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired. Separately, OpenAI is also preparing to merge ChatGPT and Work into a single interface. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c54"
+    },
+    {
+      "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+      "category": "ai",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.1
       },
       "category_keyword_hits": {
         "ai": [
@@ -2316,18 +2721,18 @@
           "signal": {}
         }
       ],
-      "id": "c46"
+      "id": "c55"
     },
     {
       "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
       "category": "phone",
-      "prescore": 32.9,
+      "prescore": 31.9,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.9,
+        "freshness": 11.9,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2337,7 +2742,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.2
+        "newest_hours": 6.2
       },
       "category_keyword_hits": {
         "phone": [
@@ -2365,18 +2770,18 @@
           "signal": {}
         }
       ],
-      "id": "c47"
+      "id": "c56"
     },
     {
       "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
       "category": "ai",
-      "prescore": 32.9,
+      "prescore": 31.9,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.9,
+        "freshness": 11.9,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2386,7 +2791,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.2
+        "newest_hours": 6.2
       },
       "category_keyword_hits": {
         "ai": [
@@ -2408,62 +2813,18 @@
           "signal": {}
         }
       ],
-      "id": "c48"
-    },
-    {
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "category": "tech",
-      "prescore": 32.8,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 1.0,
-        "crypto_trending": 0,
-        "freshness": 11.8,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 60,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 6.4
-      },
-      "category_keyword_hits": {
-        "tech": [
-          "cybersecurity"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "Hacker News front page",
-          "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-          "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-          "published": "2026-11-02T17:47:40+00:00",
-          "summary": "",
-          "signal": {
-            "hn_points": 60,
-            "hn_comments": 18
-          }
-        }
-      ],
-      "id": "c49"
+      "id": "c57"
     },
     {
       "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
       "category": "tech",
-      "prescore": 32.8,
+      "prescore": 31.8,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.8,
+        "freshness": 11.8,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2473,7 +2834,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.4
+        "newest_hours": 6.4
       },
       "category_keyword_hits": {
         "tech": [
@@ -2493,18 +2854,18 @@
           "signal": {}
         }
       ],
-      "id": "c50"
+      "id": "c58"
     },
     {
       "title": "MagSafe Monday: Pelican’s MagSafe Battery Pack is the battery built to go anywhere",
       "category": "phone",
-      "prescore": 32.8,
+      "prescore": 31.8,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.8,
+        "freshness": 11.8,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2514,7 +2875,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.3
+        "newest_hours": 6.3
       },
       "category_keyword_hits": {},
       "memeburn_recent_similar": [],
@@ -2530,18 +2891,18 @@
           "signal": {}
         }
       ],
-      "id": "c51"
+      "id": "c59"
     },
     {
       "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
       "category": "ai",
-      "prescore": 32.8,
+      "prescore": 31.8,
       "score_breakdown": {
         "source_diversity": 10,
         "search_demand": 0,
         "community_buzz": 0.0,
         "crypto_trending": 0,
-        "freshness": 12.8,
+        "freshness": 11.8,
         "beat_fit": 10,
         "already_covered_by_memeburn": 0,
         "suggested_recently": 0,
@@ -2551,7 +2912,7 @@
           "reddit_score": 0,
           "coingecko_rank": null
         },
-        "newest_hours": 4.4
+        "newest_hours": 6.4
       },
       "category_keyword_hits": {
         "ai": [
@@ -2568,338 +2929,6 @@
           "url": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
           "published": "2026-11-02T19:43:51+00:00",
           "summary": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made people voluntarily work more. The article AI elites might hoard intelligence like mercantilists hoarded gold appeared first on The Decoder .",
-          "signal": {}
-        }
-      ],
-      "id": "c52"
-    },
-    {
-      "title": "Colt divinus - user account - GSMArena.com",
-      "category": "phone",
-      "prescore": 32.7,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.7,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 4.7
-      },
-      "category_keyword_hits": {},
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "GSMArena",
-          "title": "Colt divinus - user account - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05WkRYeEFlZ2JneVhERjR6NnFDbU5oS1c4TXRLaVR4TkNra2M3Zml5VHJQZHNMMkUyMGpkajVub0o4TFJJbmQwLTZFUFpCMjh6eW10VVRDek9kNG8?oc=5",
-          "published": "2026-11-02T19:29:16+00:00",
-          "summary": "Colt divinus - user account GSMArena.com",
-          "signal": {}
-        }
-      ],
-      "id": "c53"
-    },
-    {
-      "title": "Compare ZEED Z-Pro - GSMArena.com",
-      "category": "phone",
-      "prescore": 32.7,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.7,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 4.7
-      },
-      "category_keyword_hits": {},
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "GSMArena",
-          "title": "Compare ZEED Z-Pro - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51aHpSVmlBQi1ZckxXRVp1cDdhOHBydVBJOXl5amQwYzNEbkJfRFlGYU1xMU13Q3BwUG9qa1JzMlZ4VW5paHdoM25QWGthRHRHdEp1enRFM3hfTE1zaHRnZnNB?oc=5",
-          "published": "2026-11-02T19:27:07+00:00",
-          "summary": "Compare ZEED Z-Pro GSMArena.com",
-          "signal": {}
-        }
-      ],
-      "id": "c54"
-    },
-    {
-      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-      "category": "crypto",
-      "prescore": 32.7,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.7,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 4.7
-      },
-      "category_keyword_hits": {
-        "crypto": [
-          "bitcoin",
-          "btc"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "Cointelegraph",
-          "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-          "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-11-02T19:27:58+00:00",
-          "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
-          "signal": {}
-        }
-      ],
-      "id": "c55"
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "category": "ai",
-      "prescore": 32.6,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.6,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 4.8
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "anthropic"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "TechCrunch",
-          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-          "published": "2026-11-02T19:19:17+00:00",
-          "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-          "signal": {}
-        }
-      ],
-      "id": "c56"
-    },
-    {
-      "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
-      "category": "ai",
-      "prescore": 32.5,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.5,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 4.9
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "ai"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "Techmeme",
-          "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
-          "url": "https://www.techmeme.com/261102/p35#a261102p35",
-          "published": "2026-11-02T19:15:01+00:00",
-          "summary": "Liam Proven / The Register : Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying “automation and AI are fundamentally shifting how software companies operate” — One in ten employees at SUSE are facing the chop due to “automation and AI,” according to a memo dispatched by management …",
-          "signal": {}
-        }
-      ],
-      "id": "c57"
-    },
-    {
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "category": "tech",
-      "prescore": 32.5,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.5,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 5.0
-      },
-      "category_keyword_hits": {
-        "tech": [
-          "youtube"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "TechCrunch",
-          "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-          "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-          "published": "2026-11-02T19:11:49+00:00",
-          "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-          "signal": {}
-        }
-      ],
-      "id": "c58"
-    },
-    {
-      "title": "Motorola Signature 27 stars in hands-on promo video ahead of launch - GSMArena.com news - GSMArena.com",
-      "category": "phone",
-      "prescore": 32.4,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.4,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 5.1
-      },
-      "category_keyword_hits": {
-        "phone": [
-          "motorola"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "GSMArena",
-          "title": "Motorola Signature 27 stars in hands-on promo video ahead of launch - GSMArena.com news - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGNJWXZIRGxxVVJ3U2ppWHdGME9SQ2NabkdHT1Zic3RVeDNqak02Z25NLW14R0dXREZxWE05SkFHWmJ2aXRWTVE5eGFWSjZhajZRMkZ3UWhOU2FXbGdXTFpySFl5VzJuLW9ENU9MVkFDbHhVRzVFT2NvMktfeHFieXQ3UldvLWhBNDdYT0ZpaWVpYnF4Mk0zN05VVWdfakZnSXRXZUNJVjdPQdIBpgFBVV95cUxPV2syVE4zSUthME02TXJhNUtyV2VQczZlMUdKSUtLVjNzWU0wRGFSb3Jxd2tIaHdCT3lNeFNBdms1NW1oeWFsbnhyLWE4dEdDY0RIa0NmdEFKSzMtV3dDUGRzelFWMTVmbjRoWWNHelZoSHRCS3JQVGZvVTlFQVlpUkVBQXFLMVJVaHl5bjRtd195WGI4TFBVU3hFdmVkSUgyQ09kUE1n?oc=5",
-          "published": "2026-11-02T19:03:02+00:00",
-          "summary": "Motorola Signature 27 stars in hands-on promo video ahead of launch - GSMArena.com news GSMArena.com",
-          "signal": {}
-        },
-        {
-          "source": "GSMArena",
-          "title": "Motorola Signature 27 - User opinions and reviews - GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZenZJaDhoOTdlSms3TkR0QldReWZWalpGeUtjZU9rb1A4c1BsWnRkYnJnem9zdVU4SGhKRjRmenVmSE5tdURhYkhDOWstSjRybktEZGwzZkUzVkRZSDNSdzFBQ2Zfa015T2ZYRkMxQjA3WHZMaGc?oc=5",
-          "published": "2026-11-02T15:01:20+00:00",
-          "summary": "Motorola Signature 27 - User opinions and reviews GSMArena.com",
-          "signal": {}
-        }
-      ],
-      "id": "c59"
-    },
-    {
-      "title": "Google may already be having second thoughts about this recent Gemini change",
-      "category": "ai",
-      "prescore": 32.4,
-      "score_breakdown": {
-        "source_diversity": 10,
-        "search_demand": 0,
-        "community_buzz": 0.0,
-        "crypto_trending": 0,
-        "freshness": 12.4,
-        "beat_fit": 10,
-        "already_covered_by_memeburn": 0,
-        "suggested_recently": 0,
-        "signals": {
-          "trends_traffic": 0,
-          "hn_points": 0,
-          "reddit_score": 0,
-          "coingecko_rank": null
-        },
-        "newest_hours": 5.1
-      },
-      "category_keyword_hits": {
-        "ai": [
-          "gemini"
-        ],
-        "tech": [
-          "google"
-        ]
-      },
-      "memeburn_recent_similar": [],
-      "suggested_in_recent_briefs": [],
-      "source_count": 1,
-      "items": [
-        {
-          "source": "Android Authority",
-          "title": "Google may already be having second thoughts about this recent Gemini change",
-          "url": "https://www.androidauthority.com/gemini-chat-tasks-default-3730786/",
-          "published": "2026-11-02T19:00:39+00:00",
-          "summary": "An upcoming Gemini setting could let you pick Chat or Tasks as your default.",
           "signal": {}
         }
       ],
