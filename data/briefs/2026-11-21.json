@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-21",
+  "language": "en",
+  "summary": "Today's crawl is dominated by a genuinely major AI story (Anthropic's Claude-assisted Riemann Hypothesis claim) and a rough week for AI-adjacent markets (Nvidia, Nasdaq, Bitcoin all down hard) — phone news was unusually thin today, so this brief widens the net into Black Friday deals, buying-availability, and comparison angles to stay near the usual phone-heavy mix rather than forcing weak filler; phone still lands under the normal ~70% target as a result. Reddit's API blocked today's crawl (403), but every other source came through, so this isn't flagged as a majority-failure day.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01"],
+      "working_title": "Anthropic mathematician claims Claude helped crack the Riemann Hypothesis",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 87,
+      "why_now": "Hacker News front page at 2,321 points/1,572 comments within a day; The Verge and TechCrunch both covered it within hours of each other; Memeburn has no coverage yet.",
+      "angle": "Explain in plain terms what the Riemann Hypothesis is and why it matters, how mathematician Levent Alpöge used Claude as a research tool (not a solo AI solve), and note the competing human-only proof that surfaced the same week — frame the claim as unverified pending peer review, not settled fact.",
+      "format": "news",
+      "est_words": 1300,
+      "headline_options": [
+        "An Anthropic Mathematician Used Claude to Crack a 167-Year-Old Math Problem",
+        "Did AI Just Help Solve the Riemann Hypothesis? Here's What We Know",
+        "Claude Helped Prove the Riemann Hypothesis — But a Rival Human Proof Showed Up Too"
+      ],
+      "seo_keywords": ["riemann hypothesis proof", "anthropic claude math proof", "riemann hypothesis solved", "millennium prize problem ai"],
+      "sources": [
+        {"title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude", "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"},
+        {"title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too", "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"},
+        {"title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]", "url": "https://alpo.ge/remark.pdf"}
+      ],
+      "notes_for_writer": "Claim is unverified by the math community as of publish — say 'claims to have proved,' not 'proved.' Mention the competing human-only proof for balance. Treat the HN thread as community reaction, not a source of facts."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c19", "c17", "c13"],
+      "working_title": "Best Black Friday phone and gadget deals already live: Galaxy Buds, Watch 8, Ray-Ban Meta",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 85,
+      "why_now": "Black Friday is November 27 and several deals are already live on Amazon six days out — Galaxy Buds 4 Pro at their lowest price yet (28% off), Galaxy Watch 8 Classic 30% off, Ray-Ban Meta Gen 2 at its lowest-ever price — and Memeburn hasn't run a deals roundup this season.",
+      "angle": "Roundup of the best already-live, phone-adjacent Black Friday deals with clear 'buy now vs. wait' guidance, leading with the two Samsung deals since they're both at record lows.",
+      "format": "listicle",
+      "est_words": 1800,
+      "headline_options": [
+        "Best Black Friday Phone and Gadget Deals Live Right Now",
+        "Galaxy Buds 4 Pro Hit Their Lowest Price Ever Ahead of Black Friday — Here's What Else Is Discounted"
+      ],
+      "seo_keywords": ["black friday phone deals 2026", "galaxy buds 4 pro deal", "galaxy watch 8 classic black friday", "ray-ban meta deal"],
+      "sources": [
+        {"title": "Samsung Galaxy Buds 4 Pro fall to their lowest price yet", "url": "https://www.androidauthority.com/samsung-galaxy-buds-4-pro-deal-3736302/"},
+        {"title": "Save $150 on the Galaxy Watch 8 Classic this Black Friday", "url": "https://www.androidauthority.com/samsung-galaxy-watch-8-classic-deal-black-friday-3736301/"},
+        {"title": "Ray-Ban Meta (Gen 2) glasses get $103 off for Black Friday", "url": "https://www.androidauthority.com/ray-ban-meta-wayfarer-gen-2-deal-3737770/"},
+        {"title": "Multiplying your Switch 2's storage costs less than usual right now", "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale"}
+      ],
+      "notes_for_writer": "Verify every price is still live right before publishing — deal pricing shifts daily this time of year. Use standard Amazon affiliate links. Plan to refresh this piece again closer to Nov 27 rather than treating it as one-and-done."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c49", "c05"],
+      "working_title": "Bitcoin falls to $57,000, its lowest price in over two years",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "why_now": "Bloomberg (via Techmeme) confirmed Bitcoin hit a fresh 2-year low Friday, down from its October 2025 peak above $126,000; CoinGecko's live trending data shows BTC down another 5% in 24h, part of the same week's broader risk-off move hitting tech and AI stocks.",
+      "angle": "Explain the drop in plain USD terms (peak $126K to $57K), connect it to the same week's AI-stock selloff as market context, and stick to reported numbers — no price predictions.",
+      "format": "news",
+      "est_words": 1200,
+      "headline_options": [
+        "Bitcoin Falls to $57,000, Its Lowest Price in Over Two Years",
+        "Bitcoin Has Lost Half Its Value Since Its October 2025 Peak. What's Going On?"
+      ],
+      "seo_keywords": ["bitcoin price today", "why is bitcoin crashing", "bitcoin 57000", "bitcoin lowest price 2 years"],
+      "sources": [
+        {"title": "Bitcoin falls to $57,000, its lowest level in over two years", "url": "https://www.techmeme.com/261120/p32#a261120p32"},
+        {"title": "Bitcoin (BTC) trending on CoinGecko", "url": "https://www.coingecko.com/en/coins/bitcoin"}
+      ],
+      "notes_for_writer": "Stick to reported numbers (peak ~$126K Oct 2025, now $57K) — no price predictions or buy/sell framing. Can reference the same-week Nvidia/Nasdaq selloff (today's other market pick) as context without claiming direct causation unless a source says so."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c53", "c26"],
+      "working_title": "Nvidia stock down 44% in seven weeks as Nasdaq posts its worst week in six years",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 76,
+      "why_now": "Techmeme flagged both moves within the last day — CNBC reporting Nvidia fell 14% Friday (44% over seven weeks, -$2.5T market cap) and the Financial Times reporting the Nasdaq 100's worst week in six years — on fears the AI investment boom is slowing.",
+      "angle": "Lay out the numbers plainly and explain what 'AI bubble fears' actually means for readers: who's exposed (chipmakers, AI infrastructure spenders, retail investors in AI-heavy funds) and what to watch next, following the workflow's AI-business-news structure.",
+      "format": "news",
+      "est_words": 1400,
+      "headline_options": [
+        "Nvidia Stock Just Fell 44% in Seven Weeks, Wiping Out $2.5 Trillion",
+        "The Nasdaq Just Had Its Worst Week in Six Years on AI Bubble Fears"
+      ],
+      "seo_keywords": ["nvidia stock crash", "nasdaq ai bubble", "why is nvidia stock down", "ai stock selloff 2026"],
+      "sources": [
+        {"title": "Nvidia shares closed down 14% on Friday, sliding for a seventh straight day", "url": "https://www.techmeme.com/261120/p29#a261120p29"},
+        {"title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%", "url": "https://www.techmeme.com/261120/p42#a261120p42"}
+      ],
+      "notes_for_writer": "Markets story, not investment advice — stick to reported numbers, no buy/sell framing. Nvidia's leadership situation (Jensen Huang) is a separate, more sensitive developing story — don't conflate the stock move with the personal-conduct allegations unless a source explicitly links them."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c11", "c57"],
+      "working_title": "Google is killing the Nest app and Google Assistant on smart speakers",
+      "category": "tech",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 71,
+      "why_now": "The Verge and Android Authority both confirmed the shutdown timeline within the last day — Nest app retired January 25, 2027; Google Assistant on Google Home smart speakers/displays ends August 2, 2027 — affecting a large installed base who need to act before those dates.",
+      "angle": "Give readers the concrete dates and a clear action checklist: migrate to the Google Home app, what changes, and whether Gemini actually replaces what Assistant did for them.",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "Google Is Killing the Nest App and Google Assistant on Smart Speakers — Here's the Timeline",
+        "Your Nest App Stops Working January 25, 2027. Here's What to Do Before Then"
+      ],
+      "seo_keywords": ["google assistant shutting down", "nest app shutdown date", "google home app migration", "google assistant vs gemini"],
+      "sources": [
+        {"title": "Google says it's going to shut off Google Assistant on smart speakers next year", "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"},
+        {"title": "Google Assistant will stop working on smart speakers and displays in August 2027", "url": "https://www.androidauthority.com/assistant-gemini-home-devices-3737857/"},
+        {"title": "Google will shut down the Nest app in January 2027", "url": "https://www.androidauthority.com/nest-app-deadline-3737880/"}
+      ],
+      "notes_for_writer": "Double-check the two dates aren't describing the same deadline from different angles (Jan 25, 2027 for the Nest app vs. Aug 2, 2027 for Assistant on speakers/displays) against Google's own support page before publishing."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c04"],
+      "working_title": "Apple is reportedly building its own AI agent to run your Mac",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "TechCrunch, 9to5Mac, and GSMArena all reported on Apple's AI agent plans within the same 24 hours, building on Bloomberg's original job-listing report.",
+      "angle": "Separate what's actually confirmed (job listings, multi-outlet reporting) from speculation, and explain how this would compete with Claude, Gemini, and OpenAI agents that already run on Mac — and why Apple is late to this race.",
+      "format": "news",
+      "est_words": 1200,
+      "headline_options": [
+        "Apple Is Reportedly Building Its Own AI Agent to Run Your Mac",
+        "Apple Wants an AI Agent That Can Code and Use Apps for You — Here's What We Know"
+      ],
+      "seo_keywords": ["apple ai agent", "apple agentic ai mac", "siri ai agent 2026", "apple vs claude gemini agents"],
+      "sources": [
+        {"title": "Apple may be developing its own AI agent that runs your Mac", "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"},
+        {"title": "Report: Apple job listings detail plans for autonomous AI agents", "url": "https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/"}
+      ],
+      "notes_for_writer": "Based on job listings and anonymous sourcing, not an Apple announcement — frame as 'reportedly'/'according to sources' throughout, not as confirmed fact."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c40"],
+      "working_title": "How to stream GTA 6 on your iPhone, iPad, or Mac",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 69,
+      "why_now": "GTA 6 is one of the most-searched game topics right now, and this is a concrete, actionable setup guide rather than a routine feature walkthrough.",
+      "angle": "Step-by-step on cloud-streaming GTA 6 to Apple devices — which services/apps, minimum connection, controller support.",
+      "format": "how-to",
+      "est_words": 900,
+      "headline_options": [
+        "How to Stream GTA 6 on Your iPhone, iPad, or Mac",
+        "You Can Play GTA 6 on an iPhone Right Now — Here's How to Set It Up"
+      ],
+      "seo_keywords": ["stream gta 6 on iphone", "play gta 6 on mac", "gta 6 ipad", "gta 6 cloud gaming"],
+      "sources": [
+        {"title": "How to stream GTA 6 on your iPhone, iPad or Mac", "url": "https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac/"}
+      ],
+      "notes_for_writer": "Verify the exact streaming services/apps named in the Engadget piece still work as described — streaming service terms and app availability change often."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c30"],
+      "working_title": "iOS 27 lets two iPhones share the same phone number",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 66,
+      "why_now": "9to5Mac broke this iOS 27 feature in the last day; it's built around the new iPhone Duo plus a second iPhone, and ties into today's iPhone Duo availability story.",
+      "angle": "Explain the Handoff-style number-switching feature (one active number at a time, switches on unlock) and flag the carrier caveats that limit who can use it today.",
+      "format": "explainer",
+      "est_words": 1000,
+      "headline_options": [
+        "iOS 27 Lets Two iPhones Share the Same Phone Number — Here's How It Works",
+        "iPhone Duo Owners Can Now Share One Number With a Second iPhone"
+      ],
+      "seo_keywords": ["ios 27 two iphones same number", "iphone duo shared number", "ios 27 features", "iphone handoff phone number"],
+      "sources": [
+        {"title": "iOS 27 lets you use two iPhones with the same phone number", "url": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number/"}
+      ],
+      "notes_for_writer": "Carrier support is limited at launch per the source article — don't imply universal availability. Link internally to today's iPhone Duo shipping-times piece."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c36"],
+      "working_title": "iPhone Duo shipping times are finally getting shorter",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 65,
+      "why_now": "GSMArena flagged shortened iPhone Duo shipping estimates within the last day — the kind of concrete availability signal shoppers actively search for.",
+      "angle": "Practical buy-now-or-wait piece for shoppers eyeing the iPhone Duo, using the shortened shipping estimate as the news hook.",
+      "format": "news",
+      "est_words": 700,
+      "headline_options": [
+        "iPhone Duo Shipping Times Are Finally Getting Shorter — Should You Order Now?",
+        "Apple's iPhone Duo Wait Times Are Dropping. Here's the Latest Estimate"
+      ],
+      "seo_keywords": ["iphone duo shipping time", "iphone duo availability", "should i buy iphone duo", "iphone duo release date"],
+      "sources": [
+        {"title": "iPhone Duo shipping times are finally getting shorter - GSMArena.com news - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWtGTUs3SmVQcEl4amU1OWdPOXl0NzhQM3d3d2tiVGMxQkYzT05Ha3ZXSTFENE9uMzQ3OUtRNmJFcE1oemRqd01pSUFaaHFtbFJZVkJydnhqeGxJT2ZLQm5LX0ZqNEE2US11OUl1RkRocXdfQ3Y0NDNiVU9UelFkYlQtTER4UU5iSnowLWFqd2FDa1Zj0gGUAUFVX3lxTE1la0ZNSzdKZVBwSXhqZTU5Z085eXQ3OFAzd3d3a2JUYzFCRjNPTkdrdldJMUQ0T24zNDc5S1E2YkVwTWh6ZGp3TWlJQVpocW1sUllWQnJ2eGp4bElPZktCbktfRmo0QTZRLXU5SXVGRGhxd19DdjQ0M2JVT1R6UWRiVC1MRHhRTmJKejAtYWp3YUNrVmM?oc=5"}
+      ],
+      "notes_for_writer": "Single-source item — the full article text wasn't accessible to Scout (Google News redirect), only the headline. Confirm the actual current shipping estimate (e.g. via Apple's own order page) before publishing; don't state a specific number of days/weeks unless verified directly."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c47"],
+      "working_title": "The fastest phone chips right now, ranked by benchmark score",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 61,
+      "why_now": "GSMArena published an updated chipset ranking in the last day; pairs well with Black Friday phone-shopping season.",
+      "angle": "Turn GSMArena's chipset ranking tool into a readable, updated comparison of the fastest phone processors, with buying guidance on which chip to prioritize this shopping season.",
+      "format": "comparison",
+      "est_words": 1800,
+      "headline_options": [
+        "The Fastest Phone Chips Right Now, Ranked by Benchmark Score",
+        "Snapdragon vs. Exynos vs. Tensor: Which Phone Chip Is Actually Fastest?"
+      ],
+      "seo_keywords": ["fastest phone chipset 2026", "best smartphone processor", "snapdragon vs exynos 2026", "phone benchmark ranking"],
+      "sources": [
+        {"title": "Fastest mobile chipsets ranked: compare smartphone processor performance - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa19ZWHN2XzhSRG9rQThabk9UaDRPaHF4UnZLeVZkZXVrbFd3Z21DLWNxTTNWaFk5N3hNQlM1OXV5Q0EtbWp4b3lFWnFIQ3ctb2pfckc5S2ZiOXZuRFYxNkJGdmdRc0d3c0ltQzBIcUZCckY5WEYzZklHV19EX2U5UVhNcW5Bb0JGWElYRGFMZU1zNnVSRW5uUHNPZ1FOaFVPZEdhN0l3U2NrVGVIc3Y0Zw?oc=5"}
+      ],
+      "notes_for_writer": "Source article text wasn't accessible to Scout (Google News redirect) — pull the actual current rankings/scores directly from GSMArena's tool before writing, don't reuse older numbers from memory."
+    }
+  ],
+  "watchlist": [
+    "Jensen Huang's exit from Nvidia and the board's stated reasons (Wired/TechCrunch) — developing, sensitive personal-conduct allegations, needs more verification before a consumer-facing angle emerges",
+    "Wrapped Monero token collapse (-99%) after a $13.5M exploit — security story but a micro-cap token with limited reader relevance",
+    "Sky's USDS stablecoin losing $1.5B+ in reserves after an illicit-finance report",
+    "Senate's bill to ban war/death prediction-market bets, and Kalshi's fight with New York regulators",
+    "Nothing's screen-less AI device, officially launching December 8"
+  ],
+  "upcoming": [
+    {
+      "date": "2026-11-27",
+      "event": "Black Friday",
+      "prep_idea": "Expand today's deals roundup into a live-updated Black Friday hub as more retailers confirm prices through the week."
+    }
+  ]
+}

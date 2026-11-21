@@ -1,165 +1,5 @@
 [
   {
-    "brief_date": "2026-11-06",
-    "rank": 1,
-    "working_title": "Nasdaq 100 Drops 6% as Investors Dump AI Stocks After Democrats' Midterm Sweep",
-    "category": "ai",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 70,
-    "published": true,
-    "article_url": "https://memeburn.com/data-center-stocks-midterms/",
-    "article_title": "Data Center Stocks Fell While the Market Rallied. Investors Are Betting Democrats Will Slow the AI Buildout, Just Not From Washington",
-    "author": "Vincee Cole",
-    "hours_to_publish": 14.3,
-    "pageviews": 132.0
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 2,
-    "working_title": "Samsung's Galaxy Buds4 Pro and Buds3 Pro Will Soon Work as Hearing Aids",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 64,
-    "published": true,
-    "article_url": "https://memeburn.com/galaxy-buds-hearing-aid/",
-    "article_title": "Your Galaxy Buds Could Become Hearing Aids This Year: Who Qualifies, Which Phones Work and What’s Still Missing",
-    "author": "Vincee Cole",
-    "hours_to_publish": 33.5,
-    "pageviews": 986.0
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 3,
-    "working_title": "Investors Grow Skeptical Anthropic's IPO Can Hit a $1.5 Trillion Valuation",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 63,
-    "published": true,
-    "article_url": "https://memeburn.com/anthropic-ipo-price-range/",
-    "article_title": "Anthropic’s IPO Price Range Says $1.02 Trillion, $1.3 Trillion or $1.4 Trillion. Which Number Is Real?",
-    "author": "Vincee Cole",
-    "hours_to_publish": 159.2,
-    "pageviews": 224.0
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 4,
-    "working_title": "Claude Code Has Been Sending Your Email Address to Websites",
-    "category": "ai",
-    "urgency": "today",
-    "format": "how-to",
-    "score": 63,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 5,
-    "working_title": "OpenAI's GPT-6 Astra Secretly Sabotaged Its Own Safety Research",
-    "category": "ai",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 61,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 6,
-    "working_title": "WhatsApp Is Bringing iOS-Style Chat Previews to Android",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "how-to",
-    "score": 60,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 7,
-    "working_title": "Samsung's One UI 9.5 Brings Notable Changes to Health and Calendar",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "news",
-    "score": 60,
-    "published": true,
-    "article_url": "https://memeburn.com/samsungs-one-ui-9-5-leaks-a-social-contacts-app-and-a-blocked-calls-hub/",
-    "article_title": "Samsung’s One UI 9.5 Leaks Keep Coming: A Social Contacts App and a Blocked-Calls Hub",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 226.7,
-    "pageviews": 253.0
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 8,
-    "working_title": "iOS 27.3 Makes Apple One's Priciest Tier Actually Worth It",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 58,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 9,
-    "working_title": "Why Garmin Still Won't Give Up on Power-Efficient MIP Displays",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 57,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 10,
-    "working_title": "Samsung's Rugged Galaxy XCover 7 Pro Gets One UI 9 in the US",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 56,
-    "published": true,
-    "article_url": "https://memeburn.com/galaxy-a17-5g-vs-moto-g-2026/",
-    "article_title": "Galaxy A17 5G vs Moto G 2026: Samsung Wins 4 of 7 Rounds, the Moto Packs the Extras",
-    "author": "Vincee Cole",
-    "hours_to_publish": 155.2,
-    "pageviews": 6385.0
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 11,
-    "working_title": "Qualcomm's Latest Snapdragon Chips Now Support Android's Linux Terminal App",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "how-to",
-    "score": 56,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 12,
-    "working_title": "Sony Brings Back the Original Walkman Headphones -- With USB-C",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "news",
-    "score": 56,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-06",
-    "rank": 13,
-    "working_title": "Barnes & Noble and TCL Team Up for a New Tab A1 NXTPAPER",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 55,
-    "published": true,
-    "article_url": "https://memeburn.com/galaxy-tab-s12-vs-galaxy-tab-s10/",
-    "article_title": "Galaxy Tab S12+ vs Galaxy Tab S10+: Is Samsung’s Newer Tablet Worth the Premium?",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 125.6,
-    "pageviews": 2160.0
-  },
-  {
     "brief_date": "2026-11-07",
     "rank": 1,
     "working_title": "Tesla Is Winding Down Cybertruck Production",
@@ -187,12 +27,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 63,
-    "published": true,
-    "article_url": "https://memeburn.com/apples-doj-antitrust-fight-pulls-in-epic-samsung-oura-and-roblox/",
-    "article_title": "Apple’s DOJ Antitrust Fight Pulls in Epic, Samsung, Oura, and Roblox",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 33.2,
-    "pageviews": 138.0
+    "published": false
   },
   {
     "brief_date": "2026-11-07",
@@ -203,11 +38,11 @@
     "format": "news",
     "score": 62,
     "published": true,
-    "article_url": "https://memeburn.com/jensen-huang-hired-pr-firm-before-his-admission/",
-    "article_title": "Jensen Huang Reportedly Hired a Crisis PR Firm a Year Before His Admission",
+    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
+    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
     "author": "Vincee Cole",
-    "hours_to_publish": 102.5,
-    "pageviews": 254.0
+    "hours_to_publish": 306.5,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-07",
@@ -243,11 +78,11 @@
     "format": "how-to",
     "score": 59,
     "published": true,
-    "article_url": "https://memeburn.com/ios-27-2-adds-three-iphone-settings-worth-customizing/",
-    "article_title": "iOS 27.2 Adds Three iPhone Settings Worth Customizing",
+    "article_url": "https://memeburn.com/whats-new-in-the-ios-27-3-beta/",
+    "article_title": "What’s New in the iOS 27.3 Beta, and What Will Your iPhone Get?",
     "author": "Marko Nguyen",
-    "hours_to_publish": 38.2,
-    "pageviews": 305.0
+    "hours_to_publish": 309.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-07",
@@ -293,11 +128,11 @@
     "format": "news",
     "score": 78,
     "published": true,
-    "article_url": "https://memeburn.com/nvidia-board-investigation-huang/",
-    "article_title": "Nvidia’s Board Is Investigating Jensen Huang After He Admitted an Affair. The Probe Has to Answer Two Very Different Questions",
-    "author": "Vincee Cole",
-    "hours_to_publish": 38.2,
-    "pageviews": 143.0
+    "article_url": "https://memeburn.com/sam-altman-ai-revolution-jensen-huang-nvidia/",
+    "article_title": "Sam Altman Says AI Will Survive Nvidia Without Jensen Huang",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 242.2,
+    "pageviews": 144.0
   },
   {
     "brief_date": "2026-11-08",
@@ -307,12 +142,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 67,
-    "published": true,
-    "article_url": "https://memeburn.com/siri-ai-agent-ternus/",
-    "article_title": "Apple’s New CEO Is Pushing Siri to Become a Real AI Agent",
-    "author": "Vincee Cole",
-    "hours_to_publish": 42.2,
-    "pageviews": 132.0
+    "published": false
   },
   {
     "brief_date": "2026-11-08",
@@ -332,12 +162,7 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 62,
-    "published": true,
-    "article_url": "https://memeburn.com/iphone-air-2-is-coming-with-big-problems/",
-    "article_title": "iPhone Air 2 Is Coming in Spring 2027. The Leaks Fix 3 of the First Air’s 7 Biggest Problems",
-    "author": "Vincee Cole",
-    "hours_to_publish": 36.2,
-    "pageviews": 1214.0
+    "published": false
   },
   {
     "brief_date": "2026-11-08",
@@ -347,12 +172,7 @@
     "urgency": "today",
     "format": "listicle",
     "score": 61,
-    "published": true,
-    "article_url": "https://memeburn.com/pixel-11-pro-fold-vs-honor-magic-v5/",
-    "article_title": "Pixel 11 Pro Fold vs HONOR Magic V5 in 2026: Pay More for Google?",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 1.1,
-    "pageviews": 149.0
+    "published": false
   },
   {
     "brief_date": "2026-11-08",
@@ -362,12 +182,7 @@
     "urgency": "evergreen",
     "format": "comparison",
     "score": 61,
-    "published": true,
-    "article_url": "https://memeburn.com/is-the-iphone-16-pro-max-still-worth-buying-after-the-iphone-18-pro-max/",
-    "article_title": "Is the iPhone 16 Pro Max Still Worth Buying After the iPhone 18 Pro Max?",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 134.7,
-    "pageviews": 637.0
+    "published": false
   },
   {
     "brief_date": "2026-11-08",
@@ -398,11 +213,11 @@
     "format": "review-roundup",
     "score": 55,
     "published": true,
-    "article_url": "https://memeburn.com/iqoo-16-vs-oneplus-15/",
-    "article_title": "iQOO 16 vs OnePlus 15: Is Next-Generation Gaming Worth Paying More For?",
+    "article_url": "https://memeburn.com/oneplus-12-is-now-getting-coloros-17-its-first-major-update-without-oxygenos/",
+    "article_title": "OnePlus 12 Is Now Getting ColorOS 17, Its First Major Update Without OxygenOS",
     "author": "Marko Nguyen",
-    "hours_to_publish": 69.5,
-    "pageviews": 970.0
+    "hours_to_publish": 158.4,
+    "pageviews": 377.0
   },
   {
     "brief_date": "2026-11-08",
@@ -413,11 +228,11 @@
     "format": "news",
     "score": 55,
     "published": true,
-    "article_url": "https://memeburn.com/oneplus-coloros-17-november-rollout-dates-2026/",
-    "article_title": "OnePlus ColorOS 17 November 2026 Schedule: Exact Update Dates",
+    "article_url": "https://memeburn.com/oneplus-12-is-now-getting-coloros-17-its-first-major-update-without-oxygenos/",
+    "article_title": "OnePlus 12 Is Now Getting ColorOS 17, Its First Major Update Without OxygenOS",
     "author": "Marko Nguyen",
-    "hours_to_publish": 57.5,
-    "pageviews": 2087.0
+    "hours_to_publish": 158.4,
+    "pageviews": 377.0
   },
   {
     "brief_date": "2026-11-10",
@@ -427,12 +242,7 @@
     "urgency": "today",
     "format": "news",
     "score": 81,
-    "published": true,
-    "article_url": "https://memeburn.com/claude-fable-5-2-vs-fable-5-1/",
-    "article_title": "Claude Fable 5.2 vs Fable 5.1: Which Tasks Got Better, and Which Claude Model to Use for Each",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 70.7,
-    "pageviews": 278.0
+    "published": false
   },
   {
     "brief_date": "2026-11-10",
@@ -527,12 +337,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 86,
-    "published": true,
-    "article_url": "https://memeburn.com/anthropic-ipo-price-range/",
-    "article_title": "Anthropic’s IPO Price Range Says $1.02 Trillion, $1.3 Trillion or $1.4 Trillion. Which Number Is Real?",
-    "author": "Vincee Cole",
-    "hours_to_publish": 39.2,
-    "pageviews": 224.0
+    "published": false
   },
   {
     "brief_date": "2026-11-11",
@@ -542,12 +347,7 @@
     "urgency": "today",
     "format": "comparison",
     "score": 79,
-    "published": true,
-    "article_url": "https://memeburn.com/google-pixel-tag-now-available-the-30-airtag-rival/",
-    "article_title": "Google Pixel Tag Now Available: The $30 AirTag Rival",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 54.7,
-    "pageviews": 2234.0
+    "published": false
   },
   {
     "brief_date": "2026-11-11",
@@ -557,12 +357,7 @@
     "urgency": "today",
     "format": "news",
     "score": 69,
-    "published": true,
-    "article_url": "https://memeburn.com/oura-counsel-health-625-million-deal/",
-    "article_title": "Oura Is Paying $625 Million to Put a Doctor Behind Its Smart Ring",
-    "author": "Vincee Cole",
-    "hours_to_publish": 49.7,
-    "pageviews": 102.0
+    "published": false
   },
   {
     "brief_date": "2026-11-11",
@@ -582,12 +377,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 64,
-    "published": true,
-    "article_url": "https://memeburn.com/samsung-is-prepping-its-galaxy-wearable-app-ahead-of-a-smart-glasses-debut/",
-    "article_title": "Samsung Is Prepping Its Galaxy Wearable App Ahead of a Smart Glasses Debut",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 56.7,
-    "pageviews": 438.0
+    "published": false
   },
   {
     "brief_date": "2026-11-11",
@@ -607,12 +397,7 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 61,
-    "published": true,
-    "article_url": "https://memeburn.com/samsung-is-prepping-its-galaxy-wearable-app-ahead-of-a-smart-glasses-debut/",
-    "article_title": "Samsung Is Prepping Its Galaxy Wearable App Ahead of a Smart Glasses Debut",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 56.7,
-    "pageviews": 438.0
+    "published": false
   },
   {
     "brief_date": "2026-11-11",
@@ -1273,10 +1058,10 @@
     "format": "news",
     "score": 64,
     "published": true,
-    "article_url": "https://memeburn.com/iphone-duo-face-unlock/",
-    "article_title": "Your iPhone Duo Can Now Recognize Your Face. It Still Won’t Trust It With Your Money",
-    "author": "Vincee Cole",
-    "hours_to_publish": 45.3,
+    "article_url": "https://memeburn.com/apple-is-reportedly-testing-two-designs-for-the-20th-anniversary/",
+    "article_title": "Apple Is Reportedly Testing Two Designs for the 20th-Anniversary iPhone. The Last Anniversary Shows Why",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 105.6,
     "pageviews": null
   },
   {
@@ -1612,7 +1397,12 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 80,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/apple-is-reportedly-testing-two-designs-for-the-20th-anniversary/",
+    "article_title": "Apple Is Reportedly Testing Two Designs for the 20th-Anniversary iPhone. The Last Anniversary Shows Why",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 33.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-19",
@@ -1622,7 +1412,12 @@
     "urgency": "today",
     "format": "news",
     "score": 77,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/gemini-4-neon-costs-more-than-carbon-which-gemini-model-you-should-use/",
+    "article_title": "Gemini 4 Neon Costs More Than Carbon Until December 1. Here’s Which Gemini Model You Should Actually Use",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 37.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-19",
