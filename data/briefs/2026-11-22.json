@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-22",
+  "language": "en",
+  "summary": "The Jensen Huang/Nvidia scandal keeps escalating (CA AG subpoena, SEC probe, congressional inquiry) and is today's biggest, clearest-gap story. Phone news is thinner than usual — no major launch or leak cluster — so the beat leans on Black Friday deal updates, a fresh Xiaomi 18 Pro verdict, a Samsung feature test and a leak roundup rather than forcing weak filler; phone still leads at 5/10 picks. Reddit crawl failed (403, one of several sources) but coverage elsewhere is unaffected. No story cleared the bar for 'breaking' today.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c05", "c15", "c08"],
+      "working_title": "California AG subpoenas Nvidia as Jensen Huang scandal widens into an investor-fraud probe",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 84,
+      "why_now": "FT, TechCrunch, The Verge and Wired all have separate angles on this within 24h (Techmeme p9/p11, TechCrunch, Verge podcast). California AG Rob Bonta issued a subpoena over whether Nvidia/Huang's China ties let sensitive chips reach China and whether investors were misled — on top of an existing SEC probe and congressional subpoenas. Memeburn has no coverage yet.",
+      "angle": "Skip the affair-gossip framing other outlets lead with and explain the actual stakes for US readers/investors: what the AG is investigating, what 'misled investors' could mean for Nvidia stock and the chip-export rules, and what happens next (SEC civil probe, board investigation).",
+      "format": "news",
+      "est_words": 1400,
+      "headline_options": [
+        "California AG Subpoenas Nvidia Over Jensen Huang's China Ties",
+        "Nvidia Scandal Widens: What the AG Subpoena Actually Means for Investors",
+        "Jensen Huang, Nvidia, and China Chips: Every Investigation Explained"
+      ],
+      "seo_keywords": ["nvidia jensen huang scandal", "california ag subpoena nvidia", "nvidia investor fraud investigation", "nvidia china chips investigation"],
+      "sources": [
+        {"title": "California AG subpoenas Nvidia over worries about Huang's ties with China", "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"},
+        {"title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies (FT via Techmeme)", "url": "https://www.techmeme.com/261121/p9#a261121p9"},
+        {"title": "A tale of two Nvidias", "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"},
+        {"title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal (Wired via Techmeme)", "url": "https://www.techmeme.com/261121/p11#a261121p11"}
+      ],
+      "notes_for_writer": "Keep this a business/governance story, not a gossip piece — lead with the AG subpoena and investor-fraud angle, cite Bonta's quote directly from the TechCrunch piece. Flag the SEC probe/congressional subpoenas as separate, ongoing threads so the piece doesn't overclaim what's confirmed vs. alleged."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c46"],
+      "working_title": "Black Friday phone deals update: Oppo Find X10 cut deeper, Galaxy S26 FE and Z Fold8 Ultra join in",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "why_now": "New since yesterday's Black Friday roundup: the Oppo Find X10/Find X10 Pro Max discount got bigger, the Samsung Galaxy S26 FE 'finally drops to the right price,' and the Galaxy Z Fold8 Ultra is up to £555 off on Amazon UK — all reported in the last 24h by GSMArena. Comparison/deal-roundup is Memeburn's best-performing format (confirmed ~60% pickup, ~1,900 avg pageviews).",
+      "angle": "Update, don't repeat yesterday's post — lead with what's newly discounted today (Find X10 deeper cut, S26 FE, Fold8 Ultra) and fold in the Galaxy S27 Ultra listing as a 'wait or buy now' angle for Samsung shoppers.",
+      "format": "comparison",
+      "est_words": 2000,
+      "headline_options": [
+        "Black Friday Phone Deals: 5 New Price Cuts Worth Checking Today",
+        "Galaxy S26 FE and Z Fold8 Ultra Join This Week's Best Black Friday Phone Deals",
+        "Should You Buy Now? The Phone Deals That Got Better Overnight"
+      ],
+      "seo_keywords": ["black friday phone deals 2026", "galaxy s26 fe deal", "oppo find x10 deal", "galaxy z fold8 ultra deal"],
+      "sources": [
+        {"title": "Deal: the Oppo Find X10 and Find X10 Pro Max now have an even bigger discount for Black Friday", "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWlsM21mUDk2ajlTOVVjdzZxQ2FkVFVhT2g0WXQ1Skg5N2JyOEtsaDVUZEY0R0pYU21Ob013S2YxVUx0S0JqZ2N1Tmw5NHRVVXhoZnhqVDd6cmtrcVJjdXBmd1FiUXlUOEVyemt3RUZWV0lISUR4amJJMTNPb1lZVkVHR2tqRDRPSzZrYlJmVnRDZ0ZvQUFRNy1Wa01jd0V6aEhvb19SeldveTZZTFFtbWtXZEtBY0JRZDl4TG9GUkd4bFZyZFdIdFVuTktzZ9IBygFBVV95cUxQN29zZVpOa0V4aHFGWl94OUstclo3YUNzNDAzLUZVSWZYMWRJZmkybXFMR0llWGxSU005enBhUDRZUGJpUU5pWFRPSWtCSUxfQ2lrUXFVbm41eUJRMHJFMXVkN1ZxbUp4RHFFSU5CYkZZcm9peWp3Yk0xWExIQlNpa2JWclRsY29ZbThMbUk1RDh6WnlNd2ZfNHJ6WV85YmJSd28weTFJR1hIeTh5X1dxeGhlWGtnU2wzX1NNRGtfWGRuWGlnU3NLNFpR?oc=5"},
+        {"title": "Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon's Black Friday sale", "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHRZaDZOU3MwV0h0T2VqWkRFZmU3bVFxN1o1aTRvSTdXOUVhSV9MSkZGZUtENEJSdU1JelRZVUN3aW9yclo0VTA0bFl3QS1yT0FEek9YZXZUb3lXazNSdlpucTZsWjVsRV80RHEzNTdPVllVYl9Nd1ZjbHFqdFYzMTJEVklDU19YM0V6RE9rRFVxUEl3UnJzRVFKRURKQ04zU3FYc3pqNThPWnFrbzk0VUNBcDlKdzQtNTdNWWpLMS04SlVpWVVoNVNkNU52bVNCekHSAc4BQVVfeXFMTzRoLWQ3QkxtbnNyY3BPanVDN2Y3M2lFMHdMVXdnTDZfVzNRXzZQRkRJamtQMHlBV2JJUW0tOFFydmhzT09rRmc0RlU1UUJMQnRkbFE2cUpxb3NTakx6c1c2NUcyRnRtRFJGLTFkQ0ZwUHZxc1FRWlA3bTdjZV9DQ1E5OXhKMlpCdGk4c3VoMEdqZElJYU9qU2JDSkRnQWZPOXFmVjBLa0NKLXBCMnY1LTd6cUJmR1Zqbzl3NnlKMVpSSG5yb0dnX0JmMmNuSnc?oc=5"},
+        {"title": "Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK's Black Friday sale", "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXQzQ2pTbW5uTzNYVF8teWJGWHI1UkpVSmstT0wxdnRmcTZ3Q0NyYlRmZFNUNnhlam1Cdl92dU9QY0hWV3RjcGFOaXNON1ZnLXV5VjhLdTlEdkxDcUVHazBkcnpHMTVzWjRQRXFKU0tJczd6MG9tOTd1T3JENks3T2FSMkxPeHpJS29VM0htMEJOQ1hYakZHNHc0U2ZlRTFwaWhkeXRYNEFBcWhSSnJENnlpNGpuanlnaXNQcXBNZDUwTEtxMGfSAcIBQVVfeXFMTjlvMlJBd294OXBnTTNzTjVYeHlOcnRDakpZM2ppazRjS0U1YWs5MXBkZ1hwMVRldmxraGpUYWJTVUJrbTVCVkl3aWRrVFctNDVvdERqNWtubUY4cE5IWXZLVHJXa2NRQS1SbDNhZVIyNWZNZHlZVHNKVF81Rmk0VXVlMThwRXg2THJfdVIyUkNCNVpBcVNDM2JsMGFCU1lzNHJUY2lQVE1UcjU0V1JQaDlHYUVEZFo3aXRGRENPQWhaRGc?oc=5"},
+        {"title": "Samsung Galaxy S27 Ultra", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wanoxT3ozQnpXbHJRaF9KM2FVVE93eVFVTWdkYllpSXFhejA4VmxfZXVwTzNnTmE5S2lleE1rMVdPYlBXRFZMTVNOdlJRVzhOaVM5QjRTSEhZWE1LdWh0RnJzZjhkVkhoRG9ieVNxN1dqOTFtaFE?oc=5"}
+      ],
+      "notes_for_writer": "Confirm current live prices at publish time via the GSMArena links — deal pricing moves daily through Black Friday week. The S27 Ultra link is a bare GSMArena listing with no detail in today's crawl; treat it as 'spotted/listed' only, don't invent specs."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c45"],
+      "working_title": "Xiaomi 18 Pro's dual-screen gimmick isn't worth it — unless you need a mirror",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "The Verge's review (published today) is the first US-accessible look at Xiaomi's second-screen flagship after a China-only 17 Pro debut — the verdict ('two screens aren't better than one') is a ready-made comparison hook for a device US readers can't easily buy but are curious about.",
+      "angle": "Frame it as 'is the second screen gimmicky or genuinely useful' verdict piece, comparing it directly against a standard single-screen flagship (S27-tier) experience rather than just restating the review.",
+      "format": "comparison",
+      "est_words": 1800,
+      "headline_options": [
+        "Xiaomi 18 Pro's Second Screen: Clever Idea, Questionable Payoff",
+        "Two Screens Aren't Better Than One: The Xiaomi 18 Pro Review, Explained",
+        "Is Xiaomi's Dual-Screen Phone Worth the Hype?"
+      ],
+      "seo_keywords": ["xiaomi 18 pro review", "xiaomi 18 pro dual screen", "xiaomi 18 pro max"],
+      "sources": [
+        {"title": "The Xiaomi 18 Pro proves two screens aren't better than one", "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"}
+      ],
+      "notes_for_writer": "The Verge source blocked automated re-fetch for us — verify quotes/specs directly from the article before writing rather than relying on the headline/summary alone. Note clearly that the device isn't officially sold in the US if pricing/availability comes up."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c26"],
+      "working_title": "Amazon reportedly nearing $7.5B deal for AI startup Decart to challenge Nvidia on compute",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "FT (via Techmeme) reports talks are at an advanced stage with a deal possibly landing next week — a concrete dollar figure and timeline make this more than routine AI deal speculation, and it ties directly into the AWS-vs-Nvidia compute race storyline running alongside today's Nvidia scandal coverage.",
+      "angle": "Explain what Decart actually does and why Amazon/AWS specifically wants it (compute efficiency angle vs. Nvidia dependence), not just restate the deal size.",
+      "format": "news",
+      "est_words": 1200,
+      "headline_options": [
+        "Amazon Nears $7.5B Deal for AI Startup Decart: What It Does and Why It Matters",
+        "Why Amazon Might Pay $7.5 Billion for a Little-Known AI Startup",
+        "Amazon's Decart Deal Could Be Its Answer to Nvidia's Grip on AI Compute"
+      ],
+      "seo_keywords": ["amazon decart acquisition", "amazon ai startup deal", "aws nvidia compute"],
+      "sources": [
+        {"title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart (FT via Techmeme)", "url": "https://www.techmeme.com/261121/p8#a261121p8"}
+      ],
+      "notes_for_writer": "Deal is still 'sources say' and unconfirmed by either company — hedge accordingly (\"reportedly,\" \"according to FT\") rather than stating it as done. Techmeme/FT blurb is single-sourced; flag that in the draft per the SOP's single-source rule."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c14"],
+      "working_title": "Samsung is testing Dynamic Island-style Live Notifications for One UI 9.5",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "GSMArena reports Samsung is internally testing an Apple Dynamic Island-style live notification feature for One UI 9.5 — a concrete, sourced software-feature leak with no coverage from Memeburn yet.",
+      "angle": "Answer the two things readers will search: what the feature actually does, and which Galaxy phones are likely to get it when One UI 9.5 ships.",
+      "format": "news",
+      "est_words": 1200,
+      "headline_options": [
+        "Samsung Is Copying Apple's Dynamic Island for One UI 9.5",
+        "One UI 9.5's New Live Notifications: What They Are and Which Phones Get Them",
+        "Samsung's Answer to Dynamic Island Is Coming — Here's What We Know"
+      ],
+      "seo_keywords": ["one ui 9.5 live notifications", "samsung dynamic island", "one ui 9.5 features"],
+      "sources": [
+        {"title": "Samsung testing Apple's Dynamic Island-style Live Notifications in One UI 9.5", "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnlnR0dwWE85dHktTTlneGlOTnU4R2tYaG9CcWoycHV1TVFEdEp1Y0IyY1hBN3p2UW1wcUctREtBQzk5SmNmQUJtX2V4aV9pM0F4QVJsVDdNajY4S0NnbzNiZFc5YjdLLWs0SnFpZGY3MTZTLTVIdkpiNmNvOU04am5NMUhFWDlweHczQ1NZcFlkQdIBjgFBVV95cUxOQ002WE1qd2k2ZFhQRTBZNnFuZmhKLUFUcU0yVDFlQm9CdEtud0o4YjlqZExhaUlldVo1QnhFdERSY21xcG4yUV9vdXNvbHprOHdxeDlrV21JcWg4bFJEc2ZSUTRHcFJJb3REWDlyellDQzgyYnhySm9zVGw1NzR0dnJSOEU0VkI4ckFEcnV3?oc=5"}
+      ],
+      "notes_for_writer": "Feature is unreleased/internal testing — label clearly as a leak, not a confirmed feature, and avoid implying a ship date Samsung hasn't given."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c52"],
+      "working_title": "Why you still can't get a real Chrome or Firefox on iPhone in the US",
+      "category": "tech",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "471-point, 262-comment Hacker News front-page thread on Mozilla's post about Apple's browser-engine rules — strong community demand signal, and it's a question US iPhone owners search regularly without a clear answer.",
+      "angle": "Explain, in plain terms, why 'Chrome on iPhone' is still just Safari's WebKit engine wearing a Chrome skin, what the EU's DMA changed (and didn't, for the US), and whether that's likely to change for US users.",
+      "format": "explainer",
+      "est_words": 1400,
+      "headline_options": [
+        "Why 'Chrome' on Your iPhone Is Still Secretly Safari",
+        "The Real Reason Non-WebKit Browsers Still Don't Exist on iOS",
+        "iPhone Browser Rules, Explained: What Changed in the EU and What Hasn't in the US"
+      ],
+      "seo_keywords": ["iphone browser engine rules", "chrome ios webkit", "apple browser engine eu"],
+      "sources": [
+        {"title": "Why there are still no non-WebKit browsers on iOS", "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/"}
+      ],
+      "notes_for_writer": "Source is Mozilla's own policy blog — note it's one side of the dispute (vs. Apple) and attribute claims accordingly rather than presenting Mozilla's framing as neutral fact."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c25", "c56"],
+      "working_title": "Phone leak roundup: Nokia's PureView branding may return, Honor teases a 13,500mAh battery",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "Two separate, GSMArena-sourced leaks surfaced within the last day: HMD may revive Nokia's PureView camera branding on a new phone, and Honor's next phone (plus the upcoming Power3) is rumored to carry a 13,500mAh battery — both credible-source leaks Memeburn hasn't covered.",
+      "angle": "Bundle both as a quick 'what's coming' roundup rather than two thin posts — readers searching either brand get the other as a bonus, and it reads as a format Memeburn already runs well.",
+      "format": "news",
+      "est_words": 1100,
+      "headline_options": [
+        "Nokia's PureView Name May Return, and Honor's Next Phone Has a Massive Battery",
+        "Phone Leaks This Week: HMD's Nokia Comeback and Honor's 13,500mAh Giant",
+        "What's Coming: A Nokia PureView Revival and Honor's Biggest Battery Yet"
+      ],
+      "seo_keywords": ["nokia pureview 2027", "hmd nokia new phone", "honor 13500mah battery phone"],
+      "sources": [
+        {"title": "HMD could bring Nokia's PureView branding back with a new phone", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzlNaDNBdlpubjlzbkVaNl81MFZ5dk1jOU9selBSbVBhLWFiUmdZOWJzNEpiSm02NVAxUG1Mak4xQmM0NGk3aWlVZ3FyZEJPR1lnaGpCcXdhRGJxbHlJRjBENUxKbU52T1cwQ2U1NW5mS1JGY1REOXhienc1X0N0LV9IZ05kUFlFekJVSmVOVWZfOEhTX09sV2kzUlFod09ZQkhLWQ?oc=5"},
+        {"title": "Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn't far behind", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXpBTW9Wa1FqQ2RqWG5VSFZMdGoySHUzRFEwcEg5Q1Q4Q204d3JsRWQxUVlvNVBqTEplT1lmOVBHbVgyMEU5T0pGVzhvTDVqLWhNVElzU3hHR25jVTFUM2FzRFZ2dm1tZVI3d0d4MHM1RWhZN3dxdERsa0NnaEEtdXJYbXRxcFFjS2lXY3JsWDRJbDBWNXcteVJ6SGJpSFMwQUxhTHk1aXNrN01jRjl2Q184ZUMzMjTSAbMBQVVfeXFMTnl2YUFCQ04wNUp3NzVDVGZjWjhDMzBpbmZlakFwTUE0VjN2cDdaUTFfWGswZDhMU2t2SmxjTGx1a0NUN1Vic1dXZFg0dFV2RVdUM01OQUhxLUNZcENvSDJDTUVHdkRCdXVYZkNPR3lObVNza2tRUk5COFZkblFJQUVJdG5tMFRodXJsSzJwZFFxWG5KSHQySHdsOTFTUTl2eDJneW1YS0NDUEVpc09ramFNWTA?oc=5"}
+      ],
+      "notes_for_writer": "Both are unconfirmed leaks from GSMArena sourcing, not official — label clearly as rumors and avoid stating battery/camera specs as final."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c28"],
+      "working_title": "Bitcoin bounces back above $60,000 after a $1.8 billion liquidation wave",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "CoinDesk reports Bitcoin retook $60,000 after a sharp liquidation event, with traders watching Monday's stock open — a real, sourced price move (not a micro-cap pump) with clear 'why is Bitcoin up/down today' search intent.",
+      "angle": "Answer the search query directly: what caused the liquidation wave, why Bitcoin rebounded, and what traders are watching next (Monday's stock market open) — skip price speculation.",
+      "format": "news",
+      "est_words": 1100,
+      "headline_options": [
+        "Bitcoin Rebounds Above $60,000 After $1.8B in Liquidations — Here's Why",
+        "Why Bitcoin Just Bounced Back From a Two-Year Low",
+        "Bitcoin's Wild Weekend: $1.8B Liquidated, Then a Rebound Above $60K"
+      ],
+      "seo_keywords": ["why is bitcoin up today", "bitcoin price today", "bitcoin liquidation november 2026"],
+      "sources": [
+        {"title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave", "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"}
+      ],
+      "notes_for_writer": "No price predictions or investment advice per the hard rule — stick to what happened and cite CoinDesk's numbers directly; don't round or restate prices from memory."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c20"],
+      "working_title": "AirPods Max at $549: are Apple's over-ear headphones still worth it?",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "Engadget's fresh trade-offs piece on the $549 AirPods Max gives a timely hook for an evergreen 'is it worth it' buying-guide angle, which performs reliably for Memeburn's audience and has a long search tail heading into Black Friday gift-buying season.",
+      "angle": "Turn the trade-offs piece into a verdict-first buying guide: who should buy AirPods Max at $549 and who should skip them, tied to Black Friday pricing context.",
+      "format": "explainer",
+      "est_words": 1500,
+      "headline_options": [
+        "AirPods Max at $549: Worth It, or Skip Them This Black Friday?",
+        "The Trade-Offs of Apple's $549 AirPods Max, Explained",
+        "Should You Buy AirPods Max? Here's the Honest Verdict"
+      ],
+      "seo_keywords": ["airpods max worth it", "airpods max price", "airpods max black friday deal"],
+      "sources": [
+        {"title": "The trade-offs of using Apple's AirPods Max headphones", "url": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/"}
+      ],
+      "notes_for_writer": "Check for an active Black Friday discount on AirPods Max before publishing — if one exists, lead with it; if not, keep the piece to the $549 list price and don't imply a sale that isn't confirmed."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c22"],
+      "working_title": "Researchers planted fake credentials to test AI routers like OpenRouter — and watched them leak",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "Ars Technica (via Techmeme) reports researchers planted 2 million canary credentials across AI router services, including under 'zero data retention' policies, and found privacy commitments frequently broken — a concrete security finding with a direct consumer-trust hook for anyone routing chats through third-party AI services.",
+      "angle": "Translate the research into a practical 'is your data actually safe when you use AI routing services' explainer for readers who may not know what an AI router even is.",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "Researchers Planted Fake Secrets in AI Chats — Most Leaked Anyway",
+        "Your 'Private' AI Chats May Not Be as Private as You Think",
+        "AI Routers Promise Zero Data Retention. A New Study Says That's Often False"
+      ],
+      "seo_keywords": ["ai router privacy", "openrouter privacy", "zero data retention ai"],
+      "sources": [
+        {"title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel (Ars Technica via Techmeme)", "url": "https://www.techmeme.com/261121/p10#a261121p10"}
+      ],
+      "notes_for_writer": "Techmeme blurb is single-sourced to the Ars Technica piece — read the full article before writing to confirm methodology and which specific services were implicated, per the SOP's cross-check rule."
+    }
+  ],
+  "watchlist": [
+    "Two crypto exploits in 24h: Chainflip's FLIP down 30% on a suspected $4.86M vault drain, Wrapped Monero down 99% on a suspected $13.5M exploit — watch for confirmation/reimbursement updates.",
+    "US Senate passes bill banning prediction-market bets on war and death (DEATH BETS Act) — watch for House action.",
+    "FBI and USDA both reportedly hacked, second FBI breach in months targeting the National Crime Information Center — watch for official confirmation and scope.",
+    "Stanford researchers published an independent, all-human competing proof of the Riemann Hypothesis hours after Anthropic's Claude-assisted claim — watch for the math community's verdict on either proof.",
+    "Hong Kong moves to extend crypto licensing to brokers, advisers and custodians — first reading Dec 2, not yet US-relevant but worth tracking for regulatory-contagion angle."
+  ],
+  "upcoming": [
+    {"date": "2026-11-27", "event": "Black Friday", "prep_idea": "Keep updating the phone/gadget deal comparison roundup daily — Oppo Find X10, Galaxy S26 FE, and Z Fold8 Ultra discounts are already live and changing."}
+  ]
+}

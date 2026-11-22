@@ -1,125 +1,5 @@
 [
   {
-    "brief_date": "2026-11-07",
-    "rank": 1,
-    "working_title": "Tesla Is Winding Down Cybertruck Production",
-    "category": "tech",
-    "urgency": "today",
-    "format": "news",
-    "score": 73,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 2,
-    "working_title": "OpenAI Raises $11B More, Now Valued at $1.25 Trillion",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 71,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 3,
-    "working_title": "Apple's DOJ Antitrust Fight Is Dragging in Epic, Samsung, Oura, and Roblox",
-    "category": "phone",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 63,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 4,
-    "working_title": "US Intelligence Says China Recruited an AI Exec to Spy on Nvidia's Jensen Huang",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 62,
-    "published": true,
-    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
-    "author": "Vincee Cole",
-    "hours_to_publish": 306.5,
-    "pageviews": null
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 5,
-    "working_title": "Future iPhones Will Have One Less Button, New Rumor Claims",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "news",
-    "score": 62,
-    "published": true,
-    "article_url": "https://memeburn.com/samsungs-galaxy-s27-pro-may-have-a-problem-apples-iphone-18-pro-doesnt/",
-    "article_title": "Samsung’s Galaxy S27 Pro May Have a Problem Apple’s iPhone 18 Pro Doesn’t",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 166.4,
-    "pageviews": 761.0
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 6,
-    "working_title": "Samsung's Android XR Glasses Get a Joaquin Phoenix Teaser",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 59,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 7,
-    "working_title": "iOS 27.2 Adds Three New Ways to Customize Your iPhone",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "how-to",
-    "score": 59,
-    "published": true,
-    "article_url": "https://memeburn.com/whats-new-in-the-ios-27-3-beta/",
-    "article_title": "What’s New in the iOS 27.3 Beta, and What Will Your iPhone Get?",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 309.6,
-    "pageviews": null
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 8,
-    "working_title": "Oppo's Find X10 Ultra Has Reportedly Been Cancelled",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 58,
-    "published": true,
-    "article_url": "https://memeburn.com/find-x10-pro-max-vs-magic-9-pro-max/",
-    "article_title": "Oppo Find X10 Pro Max vs Honor Magic 9 Pro Max: Honor Wins on Paper, Oppo Wins on Timing",
-    "author": "Vincee Cole",
-    "hours_to_publish": 273.3,
-    "pageviews": 864.0
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 9,
-    "working_title": "Samsung Health Bug Is Wiping Out Users' Step History",
-    "category": "phone",
-    "urgency": "today",
-    "format": "how-to",
-    "score": 57,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-07",
-    "rank": 10,
-    "working_title": "Some Nest Doorbells Have Stopped Showing Live Video",
-    "category": "phone",
-    "urgency": "today",
-    "format": "how-to",
-    "score": 56,
-    "published": false
-  },
-  {
     "brief_date": "2026-11-08",
     "rank": 1,
     "working_title": "Nvidia's Board Is Investigating Jensen Huang After He Admits an Affair With a Suspected Chinese Spy",
@@ -212,12 +92,7 @@
     "urgency": "evergreen",
     "format": "review-roundup",
     "score": 55,
-    "published": true,
-    "article_url": "https://memeburn.com/oneplus-12-is-now-getting-coloros-17-its-first-major-update-without-oxygenos/",
-    "article_title": "OnePlus 12 Is Now Getting ColorOS 17, Its First Major Update Without OxygenOS",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 158.4,
-    "pageviews": 377.0
+    "published": false
   },
   {
     "brief_date": "2026-11-08",
@@ -227,12 +102,7 @@
     "urgency": "today",
     "format": "news",
     "score": 55,
-    "published": true,
-    "article_url": "https://memeburn.com/oneplus-12-is-now-getting-coloros-17-its-first-major-update-without-oxygenos/",
-    "article_title": "OnePlus 12 Is Now Getting ColorOS 17, Its First Major Update Without OxygenOS",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 158.4,
-    "pageviews": 377.0
+    "published": false
   },
   {
     "brief_date": "2026-11-10",
@@ -282,12 +152,7 @@
     "urgency": "evergreen",
     "format": "comparison",
     "score": 70,
-    "published": true,
-    "article_url": "https://memeburn.com/samsungs-galaxy-s27-pro-may-have-a-problem-apples-iphone-18-pro-doesnt/",
-    "article_title": "Samsung’s Galaxy S27 Pro May Have a Problem Apple’s iPhone 18 Pro Doesn’t",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 94.4,
-    "pageviews": 761.0
+    "published": false
   },
   {
     "brief_date": "2026-11-10",
@@ -337,7 +202,12 @@
     "urgency": "today",
     "format": "explainer",
     "score": 86,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/anthropic-ipo-priced-83/",
+    "article_title": "Anthropic Priced Its IPO at $83. Here’s What the Extra $5 a Share Bought, and Where $1.5 Trillion Comes From",
+    "author": "Vincee Cole",
+    "hours_to_publish": 238.3,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-11",
@@ -443,11 +313,11 @@
     "format": "explainer",
     "score": 77,
     "published": true,
-    "article_url": "https://memeburn.com/united-airlines-ai-agents/",
-    "article_title": "United Just Told AI Agents to Stay Out of Your MileagePlus Account. Your Flight Searches Are Safe, Your Bookings Aren’t",
+    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
+    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
     "author": "Vincee Cole",
-    "hours_to_publish": 61.4,
-    "pageviews": 122.0
+    "hours_to_publish": 226.4,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-12",
@@ -457,12 +327,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 73,
-    "published": true,
-    "article_url": "https://memeburn.com/okxice-tokenized-stocks-launch/",
-    "article_title": "OKX and ICE’s Tokenized-Stock Venue Launches Nov. 23, Despite Pushback From 56 of 62 Companies Targeted",
-    "author": "Vincee Cole",
-    "hours_to_publish": 44.4,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-12",
@@ -507,12 +372,7 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 59,
-    "published": true,
-    "article_url": "https://memeburn.com/samsung-is-reportedly-working-on-a-phone-with-an-expandable-display/",
-    "article_title": "Samsung Is Reportedly Working on a Phone With an Expandable Display",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 54.4,
-    "pageviews": 501.0
+    "published": false
   },
   {
     "brief_date": "2026-11-12",
@@ -583,11 +443,11 @@
     "format": "news",
     "score": 66,
     "published": true,
-    "article_url": "https://memeburn.com/anthropics-ipo-is-7x-oversubscribed-but-its-record-depends-on-26-billion/",
-    "article_title": "Anthropic’s IPO Is 7x Oversubscribed, but Its Record Depends on $26 Billion From Its Own Suppliers",
+    "article_url": "https://memeburn.com/anthropics-nasdaq-debut-founders-cash-out-2b/",
+    "article_title": "Anthropic’s Nasdaq Debut: Founders Cash Out $2B as the Stock Swings From $83 to Below $100",
     "author": "Marko Nguyen",
-    "hours_to_publish": 93.5,
-    "pageviews": 739.0
+    "hours_to_publish": 201.4,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-13",
@@ -677,7 +537,12 @@
     "urgency": "today",
     "format": "explainer",
     "score": 82,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
+    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
+    "author": "Vincee Cole",
+    "hours_to_publish": 178.4,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-14",
@@ -832,7 +697,12 @@
     "urgency": "today",
     "format": "explainer",
     "score": 84,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
+    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
+    "author": "Vincee Cole",
+    "hours_to_publish": 154.4,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-15",
@@ -1387,7 +1257,12 @@
     "urgency": "breaking",
     "format": "news",
     "score": 85,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/anthropic-ipo-priced-83/",
+    "article_title": "Anthropic Priced Its IPO at $83. Here’s What the Extra $5 a Share Bought, and Where $1.5 Trillion Comes From",
+    "author": "Vincee Cole",
+    "hours_to_publish": 46.3,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-19",
@@ -1447,7 +1322,12 @@
     "urgency": "evergreen",
     "format": "how-to",
     "score": 65,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/instagram-now-lets-you-edit-a-story-after-posting-15-minutes/",
+    "article_title": "Instagram Now Lets You Edit a Story After Posting, but Only for 15 Minutes",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 53.4,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-19",
@@ -1477,7 +1357,12 @@
     "urgency": "today",
     "format": "news",
     "score": 58,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/binance-freezing-6-billion-order-from-abu-dhabi/",
+    "article_title": "Binance’s $6.5 Billion Freezing Order Doesn’t Return a Dollar Yet",
+    "author": "Vincee Cole",
+    "hours_to_publish": 50.4,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-19",
@@ -1487,6 +1372,111 @@
     "urgency": "today",
     "format": "explainer",
     "score": 56,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 1,
+    "working_title": "Anthropic mathematician claims Claude helped crack the Riemann Hypothesis",
+    "category": "ai",
+    "urgency": "today",
+    "format": "news",
+    "score": 87,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 2,
+    "working_title": "Best Black Friday phone and gadget deals already live: Galaxy Buds, Watch 8, Ray-Ban Meta",
+    "category": "phone",
+    "urgency": "today",
+    "format": "listicle",
+    "score": 85,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 3,
+    "working_title": "Bitcoin falls to $57,000, its lowest price in over two years",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "news",
+    "score": 78,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 4,
+    "working_title": "Nvidia stock down 44% in seven weeks as Nasdaq posts its worst week in six years",
+    "category": "ai",
+    "urgency": "today",
+    "format": "news",
+    "score": 76,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 5,
+    "working_title": "Google is killing the Nest app and Google Assistant on smart speakers",
+    "category": "tech",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 71,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 6,
+    "working_title": "Apple is reportedly building its own AI agent to run your Mac",
+    "category": "ai",
+    "urgency": "today",
+    "format": "news",
+    "score": 70,
+    "published": true,
+    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
+    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
+    "author": "Vincee Cole",
+    "hours_to_publish": 10.4,
+    "pageviews": null
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 7,
+    "working_title": "How to stream GTA 6 on your iPhone, iPad, or Mac",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "how-to",
+    "score": 69,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 8,
+    "working_title": "iOS 27 lets two iPhones share the same phone number",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 66,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 9,
+    "working_title": "iPhone Duo shipping times are finally getting shorter",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 65,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-21",
+    "rank": 10,
+    "working_title": "The fastest phone chips right now, ranked by benchmark score",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "comparison",
+    "score": 61,
     "published": false
   }
 ]

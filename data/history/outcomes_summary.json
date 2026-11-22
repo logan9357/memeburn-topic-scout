@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-11-21T00:55:12.457662+00:00",
+  "generated_at": "2026-11-22T00:47:19.441568+00:00",
   "topics_suggested": 127,
-  "topics_published": 44,
+  "topics_published": 42,
   "by_category": {
-    "tech": {
-      "suggested": 26,
-      "published": 6,
-      "pickup_rate": 0.23,
-      "avg_pageviews": 325
-    },
     "ai": {
-      "suggested": 33,
-      "published": 16,
-      "pickup_rate": 0.48,
-      "avg_pageviews": 396
+      "suggested": 34,
+      "published": 20,
+      "pickup_rate": 0.59,
+      "avg_pageviews": 378
     },
     "phone": {
-      "suggested": 53,
-      "published": 16,
-      "pickup_rate": 0.3,
-      "avg_pageviews": 1097
+      "suggested": 51,
+      "published": 9,
+      "pickup_rate": 0.18,
+      "avg_pageviews": 2077
+    },
+    "tech": {
+      "suggested": 26,
+      "published": 7,
+      "pickup_rate": 0.27,
+      "avg_pageviews": 325
     },
     "crypto": {
-      "suggested": 15,
+      "suggested": 16,
       "published": 6,
-      "pickup_rate": 0.4,
+      "pickup_rate": 0.38,
       "avg_pageviews": 104
     }
   },
   "by_format": {
     "news": {
-      "suggested": 54,
-      "published": 21,
-      "pickup_rate": 0.39,
-      "avg_pageviews": 533
+      "suggested": 53,
+      "published": 20,
+      "pickup_rate": 0.38,
+      "avg_pageviews": 329
     },
     "explainer": {
-      "suggested": 35,
-      "published": 11,
-      "pickup_rate": 0.31,
-      "avg_pageviews": 314
-    },
-    "how-to": {
-      "suggested": 16,
-      "published": 3,
-      "pickup_rate": 0.19,
-      "avg_pageviews": null
+      "suggested": 36,
+      "published": 12,
+      "pickup_rate": 0.33,
+      "avg_pageviews": 316
     },
     "listicle": {
-      "suggested": 7,
+      "suggested": 8,
       "published": 4,
-      "pickup_rate": 0.57,
+      "pickup_rate": 0.5,
       "avg_pageviews": 301
     },
     "comparison": {
-      "suggested": 10,
-      "published": 4,
-      "pickup_rate": 0.4,
-      "avg_pageviews": 2246
+      "suggested": 11,
+      "published": 3,
+      "pickup_rate": 0.27,
+      "avg_pageviews": 2989
     },
     "review-roundup": {
       "suggested": 5,
-      "published": 1,
-      "pickup_rate": 0.2,
-      "avg_pageviews": 377
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    },
+    "how-to": {
+      "suggested": 14,
+      "published": 3,
+      "pickup_rate": 0.21,
+      "avg_pageviews": null
     }
   }
 }
