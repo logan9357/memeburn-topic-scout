@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-22T00:47:19.441568+00:00",
+  "generated_at": "2026-11-23T00:52:07.238184+00:00",
   "topics_suggested": 127,
-  "topics_published": 42,
+  "topics_published": 38,
   "by_category": {
     "ai": {
-      "suggested": 34,
-      "published": 20,
-      "pickup_rate": 0.59,
-      "avg_pageviews": 378
+      "suggested": 33,
+      "published": 18,
+      "pickup_rate": 0.55,
+      "avg_pageviews": 542
     },
     "phone": {
-      "suggested": 51,
-      "published": 9,
-      "pickup_rate": 0.18,
-      "avg_pageviews": 2077
+      "suggested": 49,
+      "published": 7,
+      "pickup_rate": 0.14,
+      "avg_pageviews": 4324
     },
     "tech": {
-      "suggested": 26,
+      "suggested": 28,
       "published": 7,
-      "pickup_rate": 0.27,
+      "pickup_rate": 0.25,
       "avg_pageviews": 325
     },
     "crypto": {
-      "suggested": 16,
+      "suggested": 17,
       "published": 6,
-      "pickup_rate": 0.38,
+      "pickup_rate": 0.35,
       "avg_pageviews": 104
     }
   },
   "by_format": {
     "news": {
-      "suggested": 53,
-      "published": 20,
-      "pickup_rate": 0.38,
-      "avg_pageviews": 329
-    },
-    "explainer": {
-      "suggested": 36,
-      "published": 12,
-      "pickup_rate": 0.33,
-      "avg_pageviews": 316
-    },
-    "listicle": {
-      "suggested": 8,
-      "published": 4,
-      "pickup_rate": 0.5,
-      "avg_pageviews": 301
+      "suggested": 55,
+      "published": 19,
+      "pickup_rate": 0.35,
+      "avg_pageviews": 422
     },
     "comparison": {
-      "suggested": 11,
+      "suggested": 12,
+      "published": 2,
+      "pickup_rate": 0.17,
+      "avg_pageviews": 4324
+    },
+    "explainer": {
+      "suggested": 37,
+      "published": 11,
+      "pickup_rate": 0.3,
+      "avg_pageviews": 344
+    },
+    "listicle": {
+      "suggested": 7,
       "published": 3,
-      "pickup_rate": 0.27,
-      "avg_pageviews": 2989
+      "pickup_rate": 0.43,
+      "avg_pageviews": 325
     },
     "review-roundup": {
-      "suggested": 5,
+      "suggested": 2,
       "published": 0,
       "pickup_rate": 0.0,
       "avg_pageviews": null

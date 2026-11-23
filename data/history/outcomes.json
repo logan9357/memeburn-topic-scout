@@ -1,110 +1,5 @@
 [
   {
-    "brief_date": "2026-11-08",
-    "rank": 1,
-    "working_title": "Nvidia's Board Is Investigating Jensen Huang After He Admits an Affair With a Suspected Chinese Spy",
-    "category": "ai",
-    "urgency": "breaking",
-    "format": "news",
-    "score": 78,
-    "published": true,
-    "article_url": "https://memeburn.com/sam-altman-ai-revolution-jensen-huang-nvidia/",
-    "article_title": "Sam Altman Says AI Will Survive Nvidia Without Jensen Huang",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 242.2,
-    "pageviews": 144.0
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 2,
-    "working_title": "Apple's New CEO Is Pushing Siri to Become a Real AI Agent",
-    "category": "ai",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 67,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 3,
-    "working_title": "Goldman Sachs Is Pulling Claude Code From Its Bankers and Traders",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 66,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 4,
-    "working_title": "iPhone Air 2 Is Coming Next Year -- and It Has More to Prove Than Ever",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 62,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 5,
-    "working_title": "The Latest Samsung Foldables and Pixel 11 Series Are Discounted Right Now",
-    "category": "phone",
-    "urgency": "today",
-    "format": "listicle",
-    "score": 61,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 6,
-    "working_title": "I Tested a Bunch of iPhone Duo Cases -- Here Are My Favorites",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "comparison",
-    "score": 61,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 7,
-    "working_title": "This New iPhone Camera App Finally Fixes Apple's Overprocessed Photos",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "review-roundup",
-    "score": 56,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 8,
-    "working_title": "Anker's New MagGo 2 Pro Power Bank Offers Fast 25W MagSafe Charging",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "review-roundup",
-    "score": 56,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 9,
-    "working_title": "I Tested ColorOS 17 on the OnePlus 15: 3 Things You Need to Know",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "review-roundup",
-    "score": 55,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-08",
-    "rank": 10,
-    "working_title": "OnePlus Releases Its ColorOS 17 Rollout Schedule for November",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 55,
-    "published": false
-  },
-  {
     "brief_date": "2026-11-10",
     "rank": 1,
     "working_title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
@@ -347,12 +242,7 @@
     "urgency": "evergreen",
     "format": "comparison",
     "score": 64,
-    "published": true,
-    "article_url": "https://memeburn.com/iphone-20-pro-biggest-redesign/",
-    "article_title": "Apple’s 2027 iPhone Is Being Called Its Biggest Redesign Since the iPhone X",
-    "author": "Vincee Cole",
-    "hours_to_publish": 73.7,
-    "pageviews": 1654.0
+    "published": false
   },
   {
     "brief_date": "2026-11-12",
@@ -417,12 +307,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 77,
-    "published": true,
-    "article_url": "https://memeburn.com/gemini-4-hydrogen-vs-gemini-4-argon/",
-    "article_title": "Gemini 4 Hydrogen vs Gemini 4 Argon: Is There Still a Reason to Use Argon?",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 54.7,
-    "pageviews": 287.0
+    "published": false
   },
   {
     "brief_date": "2026-11-13",
@@ -512,12 +397,7 @@
     "urgency": "evergreen",
     "format": "listicle",
     "score": 56,
-    "published": true,
-    "article_url": "https://memeburn.com/samsungs-one-ui-9-5-leaks-a-social-contacts-app-and-a-blocked-calls-hub/",
-    "article_title": "Samsung’s One UI 9.5 Leaks Keep Coming: A Social Contacts App and a Blocked-Calls Hub",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 58.7,
-    "pageviews": 253.0
+    "published": false
   },
   {
     "brief_date": "2026-11-14",
@@ -998,10 +878,10 @@
     "format": "news",
     "score": 75,
     "published": true,
-    "article_url": "https://memeburn.com/whats-new-in-the-ios-27-3-beta/",
-    "article_title": "What’s New in the iOS 27.3 Beta, and What Will Your iPhone Get?",
+    "article_url": "https://memeburn.com/how-to-install-ios-27-3-beta-on-your-iphone/",
+    "article_title": "How to Install iOS 27.3 Beta on Your iPhone",
     "author": "Marko Nguyen",
-    "hours_to_publish": 69.6,
+    "hours_to_publish": 119.0,
     "pageviews": null
   },
   {
@@ -1208,10 +1088,10 @@
     "format": "listicle",
     "score": 61,
     "published": true,
-    "article_url": "https://memeburn.com/whats-new-in-the-ios-27-3-beta/",
-    "article_title": "What’s New in the iOS 27.3 Beta, and What Will Your iPhone Get?",
+    "article_url": "https://memeburn.com/how-to-install-ios-27-3-beta-on-your-iphone/",
+    "article_title": "How to Install iOS 27.3 Beta on Your iPhone",
     "author": "Marko Nguyen",
-    "hours_to_publish": 45.6,
+    "hours_to_publish": 95.0,
     "pageviews": null
   },
   {
@@ -1477,6 +1357,106 @@
     "urgency": "evergreen",
     "format": "comparison",
     "score": 61,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 1,
+    "working_title": "California AG subpoenas Nvidia as Jensen Huang scandal widens into an investor-fraud probe",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 84,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 2,
+    "working_title": "Black Friday phone deals update: Oppo Find X10 cut deeper, Galaxy S26 FE and Z Fold8 Ultra join in",
+    "category": "phone",
+    "urgency": "today",
+    "format": "comparison",
+    "score": 78,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 3,
+    "working_title": "Xiaomi 18 Pro's dual-screen gimmick isn't worth it — unless you need a mirror",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "comparison",
+    "score": 70,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 4,
+    "working_title": "Amazon reportedly nearing $7.5B deal for AI startup Decart to challenge Nvidia on compute",
+    "category": "ai",
+    "urgency": "today",
+    "format": "news",
+    "score": 68,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 5,
+    "working_title": "Samsung is testing Dynamic Island-style Live Notifications for One UI 9.5",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 64,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 6,
+    "working_title": "Why you still can't get a real Chrome or Firefox on iPhone in the US",
+    "category": "tech",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 60,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 7,
+    "working_title": "Phone leak roundup: Nokia's PureView branding may return, Honor teases a 13,500mAh battery",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 58,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 8,
+    "working_title": "Bitcoin bounces back above $60,000 after a $1.8 billion liquidation wave",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "news",
+    "score": 56,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 9,
+    "working_title": "AirPods Max at $549: are Apple's over-ear headphones still worth it?",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 55,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-22",
+    "rank": 10,
+    "working_title": "Researchers planted fake credentials to test AI routers like OpenRouter — and watched them leak",
+    "category": "ai",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 55,
     "published": false
   }
 ]

@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-23",
+  "language": "en",
+  "summary": "The big story today is AI, not phone: the Lean/Mathlib community has officially confirmed Alpöge's Riemann Hypothesis proof correct just hours after a rival all-human Stanford proof surfaced — a genuine escalation of the claim Memeburn hasn't written up yet. Phone news is thin on hard leaks today, so the beat leans on Black Friday deals and software-feature explainers (Signal's screenshot lockdown, iOS 27's Wi-Fi fix) to hold its usual ~70% share. Reddit's r/technology feed 403'd during the crawl (one source of many), noted but not a material gap.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c58"],
+      "working_title": "Riemann Hypothesis Proof Confirmed Correct, But a Rival All-Human Stanford Proof Just Dropped Too",
+      "category": "ai",
+      "urgency": "breaking",
+      "traffic_potential": "high",
+      "score": 81,
+      "why_now": "Joint statement from the Lean and Mathlib communities (techmeme.com/261122/p3, the-decoder.com) officially certifies Alpöge's proof correct via independent code verification, landing hours after Stanford released a competing all-human proof — a genuinely new, bigger development than the unverified Anthropic claim Memeburn's Nov 21 brief flagged but never got written up.",
+      "angle": "Memeburn hasn't published on this story at all yet, so there's no duplicate-coverage issue — just explain what '17 million lines of Lean code, independently re-run' actually proves, why that's different from Stanford's human proof, and what's still being checked before mathematicians call it fully settled.",
+      "format": "explainer",
+      "est_words": 1500,
+      "headline_options": [
+        "Riemann Hypothesis: Lean Community Confirms Anthropic Mathematician's AI-Assisted Proof Is Correct",
+        "Stanford's Rival Proof of the Riemann Hypothesis Just Upended a Celebrated AI Breakthrough",
+        "Is the Riemann Hypothesis Really Solved? Two Competing Proofs Say Yes"
+      ],
+      "seo_keywords": ["riemann hypothesis proof", "riemann hypothesis solved", "levent alpoge proof", "claude ai math proof", "stanford riemann hypothesis proof"],
+      "sources": [
+        {"title": "A joint statement by the Lean and Mathlib communities (Lean community blog, via Techmeme)", "url": "https://www.techmeme.com/261122/p3#a261122p3"},
+        {"title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct", "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"},
+        {"title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft", "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"}
+      ],
+      "notes_for_writer": "This is the follow-up to the Nov 21 suggested topic ('Anthropic mathematician claims Claude helped crack the Riemann Hypothesis') that never got written — credit that the original claim broke days ago, don't present this as the first mention. Keep the AI-vs-human-proof tension neutral; don't declare a 'winner' since verification of Stanford's draft is still ongoing."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c36"],
+      "working_title": "Nintendo Switch 2 Black Friday Deals: $50 Off One Bundle, Games Discounted Through Dec. 5",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 75,
+      "why_now": "The Verge confirms Nintendo's official $50-off console bundle deal live Nov. 22 through Dec. 5, plus separate discounts on select Switch 2 games — Memeburn has no Black Friday gaming-deal coverage yet, and deal-roundup content is this profile's most validated seasonal traffic driver.",
+      "angle": "A straight buying guide: which bundle is actually discounted (not both), exact prices, which games are cheaper, and whether a shopper should buy now or hold for Cyber Monday.",
+      "format": "news",
+      "est_words": 1200,
+      "headline_options": [
+        "Nintendo Switch 2 Black Friday Deals: $50 Off One Bundle, Games Discounted Through Dec. 5",
+        "Nintendo's Switch 2 Black Friday Sale Is Live — Here's What's Actually Discounted"
+      ],
+      "seo_keywords": ["nintendo switch 2 black friday deal", "switch 2 black friday sale", "switch 2 bundle discount", "mario kart world bundle deal"],
+      "sources": [
+        {"title": "Some of our favorite Switch 2 games are cheaper through Black Friday", "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"},
+        {"title": "Nintendo's Switch 2 console is $50 off for Black Friday", "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale"}
+      ],
+      "notes_for_writer": "Only one of Nintendo's two current bundles gets the $50 discount — verify which one from the source before publishing, don't assume both."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c41"],
+      "working_title": "UGREEN's Liquid-Cooled 25W MagSafe Battery for iPhone Is 40% Off for Black Friday",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 73,
+      "why_now": "9to5Mac flags a live 40% discount on UGREEN's Qi2.2 25W 10,000mAh MagSafe battery ahead of Black Friday — fits the confirmed high-performing Black Friday phone-accessory deal format, and Memeburn hasn't covered this specific deal.",
+      "angle": "Quick practical deal post: what the liquid cooling actually changes versus a standard MagSafe battery, who it's worth it for, and how the discounted price stacks up against other MagSafe battery deals running this week.",
+      "format": "news",
+      "est_words": 900,
+      "headline_options": [
+        "UGREEN's Liquid-Cooled MagSafe Battery Pack Is 40% Off Ahead of Black Friday",
+        "This Liquid-Cooled iPhone Battery Pack Just Got a Lot Cheaper for Black Friday"
+      ],
+      "seo_keywords": ["ugreen magsafe battery deal", "liquid cooled magsafe charger", "best magsafe battery black friday", "ugreen 25w battery iphone"],
+      "sources": [
+        {"title": "UGREEN's excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off", "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/"}
+      ]
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c60"],
+      "working_title": "Signal Is Blocking Screenshots on Android and iOS to Fight AI Surveillance",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 72,
+      "why_now": "TechCrunch reports Signal rolling out screenshot restrictions to Android and iOS on Nov. 21, extending a policy already live on its Windows app — a concrete, actionable privacy story Memeburn hasn't covered.",
+      "angle": "Explain what's actually being restricted, Signal president Meredith Whittaker's 'existential threat' framing of OS-level AI agents reading your screen, and how to turn the setting off if a reader wants to (plus the privacy trade-off she warns comes with that).",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "Signal Blocks In-App Screenshots on Android and iOS — Here's Why",
+        "Why Signal Just Made It Harder to Screenshot Your Chats"
+      ],
+      "seo_keywords": ["signal screenshot block", "signal ai surveillance", "signal screenshot restriction android ios", "how to disable signal screenshot block"],
+      "sources": [
+        {"title": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance", "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"}
+      ],
+      "notes_for_writer": "Source doesn't specify an exact rollout date/version number — don't invent one; say 'now rolling out' per Signal's own statement."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c17"],
+      "working_title": "iOS 27's 'Connectivity Assist' Fixes the iPhone's Weak Wi-Fi Problem",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "9to5Mac details a newly surfaced iOS 27 feature called Connectivity Assist; not previously covered by Memeburn and ties into reader interest already shown this week in the iOS 27.3 beta install guide.",
+      "angle": "Explain what Connectivity Assist does (auto-switches to cellular when Wi-Fi is weak), the specific everyday scenarios it fixes (backyard, driveway, coffee shop, airport), its real limitations (roaming, Low Data Mode, some streaming apps excluded), and how to toggle it per-network.",
+      "format": "how-to",
+      "est_words": 1200,
+      "headline_options": [
+        "iOS 27's Connectivity Assist Finally Fixes iPhone's Weak Wi-Fi Problem",
+        "How to Turn On iOS 27's Automatic Wi-Fi-to-Cellular Switch"
+      ],
+      "seo_keywords": ["ios 27 connectivity assist", "iphone weak wifi fix", "ios 27 wifi fix feature", "turn off connectivity assist"],
+      "sources": [
+        {"title": "iOS 27 has a clever fix for unreliable Wi-Fi connections", "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/"}
+      ]
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c14"],
+      "working_title": "Can You Safely Use a 140W Charger on Your iPhone?",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 69,
+      "why_now": "Engadget's Nov. 22 piece answers a recurring, always-searched reader question; Memeburn has no equivalent explainer.",
+      "angle": "Myth-busting explainer on USB-PD negotiation (the iPhone only draws what it needs regardless of charger wattage), plus when a higher-wattage charger actually earns its keep (multi-device charging, phone + laptop on one brick).",
+      "format": "explainer",
+      "est_words": 1200,
+      "headline_options": [
+        "Is It Safe to Charge Your iPhone With a 140W Charger? Here's the Real Answer",
+        "140W Chargers and Your iPhone: What Actually Happens If You Plug One In"
+      ],
+      "seo_keywords": ["140w charger iphone safe", "can iphone use 140w charger", "iphone fast charging wattage", "best charger for iphone 2026"],
+      "sources": [
+        {"title": "Can you safely use a 140w charger on an iPhone?", "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/"}
+      ]
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c53"],
+      "working_title": "Tesla's FSD v15 Renders a Photorealistic View of Your Surroundings Using Real-Time AI Video",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "Techmeme/Gizmodo confirm FSD v15 rolled out to some vehicles Nov. 21 with a notable visualization change Musk says is real-time AI video generation, not a game engine; Memeburn hasn't covered this rollout.",
+      "angle": "Translate the visualization claim for a general reader: what 'real-time AI video generation without a game engine' means in practice versus a typical FSD render, and what it suggests (or doesn't) about how the car is actually perceiving the road.",
+      "format": "news",
+      "est_words": 1200,
+      "headline_options": [
+        "Tesla's FSD v15 Uses Real-Time AI Video Generation to Show What Your Car 'Sees'",
+        "Tesla FSD v15: What Musk's 'No Game Engine' Claim About Its New Visuals Actually Means"
+      ],
+      "seo_keywords": ["tesla fsd v15", "fsd v15 features", "tesla self driving ai video", "fsd v15 release date"],
+      "sources": [
+        {"title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings (Mike Pearl/Gizmodo)", "url": "https://www.techmeme.com/261122/p4#a261122p4"}
+      ],
+      "notes_for_writer": "Only the Techmeme blurb is in today's candidates — verify the full Gizmodo details (which vehicles got the update, exact rollout date) before publishing rather than inferring."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c50"],
+      "working_title": "Bitcoin Briefly Crashed to $17K on Kraken — Here's What Actually Happened",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "Cointelegraph reports an isolated ~15-minute Bitcoin price dislocation on Kraken's BTC/CAD market (not the global price) on Nov. 22 — distinct from Memeburn's Nov. 22 'Bitcoin dips below $63K' piece, which covered a real global price move, not this exchange-specific anomaly.",
+      "angle": "Explain the BTC/CAD-specific divergence, Adam Back's market-maker-ran-out-of-funds theory, and why Kraken upheld every trade rather than reversing them — a 'should I be worried about my exchange' explainer, not a price-prediction piece.",
+      "format": "explainer",
+      "est_words": 1200,
+      "headline_options": [
+        "Bitcoin 'Crashed' to $17K on Kraken for 15 Minutes. Here's Why Your Coins Were Never at Risk",
+        "Why Did Bitcoin Show $17K on Kraken When It Was Trading at $57K Everywhere Else?"
+      ],
+      "seo_keywords": ["bitcoin 17k kraken", "kraken bitcoin crash", "bitcoin price glitch kraken", "is kraken safe"],
+      "sources": [
+        {"title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades", "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "No price predictions or investment framing per house rules — this is a market-mechanics explainer, not a 'should you buy' piece."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c35"],
+      "working_title": "Leak: Apple Tested a New 'Complication Column' for the iPhone Duo's Lock Screen",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "9to5Mac's Nov. 22 report is the first mention of this specific feature, found in now-dormant iOS 27.1 code by leak account @itspdfu; Memeburn's existing iPhone Duo coverage (the Razr Flex price comparison) hasn't touched this angle.",
+      "angle": "Clearly frame this as an unconfirmed, possibly-abandoned leak (no code changes since discovery) while explaining what a 'complication column' would actually add for iPhone Duo owners.",
+      "format": "news",
+      "est_words": 1000,
+      "headline_options": [
+        "Apple May Have Tested a New Lock Screen Widget Column for the iPhone Duo",
+        "iPhone Duo Leak: What Is Apple's Rumored Lock Screen 'Complication Column'?"
+      ],
+      "seo_keywords": ["iphone duo lock screen leak", "iphone duo complication column", "iphone duo features rumor", "iphone duo release date"],
+      "sources": [
+        {"title": "Apple tested a 'complication column' for the iPhone Duo Lock Screen, per leak", "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/"}
+      ],
+      "notes_for_writer": "Must be framed as unconfirmed leak — the source itself notes no code changes since discovery, so the feature may never ship. Don't state it as a confirmed upcoming feature."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c16"],
+      "working_title": "PlainApp Connects Your Android Phone to Windows PC for Free, No Setup Hassle",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "Engadget's Nov. 22 writeup is the first coverage of this specific free tool, fitting a recurring 'connect phone to PC' search need Memeburn hasn't addressed.",
+      "angle": "A practical how-to: what PlainApp does differently from Microsoft's own Phone Link, setup steps, and whether it's a real free alternative to paid cross-device apps.",
+      "format": "how-to",
+      "est_words": 1100,
+      "headline_options": [
+        "This Free App Links Your Android Phone to Your Windows PC in Minutes",
+        "Skip the Paid Apps: PlainApp Connects Android to Windows for Free"
+      ],
+      "seo_keywords": ["connect android to windows pc free", "plainapp review", "android windows pc link app", "free phone link alternative"],
+      "sources": [
+        {"title": "This free app connects your Android phone to your Windows PC wirelessly", "url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/"}
+      ]
+    }
+  ],
+  "watchlist": [
+    "Vivo S70 Pro/V90 Pro and rumored I2606 (Snapdragon 8s Gen 4) spec leaks — GSMArena has photos but no confirmed source page loaded; revisit once a readable spec sheet is available.",
+    "Samsung multitasking feature reportedly ported to Pixel via a third-party app — Android Authority piece is paywalled/blocked for us; verify which feature and app before pitching.",
+    "Security researchers (Dragos) expose cheap AI inference providers stealing API keys and snooping on requests — OpenRouter already pulled 3 providers; worth a 'is your AI API safe' explainer if it develops.",
+    "MacBook Neo 2 rumored for a March launch with new colors — too far out to rank, keep for a closer-to-launch piece.",
+    "South Korean exchanges halt CYBER token transfers after a suspected bridge exploit — small-cap token, watch for confirmed loss figures before writing."
+  ],
+  "upcoming": [
+    {"date": "2026-11-27", "event": "Black Friday", "prep_idea": "Start a phone/gadget Black Friday deal roundup now — Switch 2 and UGREEN MagSafe deals are already live and ranked in today's picks."},
+    {"date": "2026-11-30", "event": "Cyber Monday", "prep_idea": "Hold back 1-2 of this week's deal posts (or draft a follow-up roundup) for Cyber Monday price refreshes."}
+  ]
+}
