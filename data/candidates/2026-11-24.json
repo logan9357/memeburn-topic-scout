@@ -1,0 +1,2852 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:54:42.912649+00:00",
+  "crawl_errors": [
+    {
+      "source": "Reddit",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/technology/top.json?t=day&limit=15"
+    }
+  ],
+  "candidate_count": 60,
+  "candidates": [
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "category": "crypto",
+      "prescore": 68.8,
+      "score_breakdown": {
+        "source_diversity": 50,
+        "search_demand": 0,
+        "community_buzz": 10.0,
+        "crypto_trending": 0,
+        "freshness": 13.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": -15,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 2019,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.5
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "nvidia"
+        ],
+        "crypto": [
+          "bitcoin",
+          "btc",
+          "crypto"
+        ],
+        "tech": [
+          "tesla"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [
+        {
+          "date": "2026-11-21",
+          "title": "Nvidia stock down 44% in seven weeks as Nasdaq posts its worst week in six years"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "California AG subpoenas Nvidia as Jensen Huang scandal widens into an investor-fraud probe"
+        }
+      ],
+      "source_count": 10,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "published": "2026-11-23T14:00:18+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 2019,
+            "hn_comments": 3093
+          }
+        },
+        {
+          "source": "Techmeme",
+          "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
+          "url": "https://www.techmeme.com/261123/p42#a261123p42",
+          "published": "2026-11-23T21:40:00+00:00",
+          "summary": "Jess Menton / Bloomberg : Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% — US stocks rallied, recovering from last week's brutal technology-led selloff, as the stunning return of Jensen Huang …",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Jensen Huang returned to Nvidia's headquarters to cheers from employees and said \"I'm gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
+          "url": "https://www.techmeme.com/261123/p37#a261123p37",
+          "published": "2026-11-23T19:05:01+00:00",
+          "summary": "Geoff Weiss / Business Insider : Jensen Huang returned to Nvidia's headquarters to cheers from employees and said “I'm gonna be a better CEO the second time around” — Jensen Huang returned to Nvidia's Santa Clara headquarters Monday to cheers from employees, less than two weeks after his stunning ouster.",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Sources: Nvidia board's decision to reinstate Jensen Huang was done without consulting Nvidia's senior leadership, who were only informed at the last minute (Bloomberg)",
+          "url": "https://www.techmeme.com/261123/p33#a261123p33",
+          "published": "2026-11-23T18:01:16+00:00",
+          "summary": "Bloomberg : Sources: Nvidia board's decision to reinstate Jensen Huang was done without consulting Nvidia's senior leadership, who were only informed at the last minute — The Nvidia Corp. board's surprise move to reinstate ousted Chief Executive Officer Jensen Huang was done without consulting …",
+          "signal": {}
+        },
+        {
+          "source": "The Verge",
+          "title": "Trump engineered a risky comeback for Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "published": "2026-11-23T22:25:12+00:00",
+          "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+          "signal": {}
+        },
+        {
+          "source": "The Verge",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-23T22:10:32+00:00",
+          "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+          "signal": {}
+        },
+        {
+          "source": "The Verge",
+          "title": "Welcome to elite impunity, Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+          "published": "2026-11-23T22:09:26+00:00",
+          "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+          "published": "2026-11-23T20:38:53+00:00",
+          "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+          "signal": {}
+        }
+      ],
+      "id": "c01"
+    },
+    {
+      "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
+      "category": "ai",
+      "prescore": 53.6,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.8
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "claude",
+          "anthropic",
+          "agents"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
+          "url": "https://www.techmeme.com/261123/p41#a261123p41",
+          "published": "2026-11-23T21:25:00+00:00",
+          "summary": "Radhika Rajkumar / ZDNET : Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers — Would you let a few Claude agents review and ship your code for you? — ZDNET's key takeaways",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "published": "2026-11-23T22:05:50+00:00",
+          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Anthropic launches new Claude Ship feature for builders",
+          "url": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
+          "published": "2026-11-23T20:32:31+00:00",
+          "summary": "Anthropic is launching a new tool for builders called Claude Ship. The new AI feature allows Claude to “review pull requests, fix them, and approve the ones that a team’s policy allows.” more…",
+          "signal": {}
+        }
+      ],
+      "id": "c02"
+    },
+    {
+      "title": "Kodak's SlideTag combines a digital photo frame and an AirTag",
+      "category": "phone",
+      "prescore": 53.1,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.8
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone",
+          "android"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "Kodak's SlideTag combines a digital photo frame and an AirTag",
+          "url": "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/",
+          "published": "2026-11-23T19:20:26+00:00",
+          "summary": "The SlideTag will come in a blind box with nine fun designs.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Kodak’s SlideTag is a Find Hub tracker that doubles as a tiny E-Ink photo frame",
+          "url": "https://www.androidauthority.com/kodak-slidetag-launch-3738400/",
+          "published": "2026-11-23T17:25:20+00:00",
+          "summary": "Kodak’s SlideTag blends retro charm with Bluetooth item tracking.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos",
+          "url": "https://9to5mac.com/2026/11/23/kodak-slidetag-e-ink-iphone-tracker-airtag/",
+          "published": "2026-11-23T21:05:00+00:00",
+          "summary": "Offering support for iPhone and Android’s tracking networks, the new Kodak SlideTag offers the neat added functionality over an AirTag of being able to show your photos and more on an E-Ink display. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c03"
+    },
+    {
+      "title": "Pudgy Penguins (PENGU) trending on CoinGecko (+5.0% 24h)",
+      "category": "crypto",
+      "prescore": 45.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 10,
+        "freshness": 15.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": 1
+        },
+        "newest_hours": 0.0
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "btc",
+          "xrp",
+          "token"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinGecko trending",
+          "title": "Pudgy Penguins (PENGU) trending on CoinGecko (+5.0% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+          "published": "2026-11-24T00:54:37.969342+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 1,
+            "price_change_24h": 4.986697026211302,
+            "market_cap_rank": 127
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Pearl (PEARL) trending on CoinGecko (+12.3% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pearl-2",
+          "published": "2026-11-24T00:54:37.969365+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 2,
+            "price_change_24h": 12.305371701480311,
+            "market_cap_rank": 73
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Bitcoin (BTC) trending on CoinGecko (+0.4% 24h)",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "published": "2026-11-24T00:54:37.969377+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 3,
+            "price_change_24h": 0.37638024664785313,
+            "market_cap_rank": 1
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Venice Token (VVV) trending on CoinGecko (-6.1% 24h)",
+          "url": "https://www.coingecko.com/en/coins/venice-token",
+          "published": "2026-11-24T00:54:37.969385+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 4,
+            "price_change_24h": -6.1338690526804385,
+            "market_cap_rank": 60
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "NEAR Protocol (NEAR) trending on CoinGecko (+0.4% 24h)",
+          "url": "https://www.coingecko.com/en/coins/near",
+          "published": "2026-11-24T00:54:37.969391+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 5,
+            "price_change_24h": 0.3820073269839165,
+            "market_cap_rank": 23
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Derive (DRV) trending on CoinGecko (-11.8% 24h)",
+          "url": "https://www.coingecko.com/en/coins/derive",
+          "published": "2026-11-24T00:54:37.969398+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 6,
+            "price_change_24h": -11.798244326791755,
+            "market_cap_rank": 113
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Cosmos Hub (ATOM) trending on CoinGecko (+10.0% 24h)",
+          "url": "https://www.coingecko.com/en/coins/cosmos",
+          "published": "2026-11-24T00:54:37.969404+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 7,
+            "price_change_24h": 9.985170590734606,
+            "market_cap_rank": 85
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "XRP (XRP) trending on CoinGecko (+2.3% 24h)",
+          "url": "https://www.coingecko.com/en/coins/ripple",
+          "published": "2026-11-24T00:54:37.969410+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 8,
+            "price_change_24h": 2.269157871923961,
+            "market_cap_rank": 6
+          }
+        }
+      ],
+      "id": "c04"
+    },
+    {
+      "title": "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
+      "category": "ai",
+      "prescore": 44.8,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.5
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "agents"
+        ],
+        "crypto": [
+          "coinbase"
+        ],
+        "tech": [
+          "startup"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
+          "url": "https://www.techmeme.com/261123/p46#a261123p46",
+          "published": "2026-11-24T00:25:01+00:00",
+          "summary": "Sarah Perez / TechCrunch : Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent — AI investing startup Supertake has an interesting premise: what if your “takes” on the market could make you money without you having to pick stocks yourself?",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "published": "2026-11-23T22:02:05+00:00",
+          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+          "signal": {}
+        }
+      ],
+      "id": "c05"
+    },
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "category": "ai",
+      "prescore": 43.7,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.6
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "gemini"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "published": "2026-11-23T19:14:46+00:00",
+          "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Google Search AI Mode adds Wallet Personal Intelligence, with Drive and Gemini coming soon",
+          "url": "https://www.androidauthority.com/personal-intelligence-ai-mode-3738563/",
+          "published": "2026-11-23T22:17:15+00:00",
+          "summary": "Google Drive and Gemini connections hit AI Mode in the next few weeks.",
+          "signal": {}
+        }
+      ],
+      "id": "c06"
+    },
+    {
+      "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models",
+      "category": "ai",
+      "prescore": 43.5,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.1
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "openai",
+          "chatgpt",
+          "gpt"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models",
+          "url": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/",
+          "published": "2026-11-23T21:51:18+00:00",
+          "summary": "OpenAI is bringing GPT-6.2 Sol to the Chat tab in ChatGPT today, less than a week after the model debuted in Work and Codex . The company also set a retirement date for two older models. more…",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+          "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+          "published": "2026-11-23T20:39:18+00:00",
+          "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, an",
+          "signal": {}
+        }
+      ],
+      "id": "c07"
+    },
+    {
+      "title": "Apple renews Ted Lasso for season 5",
+      "category": "tech",
+      "prescore": 43.1,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Apple renews Ted Lasso for season 5",
+          "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+          "published": "2026-11-23T20:56:00+00:00",
+          "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut. […]",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple announces Ted Lasso season 5 is coming",
+          "url": "https://9to5mac.com/2026/11/23/apple-announces-ted-lasso-season-5-is-coming/",
+          "published": "2026-11-23T21:01:24+00:00",
+          "summary": "Apple TV ( now $6.99/month for limited time ) has just announced that Ted Lasso will return for season 5. Here are the details. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Apple TV announces TIMBERLAKE series coming soon",
+          "url": "https://9to5mac.com/2026/11/23/apple-tv-announces-timberlake-series-coming-soon/",
+          "published": "2026-11-23T14:22:22+00:00",
+          "summary": "Apple TV ( now $6.99/month for limited time ) has just announced a four-part documentary event series on Justin Timberlake that’s premiering next month. Here are the details on TIMBERLAKE. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c08"
+    },
+    {
+      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+      "category": "crypto",
+      "prescore": 43.1,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.8
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "crypto",
+          "binance"
+        ],
+        "tech": [
+          "hack"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+          "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+          "published": "2026-11-23T15:29:01+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+          "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T21:04:03+00:00",
+          "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+          "signal": {}
+        }
+      ],
+      "id": "c09"
+    },
+    {
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "category": "crypto",
+      "prescore": 40.5,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.9
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+          "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+          "published": "2026-11-23T05:42:22+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "How market depth shapes the price of a weekend Bitcoin sale",
+          "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T15:57:55+00:00",
+          "summary": "Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange’s US dollar trades.",
+          "signal": {}
+        }
+      ],
+      "id": "c10"
+    },
+    {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "category": "tech",
+      "prescore": 40.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 8.2,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 495,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.1
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Apple removed my open-source app from EU App Stores after 9 years",
+          "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+          "published": "2026-11-23T18:48:10+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 495,
+            "hn_comments": 107
+          }
+        }
+      ],
+      "id": "c11"
+    },
+    {
+      "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+      "category": "crypto",
+      "prescore": 40.1,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.9
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "btc"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+          "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+          "published": "2026-11-23T15:02:32+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
+          "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T13:44:16+00:00",
+          "summary": "The miner can borrow against its Bitcoin to fund operations and expansion after selling about 465 BTC to cover expenses in the third quarter.",
+          "signal": {}
+        }
+      ],
+      "id": "c12"
+    },
+    {
+      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+      "category": "crypto",
+      "prescore": 37.1,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 7.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 15.8
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ],
+        "crypto": [
+          "crypto"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+          "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
+          "published": "2026-11-23T07:45:30+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+          "url": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T09:05:44+00:00",
+          "summary": "The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.",
+          "signal": {}
+        }
+      ],
+      "id": "c13"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "category": "tech",
+      "prescore": 36.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 2.7,
+        "crypto_trending": 0,
+        "freshness": 13.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 163,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "microsoft"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+          "published": "2026-11-23T22:32:29+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 163,
+            "hn_comments": 88
+          }
+        }
+      ],
+      "id": "c14"
+    },
+    {
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "category": "crypto",
+      "prescore": 34.9,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 4.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 20.1
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Market rout kills 50 basis points December Fed rate hike bets",
+          "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+          "published": "2026-11-23T04:45:47+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+          "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T02:47:39+00:00",
+          "summary": "Markets and economists widely expect the US Federal Reserve to raise interest rates by 25 basis points in its December meeting.",
+          "signal": {}
+        }
+      ],
+      "id": "c15"
+    },
+    {
+      "title": "The biggest downsides to using Apple's Magic Mouse",
+      "category": "tech",
+      "prescore": 34.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "The biggest downsides to using Apple's Magic Mouse",
+          "url": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
+          "published": "2026-11-24T00:30:00+00:00",
+          "summary": "Mac users have their reasons for ditching Apple's Magic Mouse despite its slick touch gestures. Knowing them can help you decide if it suits your desk.",
+          "signal": {}
+        }
+      ],
+      "id": "c16"
+    },
+    {
+      "title": "Apple Pay just got even better with four new features and more",
+      "category": "phone",
+      "prescore": 34.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple Pay just got even better with four new features and more",
+          "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
+          "published": "2026-11-24T00:31:59+00:00",
+          "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now. 9to5Mac is sponsored by Sony : Score Sony’s INZONE noise-canceling earbuds for 38% off . These deliver immersive 360 Spatial Sound, active noise canceling, low-l",
+          "signal": {}
+        }
+      ],
+      "id": "c17"
+    },
+    {
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "category": "crypto",
+      "prescore": 34.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.5
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+          "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+          "published": "2026-11-24T00:25:04+00:00",
+          "summary": "",
+          "signal": {}
+        }
+      ],
+      "id": "c18"
+    },
+    {
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "category": "crypto",
+      "prescore": 34.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.3
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "ethereum"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-24T00:36:26+00:00",
+          "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+          "signal": {}
+        }
+      ],
+      "id": "c19"
+    },
+    {
+      "title": "Google alternative Kagi launches an email service",
+      "category": "tech",
+      "prescore": 34.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.9
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Google alternative Kagi launches an email service",
+          "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+          "published": "2026-11-24T00:02:52+00:00",
+          "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you […]",
+          "signal": {}
+        }
+      ],
+      "id": "c20"
+    },
+    {
+      "title": "Freeing the iPod Nano 5G",
+      "category": "tech",
+      "prescore": 34.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.4,
+        "crypto_trending": 0,
+        "freshness": 14.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 23,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.9
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "5g"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Freeing the iPod Nano 5G",
+          "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+          "published": "2026-11-23T23:03:13+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 23,
+            "hn_comments": 2
+          }
+        }
+      ],
+      "id": "c21"
+    },
+    {
+      "title": "Commons reasons your Android phone's icons won't move and how to fix it",
+      "category": "phone",
+      "prescore": 34.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "Commons reasons your Android phone's icons won't move and how to fix it",
+          "url": "https://www.engadget.com/2320294/reasons-android-phone-icons-wont-move-fix/",
+          "published": "2026-11-24T00:00:00+00:00",
+          "summary": "It's most likely your home screen settings.",
+          "signal": {}
+        }
+      ],
+      "id": "c22"
+    },
+    {
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "category": "crypto",
+      "prescore": 34.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.2
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+          "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T23:43:34+00:00",
+          "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+          "signal": {}
+        }
+      ],
+      "id": "c23"
+    },
+    {
+      "title": "Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C (Rhiannon Hoyle/Wall Street Journal)",
+      "category": "tech",
+      "prescore": 34.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.5
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C (Rhiannon Hoyle/Wall Street Journal)",
+          "url": "https://www.techmeme.com/261123/p45#a261123p45",
+          "published": "2026-11-23T23:25:01+00:00",
+          "summary": "Rhiannon Hoyle / Wall Street Journal : Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C — Myriota raises roughly $40 million in a first close of a Series C round to hire staff and scale satellite constellation",
+          "signal": {}
+        }
+      ],
+      "id": "c24"
+    },
+    {
+      "title": "What you can do with your old, discontinued Mac Pro",
+      "category": "tech",
+      "prescore": 34.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "What you can do with your old, discontinued Mac Pro",
+          "url": "https://www.engadget.com/2320292/what-do-with-old-discontinued-mac-pro/",
+          "published": "2026-11-23T23:30:00+00:00",
+          "summary": "Apple is discontinuing Mac Pro, but there are several ways you can still get use out of the computer, even without Apple support.",
+          "signal": {}
+        },
+        {
+          "source": "Engadget",
+          "title": "Your older, discontinued AirTags can still serve a purpose",
+          "url": "https://www.engadget.com/2320290/discontinued-airtags-still-serve-purpose/",
+          "published": "2026-11-23T21:00:00+00:00",
+          "summary": "Apple has moved on from the original AirTag, but you don't have to. Find out how your old trackers can still earn their keep at home and on the go.",
+          "signal": {}
+        }
+      ],
+      "id": "c25"
+    },
+    {
+      "title": "HPE reports Q4 revenue up 50% YoY to $14.5B, vs. $14.3B est., forecasts Q1 revenue above the average estimates but below the highest; HPE drops 6%+ after hours (Dina Bass/Bloomberg)",
+      "category": "tech",
+      "prescore": 34.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.8
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "HPE reports Q4 revenue up 50% YoY to $14.5B, vs. $14.3B est., forecasts Q1 revenue above the average estimates but below the highest; HPE drops 6%+ after hours (Dina Bass/Bloomberg)",
+          "url": "https://www.techmeme.com/261123/p44#a261123p44",
+          "published": "2026-11-23T23:05:01+00:00",
+          "summary": "Dina Bass / Bloomberg : HPE reports Q4 revenue up 50% YoY to $14.5B, vs. $14.3B est., forecasts Q1 revenue above the average estimates but below the highest; HPE drops 6%+ after hours — Hewlett Packard Enterprise Co. gave a revenue forecast for the current quarter that fell short of the most optimistic estimates …",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Zoom reports Q3 revenue up 4.9% YoY to $1.29B, above $1.28B est., enterprise revenue up 8.6% to $805.4M, and forecasts Q4 revenue below estimates (Brody Ford/Bloomberg)",
+          "url": "https://www.techmeme.com/261123/p43#a261123p43",
+          "published": "2026-11-23T22:50:01+00:00",
+          "summary": "Brody Ford / Bloomberg : Zoom reports Q3 revenue up 4.9% YoY to $1.29B, above $1.28B est., enterprise revenue up 8.6% to $805.4M, and forecasts Q4 revenue below estimates — Zoom Communications Inc. gave a revenue forecast for the current quarter that at the midpoint fell just short of analysts' estimates …",
+          "signal": {}
+        }
+      ],
+      "id": "c26"
+    },
+    {
+      "title": "Samsung may shift Galaxy Watch to a two-year launch cycle - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 34.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung",
+          "galaxy"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Samsung may shift Galaxy Watch to a two-year launch cycle - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjNRd21VTVcyd1JCREZ2TnBvbGM2Z1BtWEhDQ3RpNmtzR2RlbTJyZUpPbVBxTE04QVVlTjUzVlh3NWc1aG0zVHMwS3FZaEVXdHpJbzJwb3MzNTI5M0pnQ3N2MkVES1RyaUtFcTZwT3VNTzR6eDhaZnE2UVBZZzRtLXRWU3NqbDFGcEliMXVKQXIxSy1nNVU4cHllMnfSAZgBQVVfeXFMTTd3QmJHSll6RkprZ1R6REdPUUhTTElmOTRuVmpObGRmNTVpRTJCLTM4R1p2NnE3X0Z3c2VYbUtVOHNoaHBTVmJOLTNQNWRwaDZwSmdNOV9CMkpWVzNFR1hiUjgyZGt4cHhaNnFna3I2UUNhalg2MUx1VnVqZG9sMXRXVUJBQnFqT1NuVHJYSkpPVGZ4LUl6ZV8?oc=5",
+          "published": "2026-11-23T04:30:01+00:00",
+          "summary": "Samsung may shift Galaxy Watch to a two-year launch cycle - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "The Samsung Galaxy A38 tipped to have a downgraded camera, the A58 stays the same - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMElSSTJvTW00MWduYjlNVzktZnNZaFBZUFF2dzY1RW03ZmtISTFwaDhHallQNnVDa2otMl9zN2EyYnFENE5rZjJyb0t4anZBSGNtLURETjdzc3hhXzlzMmtfZGo4b3BVZlBGb0JSbXlnc2Fxc2otaHZnQ21iOTFvRjhZTndoeDEtQkJpZ3pSUEs5VVdrcUhucjRiZW5vRHV1Sm5lbk5pTHpSVTBLSVRIbThzWEhvRF9hT1BJadIBuAFBVV95cUxPOEg5dFpQNzF4bzhzeFd1TnppMHVnaVFXZjNHc0daNkVWWnhfS2xmUnJUMWtkU05VQy1xR1ZJZDJDR0hwTUlmcHNPVGRMTHdud0NwVzJNOFZlSTV1Rm1NRlpnWkYzUEJHY3MyUXV0NGlvQ3duSzF4ajNhUFhZZklteEdMaE1jTFphYjdJdk8wRjRoa3hXZl9yU2tiUVJEMmFrSUVndjRSb2R2d0tpd25LTmdRUEN0SDAw?oc=5",
+          "published": "2026-11-23T20:11:01+00:00",
+          "summary": "The Samsung Galaxy A38 tipped to have a downgraded camera, the A58 stays the same - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Samsung may shift Galaxy Watch to a two-year launch cycle - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTVYxQ3l5VGtoV0Z6eTkzU0xyRDJ6WFVmR1BTN1EyZUdGMHhBbk85V3BGMzJraDZUejlBSWl2M0VTT1FzWENxY3puVUd0bUFJUzhiUHVR?oc=5",
+          "published": "2026-11-23T10:30:00+00:00",
+          "summary": "Samsung may shift Galaxy Watch to a two-year launch cycle - Reader comments GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Samsung details the tech behind the Galaxy SmartTag3's longer finding range - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWdrcWlnVC15QldLYUJhbzRDMnNGY1F5VDExbnhsWC16OU9Bd2NVcTJteW1ZRGN6dDlTMlRhVEw4bTl1bVVPclJuMDJ3R2g3enNqamV3Mnk0RUQzeW4ybUV1a3FZb0tud05JVjBEcWxJRkt6N1gxYUxPN2pzQ3YyRzhCaTBCVzVsTnlNUHJsT3c1aXNrdWx1NlZCWjNHZm1IZFpCbmVjdmhkb2JRZDd5U1FSWjLSAbABQVVfeXFMT0Q5U19NNjFlS09lWGVtYzY3ZjNiVUhPQjlPWkNIdEZ5V1BHSFNWcDVFY1dnckRiempvNmwzTTc1SUFNYURna0ZmVGlHa2lvdlNfZmRtMk5hSXR1Y3RVZlk3bGVGSE5jR2pOcWp0aFI2UzhpWElsWDB6RVdzOC1QRXNjdUpqbFRVU1Y3VkFQdVpqaHFXeGNPSUVVWGJPdmtxZXFLWFZPVXh2QjdKcXM3OTU?oc=5",
+          "published": "2026-11-23T22:59:02+00:00",
+          "summary": "Samsung details the tech behind the Galaxy SmartTag3's longer finding range - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c27"
+    },
+    {
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "category": "tech",
+      "prescore": 33.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.3
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "macos"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Ladybird, the first new browser engine in years, is now available to test",
+          "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+          "published": "2026-11-23T22:38:09+00:00",
+          "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. […]",
+          "signal": {}
+        }
+      ],
+      "id": "c28"
+    },
+    {
+      "title": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 33.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.2
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTFWaG9RZmIwaWtrY2gzMXNSQW05dkgyd0dsQzF3MWpUM0ZxYk1SeXJYaGVtakV5a1RSTmlYZjUweTg3WmN2b0ZjMDdjRS1fZTZrRmxkWlNXdmxHU2tWekF5UnZ0V3R2aHFuaWViQXlMdTBlZFJPaVVOeGFNWkNDRzJQMWg1d3ZLWWFCVXAyZkxVQUVlQ1A2bXVVWjFsU1BvQXF5Q2E3dDFyYkV3VnJXRlY5Ukx4QjM1TXZNNW9sczNIWEo1LXlYRtIBxAFBVV95cUxQaGVDcmNtZjMyQ3ZldTdFR0xNMFJxSnZjSnhOLUdUMnRtSlM2dTBGUVdMWV9QeEkzX052WGNPeUZOV3FlTDFfZWdwWnJJV29MNFEybm0wZ2xJR283bU9tYnRvRnotQTdLaUtKd1FoVllyNnZwenBBb1JvYmVYTE54X2xmRlZVMGRHV2RnQlI3VkVISlVaXzFLczBpclVfMHl1a1NOZkt0YzhPMmN4WGhhRy1razM5T3BfY3AteUR4bGNmb0t4?oc=5",
+          "published": "2026-11-23T12:51:02+00:00",
+          "summary": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo - Reader comments - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIeWJiN0UzYVlmOWw5WHR3ZDV6a2Jfbk1qQmQwZkVnb0lHWHZ3Ukl5c3RqTjl5dzc1MEh5TTdjUWUtV004ZUVIc2dyejh1WkhESFFCYkx3?oc=5",
+          "published": "2026-11-23T22:45:37+00:00",
+          "summary": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo - Reader comments GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c29"
+    },
+    {
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "category": "ai",
+      "prescore": 33.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.3,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 18,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "openai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "url": "https://openai.com/index/introducing-shirudo/",
+          "published": "2026-11-23T21:30:41+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 18,
+            "hn_comments": 1
+          }
+        }
+      ],
+      "id": "c30"
+    },
+    {
+      "title": "Motorcyclists spot Google Maps on Android Auto showing routes for two-wheeled vehicles",
+      "category": "phone",
+      "prescore": 33.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Motorcyclists spot Google Maps on Android Auto showing routes for two-wheeled vehicles",
+          "url": "https://www.androidauthority.com/android-auto-motorcycle-mode-3738531/",
+          "published": "2026-11-23T21:37:37+00:00",
+          "summary": "Google Maps on Android Auto quietly starts offering motorcycle-friendly routes.",
+          "signal": {}
+        }
+      ],
+      "id": "c31"
+    },
+    {
+      "title": "YouTube’s iconic iOS app icon may soon return with new customizable icons [Gallery]",
+      "category": "phone",
+      "prescore": 33.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.1
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "ios"
+        ],
+        "tech": [
+          "youtube"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "YouTube’s iconic iOS app icon may soon return with new customizable icons [Gallery]",
+          "url": "https://9to5google.com/2026/11/23/youtube-custom-icons-ios-tv-return/",
+          "published": "2026-11-23T21:46:26+00:00",
+          "summary": "The iconic YouTube app icon that looked like a retro TV found on iOS might be making a comeback, with new customizable icons showing up behind the scenes of a new YouTube update. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c32"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "category": "crypto",
+      "prescore": 33.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.2
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "crypto",
+          "blockchain",
+          "defi"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T21:40:44+00:00",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "signal": {}
+        }
+      ],
+      "id": "c33"
+    },
+    {
+      "title": "Motorola Edge 70 Neo is here with a 7,000 mAh battery and 144Hz screen - GSMArena.com",
+      "category": "phone",
+      "prescore": 33.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "motorola"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Motorola Edge 70 Neo is here with a 7,000 mAh battery and 144Hz screen - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEZSRGdQSGo1Ym5maV9EMHd3eGRYclNKSTdZNjJsX0NNS1FkZW5VV0RYWXFVR1lCN2lOeHhwNGYwUExremtwalpsa18xeDBGaTdtVEdBWkplWS1XQmItYzVPZWlDVWF5VC16b1RMSzZJTG1UMm1saWk3YjNma3RiTFd2U1gxclVSS0IzUHdqSk95UXY0QVJZekk2V0hxbzByUUdEODRxZU9Ebkk?oc=5",
+          "published": "2026-11-23T21:33:02+00:00",
+          "summary": "Motorola Edge 70 Neo is here with a 7,000 mAh battery and 144Hz screen GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c34"
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "category": "ai",
+      "prescore": 33.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.8
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "AI data centers throw another wrench into chaotic UN climate talks",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+          "published": "2026-11-23T21:09:37+00:00",
+          "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
+          "signal": {}
+        }
+      ],
+      "id": "c35"
+    },
+    {
+      "title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+      "category": "phone",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+          "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
+          "published": "2026-11-23T20:57:55+00:00",
+          "summary": "We've also got further confirmation the iPhone Air 2 will have a second camera lens.",
+          "signal": {}
+        }
+      ],
+      "id": "c36"
+    },
+    {
+      "title": "OnePlus strips its US website down to bare bones following market exit",
+      "category": "phone",
+      "prescore": 33.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.0
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "oneplus"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "OnePlus strips its US website down to bare bones following market exit",
+          "url": "https://www.androidauthority.com/oneplus-us-website-3738551/",
+          "published": "2026-11-23T20:52:57+00:00",
+          "summary": "All products have vanished.",
+          "signal": {}
+        }
+      ],
+      "id": "c37"
+    },
+    {
+      "title": "SanDisk’s tiny 1TB Extreme Fit USB-C drive hits a six-month low",
+      "category": "tech",
+      "prescore": 32.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.3
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "SanDisk’s tiny 1TB Extreme Fit USB-C drive hits a six-month low",
+          "url": "https://www.androidauthority.com/sandisk-extreme-fit-1tb-deal-3738556/",
+          "published": "2026-11-23T20:39:03+00:00",
+          "summary": "Save $46 on SanDisk's plug-and-stay 1TB flash drive, which usually sells for $249.99 on Amazon.",
+          "signal": {}
+        }
+      ],
+      "id": "c38"
+    },
+    {
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
+      "category": "crypto",
+      "prescore": 32.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.3
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Kalshi secures temporary win in New York gambling law dispute",
+          "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T20:38:43+00:00",
+          "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
+          "signal": {}
+        }
+      ],
+      "id": "c39"
+    },
+    {
+      "title": "Google Chrome is working on 3 new filters to narrow down your browsing history",
+      "category": "tech",
+      "prescore": 32.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google Chrome is working on 3 new filters to narrow down your browsing history",
+          "url": "https://www.androidauthority.com/google-chrome-history-filters-3738511/",
+          "published": "2026-11-23T20:17:10+00:00",
+          "summary": "You should soon be able to filter browsing history by device, date, and ‘who browsed.’",
+          "signal": {}
+        }
+      ],
+      "id": "c40"
+    },
+    {
+      "title": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
+      "category": "ai",
+      "prescore": 32.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "nvidia"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
+          "url": "https://www.techmeme.com/261123/p40#a261123p40",
+          "published": "2026-11-23T20:10:11+00:00",
+          "summary": "Ashley Gold / Semafor : Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license — The Trump administration on Monday added the company at the heart of the Nvidia scandal, Megaspeed, to a trade blacklist designed …",
+          "signal": {}
+        }
+      ],
+      "id": "c41"
+    },
+    {
+      "title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
+      "category": "ai",
+      "prescore": 32.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "nvidia"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
+          "url": "https://www.techmeme.com/261123/p39#a261123p39",
+          "published": "2026-11-23T20:01:33+00:00",
+          "summary": "Axios : Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was “too big to fail” for the US economy and a victim of “deep state” maneuvering — President Trump pushed Nvidia to reinstate Jensen Huang as CEO after allies argued he was “too big to fail” …",
+          "signal": {}
+        },
+        {
+          "source": "Techmeme",
+          "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
+          "url": "https://www.techmeme.com/261123/p38#a261123p38",
+          "published": "2026-11-23T19:30:02+00:00",
+          "summary": "Reuters : Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models — US President Donald Trump and Vice President JD Vance personally intervened in Nvidia's (NVDA.O) decision to reinstate CEO Jensen Huang over the weekend, convinced he alone protected American …",
+          "signal": {}
+        }
+      ],
+      "id": "c42"
+    },
+    {
+      "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+      "category": "ai",
+      "prescore": 32.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "anthropic"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+          "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
+          "published": "2026-11-23T20:02:30+00:00",
+          "summary": "Enterprise customers can now keep prompts and responses on their own servers.",
+          "signal": {}
+        }
+      ],
+      "id": "c43"
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "category": "tech",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 3.5,
+        "crypto_trending": 0,
+        "freshness": 8.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 212,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 12.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "windows"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+          "url": "https://github.com/mikuta0407/win4wine",
+          "published": "2026-11-23T12:28:11+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 212,
+            "hn_comments": 113
+          }
+        }
+      ],
+      "id": "c44"
+    },
+    {
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "category": "ai",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "nvidia"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+          "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+          "published": "2026-11-23T19:31:41+00:00",
+          "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+          "signal": {}
+        }
+      ],
+      "id": "c45"
+    },
+    {
+      "title": "How to connect your Bluetooth headphones to your Xbox Series X",
+      "category": "tech",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "xbox"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "How to connect your Bluetooth headphones to your Xbox Series X",
+          "url": "https://www.engadget.com/2320288/how-to-connect-bluetooth-headphones-xbox-series-x/",
+          "published": "2026-11-23T19:30:00+00:00",
+          "summary": "Connecting Bluetooth headphones to your Xbox Series X can be frustrating due to incompatibility. However, there are a few workarounds to solve this problem.",
+          "signal": {}
+        }
+      ],
+      "id": "c46"
+    },
+    {
+      "title": "Circle to Search might drop its floating bar in favor of a new screen-bottom sheet",
+      "category": "tech",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Circle to Search might drop its floating bar in favor of a new screen-bottom sheet",
+          "url": "https://www.androidauthority.com/circle-search-new-sheet-ui-3738419/",
+          "published": "2026-11-23T19:27:53+00:00",
+          "summary": "Google isn’t done with Circle to Search just yet.",
+          "signal": {}
+        }
+      ],
+      "id": "c47"
+    },
+    {
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "category": "crypto",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.3
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "eth",
+          "defi"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+          "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T19:35:06+00:00",
+          "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
+          "signal": {}
+        }
+      ],
+      "id": "c48"
+    },
+    {
+      "title": "Google Meet 1080p video is no longer paywalled on the web",
+      "category": "tech",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.7
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google Meet 1080p video is no longer paywalled on the web",
+          "url": "https://www.androidauthority.com/google-meet-1080p-video-sending-expansion-3738486/",
+          "published": "2026-11-23T19:15:02+00:00",
+          "summary": "1080p video sending for all.",
+          "signal": {}
+        }
+      ],
+      "id": "c49"
+    },
+    {
+      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "category": "crypto",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.6
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+          "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-23T19:16:46+00:00",
+          "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
+          "signal": {}
+        }
+      ],
+      "id": "c50"
+    },
+    {
+      "title": "Dutch payment company Adyen says co-CEO Pieter van der Does plans to step down at the end of the year; co-CEO Ingo Uytdehaage will become the sole chief (Sarah Jacob/Bloomberg)",
+      "category": "tech",
+      "prescore": 32.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.9
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Dutch payment company Adyen says co-CEO Pieter van der Does plans to step down at the end of the year; co-CEO Ingo Uytdehaage will become the sole chief (Sarah Jacob/Bloomberg)",
+          "url": "https://www.techmeme.com/261123/p36#a261123p36",
+          "published": "2026-11-23T19:01:07+00:00",
+          "summary": "Sarah Jacob / Bloomberg : Dutch payment company Adyen says co-CEO Pieter van der Does plans to step down at the end of the year; co-CEO Ingo Uytdehaage will become the sole chief — Adyen NV said co-founder Pieter van der Does will step down as the Dutch payment company's co-chief executive officer at the end of the year.",
+          "signal": {}
+        }
+      ],
+      "id": "c51"
+    },
+    {
+      "title": "Nothing’s first AI-native device is the Ear note, and here’s our best look at how it works",
+      "category": "ai",
+      "prescore": 32.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Nothing’s first AI-native device is the Ear note, and here’s our best look at how it works",
+          "url": "https://www.androidauthority.com/nothing-ear-note-ai-earbuds-features-3738493/",
+          "published": "2026-11-23T19:11:52+00:00",
+          "summary": "Plaud has a new rival.",
+          "signal": {}
+        }
+      ],
+      "id": "c52"
+    },
+    {
+      "title": "How should an LLM see a computer?",
+      "category": "ai",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.7,
+        "crypto_trending": 0,
+        "freshness": 11.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 43,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.6
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "llm"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "How should an LLM see a computer?",
+          "url": "https://www.greptile.com/blog/trex-computer-use",
+          "published": "2026-11-23T17:19:25+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 43,
+            "hn_comments": 22
+          }
+        }
+      ],
+      "id": "c53"
+    },
+    {
+      "title": "Here's when the vivo S70 series will become official - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "vivo"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Here's when the vivo S70 series will become official - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1FQYmtZUnNqakNKbVJZWVZqZ3NqV0k3QXlZTlk1X09uRzJLRHFTWTBlNF9fbjNqdDNwdGZ3WDhlUVFSaXhaR2tGaVRYQnhIdW05VXFtRFEtbzdQaDdfLUc0WThOVGRNZm9wQklULWVINlB5cXhiMzFEWFVWTkFNQ3NhSEdKUFY4VEhlUlJ2X202Z1lkQWfSAZIBQVVfeXFMTzNGd3JUd1NYbzUzaGZLeWI1MVhmQ25UWUlhTXJ2c1lSSjV0YlRlaDM5ZlZmVW5RQXJLWVVGQ0djTnhvSEJYWGhlQjZ4bGd6VjVNaVpFTU5Gc3BzbnQxZ21YUDVhNjFTVExsLXhXMU1jcUNWWkdtNnhaMzN4WTlwYUtQY0ZxZnhRZkF1ckxOdGxqTmc?oc=5",
+          "published": "2026-11-23T18:39:03+00:00",
+          "summary": "Here's when the vivo S70 series will become official - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c54"
+    },
+    {
+      "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+      "category": "ai",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.1
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "anthropic",
+          "grok"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Decoder",
+          "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+          "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+          "published": "2026-11-23T18:47:53+00:00",
+          "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among other cuts. The article Anthropic's appetite for compute is pushing xAI toward a rent-over-build strateg",
+          "signal": {}
+        }
+      ],
+      "id": "c55"
+    },
+    {
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "category": "ai",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.2
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "openai",
+          "gpt"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Decoder",
+          "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+          "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+          "published": "2026-11-23T18:42:38+00:00",
+          "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is pushing to make perplexity an industry-wide progress metric and establish shared limits before control over AI behavior erod",
+          "signal": {}
+        }
+      ],
+      "id": "c56"
+    },
+    {
+      "title": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
+      "category": "tech",
+      "prescore": 31.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.5
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
+          "url": "https://www.techmeme.com/261123/p35#a261123p35",
+          "published": "2026-11-23T18:25:01+00:00",
+          "summary": "Matt Garman / About Amazon : AWS CEO Matt Garman says AI safety can't rely on an “emergency brake” and that the same engineering discipline behind decades of secure systems applies to AI — Most of the practical tools to build trustworthy AI systems already exist, and the industry needs to use them. — Key takeaways",
+          "signal": {}
+        }
+      ],
+      "id": "c57"
+    },
+    {
+      "title": "New York judge declines to block Kalshi from operating in the state for now",
+      "category": "crypto",
+      "prescore": 31.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.5
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "New York judge declines to block Kalshi from operating in the state for now",
+          "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+          "published": "2026-11-23T18:22:03+00:00",
+          "summary": "",
+          "signal": {}
+        }
+      ],
+      "id": "c58"
+    },
+    {
+      "title": "Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)",
+      "category": "tech",
+      "prescore": 31.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.7
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "xbox"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)",
+          "url": "https://www.techmeme.com/261123/p34#a261123p34",
+          "published": "2026-11-23T18:10:01+00:00",
+          "summary": "Michael Kan / PCMag : Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC — The CyberLeek hacking gang claims to have released a key executable program that promises to help the modding community port Grand Theft Auto 6 to the PC.",
+          "signal": {}
+        }
+      ],
+      "id": "c59"
+    },
+    {
+      "title": "Gemini could soon let you archive old chats instead of deleting them",
+      "category": "ai",
+      "prescore": 31.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.8
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "gemini"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Gemini could soon let you archive old chats instead of deleting them",
+          "url": "https://www.androidauthority.com/google-gemini-chat-archiving-feature-3738433/",
+          "published": "2026-11-23T18:09:20+00:00",
+          "summary": "Making cluttered histories a thing of the past.",
+          "signal": {}
+        }
+      ],
+      "id": "c60"
+    }
+  ]
+}

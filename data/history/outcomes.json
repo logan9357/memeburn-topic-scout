@@ -342,12 +342,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 65,
-    "published": true,
-    "article_url": "https://memeburn.com/binance-hack-seizure-billion-crypto-of-north-korean-hackers/",
-    "article_title": "The DOJ Is Moving to Seize $1.2 Billion From North Korea’s Binance Hack",
-    "author": "Vincee Cole",
-    "hours_to_publish": 74.8,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-13",
@@ -442,12 +437,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 74,
-    "published": true,
-    "article_url": "https://memeburn.com/binance-hack-seizure-billion-crypto-of-north-korean-hackers/",
-    "article_title": "The DOJ Is Moving to Seize $1.2 Billion From North Korea’s Binance Hack",
-    "author": "Vincee Cole",
-    "hours_to_publish": 50.8,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-14",
@@ -552,7 +542,12 @@
     "urgency": "evergreen",
     "format": "news",
     "score": 55,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
+    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
+    "author": "Michael Sacchitello",
+    "hours_to_publish": 213.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-15",
@@ -653,11 +648,11 @@
     "format": "comparison",
     "score": 64,
     "published": true,
-    "article_url": "https://memeburn.com/motorola-signature-27-vs-pixel-11-pro/",
-    "article_title": "Motorola Signature 27 vs Pixel 11 Pro: Motorola Wins on Hardware, but Google’s Phone Costs $380 Less",
-    "author": "Vincee Cole",
-    "hours_to_publish": 98.4,
-    "pageviews": 4324.0
+    "article_url": "https://memeburn.com/motorola-signature-27-camera-the-action-sensor-didnt-stop-the-blur/",
+    "article_title": "Motorola Signature 27 Camera: The Action Sensor Didn’t Stop the Blur DXOMARK Found",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 189.5,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-15",
@@ -668,11 +663,11 @@
     "format": "listicle",
     "score": 61,
     "published": true,
-    "article_url": "https://memeburn.com/nintendo-black-friday-deals/",
-    "article_title": "Nintendo Black Friday 2026 Deals: The $500 Switch 2 Bundle Beats Most Game Discounts",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 25.8,
-    "pageviews": 325.0
+    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
+    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
+    "author": "Michael Sacchitello",
+    "hours_to_publish": 189.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-15",
@@ -768,11 +763,11 @@
     "format": "listicle",
     "score": 73,
     "published": true,
-    "article_url": "https://memeburn.com/nintendo-black-friday-deals/",
-    "article_title": "Nintendo Black Friday 2026 Deals: The $500 Switch 2 Bundle Beats Most Game Discounts",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 1.8,
-    "pageviews": 325.0
+    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
+    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
+    "author": "Michael Sacchitello",
+    "hours_to_publish": 165.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-16",
@@ -1153,10 +1148,10 @@
     "format": "explainer",
     "score": 80,
     "published": true,
-    "article_url": "https://memeburn.com/apple-is-reportedly-testing-two-designs-for-the-20th-anniversary/",
-    "article_title": "Apple Is Reportedly Testing Two Designs for the 20th-Anniversary iPhone. The Last Anniversary Shows Why",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 33.6,
+    "article_url": "https://memeburn.com/iphone-18-iphone-air-2-oled-production/",
+    "article_title": "iPhone 18 and iPhone Air 2 Screens Go Into Production by January. The Air 2 Is Reusing Last Year’s Panel",
+    "author": "Vincee Cole",
+    "hours_to_publish": 114.2,
     "pageviews": null
   },
   {
@@ -1272,7 +1267,12 @@
     "urgency": "today",
     "format": "listicle",
     "score": 85,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
+    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
+    "author": "Michael Sacchitello",
+    "hours_to_publish": 45.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-21",
@@ -1377,7 +1377,12 @@
     "urgency": "today",
     "format": "comparison",
     "score": 78,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
+    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
+    "author": "Michael Sacchitello",
+    "hours_to_publish": 21.6,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-22",
@@ -1457,6 +1462,111 @@
     "urgency": "today",
     "format": "explainer",
     "score": 55,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 1,
+    "working_title": "Riemann Hypothesis Proof Confirmed Correct, But a Rival All-Human Stanford Proof Just Dropped Too",
+    "category": "ai",
+    "urgency": "breaking",
+    "format": "explainer",
+    "score": 81,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 2,
+    "working_title": "Nintendo Switch 2 Black Friday Deals: $50 Off One Bundle, Games Discounted Through Dec. 5",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 75,
+    "published": true,
+    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
+    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
+    "author": "Michael Sacchitello",
+    "hours_to_publish": -2.4,
+    "pageviews": null
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 3,
+    "working_title": "UGREEN's Liquid-Cooled 25W MagSafe Battery for iPhone Is 40% Off for Black Friday",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 73,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 4,
+    "working_title": "Signal Is Blocking Screenshots on Android and iOS to Fight AI Surveillance",
+    "category": "phone",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 72,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 5,
+    "working_title": "iOS 27's 'Connectivity Assist' Fixes the iPhone's Weak Wi-Fi Problem",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "how-to",
+    "score": 70,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 6,
+    "working_title": "Can You Safely Use a 140W Charger on Your iPhone?",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 69,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 7,
+    "working_title": "Tesla's FSD v15 Renders a Photorealistic View of Your Surroundings Using Real-Time AI Video",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 68,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 8,
+    "working_title": "Bitcoin Briefly Crashed to $17K on Kraken — Here's What Actually Happened",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 68,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 9,
+    "working_title": "Leak: Apple Tested a New 'Complication Column' for the iPhone Duo's Lock Screen",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 62,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-23",
+    "rank": 10,
+    "working_title": "PlainApp Connects Your Android Phone to Windows PC for Free, No Setup Hassle",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "how-to",
+    "score": 62,
     "published": false
   }
 ]

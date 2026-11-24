@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-24",
+  "language": "en",
+  "summary": "Nvidia's reinstatement of Jensen Huang as CEO is today's clearest gap story — Memeburn covered the stock drop and the AG subpoena but not today's reinstatement — alongside a genuinely new Anthropic agent launch (Claude Ship) and a practical iPhone/crypto malware warning (MoldyRoost) worth a protect-yourself piece. Phone news is thin on big launches today, so the 70%-phone slate leans on leak roundups, one comparison pick (Kodak SlideTag vs. AirTag), and smaller confirmed stories rather than forcing weak filler. Reddit crawl failed (403, one of several sources) but coverage elsewhere is unaffected; nothing cleared the bar for 'breaking' given the Nvidia story's 2-hour window has passed and its sensitivity calls for care over speed.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01", "c41", "c42", "c45"],
+      "working_title": "Jensen Huang is Nvidia's CEO again — what changed in 48 hours",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 88,
+      "why_now": "Reinstated Nov 23 after reported Trump/Vance pressure on Nvidia's board (Techmeme via Axios/Reuters); Nasdaq 100 jumped 7%, CoreWeave +22%, Tesla +11% same day (Techmeme/Bloomberg); Hacker News front page at 2,019 points/3,093 comments; the Commerce Department simultaneously added Megaspeed — the company tied to Huang's scandal — to its entity list. Memeburn covered the stock drop (Nov 21) and the AG subpoena (Nov 22) but not today's reinstatement.",
+      "angle": "Lead with the business mechanics — stock reaction, board governance, chip-export fallout — rather than the affair/scandal details other outlets are already leading with; own the 'what this means for Nvidia and AI chip supply' angle.",
+      "format": "news",
+      "est_words": 1400,
+      "headline_options": [
+        "Jensen Huang Is Nvidia's CEO Again: What Changed in 48 Hours",
+        "Nvidia Stock Jumps 7% as Jensen Huang Returns as CEO",
+        "Why Nvidia Reinstated Jensen Huang — and What It Means for AI Chips"
+      ],
+      "seo_keywords": ["jensen huang ceo nvidia", "nvidia stock jensen huang reinstated", "why is nvidia stock up today", "nvidia jensen huang news"],
+      "sources": [
+        {"title": "Nvidia employees greet Jensen Huang like a hero as he returns to company's HQ", "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"},
+        {"title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO (Bloomberg via Techmeme)", "url": "https://www.techmeme.com/261123/p42#a261123p42"},
+        {"title": "Commerce Department adds Megaspeed to entity list (Semafor via Techmeme)", "url": "https://www.techmeme.com/261123/p40#a261123p40"},
+        {"title": "'Outrageous,' 'reckless,' 'wow': what politicians are saying about Jensen Huang's return", "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"}
+      ],
+      "notes_for_writer": "Treat the Trump/Vance intervention reports as sourced claims (Axios/Reuters via Techmeme), not confirmed fact; don't restate the affair allegations beyond what's needed for context. Fast-moving story — check for same-day updates before publishing."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c02"],
+      "working_title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 71,
+      "why_now": "TechCrunch, ZDNet and 9to5Mac all covered the launch within about 2 hours of each other (published 2026-11-23, 20:32–22:05 UTC) — a clear escalation from 'AI suggests code fixes' to 'AI can approve and merge them' for Claude Team/Enterprise GitHub repos. Memeburn has no coverage of it yet.",
+      "angle": "Explain what Claude Ship can actually do today vs. what's still beta (PR Steward, Claude Approvals), who has access, and the safeguards (observe-only mode, spend limits) — the real question developers want answered before trusting an AI to approve code.",
+      "format": "news",
+      "est_words": 1300,
+      "headline_options": [
+        "Anthropic's Claude Ship Lets AI Approve Its Own Pull Requests",
+        "What Is Claude Ship? Anthropic's New Code-Review Agents, Explained",
+        "Claude Ship: Anthropic Lets AI Review, Fix and Merge Your Code"
+      ],
+      "seo_keywords": ["claude ship anthropic", "claude ship pull requests", "anthropic ai code review tool", "claude team enterprise claude ship"],
+      "sources": [
+        {"title": "Anthropic unveils Claude Ship (ZDNET via Techmeme)", "url": "https://www.techmeme.com/261123/p41#a261123p41"},
+        {"title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes", "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"},
+        {"title": "Anthropic launches new Claude Ship feature for builders", "url": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/"}
+      ],
+      "notes_for_writer": "Clarify Code Review is generally available while PR Steward and Claude Approvals are beta-only, Claude Team/Enterprise-only — don't imply it's available to all Claude users."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c29", "c36"],
+      "working_title": "iPhone 18e leaks: redesigned camera, early-2027 launch window",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "Two independent leak threads landed the same day — Engadget's camera-plateau redesign report and GSMArena's roundup pointing to an 'affordable-first' early-2027 push (iPhone 18e, new iPad, MacBook Neo) — giving Memeburn enough to consolidate what's actually been leaked vs. guessed.",
+      "angle": "Pull the camera redesign, timing, and price-tier signals into one clear 'here's what we actually know' piece for anyone deciding whether to wait for the 18e instead of buying an iPhone 16e/SE now.",
+      "format": "explainer",
+      "est_words": 1500,
+      "headline_options": [
+        "iPhone 18e Leaks: New Camera Design, Early 2027 Launch Window",
+        "Everything Leaked About the iPhone 18e So Far",
+        "Should You Wait for the iPhone 18e? Here's What's Leaked"
+      ],
+      "seo_keywords": ["iphone 18e", "iphone 18e release date", "iphone 18e camera", "iphone 18e leak", "iphone se replacement 2027"],
+      "sources": [
+        {"title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau", "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/"},
+        {"title": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo", "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTFWaG9RZmIwaWtrY2gzMXNSQW05dkgyd0dsQzF3MWpUM0ZxYk1SeXJYaGVtakV5a1RSTmlYZjUweTg3WmN2b0ZjMDdjRS1fZTZrRmxkWlNXdmxHU2tWekF5UnZ0V3R2aHFuaWViQXlMdTBlZFJPaVVOeGFNWkNDRzJQMWg1d3ZLWWFCVXAyZkxVQUVlQ1A2bXVVWjFsU1BvQXF5Q2E3dDFyYkV3VnJXRlY5Ukx4QjM1TXZNNW9sczNIWEo1LXlYRtIBxAFBVV95cUxQaGVDcmNtZjMyQ3ZldTdFR0xNMFJxSnZjSnhOLUdUMnRtSlM2dTBGUVdMWV9QeEkzX052WGNPeUZOV3FlTDFfZWdwWnJJV29MNFEybm0wZ2xJR283bU9tYnRvRnotQTdLaUtKd1FoVllyNnZwenBBb1JvYmVYTE54X2xmRlZVMGRHV2RnQlI3VkVISlVaXzFLczBpclVfMHl1a1NOZkt0YzhPMmN4WGhhRy1razM5T3BfY3AteUR4bGNmb0t4?oc=5"}
+      ],
+      "notes_for_writer": "Label everything as leak/rumor, not confirmed — Apple hasn't said anything officially. Cite GSMArena and Engadget by name in the body."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c37"],
+      "working_title": "OnePlus quietly exits the US market — what current owners should know",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 69,
+      "why_now": "Android Authority reports OnePlus's US website has been stripped down with all products removed following a market exit — a single source so far, but a direct hit to anyone who owns or was about to buy a OnePlus phone in the US.",
+      "angle": "Skip speculation about why and focus on the practical reader questions: will existing OnePlus phones still get updates and warranty service, where to buy accessories now, and what this means for anyone about to buy one.",
+      "format": "explainer",
+      "est_words": 1200,
+      "headline_options": [
+        "OnePlus Just Exited the US Market — What Current Owners Need to Know",
+        "Why OnePlus's US Website Just Went Dark",
+        "Is OnePlus Done Selling Phones in the US?"
+      ],
+      "seo_keywords": ["oneplus leaving us market", "oneplus us website down", "oneplus warranty us", "is oneplus still available in us"],
+      "sources": [
+        {"title": "OnePlus strips its US website down to bare bones following market exit", "url": "https://www.androidauthority.com/oneplus-us-website-3738551/"}
+      ],
+      "notes_for_writer": "Single-sourced so far — try to confirm with OnePlus directly or find a second outlet before publishing; note clearly if OnePlus hasn't issued an official statement yet."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c13"],
+      "working_title": "A single tap can drain your crypto wallet on an unpatched iPhone",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "CoinDesk and Cointelegraph both detail the MoldyRoost campaign: 480+ ad domains across 47+ countries, with researchers stating that just loading the landing page on a vulnerable iPhone (iOS 18 or earlier) is enough to get infected. The US is among the affected countries — exactly the practical 'is this safe / how do I protect myself' search pattern that performs for Memeburn.",
+      "angle": "Make it a straight protect-yourself piece: who's at risk (anyone on iOS 18 or earlier who taps the wrong ad), what the exploit actually steals (wallet seed phrases from notes/photos), and the concrete fixes — update iOS, stop storing seed phrases as screenshots, use a hardware wallet.",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "This iPhone Ad Scam Can Steal Your Crypto With One Tap",
+        "MoldyRoost: The iPhone Malvertising Campaign Draining Crypto Wallets",
+        "Is Your iPhone Safe From MoldyRoost? What to Check Right Now"
+      ],
+      "seo_keywords": ["moldyroost iphone", "iphone crypto wallet hack", "iphone malvertising crypto", "protect crypto wallet iphone"],
+      "sources": [
+        {"title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds", "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows"},
+        {"title": "'MoldyRoost' ads can steal crypto wallet recovery phrases from iPhones", "url": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "Confirmed via source read: exploit targets iOS 18 and earlier (not the latest iOS); heaviest targeting is Hong Kong/Japan/Singapore but US users are also affected — don't overstate US-specific risk, but the fix (update iOS, don't screenshot seed phrases) applies to every reader."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c03"],
+      "working_title": "Kodak's $35 SlideTag vs. Apple's AirTag: is the photo-frame gimmick worth it?",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 66,
+      "why_now": "Engadget, Android Authority and 9to5Mac all covered Kodak's SlideTag launch the same day — a $35 Bluetooth tracker compatible with both Find My and Android's network that doubles as a tiny E-Ink photo frame, a genuinely novel twist on the AirTag category.",
+      "angle": "Run it as a direct comparison against a standard AirTag: price, tracking network compatibility, battery, and whether the photo-frame feature is a real selling point or a blind-box gimmick.",
+      "format": "comparison",
+      "est_words": 1800,
+      "headline_options": [
+        "Kodak SlideTag vs. AirTag: Is the $35 Photo Frame Gimmick Worth It?",
+        "Kodak's New AirTag Rival Doubles as a Tiny Photo Frame",
+        "SlideTag vs. AirTag: Price, Tracking, and Battery Compared"
+      ],
+      "seo_keywords": ["kodak slidetag", "kodak slidetag vs airtag", "kodak slidetag price", "airtag alternative with screen", "best airtag alternative 2026"],
+      "sources": [
+        {"title": "Kodak's SlideTag combines a digital photo frame and an AirTag", "url": "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/"},
+        {"title": "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos", "url": "https://9to5mac.com/2026/11/23/kodak-slidetag-e-ink-iphone-tracker-airtag/"},
+        {"title": "Kodak's SlideTag is a Find Hub tracker that doubles as a tiny E-Ink photo frame", "url": "https://www.androidauthority.com/kodak-slidetag-launch-3738400/"}
+      ],
+      "notes_for_writer": "Confirm the current AirTag price at time of writing for a fair comparison; note it ships in a 'blind box' with nine random designs, which is worth flagging as a quirk."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c17"],
+      "working_title": "Apple Pay's four new features, explained",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "9to5Mac reports Apple rolled out four new Apple Pay features plus a wider expansion the same day — a direct, practical update for the hundreds of millions of US iPhone users who already use Apple Pay.",
+      "angle": "Skip the generic recap and walk through exactly what's new and how to turn each feature on — a service piece, not a press-release rewrite.",
+      "format": "explainer",
+      "est_words": 1100,
+      "headline_options": [
+        "Apple Pay's 4 New Features, Explained",
+        "What's New in Apple Pay This Week — and How to Turn It On",
+        "Apple Pay Just Got 4 Upgrades: Here's What Changed"
+      ],
+      "seo_keywords": ["apple pay new features", "apple pay update", "how to use new apple pay features", "apple pay 2026"],
+      "sources": [
+        {"title": "Apple Pay just got even better with four new features and more", "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/"}
+      ],
+      "notes_for_writer": "Single-sourced — cross-check specifics against Apple's own newsroom/support page before publishing, per the sourcing SOP."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c27"],
+      "working_title": "Samsung may be moving the Galaxy Watch to a two-year release cycle",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 57,
+      "why_now": "GSMArena reports Samsung could shift the Galaxy Watch to a two-year launch cadence — a single-source rumor so far, but one with real shelf life given recurring 'next Galaxy Watch' search interest.",
+      "angle": "Frame it clearly as an early rumor, explain why a slower cycle would make sense (software-only updates in off years, matching Apple Watch's slower hardware pace), and what it means for anyone deciding whether to buy this year's model.",
+      "format": "explainer",
+      "est_words": 1200,
+      "headline_options": [
+        "Samsung May Slow the Galaxy Watch Down to a Two-Year Cycle",
+        "Galaxy Watch Rumor: Is Samsung Ditching Yearly Upgrades?",
+        "Should You Wait Longer Between Galaxy Watch Upgrades? Samsung Might Make You"
+      ],
+      "seo_keywords": ["galaxy watch two year cycle", "samsung galaxy watch rumor", "next galaxy watch release", "galaxy watch 9 rumors"],
+      "sources": [
+        {"title": "Samsung may shift Galaxy Watch to a two-year launch cycle", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjNRd21VTVcyd1JCREZ2TnBvbGM2Z1BtWEhDQ3RpNmtzR2RlbTJyZUpPbVBxTE04QVVlTjUzVlh3NWc1aG0zVHMwS3FZaEVXdHpJbzJwb3MzNTI5M0pnQ3N2MkVES1RyaUtFcTZwT3VNTzR6eDhaZnE2UVBZZzRtLXRWU3NqbDFGcEliMXVKQXIxSy1nNVU4cHllMnfSAZgBQVVfeXFMTTd3QmJHSll6RkprZ1R6REdPUUhTTElmOTRuVmpObGRmNTVpRTJCLTM4R1p2NnE3X0Z3c2VYbUtVOHNoaHBTVmJOLTNQNWRwaDZwSmdNOV9CMkpWVzNFR1hiUjgyZGt4cHhaNnFna3I2UUNhalg2MUx1VnVqZG9sMXRXVUJBQnFqT1NuVHJYSkpPVGZ4LUl6ZV8?oc=5"}
+      ],
+      "notes_for_writer": "Single-sourced rumor — label clearly as unconfirmed; don't speculate on specific model names or dates beyond what GSMArena reports."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c34"],
+      "working_title": "Motorola's new Edge 70 Neo packs a 7,000 mAh battery",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "GSMArena reports Motorola officially launched the Edge 70 Neo with a 7,000 mAh battery and 144Hz display — strong 'best battery life phone' search appeal, though it's a single source so far and US availability isn't yet confirmed.",
+      "angle": "Lead with the battery and refresh-rate numbers as the hook, but confirm US launch/pricing before publishing — if it's not coming to the US, reframe as a global-market spec story rather than implying US buyers can get it.",
+      "format": "news",
+      "est_words": 900,
+      "headline_options": [
+        "Motorola's New Edge 70 Neo Has a Massive 7,000 mAh Battery",
+        "Motorola Edge 70 Neo: Huge Battery, 144Hz Screen — Is It Coming to the US?"
+      ],
+      "seo_keywords": ["motorola edge 70 neo", "motorola edge 70 neo specs", "best battery life phone 2026"],
+      "sources": [
+        {"title": "Motorola Edge 70 Neo is here with a 7,000 mAh battery and 144Hz screen", "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEZSRGdQSGo1Ym5maV9EMHd3eGRYclNKSTdZNjJsX0NNS1FkZW5VV0RYWXFVR1lCN2lOeHhwNGYwUExremtwalpsa18xeDBGaTdtVEdBWkplWS1XQmItYzVPZWlDVWF5VC16b1RMSzZJTG1UMm1saWk3YjNma3RiTFd2U1gxclVSS0IzUHdqSk95UXY0QVJZekk2V0hxbzByUUdEODRxZU9Ebkk?oc=5"}
+      ],
+      "notes_for_writer": "Confirm US availability and USD pricing before publishing — today's source doesn't specify a US launch; don't state a price unless an official US price is confirmed."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c32"],
+      "working_title": "YouTube's retro TV app icon may be coming back to iOS",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "9to5Google found evidence of customizable app icons, including the old retro-TV design, inside a new YouTube update — real nostalgia-driven search interest even though it's unreleased.",
+      "angle": "Quick, practical piece: what icons have been spotted, how customizable icons typically roll out (server-side flip), and how to check if you have it yet.",
+      "format": "news",
+      "est_words": 800,
+      "headline_options": [
+        "YouTube's Classic Retro Icon May Be Making a Comeback on iOS",
+        "YouTube Is Testing Customizable App Icons, Including the Old Retro TV Design"
+      ],
+      "seo_keywords": ["youtube old icon ios", "youtube custom app icons", "youtube retro icon back"],
+      "sources": [
+        {"title": "YouTube's iconic iOS app icon may soon return with new customizable icons [Gallery]", "url": "https://9to5google.com/2026/11/23/youtube-custom-icons-ios-tv-return/"}
+      ],
+      "notes_for_writer": "Feature hasn't rolled out publicly yet — frame as spotted-in-development, not available now."
+    }
+  ],
+  "watchlist": [
+    "Binance-linked hackers moved $247M through transactions obscuring the money's path; US prosecutors are trying to recover $1.1B in total stolen funds — could grow into a bigger story if recovery/charges land.",
+    "Bitcoin briefly traded at $17,000 on Kraken's Canadian-dollar market during a flash dislocation, and the trades are standing — worth revisiting if other exchanges report similar gaps.",
+    "Google Search's AI Mode now pulls from Drive and Wallet for personalized answers — a quiet but significant rollout, worth watching for user/privacy reaction.",
+    "GTA VI Xbox build files allegedly leaked by hacking gang CyberLeek, including a port-enabling executable — huge potential search volume if confirmed, but needs independent verification first."
+  ],
+  "upcoming": [
+    {"date": "2026-11-27", "event": "Black Friday (Cyber Monday follows Nov 30)", "prep_idea": "Start drafting the phone/accessory Black Friday deal roundup now — AirTag-style trackers, Android/iPhone deals — confirm real prices day-of per the no-invented-numbers rule."}
+  ]
+}
