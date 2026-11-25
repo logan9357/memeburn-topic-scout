@@ -1,95 +1,5 @@
 [
   {
-    "brief_date": "2026-11-10",
-    "rank": 1,
-    "working_title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 81,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 2,
-    "working_title": "Leak: Samsung's Galaxy AI Is Going Partly Paid With a New Premium Tier",
-    "category": "phone",
-    "urgency": "today",
-    "format": "comparison",
-    "score": 79,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 3,
-    "working_title": "Apple's New $50 'Intelligence Usage Packs' Let You Buy More AI When You Hit Your Cap",
-    "category": "tech",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 73,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 4,
-    "working_title": "Leak: iPhone 18 and 18e Will Reportedly Share the Same Screen and Battery Size",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "comparison",
-    "score": 71,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 5,
-    "working_title": "Samsung Is Reportedly Putting 70% of Galaxy S27 Production Into the Ultra and Pro",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "comparison",
-    "score": 70,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 6,
-    "working_title": "Meta Releases Muse Ember, a Small AI Model Built for Everyday Agent Tasks",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 68,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 7,
-    "working_title": "GSMArena Announces Finalists for Its 2026 End-of-Year Phone Awards",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "listicle",
-    "score": 67,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 8,
-    "working_title": "Leak: One UI 9.5 Adds 'Shorten' and 'Translate' Shortcuts to Samsung Keyboard",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 59,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-10",
-    "rank": 9,
-    "working_title": "This MagSafe Wallet Is Built for People Who Still Carry Cash",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "review-roundup",
-    "score": 59,
-    "published": false
-  },
-  {
     "brief_date": "2026-11-11",
     "rank": 1,
     "working_title": "Anthropic Prices Its IPO at $70-78/Share, Targeting a $1.4 Trillion Valuation",
@@ -527,12 +437,7 @@
     "urgency": "evergreen",
     "format": "how-to",
     "score": 56,
-    "published": true,
-    "article_url": "https://memeburn.com/motorola-razr-50-ultra-gets-android-17-in-europe/",
-    "article_title": "Motorola Razr 50 Ultra Gets Android 17 in Europe",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 85.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-14",
@@ -607,12 +512,7 @@
     "urgency": "today",
     "format": "news",
     "score": 76,
-    "published": true,
-    "article_url": "https://memeburn.com/bitcoin-fourth-capitulation/",
-    "article_title": "Bitcoin’s September Buyers Are Now Its Sellers. Inside the Fourth Capitulation Wave Since the Record High",
-    "author": "Vincee Cole",
-    "hours_to_publish": 66.5,
-    "pageviews": 104.0
+    "published": false
   },
   {
     "brief_date": "2026-11-15",
@@ -648,10 +548,10 @@
     "format": "comparison",
     "score": 64,
     "published": true,
-    "article_url": "https://memeburn.com/motorola-signature-27-camera-the-action-sensor-didnt-stop-the-blur/",
-    "article_title": "Motorola Signature 27 Camera: The Action Sensor Didn’t Stop the Blur DXOMARK Found",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 189.5,
+    "article_url": "https://memeburn.com/galaxy-a27-5g-vs-motorola-edge-70-neo/",
+    "article_title": "Galaxy A27 5G vs Motorola Edge 70 Neo: Motorola Packs 40% More Battery, Samsung Keeps the Ultrawide and the Updates",
+    "author": "Vincee Cole",
+    "hours_to_publish": 234.2,
     "pageviews": null
   },
   {
@@ -707,12 +607,7 @@
     "urgency": "today",
     "format": "news",
     "score": 84,
-    "published": true,
-    "article_url": "https://memeburn.com/vulcans-first-failure-cost-amazon-40-leo-satellites/",
-    "article_title": "Vulcan’s First Failure Cost Amazon 40 Leo Satellites and Grounded the Rocket It Needed Most",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 29.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-16",
@@ -722,12 +617,7 @@
     "urgency": "today",
     "format": "news",
     "score": 80,
-    "published": true,
-    "article_url": "https://memeburn.com/why-nvidia-cant-easily-replace-jensen-huang-as-ceo/",
-    "article_title": "Why Nvidia Can’t Easily Replace Jensen Huang as CEO",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 33.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-16",
@@ -747,12 +637,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 77,
-    "published": true,
-    "article_url": "https://memeburn.com/apples-smart-glasses-will-debut-at-wwdc-2027/",
-    "article_title": "Apple’s Smart Glasses Will Debut at WWDC 2027, but Siri Will Decide When They Ship",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 25.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-16",
@@ -777,12 +662,7 @@
     "urgency": "today",
     "format": "news",
     "score": 68,
-    "published": true,
-    "article_url": "https://memeburn.com/anthropics-ipo-is-7x-oversubscribed-but-its-record-depends-on-26-billion/",
-    "article_title": "Anthropic’s IPO Is 7x Oversubscribed, but Its Record Depends on $26 Billion From Its Own Suppliers",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 21.5,
-    "pageviews": 739.0
+    "published": false
   },
   {
     "brief_date": "2026-11-16",
@@ -1537,7 +1417,12 @@
     "urgency": "today",
     "format": "news",
     "score": 68,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/tesla-fsd-v15-reality-view/",
+    "article_title": "Tesla’s FSD v15 Draws Your Street With AI Video Instead of a Game Engine",
+    "author": "Vincee Cole",
+    "hours_to_publish": 42.3,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-23",
@@ -1567,6 +1452,111 @@
     "urgency": "evergreen",
     "format": "how-to",
     "score": 62,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 1,
+    "working_title": "Jensen Huang is Nvidia's CEO again — what changed in 48 hours",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 88,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 2,
+    "working_title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests",
+    "category": "ai",
+    "urgency": "today",
+    "format": "news",
+    "score": 71,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 3,
+    "working_title": "iPhone 18e leaks: redesigned camera, early-2027 launch window",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 70,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 4,
+    "working_title": "OnePlus quietly exits the US market — what current owners should know",
+    "category": "phone",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 69,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 5,
+    "working_title": "A single tap can drain your crypto wallet on an unpatched iPhone",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 68,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 6,
+    "working_title": "Kodak's $35 SlideTag vs. Apple's AirTag: is the photo-frame gimmick worth it?",
+    "category": "phone",
+    "urgency": "today",
+    "format": "comparison",
+    "score": 66,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 7,
+    "working_title": "Apple Pay's four new features, explained",
+    "category": "phone",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 58,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 8,
+    "working_title": "Samsung may be moving the Galaxy Watch to a two-year release cycle",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 57,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 9,
+    "working_title": "Motorola's new Edge 70 Neo packs a 7,000 mAh battery",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 56,
+    "published": true,
+    "article_url": "https://memeburn.com/galaxy-a27-5g-vs-motorola-edge-70-neo/",
+    "article_title": "Galaxy A27 5G vs Motorola Edge 70 Neo: Motorola Packs 40% More Battery, Samsung Keeps the Ultrawide and the Updates",
+    "author": "Vincee Cole",
+    "hours_to_publish": 18.2,
+    "pageviews": null
+  },
+  {
+    "brief_date": "2026-11-24",
+    "rank": 10,
+    "working_title": "YouTube's retro TV app icon may be coming back to iOS",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 55,
     "published": false
   }
 ]

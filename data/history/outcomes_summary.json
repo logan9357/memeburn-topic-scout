@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-24T00:54:42.757240+00:00",
-  "topics_suggested": 137,
-  "topics_published": 40,
+  "generated_at": "2026-11-25T00:58:19.135564+00:00",
+  "topics_suggested": 138,
+  "topics_published": 36,
   "by_category": {
     "ai": {
-      "suggested": 34,
-      "published": 18,
-      "pickup_rate": 0.53,
-      "avg_pageviews": 542
+      "suggested": 33,
+      "published": 16,
+      "pickup_rate": 0.48,
+      "avg_pageviews": 344
     },
     "phone": {
-      "suggested": 55,
+      "suggested": 56,
       "published": 9,
+      "pickup_rate": 0.16,
+      "avg_pageviews": null
+    },
+    "crypto": {
+      "suggested": 19,
+      "published": 3,
       "pickup_rate": 0.16,
       "avg_pageviews": null
     },
     "tech": {
       "suggested": 30,
-      "published": 9,
-      "pickup_rate": 0.3,
+      "published": 8,
+      "pickup_rate": 0.27,
       "avg_pageviews": null
-    },
-    "crypto": {
-      "suggested": 18,
-      "published": 4,
-      "pickup_rate": 0.22,
-      "avg_pageviews": 104
     }
   },
   "by_format": {
-    "news": {
-      "suggested": 59,
-      "published": 21,
-      "pickup_rate": 0.36,
-      "avg_pageviews": 422
-    },
-    "comparison": {
-      "suggested": 12,
-      "published": 3,
-      "pickup_rate": 0.25,
-      "avg_pageviews": null
-    },
     "explainer": {
-      "suggested": 41,
-      "published": 9,
-      "pickup_rate": 0.22,
+      "suggested": 45,
+      "published": 8,
+      "pickup_rate": 0.18,
       "avg_pageviews": 344
     },
+    "comparison": {
+      "suggested": 10,
+      "published": 3,
+      "pickup_rate": 0.3,
+      "avg_pageviews": null
+    },
+    "news": {
+      "suggested": 60,
+      "published": 19,
+      "pickup_rate": 0.32,
+      "avg_pageviews": null
+    },
     "listicle": {
-      "suggested": 7,
+      "suggested": 6,
       "published": 4,
-      "pickup_rate": 0.57,
+      "pickup_rate": 0.67,
       "avg_pageviews": null
     },
     "review-roundup": {
-      "suggested": 2,
+      "suggested": 1,
       "published": 0,
       "pickup_rate": 0.0,
       "avg_pageviews": null
     },
     "how-to": {
       "suggested": 16,
-      "published": 3,
-      "pickup_rate": 0.19,
+      "published": 2,
+      "pickup_rate": 0.12,
       "avg_pageviews": null
     }
   }

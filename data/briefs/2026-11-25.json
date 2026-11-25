@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-25",
+  "language": "en",
+  "summary": "AI/crypto market jitters dominate today — Anthropic's stock cracked below its $83 IPO price for the first time and dragged crypto back down with it — while phone coverage leans on a fresh three-way Motorola comparison plus a cluster of practical Galaxy/Android Auto bug fixes and Black Friday-season deal angles. Phone's share is lighter than the usual 70% target because today's phone wires were mostly thin spec-leak filler; the net was widened to bugs, deals and one new comparison rather than forcing weak picks.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c29"],
+      "working_title": "Motorola Signature 27 vs Galaxy A55 vs OnePlus 12R: Which Mid-Ranger Wins",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 78,
+      "why_now": "GSMArena published a fresh 3-way spec comparison today; the Signature 27 already has confirmed US pre-orders per Memeburn's own Nov 19 coverage, and comparison pieces are Memeburn's best-performing format (~1,900 avg pageviews, 60% pickup over the last 14 days).",
+      "angle": "A genuinely new matchup — Memeburn has already scored the Signature 27's camera and run it against the Pixel 11 Pro, but not against these two mid-range rivals. Use the same verdict-first, quantified-winner pattern (battery/charging, camera, price-per-feature) and link back to the earlier Signature 27 pieces.",
+      "format": "comparison",
+      "est_words": 1700,
+      "headline_options": ["Motorola Signature 27 vs Galaxy A55 vs OnePlus 12R: Which Mid-Ranger Wins", "Signature 27, Galaxy A55, or OnePlus 12R: Here's the One Worth Your Money"],
+      "seo_keywords": ["motorola signature 27 vs galaxy a55", "motorola signature 27 vs oneplus 12r", "best mid-range phone 2026"],
+      "sources": [
+        {"title": "Compare Motorola Signature 27 vs. Samsung Galaxy A55 vs. OnePlus 12R - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR1lHeE5fRk8tX3l4dlpoNXE1S1NBc2l0em9nbWF4aHMxVWJ4TFJqd0lQTmNfcGhHel92dFJJQWZZSjJEQkJqYUJraGVQSk1YVldJX1AzemhPbUFQbmE4czQ2TUlKV2hPV2xFZzI1N05OS2JOLUJycm43YXd2SGFiZ21PRDliaUtOVEE?oc=5"},
+        {"title": "First Motorola Signature 27 European listing brings great news - GSMArena.com news", "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWNmbVpVM1YzLWxOd0JTb3R3T0ZwNVBwU1VROUJ3WkJhOVg2a2RVTk5YYVphSDRESXRtcWtFUnBCZ0tjbWhnR2J6Yk85VVppTFNZMWZxeGxIVE1VSDNoa2lKNV9NYkFfYXRyUFFBeHJCMkgzcExWUDZfZEltMmttWXhXYW1rTURyS0Q2aWtEWENOQ082Mm9CbWo3b1VzVDZBYlZlUnJZcFF4dVgycjFtdXduMTF6ZzZCOHfSAbYBQVVfeXFMUExqR01meTdLc2ZEdm1VVU1mT3h3M1htZmExTTZSV0hyT2pXNTFSU3lUZ01VWEs2ZkhXbG9aSUhoelFMaFFMaGpIZEVsT1dfSVQ4eXBDc2N4VFZ4UXA4NDN0a1Y2dE04TXRwbElQUzFsSGVvQk1QaGNNTVZRNU90WF92S2N3OS1OTUU2cVJrWVVDbloyaGM5TERlN2NIQ09KSi1wZ1JiaW02aXNWQWNhN3hvOVlQdkE?oc=5"}
+      ],
+      "notes_for_writer": "Verify exact specs/pricing directly on GSMArena's spec pages and Motorola's own site before publishing — the Google News links above are aggregator redirects. Link back to Memeburn's existing Signature 27 camera review and the Signature 27 vs Pixel 11 Pro piece."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c07"],
+      "working_title": "Anthropic Stock Falls Below Its $83 IPO Price for the First Time",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 76,
+      "why_now": "330-point Hacker News thread (655 comments) plus Bloomberg, TechCrunch and Cointelegraph all report Anthropic (ANT) trading below $76 — the first time it has dropped under its $83 IPO price since its Nov 19 debut, when it closed at $97.17.",
+      "angle": "Memeburn has already covered the IPO pricing, the debut pop, and the founders' paper gains — this is the new chapter: the pop has fully reversed. Frame it as 'what erased the gain' and 'what it means for other AI IPOs in the pipeline,' linking back to the earlier Anthropic pieces.",
+      "format": "news",
+      "est_words": 1100,
+      "headline_options": ["Anthropic Stock Falls Below Its $83 IPO Price for the First Time", "Anthropic's IPO Pop Is Gone: Shares Now Below Their Debut Price"],
+      "seo_keywords": ["anthropic stock price", "anthropic ipo price", "ant stock below ipo"],
+      "sources": [
+        {"title": "Anthropic breaks below $83 IPO price", "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"},
+        {"title": "Anthropic shares fall below IPO price, a worrying sign for AI startups", "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"}
+      ],
+      "notes_for_writer": "Confirm the live price directly via Nasdaq/Anthropic IR before publishing — the premarket figure may move by the time this runs. Link to Memeburn's 'Anthropic Priced Its IPO at $83,' 'Anthropic's Nasdaq Debut,' and 'Anthropic's Founders Sold at $83' pieces for context."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c06"],
+      "working_title": "CIA, ODNI and NGA Confirm a Breach Tied to the AI Tool Artex",
+      "category": "tech",
+      "urgency": "breaking",
+      "traffic_potential": "medium",
+      "score": 72,
+      "why_now": "The New York Times broke the story within hours (via Techmeme) and Cointelegraph independently confirmed it — a breach touching three major US intelligence agencies tied to an AI tool is a significant, fast-developing story.",
+      "angle": "Focus on what's confirmed (unclassified info exposed, Artex implicated) versus what's still unverified — fresh territory for Memeburn's AI-security beat, distinct from Anthropic's own 'Siren' agent-safety research out today.",
+      "format": "news",
+      "est_words": 900,
+      "headline_options": ["CIA, ODNI and NGA Confirm a Breach Tied to the AI Tool Artex", "A US Intelligence Breach Is Linked to an AI Tool Called Artex — Here's What's Known"],
+      "seo_keywords": ["CIA breach Artex", "ODNI NGA hack AI tool"],
+      "sources": [
+        {"title": "Sources: the CIA, ODNI, and NGA found a breach of an open-source intelligence system (New York Times)", "url": "https://www.techmeme.com/261124/p33#a261124p33"},
+        {"title": "Hackers breach CIA intelligence network in latest US cyberattack", "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "The NYT original is likely paywalled — lean on Cointelegraph's summary and any agency statements; flag single/thin-sourced claims explicitly rather than stating them as confirmed fact."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c48"],
+      "working_title": "Walmart Drops Apple Pay From Its App and Website",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "9to5Mac reports Walmart has quietly removed Apple Pay support just weeks after adding it — directly affects US iPhone shoppers heading into Black Friday week.",
+      "angle": "Practical 'what to use instead' piece for Walmart shoppers (Walmart Pay, cards, other wallets), with the twist that Walmart only added Apple Pay support a few weeks ago.",
+      "format": "news",
+      "est_words": 600,
+      "headline_options": ["Walmart Drops Apple Pay From Its App and Website", "Can't Use Apple Pay at Walmart Anymore? Here's What Changed"],
+      "seo_keywords": ["walmart apple pay removed", "does walmart accept apple pay 2026"],
+      "sources": [
+        {"title": "Walmart drops Apple Pay support from its app and website", "url": "https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/"}
+      ],
+      "notes_for_writer": "Single-sourced — verify directly by checking the Walmart app/website checkout options before publishing, and note whether in-store NFC Apple Pay is also affected or just online/app checkout."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c14"],
+      "working_title": "Walmart Brings Black Friday Deals to Meta's AI Agent Muse",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 68,
+      "why_now": "TechCrunch, Engadget and 9to5Mac all covered this within the day; it lands two days before Black Friday itself, giving it a real, current shopping-season hook.",
+      "angle": "Explain how to actually use Muse to shop Walmart's Black Friday deals, and flag the parallel UK safety-debate context around Muse as a 'things to know first' caveat.",
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": ["Walmart Brings Black Friday Deals to Meta's AI Agent Muse", "How to Shop Walmart's Black Friday Deals With Meta's Muse AI"],
+      "seo_keywords": ["walmart muse black friday", "meta muse ai shopping"],
+      "sources": [
+        {"title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse", "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"},
+        {"title": "Meta is bringing Muse to Instagram", "url": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/"}
+      ],
+      "notes_for_writer": "Good candidate to cross-link with any Memeburn Black Friday deals roundup once published."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c04", "c05", "c53"],
+      "working_title": "Why Bitcoin and Crypto Are Falling Again, Even After the Nvidia Rally",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "CoinDesk and Cointelegraph report Bitcoin back under $60K as the rally from Jensen Huang's Nvidia reinstatement fades, CoinGecko's trending list shows Monad down 18.6% and most top-10 coins down 2-6% in 24h, and 21Shares is on record blaming weak demand and forced liquidations — a new leg down from the $2.4B liquidation event Memeburn already covered Nov 23.",
+      "angle": "Update the 'crypto keeps moving with Nvidia/AI stocks' story Memeburn has been running — the new fact is that the Nvidia-driven bounce already reversed within 24 hours, and name the broader basket of coins (not just Bitcoin) that fell. No price predictions.",
+      "format": "explainer",
+      "est_words": 900,
+      "headline_options": ["Why Bitcoin and Crypto Are Falling Again, Even After the Nvidia Rally", "Bitcoin Back Under $60K as Its Nvidia Bounce Fades"],
+      "seo_keywords": ["why is bitcoin down today", "bitcoin price today", "crypto market selloff november 2026"],
+      "sources": [
+        {"title": "Bitcoin falls below $60,000 as rally on Jensen Huang's Nvidia return fades", "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades"},
+        {"title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares", "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"},
+        {"title": "Bitcoin (BTC) trending on CoinGecko (-2.8% 24h)", "url": "https://www.coingecko.com/en/coins/bitcoin"}
+      ],
+      "notes_for_writer": "Link back to Memeburn's 'Crypto Traders Lost $2.4 Billion' (Nov 23) and 'Bitcoin dips below $63K' (Nov 22) pieces as the prior chapters; lead with what's new (the reversal), not a repeat of the liquidation event."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c52"],
+      "working_title": "AirTag 2: The Two Upgrades That Actually Matter",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "9to5Mac's hands-on notes AirTag 2 is now $18 (down from $29) — a concrete price point worth flagging during Black Friday week, with two specific, named improvements over the original.",
+      "angle": "Verdict-first buying-guide angle: is AirTag 2 worth it over the original at today's price? Compare directly to the original AirTag spec-for-spec.",
+      "format": "comparison",
+      "est_words": 900,
+      "headline_options": ["AirTag 2: The Two Upgrades That Actually Matter", "Is AirTag 2 Worth It at $18? Here's What Changed"],
+      "seo_keywords": ["airtag 2 vs airtag", "airtag 2 price", "is airtag 2 worth it"],
+      "sources": [
+        {"title": "AirTag 2 has two big improvements that make it worth the upgrade", "url": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/"}
+      ],
+      "notes_for_writer": "Single-sourced (9to5Mac's own hands-on) — verify the $18 price directly on Apple's or a retailer's current listing since Black Friday pricing shifts fast; don't claim Memeburn 'tested' it unless actually done."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c32"],
+      "working_title": "Google Photos Is Forcing Some Galaxy Users to Save Every Edit as a Copy",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "Android Authority reproduced the bug directly on a Galaxy S23 FE today — a concrete, currently-active annoyance for Galaxy owners.",
+      "angle": "Practical 'is this happening to you, and how to work around it' piece — confirm which Galaxy models are affected and whether Google has acknowledged it.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["Google Photos Is Forcing Some Galaxy Users to Save Every Edit as a Copy", "Why Google Photos Keeps Duplicating Your Edited Galaxy Photos"],
+      "seo_keywords": ["google photos save as copy bug", "galaxy google photos duplicate edits"],
+      "sources": [
+        {"title": "Google Photos is forcing some Galaxy users to save every minor edit as a copy", "url": "https://www.androidauthority.com/google-photos-galaxy-save-as-copy-bug-3739074/"}
+      ],
+      "notes_for_writer": "Single-sourced — check Google's support forums/Reddit for user reports confirming scope before publishing, and note if Google has responded."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c49"],
+      "working_title": "Android Auto Bug Is Turning Google Maps Into a Black Screen",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 57,
+      "why_now": "Android Authority reports drivers currently hitting a black screen instead of Maps in Android Auto — an active, practical problem for anyone driving today.",
+      "angle": "Fast, factual 'is this happening to you, what to try' piece — any known workaround and whether Google has acknowledged the bug.",
+      "format": "explainer",
+      "est_words": 500,
+      "headline_options": ["Android Auto Bug Is Turning Google Maps Into a Black Screen", "Google Maps Black Screen in Android Auto? Here's What to Try"],
+      "seo_keywords": ["android auto google maps black screen", "android auto maps not working"],
+      "sources": [
+        {"title": "Android Auto bug is turning Google Maps into a black screen", "url": "https://www.androidauthority.com/android-auto-google-maps-black-screen-3739042/"}
+      ],
+      "notes_for_writer": "Single-sourced — check Google's Android Auto help forum/support channels for an official acknowledgment or fix timeline before publishing."
+    }
+  ],
+  "watchlist": [
+    "Jensen Huang pardon talk and Nvidia fallout — Trump floating a pardon and equity stake, bipartisan DC backlash building; still mostly political, watch for a genuinely new tech-business angle before covering.",
+    "Tidal's AI-generated music purge — ban takes effect Dec 9 (29M tracks); worth its own piece closer to that date.",
+    "DOJ's push to recover $1.1B from the Binance hack tied to North Korea — still moving through the courts.",
+    "TikTok's recurring outages — down again today after several outages in recent weeks; worth a dedicated piece if it recurs or lasts longer."
+  ],
+  "upcoming": [
+    {"date": "2026-11-27", "event": "Black Friday / Cyber Monday", "prep_idea": "Start a phone/accessory Black Friday deal roundup now — today's crawl already has two confirmed anchors (Walmart's Muse-powered deals, Amazon's ~$50-off Apple TV offer)."}
+  ]
+}
