@@ -1,100 +1,5 @@
 [
   {
-    "brief_date": "2026-11-11",
-    "rank": 1,
-    "working_title": "Anthropic Prices Its IPO at $70-78/Share, Targeting a $1.4 Trillion Valuation",
-    "category": "ai",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 86,
-    "published": true,
-    "article_url": "https://memeburn.com/anthropic-ipo-priced-83/",
-    "article_title": "Anthropic Priced Its IPO at $83. Here’s What the Extra $5 a Share Bought, and Where $1.5 Trillion Comes From",
-    "author": "Vincee Cole",
-    "hours_to_publish": 238.3,
-    "pageviews": null
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 2,
-    "working_title": "Google's Pixel Tag, Its $30 Answer to Apple's AirTag, Is Now Available",
-    "category": "phone",
-    "urgency": "today",
-    "format": "comparison",
-    "score": 79,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 3,
-    "working_title": "Oura Is Buying AI Health Startup Counsel Health for $625M",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 69,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 4,
-    "working_title": "Everything New in Google's November Pixel Drop",
-    "category": "phone",
-    "urgency": "today",
-    "format": "listicle",
-    "score": 67,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 5,
-    "working_title": "Samsung's Gallery App Now Officially Syncs Photos to Your Google Storage",
-    "category": "phone",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 64,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 6,
-    "working_title": "Citigroup, Goldman Sachs and 19 Other Banks Commit $270M to a Stablecoin Venture",
-    "category": "crypto",
-    "urgency": "today",
-    "format": "news",
-    "score": 63,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 7,
-    "working_title": "Samsung Is Prepping Its Galaxy Wearable App Ahead of a Smart Glasses Debut",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 61,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 8,
-    "working_title": "Google Details Everything New in Android 17 QPR2",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 59,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-11",
-    "rank": 9,
-    "working_title": "Apple Just Released New AirPods Pro 3 Firmware",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 56,
-    "published": false
-  },
-  {
     "brief_date": "2026-11-12",
     "rank": 1,
     "working_title": "Nvidia's Board Is Reportedly Preparing to Oust Jensen Huang",
@@ -103,10 +8,10 @@
     "format": "news",
     "score": 88,
     "published": true,
-    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
+    "article_url": "https://memeburn.com/jensen-huang-reinstated-nvidia-ceo/",
+    "article_title": "Jensen Huang Is Back, and Nvidia Won $952 Billion in a Day. Here Are 5 Problems His Return Doesn’t Touch",
     "author": "Vincee Cole",
-    "hours_to_publish": 186.5,
+    "hours_to_publish": 314.2,
     "pageviews": null
   },
   {
@@ -617,7 +522,12 @@
     "urgency": "today",
     "format": "news",
     "score": 80,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/jensen-huang-reinstated-nvidia-ceo/",
+    "article_title": "Jensen Huang Is Back, and Nvidia Won $952 Billion in a Day. Here Are 5 Problems His Return Doesn’t Touch",
+    "author": "Vincee Cole",
+    "hours_to_publish": 218.2,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-16",
@@ -728,10 +638,10 @@
     "format": "news",
     "score": 78,
     "published": true,
-    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
+    "article_url": "https://memeburn.com/jensen-huang-reinstated-nvidia-ceo/",
+    "article_title": "Jensen Huang Is Back, and Nvidia Won $952 Billion in a Day. Here Are 5 Problems His Return Doesn’t Touch",
     "author": "Vincee Cole",
-    "hours_to_publish": 66.5,
+    "hours_to_publish": 194.2,
     "pageviews": null
   },
   {
@@ -797,12 +707,7 @@
     "urgency": "today",
     "format": "news",
     "score": 64,
-    "published": true,
-    "article_url": "https://memeburn.com/lighter-exploit-without-being-hacked/",
-    "article_title": "A Crypto Exchange Lost $10.4 Million Without Being Hacked. A Trader’s Homemade Code Was the Weak Link",
-    "author": "Vincee Cole",
-    "hours_to_publish": 29.3,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-17",
@@ -822,12 +727,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 62,
-    "published": true,
-    "article_url": "https://memeburn.com/fully-automated-ai-cyberattack/",
-    "article_title": "Google Says Fully Automated AI Cyberattacks Have Already Started. Your Next Software Update Just Got More Urgent",
-    "author": "Vincee Cole",
-    "hours_to_publish": 25.3,
-    "pageviews": 344.0
+    "published": false
   },
   {
     "brief_date": "2026-11-17",
@@ -847,12 +747,7 @@
     "urgency": "today",
     "format": "how-to",
     "score": 59,
-    "published": true,
-    "article_url": "https://memeburn.com/instagram-amazon-affiliate-links-reels/",
-    "article_title": "How Creators Can Add Amazon Affiliate Links to Instagram Reels",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 38.2,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-17",
@@ -872,12 +767,7 @@
     "urgency": "evergreen",
     "format": "news",
     "score": 58,
-    "published": true,
-    "article_url": "https://memeburn.com/t-mobile-prepaid-plans-t-select/",
-    "article_title": "T-Mobile Is Reportedly Building $20-a-Month Prepaid Plans",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 40.2,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-18",
@@ -1432,7 +1322,12 @@
     "urgency": "today",
     "format": "explainer",
     "score": 68,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/kraken-bitcoin-crash-17k/",
+    "article_title": "Bitcoin Briefly Crashed to $17K on Kraken. Here’s What Actually Happened",
+    "author": "Vincee Cole",
+    "hours_to_publish": 46.3,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-23",
@@ -1557,6 +1452,96 @@
     "urgency": "today",
     "format": "news",
     "score": 55,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 1,
+    "working_title": "Motorola Signature 27 vs Galaxy A55 vs OnePlus 12R: Which Mid-Ranger Wins",
+    "category": "phone",
+    "urgency": "today",
+    "format": "comparison",
+    "score": 78,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 2,
+    "working_title": "Anthropic Stock Falls Below Its $83 IPO Price for the First Time",
+    "category": "ai",
+    "urgency": "today",
+    "format": "news",
+    "score": 76,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 3,
+    "working_title": "CIA, ODNI and NGA Confirm a Breach Tied to the AI Tool Artex",
+    "category": "tech",
+    "urgency": "breaking",
+    "format": "news",
+    "score": 72,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 4,
+    "working_title": "Walmart Drops Apple Pay From Its App and Website",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 70,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 5,
+    "working_title": "Walmart Brings Black Friday Deals to Meta's AI Agent Muse",
+    "category": "ai",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 68,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 6,
+    "working_title": "Why Bitcoin and Crypto Are Falling Again, Even After the Nvidia Rally",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 64,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 7,
+    "working_title": "AirTag 2: The Two Upgrades That Actually Matter",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "comparison",
+    "score": 62,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 8,
+    "working_title": "Google Photos Is Forcing Some Galaxy Users to Save Every Edit as a Copy",
+    "category": "phone",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 58,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-25",
+    "rank": 9,
+    "working_title": "Android Auto Bug Is Turning Google Maps Into a Black Screen",
+    "category": "phone",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 57,
     "published": false
   }
 ]

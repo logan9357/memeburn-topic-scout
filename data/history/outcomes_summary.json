@@ -1,18 +1,12 @@
 {
-  "generated_at": "2026-11-25T00:58:19.135564+00:00",
+  "generated_at": "2026-11-26T00:58:06.456876+00:00",
   "topics_suggested": 138,
-  "topics_published": 36,
+  "topics_published": 33,
   "by_category": {
     "ai": {
       "suggested": 33,
-      "published": 16,
-      "pickup_rate": 0.48,
-      "avg_pageviews": 344
-    },
-    "phone": {
-      "suggested": 56,
-      "published": 9,
-      "pickup_rate": 0.16,
+      "published": 15,
+      "pickup_rate": 0.45,
       "avg_pageviews": null
     },
     "crypto": {
@@ -21,36 +15,36 @@
       "pickup_rate": 0.16,
       "avg_pageviews": null
     },
-    "tech": {
-      "suggested": 30,
+    "phone": {
+      "suggested": 55,
       "published": 8,
-      "pickup_rate": 0.27,
+      "pickup_rate": 0.15,
+      "avg_pageviews": null
+    },
+    "tech": {
+      "suggested": 31,
+      "published": 7,
+      "pickup_rate": 0.23,
       "avg_pageviews": null
     }
   },
   "by_format": {
-    "explainer": {
-      "suggested": 45,
-      "published": 8,
-      "pickup_rate": 0.18,
-      "avg_pageviews": 344
-    },
-    "comparison": {
-      "suggested": 10,
-      "published": 3,
+    "news": {
+      "suggested": 60,
+      "published": 18,
       "pickup_rate": 0.3,
       "avg_pageviews": null
     },
-    "news": {
-      "suggested": 60,
-      "published": 19,
-      "pickup_rate": 0.32,
+    "explainer": {
+      "suggested": 45,
+      "published": 7,
+      "pickup_rate": 0.16,
       "avg_pageviews": null
     },
-    "listicle": {
-      "suggested": 6,
-      "published": 4,
-      "pickup_rate": 0.67,
+    "comparison": {
+      "suggested": 11,
+      "published": 3,
+      "pickup_rate": 0.27,
       "avg_pageviews": null
     },
     "review-roundup": {
@@ -61,8 +55,14 @@
     },
     "how-to": {
       "suggested": 16,
-      "published": 2,
-      "pickup_rate": 0.12,
+      "published": 1,
+      "pickup_rate": 0.06,
+      "avg_pageviews": null
+    },
+    "listicle": {
+      "suggested": 5,
+      "published": 4,
+      "pickup_rate": 0.8,
       "avg_pageviews": null
     }
   }

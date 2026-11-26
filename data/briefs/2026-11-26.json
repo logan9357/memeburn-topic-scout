@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-26",
+  "language": "en",
+  "summary": "SpaceX's FCC-approved million-satellite AI data center plan and the 42-state AG fight over Character.AI's data auction are today's clearest gaps — both multi-outlet, nothing on Memeburn yet. Phone wires are unusually thin today (mostly rehashed GSMArena spec-compare stubs and an EU-only Motorola pre-order), so phone's share (4/10) leans on a WhatsApp feature roundup, Apple's (PRODUCT)RED accessory lineup, a Black Friday-eve charging deal, and a dictation-app update rather than forcing weak filler to hit the usual 70% target. Nothing cleared the ~2h bar for 'breaking' today. Reddit crawl failed (403) but coverage elsewhere is unaffected. Black Friday lands tomorrow (Nov 27) — flagged in upcoming.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c04"],
+      "working_title": "FCC Approves SpaceX's Plan to Put Up to 1 Million AI Data Center Satellites in Orbit",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 80,
+      "why_now": "The Verge, TechCrunch and Cointelegraph all covered the FCC's approval within hours of each other; it's the first such approval granted to any company (Google and Blue Origin are also pursuing orbital AI data centers), and Memeburn has no coverage yet.",
+      "angle": "Explain what 'Starmind' actually is (AI-chip-equipped satellites processing data in orbit for use on Earth), why companies want data centers in space (power/cooling), and what the FCC dismissed from opponents' concerns — a clear 'what it is and why now' explainer rather than a repeat of the press release.",
+      "format": "news",
+      "est_words": 1100,
+      "headline_options": ["FCC Approves SpaceX's Plan to Put 1 Million AI Data Centers in Space", "SpaceX's Starmind Satellites Just Got FCC Approval — Here's What That Means"],
+      "seo_keywords": ["spacex starmind", "spacex ai data centers space", "fcc spacex satellites approval"],
+      "sources": [
+        {"title": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space", "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"},
+        {"title": "FCC approves SpaceX plan to put AI data centers in space", "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"}
+      ],
+      "notes_for_writer": "Note that Google and Blue Origin are pursuing similar orbital data-center concepts — worth a one-line comparison. Flag that the FCC dismissed some opponents' concerns (scientific research impact) only because they fell outside its regulatory authority, not because they were resolved."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c02", "c21", "c44"],
+      "working_title": "WhatsApp's 3 New Features: Scheduled Messages, Sound Stickers, and Travel eSIMs",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "high",
+      "score": 76,
+      "why_now": "WhatsApp shipped message scheduling (confirmed by 6 outlets within hours) the same week it's testing sound-reactive stickers and building travel-eSIM tools — three genuinely new, highly-requested features landing close together, each with real 'how do I use this' search intent.",
+      "angle": "Lead with scheduling (the most requested, most widely covered) — who gets it, how to set it up, that messages send even if your phone is off — then cover stickers-with-sound and the in-development eSIM tools as what's coming next.",
+      "format": "explainer",
+      "est_words": 900,
+      "headline_options": ["How to Schedule a WhatsApp Message (and 2 Other New Features to Try)", "WhatsApp Just Added Scheduled Messages, Sound Stickers, and More"],
+      "seo_keywords": ["how to schedule whatsapp message", "whatsapp stickers with sound", "whatsapp esim feature"],
+      "sources": [
+        {"title": "WhatsApp now lets you schedule messages in group and individual chats", "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/"},
+        {"title": "WhatsApp is testing stickers with sound", "url": "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/"},
+        {"title": "WhatsApp preps travel eSIM discovery, installation, and management tools", "url": "https://www.androidauthority.com/whatsapp-travel-esim-3739505/"}
+      ],
+      "notes_for_writer": "Scheduling is rolling out now and confirmed; stickers-with-sound and eSIM tools are still in testing/development — label those two clearly as 'coming soon,' not available today."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c03"],
+      "working_title": "42 State AGs Fight Character.AI's Plan to Auction Off 21 Million Users' Private Chats",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 73,
+      "why_now": "TechCrunch and Engadget both report a coalition of 42 state attorneys general opposing Character.AI's bankruptcy-sale plan to auction off data from 21M+ US accounts, including 2.1M+ registered to minors — a significant privacy story with no Memeburn coverage yet.",
+      "angle": "Frame it as 'what happens to your private AI chats when the company goes bankrupt' — explain the bankruptcy-auction mechanism, what data is at stake, and why the AGs say it lacks user protections, especially for minors.",
+      "format": "news",
+      "est_words": 1000,
+      "headline_options": ["42 State AGs Fight Character.AI's Plan to Auction Off Users' Private Chats", "Character.AI Wants to Sell Your Chat History in Bankruptcy — States Are Pushing Back"],
+      "seo_keywords": ["character ai data auction", "character ai bankruptcy data sale", "character ai privacy lawsuit"],
+      "sources": [
+        {"title": "Character.AI's plan to auction off users' private chats challenged by state AGs", "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"},
+        {"title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories", "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/"}
+      ],
+      "notes_for_writer": "This is still an active legal fight, not a resolved outcome — don't state the auction is blocked, only that it's being challenged. Handle the minors angle carefully and factually."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c01"],
+      "working_title": "1Password and Todoist Both Confirm Data Breaches: What You Need to Know",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "1Password (names/emails taken via a compromised employee GitHub account) and Todoist (6% of customers' details, including password hashes) both disclosed breaches the same day, confirmed across The Verge, TechCrunch and 9to5Mac.",
+      "angle": "Practical, fast: what was and wasn't exposed at each company (1Password's vaults were not accessed; Todoist's password hashes were), and concrete steps affected users should take (watch for phishing, rotate passwords where relevant).",
+      "format": "news",
+      "est_words": 800,
+      "headline_options": ["1Password Breach Exposed Names and Emails — Here's What to Do", "1Password and Todoist Confirm Data Breaches: What Was Taken"],
+      "seo_keywords": ["1password data breach", "is 1password safe", "todoist data breach"],
+      "sources": [
+        {"title": "1Password breach leaked customer names and emails, but not passwords", "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"},
+        {"title": "1Password said hackers broke into its internal systems, but customer passwords are safe", "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"},
+        {"title": "Todoist confirms 6% of customers' details were stolen in data breach", "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"}
+      ],
+      "notes_for_writer": "Keep the two breaches clearly separated in the piece — different companies, different scope of exposure. Confirm current guidance directly on each company's own security-incident page before publishing."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c11"],
+      "working_title": "New York Bans AI Chatbot Toys for 5 Years, Starting in February",
+      "category": "ai",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 65,
+      "why_now": "Gov. Hochul signed the ban (effective February) following California's four-year ban in September, and TechCrunch ties it to new Common Sense Media research on safety failures — timely given holiday toy-shopping season.",
+      "angle": "Practical holiday-shopping angle: which states ban AI chatbot toys and when, what the safety concerns actually are, and what to check before buying a 'smart' toy this Christmas.",
+      "format": "explainer",
+      "est_words": 700,
+      "headline_options": ["New York Bans AI Chatbot Toys for 5 Years, Starting in February", "Thinking of Buying an AI Toy This Christmas? Check Your State First"],
+      "seo_keywords": ["ai chatbot toy ban new york", "are ai toys safe for kids", "ai toys banned 2026"],
+      "sources": [
+        {"title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September", "url": "https://www.techmeme.com/261125/p37#a261125p37"},
+        {"title": "Want to buy your kid an AI toy this Christmas? Not in New York", "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"}
+      ],
+      "notes_for_writer": "Only NY and CA bans are confirmed so far — don't imply a nationwide ban. Cite the Common Sense Media findings TechCrunch references rather than restating them as Memeburn's own finding."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c20"],
+      "working_title": "Apple's (PRODUCT)RED HomePod mini 2 and AirPods Max 2 Are Coming Soon",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 62,
+      "why_now": "GSMArena and 9to5Mac both report new red colorway versions of the HomePod mini 2 and AirPods Max 2 are imminent — a concrete, buyable-soon accessory story heading into the holiday gift-buying window.",
+      "angle": "Buying-guide framing: what's changing (color only, or other specs?), expected timing, and whether it's worth waiting for the red version versus buying the current colors now during Black Friday sales.",
+      "format": "news",
+      "est_words": 600,
+      "headline_options": ["Apple's (PRODUCT)RED HomePod mini 2 and AirPods Max 2 Are Coming Soon", "Want a Red AirPods Max 2? Here's When It's Expected"],
+      "seo_keywords": ["product red airpods max 2", "red homepod mini 2", "apple product red 2026"],
+      "sources": [
+        {"title": "Apple to launch (Product) Red versions of HomePod mini 2, AirPods Max 2 soon - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3lRUnpsdDdWX1dWdGV0eHVvXzFHMlA0TGpubHQ4VWdxSF8xSkhsRjYzeVZJdEF2Nm52MEdlSHNpanpNSWl6VFYzdVBIN1NwNEdqdEd1cWVYUE9CeVItT2poY094YjJGY1dFM193aElydlJPZks1VVRaU1o4V0ZveHdfbUVKQ0w4TG5fTWxiWW5vQXlmWGZWUUVQblBJV3VuR2dXc2Ixa1k2UXE3OWxJV2lNU1VrVzDSAbMBQVVfeXFMTU1FRkg1SkZMM3Z6QTVxbndrcHB3cFR3WU0yVm5NSm1wOHdmaVA5MmlYUXdlQWdvN2RrUXd4SDFNUS1BUmJ2YTE0NUVCYTVwNGdMOEFiWVJfRTFkZndfLVk0ckNBODd6NTNlbXR6LUhBQWJaUTZlUjU5c2tZWi1rZmc2SHJaalR1X2dVSVBwcEtyNXhYWUt5NEpXaUhaNm1fdjNrbjJ6QjNFMzl0c2k4b1pEc2s?oc=5"},
+        {"title": "9to5Mac Daily: November 24, 2026 – Apple Product(RED) gear is coming soon", "url": "https://9to5mac.com/2026/11/24/daily-november-24-2026/"}
+      ],
+      "notes_for_writer": "No official Apple date or price yet — verify directly on apple.com before publishing and don't state a launch date beyond 'soon' unless confirmed."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c57"],
+      "working_title": "Anker's 2-in-1 MagSafe Charging Stand Is 35% Off Ahead of Black Friday",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "A live, time-sensitive Amazon deal on Anker's MagGo Qi2 stand landing the day before Black Friday — deal-roundup content is Memeburn's validated strongest seasonal format right now.",
+      "angle": "Quick deal callout: what the stand does (charges iPhone + earbuds together, tilts for StandBy mode), the savings, and a nod that more Black Friday deals are coming.",
+      "format": "news",
+      "est_words": 500,
+      "headline_options": ["Anker's 2-in-1 MagSafe Charging Stand Is 35% Off Ahead of Black Friday", "Save on This Qi2 Charging Stand for iPhone and AirPods Before Black Friday"],
+      "seo_keywords": ["anker maggo deal", "qi2 charging stand black friday deal", "best iphone charging stand deal"],
+      "sources": [
+        {"title": "Anker's MagGo 2-in-1 Qi2 charging stand is 35% off on Amazon", "url": "https://www.androidauthority.com/anker-maggo-2-in-1-qi2-stand-deal-3739435/"}
+      ],
+      "notes_for_writer": "Single-sourced — verify the live price and discount percentage on Amazon at time of publishing since Black Friday-week pricing shifts fast; use affiliate link per standard practice."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c23"],
+      "working_title": "Why Is Bitcoin Down? Spot ETF Outflows Just Hit a Record $4.71 Billion",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "CoinDesk and Cointelegraph both report November US spot Bitcoin ETF outflows hit a record (near $5B), exceeding June's prior record — a classic high-search-intent 'why is bitcoin down' moment.",
+      "angle": "Explain the outflow number in plain terms, what's driving it (per Cointelegraph's reporting), and set it in context against the broader market without making price predictions.",
+      "format": "explainer",
+      "est_words": 800,
+      "headline_options": ["Why Is Bitcoin Down? Spot ETF Outflows Just Hit a Record", "Bitcoin ETFs See Record $4.71 Billion in November Outflows"],
+      "seo_keywords": ["why is bitcoin down today", "bitcoin etf outflows november 2026", "bitcoin price today"],
+      "sources": [
+        {"title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion", "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"},
+        {"title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout", "url": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "No price predictions or investment advice. Note the two sources cite slightly different totals ($4.71B vs. near-$5B) — attribute each figure to its source rather than picking one as definitive."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c14"],
+      "working_title": "Huawei Found Guilty of Conspiracy to Steal Trade Secrets, US Jury Rules",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "A US jury returned a guilty verdict in the long-running (since 2019) trade-secrets case against Huawei, confirmed by Engadget and GSMArena.",
+      "angle": "Short, factual news piece: what the jury found, the case's 2019 origins, and what happens next (sentencing/appeal), without speculating on broader US-China trade implications beyond what's sourced.",
+      "format": "news",
+      "est_words": 600,
+      "headline_options": ["Huawei Found Guilty of Conspiracy to Steal Trade Secrets, US Jury Rules", "US Jury Convicts Huawei in Trade Secrets Case Dating Back to 2019"],
+      "seo_keywords": ["huawei trade secrets verdict", "huawei guilty us jury", "huawei lawsuit 2026"],
+      "sources": [
+        {"title": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules", "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/"},
+        {"title": "US court finds Huawei guilty of stealing trade secrets - GSMArena.com news", "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzRDeEVGaE5pbnloU1ZNWXpSWHVuMDYxN2V5VkdPOEl2bHRDWU85Nm92TzRsOWlHMG9Cc0ttd2JTaS0tOWJ4MGFpcFNSdzVnMTlCQWhCTkE3d2JCRTh5VEFlMHJITHcweVpyaWRwalJiWXViMDk2bFROaDN2TjhwSnpjWWJucEJDZUk2NjBDd3FYOWFQN1poVXVR0gGWAUFVX3lxTFBYcDZfSzBQbEhOVXE5ckg2eHVhQnljaWVRTEVTN3ZlU0VhV01MbFBack5MNU5jXzVwZlVVVDIyNnJCWUw5eGVCa0gzdHFEQU4xYldnN25ycF95UEhZZkJKTTVpZTdoMEs5Z0lBcUxoZkNhZ284RGZRVV9XZHZjLU9ZQ0ZGTnl0dEw0NmZTeFFiUlZNc2dpUQ?oc=5"}
+      ],
+      "notes_for_writer": "Confirm sentencing/next-steps timeline hasn't been set yet before publishing; avoid editorializing on US-China trade policy beyond the verdict itself."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c28"],
+      "working_title": "Wispr Flow's New Canto-2 Model Improves iPhone and Mac Dictation Accuracy",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 53,
+      "why_now": "9to5Mac reports Wispr Flow, a popular AI dictation app, rolled out a new speech-to-text model promising fewer errors and better name/technical-term recognition across Mac, iPhone and other platforms.",
+      "angle": "Practical 'what's actually better' piece — what Canto-2 improves over the prior model, which platforms have it now, and whether it's worth trying for anyone frustrated with Siri dictation or the stock keyboard mic.",
+      "format": "news",
+      "est_words": 600,
+      "headline_options": ["Wispr Flow's New Model Promises Better iPhone and Mac Dictation", "This AI Dictation App Just Got Smarter at Recognizing Names and Jargon"],
+      "seo_keywords": ["wispr flow canto-2", "best dictation app iphone", "ai dictation accuracy"],
+      "sources": [
+        {"title": "Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model", "url": "https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model/"}
+      ],
+      "notes_for_writer": "Single-sourced — confirm claimed accuracy improvements against Wispr's own blog/changelog rather than restating 9to5Mac's summary as fact."
+    }
+  ],
+  "watchlist": [
+    "Anthropic's Dario Amodei publicly rebuts claims that AI leaders want to hand governance of society to AI — part of a broader AI-control debate; revisit if other AI CEOs respond.",
+    "Jensen Huang/Nvidia governance saga continues — S&P weighing a credit downgrade and reports of Pentagon pressure on Nvidia's board; still mostly political/legal, watch for a concrete new development.",
+    "US chip-export curbs are reportedly stalling billions in Chinese data-center loans tied to ByteDance, Alibaba and Tencent — could grow into a dedicated business story if a specific loan collapse is confirmed.",
+    "Braiins warns of a Bitcoin-mining attack affecting 1,000+ sites — worth a dedicated piece if miner losses are quantified.",
+    "Motorola Signature 27 is now up for EU pre-order (GSMArena) — thin rehash so far; revisit once US pricing/availability is confirmed for a fresh comparison angle."
+  ],
+  "upcoming": [
+    {"date": "2026-11-27", "event": "Black Friday / Cyber Monday", "prep_idea": "Start the phone/accessory Black Friday deal roundup now — today's crawl already has a confirmed anchor (Anker's 35%-off MagGo Qi2 stand) plus Apple TV's $6.99/month Black Friday price mentioned in today's wires."}
+  ]
+}
