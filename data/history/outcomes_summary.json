@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-11-26T00:58:06.456876+00:00",
-  "topics_suggested": 138,
-  "topics_published": 33,
+  "generated_at": "2026-11-27T01:00:36.344317+00:00",
+  "topics_suggested": 139,
+  "topics_published": 29,
   "by_category": {
     "ai": {
       "suggested": 33,
-      "published": 15,
-      "pickup_rate": 0.45,
+      "published": 9,
+      "pickup_rate": 0.27,
+      "avg_pageviews": null
+    },
+    "tech": {
+      "suggested": 34,
+      "published": 7,
+      "pickup_rate": 0.21,
       "avg_pageviews": null
     },
     "crypto": {
@@ -16,41 +22,23 @@
       "avg_pageviews": null
     },
     "phone": {
-      "suggested": 55,
-      "published": 8,
-      "pickup_rate": 0.15,
-      "avg_pageviews": null
-    },
-    "tech": {
-      "suggested": 31,
-      "published": 7,
-      "pickup_rate": 0.23,
+      "suggested": 53,
+      "published": 10,
+      "pickup_rate": 0.19,
       "avg_pageviews": null
     }
   },
   "by_format": {
     "news": {
-      "suggested": 60,
-      "published": 18,
-      "pickup_rate": 0.3,
+      "suggested": 64,
+      "published": 14,
+      "pickup_rate": 0.22,
       "avg_pageviews": null
     },
     "explainer": {
-      "suggested": 45,
-      "published": 7,
-      "pickup_rate": 0.16,
-      "avg_pageviews": null
-    },
-    "comparison": {
-      "suggested": 11,
-      "published": 3,
-      "pickup_rate": 0.27,
-      "avg_pageviews": null
-    },
-    "review-roundup": {
-      "suggested": 1,
-      "published": 0,
-      "pickup_rate": 0.0,
+      "suggested": 44,
+      "published": 6,
+      "pickup_rate": 0.14,
       "avg_pageviews": null
     },
     "how-to": {
@@ -63,6 +51,12 @@
       "suggested": 5,
       "published": 4,
       "pickup_rate": 0.8,
+      "avg_pageviews": null
+    },
+    "comparison": {
+      "suggested": 10,
+      "published": 4,
+      "pickup_rate": 0.4,
       "avg_pageviews": null
     }
   }

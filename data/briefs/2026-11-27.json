@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-27",
+  "language": "en",
+  "summary": "Black Friday itself dominates today's crawl (AirPods Pro 3 at an all-time-low $149, Galaxy S26 FE $200 off) — the sharpest, most time-sensitive traffic opportunity. Phone hardware news is thinner than usual with no major launch, so today's phone share (6/10) leans on deals and software updates rather than new devices; Reddit's r/technology feed also failed to load (403 blocked), so community-buzz signal is a bit thinner than normal today.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c09", "c18", "c37", "c44"],
+      "working_title": "Best Black Friday 2026 tech deals: AirPods Pro 3 at $149, Galaxy S26 FE $200 off",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 84,
+      "why_now": "Black Friday lands today (Nov 27); Engadget, The Verge and Android Authority all posted live deal roundups in the last 24h — AirPods Pro 3 hit an all-time-low $149 (9to5Mac, $100 off), Galaxy S26 FE dropped $200 (Android Authority, -29%). Memeburn has nothing live yet.",
+      "angle": "Lead with the single best-verified deal per category (earbuds, phone, tablet/laptop) instead of a generic 'deals are happening' post, so it ranks for specific price searches people are typing today.",
+      "format": "listicle",
+      "est_words": 2000,
+      "headline_options": [
+        "Best Black Friday 2026 Tech Deals: AirPods Pro 3 Drop to $149, Galaxy S26 FE Gets $200 Off",
+        "Black Friday 2026: The Phone and Gadget Deals Actually Worth Buying Today",
+        "Is It Worth Buying Now? The Best Verified Black Friday Tech Deals So Far"
+      ],
+      "seo_keywords": ["black friday 2026 deals", "airpods pro 3 black friday price", "galaxy s26 fe deal", "best black friday phone deals"],
+      "sources": [
+        {"title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday", "url": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/"},
+        {"title": "The best Black Friday deals we've already found", "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"},
+        {"title": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)", "url": "https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price/"},
+        {"title": "Galaxy S26 FE drops to a record low with $200 off", "url": "https://www.androidauthority.com/galaxy-s26-fe-record-low-deal-3740545/"}
+      ],
+      "notes_for_writer": "Verify live price/stock right before publishing — Black Friday prices move fast. Use amzn.to affiliate links per the usual format."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c02"],
+      "working_title": "GTA VI developers vote against unionizing, 75% to 25%",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 66,
+      "why_now": "The Verge and Engadget both reported within hours of each other: only 25% of 1,544 UK Rockstar workers (93.2% turnout) voted for union recognition. Built-in audience from GTA VI anticipation.",
+      "angle": "Frame around what it means for GTA VI's workplace and development, not labor-law procedure — readers come in for GTA VI, stay for the labor story.",
+      "format": "news",
+      "est_words": 1300,
+      "headline_options": [
+        "GTA VI Developers Vote No on Unionizing — Here's What It Means for the Game",
+        "Rockstar Workers Reject Union Deal, 75% to 25%, as GTA VI Looms"
+      ],
+      "seo_keywords": ["rockstar games union vote", "gta 6 developers union", "rockstar workers union"],
+      "sources": [
+        {"title": "GTA VI developers vote against unionization", "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb"},
+        {"title": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition", "url": "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/"}
+      ],
+      "notes_for_writer": "IWGB says it will keep organizing without formal recognition — worth a line on what happens next."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c01"],
+      "working_title": "OpenAI's billing fix means ChatGPT users hit limits up to 40% faster",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "TechCrunch and The Decoder both covered it within a day: OpenAI admits a billing bug over-discounted usage; the fix means Astra users hit limits 40% faster and Sol users 25% faster, with a one-time reset and free Fast Mode for business users through year-end as an apology.",
+      "angle": "Direct reader-impact piece: what changed, who's affected, and what the apology credit actually gets you — a concrete 'why did my ChatGPT limit drop' explainer for subscribers.",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "OpenAI's Billing Fix Means You'll Hit ChatGPT Limits Up to 40% Faster",
+        "Why Your ChatGPT Usage Limit Just Got Stricter — OpenAI Explains"
+      ],
+      "seo_keywords": ["chatgpt usage limits", "gpt-6.2 astra limits", "openai billing mistake"],
+      "sources": [
+        {"title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work", "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"},
+        {"title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error", "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"}
+      ],
+      "notes_for_writer": "Note this is a routine product/billing story, not a major model launch — keep the angle practical, not hyped."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c05"],
+      "working_title": "Binance fully restores withdrawals, a month after record $6.3B hack",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Techmeme (via Reuters) and Cointelegraph both confirmed today: Binance says its recovery work is complete and withdrawals are fully restored, a month after a record-breaking $6.3B theft.",
+      "angle": "Practical 'can I withdraw now' service piece for affected users, with brief context on what caused the record hack.",
+      "format": "news",
+      "est_words": 1200,
+      "headline_options": [
+        "Binance Fully Restores Withdrawals, One Month After Record $6.3B Hack",
+        "Binance Says Its $6.3B Hack Recovery Is Done — Withdrawals Are Back"
+      ],
+      "seo_keywords": ["binance withdrawals back", "binance hack recovery", "binance $6.3 billion hack"],
+      "sources": [
+        {"title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension", "url": "https://www.techmeme.com/261126/p24#a261126p24"},
+        {"title": "Binance completes withdrawal recovery four weeks after $6.3B hack", "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "Don't speculate on attacker identity beyond what's sourced — UK's FCA DeFi-rules story (same cluster) links North Korea, cite only if quoting that article directly."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c39"],
+      "working_title": "1Password confirms a hack — but says your vault is safe",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 59,
+      "why_now": "Engadget reported today: 1Password confirms it was hacked but says logins and other sensitive vault data were not compromised — a fast-moving breach story with a direct 'am I affected' reader question.",
+      "angle": "Clear, factual 'what happened and are you safe' piece — the outage/breach pattern that performs well. Avoid alarmist framing since the company says vaults are untouched.",
+      "format": "news",
+      "est_words": 1100,
+      "headline_options": [
+        "1Password Confirms a Hack — but Says Your Vault Is Safe",
+        "Is Your 1Password Account Safe? Here's What the Breach Actually Exposed"
+      ],
+      "seo_keywords": ["1password hacked", "is 1password safe", "1password data breach 2026"],
+      "sources": [
+        {"title": "1Password says it was hacked but users' vaults are safe", "url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/"}
+      ],
+      "notes_for_writer": "Single-sourced so far — check for a follow-up/official 1Password blog post before publishing if one surfaces."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c31"],
+      "working_title": "Apple now makes 57% of all US smartphones sold",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "9to5Mac reported today, citing Counterpoint Research: Apple's share of US smartphone shipments rose from 50% to 57% year-over-year in Q3 — the only major maker not declining.",
+      "angle": "Explain why — iPhone 17/18 cycle, Black Friday timing, trade-in programs — framed as 'why is everyone around you getting an iPhone.'",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "Apple Now Makes 57% of All US Smartphones Sold — Here's Why",
+        "Apple's US Market Share Hits 57% While Every Rival Shrinks"
+      ],
+      "seo_keywords": ["apple us smartphone market share", "iphone market share 2026"],
+      "sources": [
+        {"title": "Report: Apple accounted for 57% of US smartphone shipments in Q3", "url": "https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3/"}
+      ],
+      "notes_for_writer": "Single-sourced (Counterpoint Research via 9to5Mac) — cite the research firm by name in the piece."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c08", "c11"],
+      "working_title": "A month with the iPhone Duo: what actually changes about how you use your phone",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 57,
+      "why_now": "TechCrunch's long-term review (today) and 9to5Mac's coverage of the Screens app's new iPhone Duo 'Laptop Mode' this week show the device still generating fresh post-launch content a month after release.",
+      "angle": "Roundup the real-world verdict on daily use, plus standout accessories/software (like Screens' Laptop Mode) worth trying — a benefit-led evergreen piece for anyone still deciding whether to buy.",
+      "format": "explainer",
+      "est_words": 1800,
+      "headline_options": [
+        "A Month With the iPhone Duo: What Actually Changes About How You Use Your Phone",
+        "iPhone Duo, One Month Later: The Habits It Changed and the Apps Worth Trying"
+      ],
+      "seo_keywords": ["iphone duo review", "iphone duo one month", "iphone duo accessories"],
+      "sources": [
+        {"title": "A month with the iPhone Duo has changed how I use my phone", "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"},
+        {"title": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook", "url": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/"}
+      ],
+      "notes_for_writer": "Credit TechCrunch's reviewer's specific anecdotes rather than restating them as Memeburn's own experience."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c43"],
+      "working_title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 57,
+      "why_now": "GSMArena reports the global Xiaomi 17 Ultra has started receiving the HyperOS 4 rollout today — a concrete 'which phones get it, when' software-update story.",
+      "angle": "Standard rollout explainer: what's new in HyperOS 4, which regions/variants are getting it first, how to check for the update.",
+      "format": "news",
+      "est_words": 900,
+      "headline_options": [
+        "Xiaomi 17 Ultra Starts Getting HyperOS 4 Globally — Here's What's New",
+        "Is Your Xiaomi 17 Ultra Getting HyperOS 4 Yet? Here's the Rollout So Far"
+      ],
+      "seo_keywords": ["xiaomi 17 ultra hyperos 4", "hyperos 4 update", "xiaomi 17 ultra update"],
+      "sources": [
+        {"title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4", "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdktBLTREdWs5eG5Ka3hRajc3LXhNNk5qb1BIMV9zUTlrTGt4aDV2dlZRMVlrYzhDcDNSdWF6UE9qYzQwbnBMSVI0d1Y2S0R0VnZhR0M4cFlUQjcwLTlpQlVQc2JNaDliMGZsenJldDlER1dlRWJMeG9mbmtrZUdrTDY0N2E5ZzI1X2JCMWtfU0NzNE3SAY8BQVVfeXFMTzRZN1RjMk5ac1ExTTF0YjB6eE9RRmt2R3FwN0JyaF9PcE1jd2NJZlhUUUpfQmNLUi1hM0Nta2N2YXFrcHMzd0p3eHIyY2k4bzE2Y1RKd1pVMGJLZmNDWmVISHhVdTI4TUJIZjRNWUdjUjF0TkJKQVBZUXl6dmctcmdhTUc3TVdOdThhNVU1dDg?oc=5"}
+      ],
+      "notes_for_writer": "Source is a syndicated GSMArena snippet with no byline/body text — verify rollout details against Xiaomi's own changelog before writing."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c46"],
+      "working_title": "Pixel's November update broke Android Auto's always-on display",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "Android Authority reports today that Pixel users are seeing a broken always-on display in Android Auto following the November update — a fresh, specific bug tied to a recent software rollout.",
+      "angle": "Practical 'is this happening to you too, and what to do' piece — note whether Google has acknowledged it or shipped a fix.",
+      "format": "news",
+      "est_words": 900,
+      "headline_options": [
+        "Pixel's November Update Broke Always-On Display in Android Auto — Here's What We Know",
+        "Android Auto's Always-On Display Is Broken on Pixel Phones After the Latest Update"
+      ],
+      "seo_keywords": ["pixel android auto bug", "android auto always-on display broken", "pixel november update issues"],
+      "sources": [
+        {"title": "Pixel users report broken always-on display in Android Auto after November update", "url": "https://www.androidauthority.com/pixel-android-auto-aod-bug-3740588/"}
+      ],
+      "notes_for_writer": "Single-sourced — check Google's Pixel support forums for confirmation/workarounds before publishing."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c52"],
+      "working_title": "iOS 28 will 'revamp' iPhone notifications, per report",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "9to5Mac reports today that iOS 28 will overhaul the iPhone's notification system, alongside its own coverage this week of iOS 27.3's imminent release and design changes — two live searches readers are already running.",
+      "angle": "Combine what's confirmed for iOS 27.3 (shipping soon) with what's rumored for iOS 28, clearly labeled rumor vs. confirmed.",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "iOS 28 Will 'Revamp' iPhone Notifications — Here's What We Know (and When)",
+        "iOS 27.3 Release Date: Everything Coming to Your iPhone Soon"
+      ],
+      "seo_keywords": ["ios 28 notifications", "ios 27.3 release date", "iphone notification update"],
+      "sources": [
+        {"title": "iOS 28 to 'revamp' iPhone notifications, per report", "url": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/"},
+        {"title": "iOS 27.3 release date: Here's when new iPhone features are coming", "url": "https://9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/"}
+      ],
+      "notes_for_writer": "Keep the iOS 28 section clearly flagged as an early-stage rumor, not a confirmed feature."
+    }
+  ],
+  "watchlist": [
+    "Nvidia's pause on AI chip shipments to Southeast Asia (Malaysia, Singapore, Thailand, Indonesia) — worth a dedicated piece if US export-control fallout widens",
+    "The unproven 'Alice Huang is a Chinese spy' claim tied to the Nvidia Jensen Huang affair scandal — revisit only if there's an official confirmation, not just allegations",
+    "SAP's reported plan to cut 10,000+ jobs (9% of staff) for its AI pivot — watch for an official company announcement",
+    "Congress's bipartisan AI regulation push — slow-moving, revisit if an actual bill gets introduced"
+  ],
+  "upcoming": [
+    {
+      "date": "2026-11-30",
+      "event": "Cyber Monday",
+      "prep_idea": "Start drafting a Cyber Monday deals roundup now, building on today's verified Black Friday prices — refresh with Monday-specific drops closer to the date."
+    }
+  ]
+}

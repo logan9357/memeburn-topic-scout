@@ -1,105 +1,5 @@
 [
   {
-    "brief_date": "2026-11-12",
-    "rank": 1,
-    "working_title": "Nvidia's Board Is Reportedly Preparing to Oust Jensen Huang",
-    "category": "ai",
-    "urgency": "breaking",
-    "format": "news",
-    "score": 88,
-    "published": true,
-    "article_url": "https://memeburn.com/jensen-huang-reinstated-nvidia-ceo/",
-    "article_title": "Jensen Huang Is Back, and Nvidia Won $952 Billion in a Day. Here Are 5 Problems His Return Doesn’t Touch",
-    "author": "Vincee Cole",
-    "hours_to_publish": 314.2,
-    "pageviews": null
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 2,
-    "working_title": "United Airlines Bans AI Agents From Booking Your Flights",
-    "category": "ai",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 77,
-    "published": true,
-    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
-    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
-    "author": "Vincee Cole",
-    "hours_to_publish": 226.4,
-    "pageviews": null
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 3,
-    "working_title": "OKX and ICE's Tokenized-Stock Venue Launches Nov 23 — Despite Pushback From 56 of 62 Companies Targeted",
-    "category": "crypto",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 73,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 4,
-    "working_title": "Binance Warns iPhone Crypto Holders of an Unpatched Security Flaw",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 66,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 5,
-    "working_title": "Rumor: Samsung and Apple Are Both Working on Bigger Wide Foldables",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "comparison",
-    "score": 64,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 6,
-    "working_title": "iPhone Duo One Week Later: Is It the Future, or Not for Everyone?",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "review-roundup",
-    "score": 63,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 7,
-    "working_title": "Samsung Is Reportedly Working on a Phone With an Expandable Display",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 59,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 8,
-    "working_title": "First Look: Nothing's Upcoming Screenless AI-Native Device",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "explainer",
-    "score": 57,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-12",
-    "rank": 9,
-    "working_title": "iCloud+ Has a New Perk in iOS 27 if You Pay for More Storage",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 55,
-    "published": false
-  },
-  {
     "brief_date": "2026-11-13",
     "rank": 1,
     "working_title": "Jensen Huang Resigns as Nvidia CEO Amid Affair Scandal",
@@ -107,12 +7,7 @@
     "urgency": "breaking",
     "format": "news",
     "score": 90,
-    "published": true,
-    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
-    "author": "Vincee Cole",
-    "hours_to_publish": 162.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-13",
@@ -367,12 +262,7 @@
     "urgency": "today",
     "format": "news",
     "score": 92,
-    "published": true,
-    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
-    "author": "Vincee Cole",
-    "hours_to_publish": 114.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-15",
@@ -437,12 +327,7 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 68,
-    "published": true,
-    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
-    "author": "Vincee Cole",
-    "hours_to_publish": 114.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-15",
@@ -453,10 +338,10 @@
     "format": "comparison",
     "score": 64,
     "published": true,
-    "article_url": "https://memeburn.com/galaxy-a27-5g-vs-motorola-edge-70-neo/",
-    "article_title": "Galaxy A27 5G vs Motorola Edge 70 Neo: Motorola Packs 40% More Battery, Samsung Keeps the Ultrawide and the Updates",
-    "author": "Vincee Cole",
-    "hours_to_publish": 234.2,
+    "article_url": "https://memeburn.com/motorola-signature-27-vs-galaxy-a55-vs-oneplus-12r/",
+    "article_title": "Motorola Signature 27 vs Galaxy A55 vs OnePlus 12R: The $1,600 Phone Isn’t the Worst Value Here",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 262.8,
     "pageviews": null
   },
   {
@@ -802,12 +687,7 @@
     "urgency": "today",
     "format": "news",
     "score": 78,
-    "published": true,
-    "article_url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
-    "article_title": "Nvidia’s First Quarter Without Jensen Huang: Record Sales, a China Exit and an SEC Probe",
-    "author": "Vincee Cole",
-    "hours_to_publish": 42.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-18",
@@ -1377,7 +1257,12 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 70,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/iphone-18e-camera-island/",
+    "article_title": "iPhone 18e Camera Island Leak: Apple’s Cheapest iPhone Gets a Bigger Bump, but Still One Lens",
+    "author": "Vincee Cole",
+    "hours_to_publish": 57.8,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-24",
@@ -1462,7 +1347,12 @@
     "urgency": "today",
     "format": "comparison",
     "score": 78,
-    "published": false
+    "published": true,
+    "article_url": "https://memeburn.com/motorola-signature-27-vs-galaxy-a55-vs-oneplus-12r/",
+    "article_title": "Motorola Signature 27 vs Galaxy A55 vs OnePlus 12R: The $1,600 Phone Isn’t the Worst Value Here",
+    "author": "Marko Nguyen",
+    "hours_to_publish": 22.8,
+    "pageviews": null
   },
   {
     "brief_date": "2026-11-25",
@@ -1542,6 +1432,106 @@
     "urgency": "today",
     "format": "explainer",
     "score": 57,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 1,
+    "working_title": "FCC Approves SpaceX's Plan to Put Up to 1 Million AI Data Center Satellites in Orbit",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 80,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 2,
+    "working_title": "WhatsApp's 3 New Features: Scheduled Messages, Sound Stickers, and Travel eSIMs",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 76,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 3,
+    "working_title": "42 State AGs Fight Character.AI's Plan to Auction Off 21 Million Users' Private Chats",
+    "category": "ai",
+    "urgency": "today",
+    "format": "news",
+    "score": 73,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 4,
+    "working_title": "1Password and Todoist Both Confirm Data Breaches: What You Need to Know",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 70,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 5,
+    "working_title": "New York Bans AI Chatbot Toys for 5 Years, Starting in February",
+    "category": "ai",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 65,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 6,
+    "working_title": "Apple's (PRODUCT)RED HomePod mini 2 and AirPods Max 2 Are Coming Soon",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "news",
+    "score": 62,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 7,
+    "working_title": "Anker's 2-in-1 MagSafe Charging Stand Is 35% Off Ahead of Black Friday",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 60,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 8,
+    "working_title": "Why Is Bitcoin Down? Spot ETF Outflows Just Hit a Record $4.71 Billion",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 58,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 9,
+    "working_title": "Huawei Found Guilty of Conspiracy to Steal Trade Secrets, US Jury Rules",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 55,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-26",
+    "rank": 10,
+    "working_title": "Wispr Flow's New Canto-2 Model Improves iPhone and Mac Dictation Accuracy",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 53,
     "published": false
   }
 ]
