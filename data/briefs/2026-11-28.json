@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-28",
+  "language": "en",
+  "summary": "OpenAI's countersuit against Apple over trade secrets is today's biggest cross-beat story, while Black Friday rolls into the weekend with new specific lows (M6 MacBook Pro at $250 off) worth a fresh angle rather than a repeat of this week's roundups. No single story qualifies as breaking today, so the brief leans today/evergreen; Reddit's crawl failed again (403) and the Memeburn WP fetch returned zero posts, so the usual 'already covered' dedupe signal is weaker than normal today — double-check Memeburn's last 3 days manually before publishing the Black Friday pick.",
+  "topics": [
+    {
+      "rank": 1,
+      "candidate_ids": ["c01"],
+      "working_title": "OpenAI countersues Apple over trade secrets — what it means for ChatGPT on iPhone",
+      "category": "ai",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 85,
+      "why_now": "Filed and reported within hours by Techmeme, Engadget, 9to5Mac and The Decoder: OpenAI accuses Apple of trade-secret theft and coercing shared suppliers, escalating Apple's original suit (which called ChatGPT 'rotten to its core'). Memeburn has nothing on this escalation yet.",
+      "angle": "Don't just recap the filing — frame it around what's at stake for readers: OpenAI's reported $300-400 ring-shaped smart speaker (via Jony Ive's io) competing directly with Apple hardware, and whether the fight threatens ChatGPT's current Apple Intelligence integration on iPhone.",
+      "format": "news",
+      "est_words": 1300,
+      "headline_options": [
+        "OpenAI Countersues Apple Over Trade Secrets — What It Means for ChatGPT on Your iPhone",
+        "OpenAI vs. Apple: Inside the Lawsuit That Could Decide ChatGPT's Future on iPhone",
+        "Is Apple's ChatGPT Partnership at Risk? OpenAI Fires Back With Trade-Secret Countersuit"
+      ],
+      "seo_keywords": ["openai apple lawsuit", "openai countersues apple", "chatgpt iphone lawsuit", "openai apple trade secrets"],
+      "sources": [
+        {"title": "OpenAI countersues Apple and accuses it of stealing trade secrets", "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/"},
+        {"title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats; Apple responds", "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"},
+        {"title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers", "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"},
+        {"title": "OpenAI countersues Apple for allegedly stealing trade secrets (Financial Times)", "url": "https://www.techmeme.com/261127/p12#a261127p12"}
+      ],
+      "notes_for_writer": "Don't speculate on the unnamed ex-Apple staffer's identity. Mention OpenAI's reported ring-shaped device ($300-400) as 'reported,' not officially confirmed by OpenAI."
+    },
+    {
+      "rank": 2,
+      "candidate_ids": ["c04"],
+      "working_title": "Black Friday weekend 2026: M6 MacBook Pro hits a new all-time low $250 off",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "high",
+      "score": 83,
+      "why_now": "The Verge, Engadget, Android Authority and three fresh 9to5Mac posts today confirm new all-time lows specifically on the M6 MacBook Pro (from $1,749, $250 off) and Apple Watch Ultra 4 ($649), plus Costco-exclusive discounts — specifics not covered in this week's earlier Black Friday roundups, with Cyber Monday two days out.",
+      "angle": "Lead with today's genuinely new lows (M6 MacBook Pro, Apple Watch Ultra 4, Costco picks) instead of repeating the AirPods Pro 3 $149 deal already covered this week, and flag which categories are worth waiting on for Cyber Monday.",
+      "format": "listicle",
+      "est_words": 2000,
+      "headline_options": [
+        "Black Friday Weekend 2026: M6 MacBook Pro Hits a New All-Time Low, $250 Off",
+        "The Best Apple Deals Still Live This Weekend (MacBook, Apple Watch, AirPods)",
+        "Should You Wait for Cyber Monday? The Apple Deals Worth Buying Right Now"
+      ],
+      "seo_keywords": ["black friday 2026 apple deals", "m6 macbook pro deal", "apple watch ultra 4 deal", "cyber monday 2026"],
+      "sources": [
+        {"title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear", "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"},
+        {"title": "5 Costco Electronics With Deep Discounts For Black Friday 2026", "url": "https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/"},
+        {"title": "Here are the best Apple Watch deals for Black Friday", "url": "https://9to5mac.com/2026/11/27/here-are-the-best-apple-watch-deals-for-black-friday/"},
+        {"title": "Black Friday deals: AirPods Pro 3 $100 off, M6 MacBook Pro now $250 off, M5 Air $400 off", "url": "https://9to5mac.com/2026/11/27/apple-black-friday-deals-airpods-macbook-watch/"}
+      ],
+      "notes_for_writer": "Verify live price/stock right before publishing — prices move fast. Memeburn/this brief already surfaced Black Friday deal roundups on Nov 25 and Nov 27, so lead with what's NEW (MacBook Pro M6, Costco, Apple Watch Ultra 4) rather than repeating AirPods Pro 3."
+    },
+    {
+      "rank": 3,
+      "candidate_ids": ["c08"],
+      "working_title": "iPhone 18 Pro Max vs. Pixel 11 Pro XL: which 2026 flagship actually wins?",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "high",
+      "score": 80,
+      "why_now": "GSMArena's own comparison tool is pitting the iPhone 18 Pro Max against the Pixel 11 Pro XL, and separately the Pixel 11 against the Galaxy S26 and Oppo Reno16 — all three devices are getting fresh spec coverage this week. Comparison is Memeburn's best-performing format by far (1,922 avg pageviews, 60% pickup per the 14-day outcome review).",
+      "angle": "Lead with a scored verdict on camera and battery life specifically (house style: 'X wins N of M rounds'), not a neutral spec dump, using GSMArena's comparison tool as the primary data source.",
+      "format": "comparison",
+      "est_words": 1800,
+      "headline_options": [
+        "iPhone 18 Pro Max vs. Pixel 11 Pro XL: Which 2026 Flagship Camera Actually Wins?",
+        "Pixel 11 Pro XL vs. iPhone 18 Pro Max: Worth the Upgrade?",
+        "Flagship Showdown: iPhone 18 Pro Max vs. Pixel 11 Pro XL, Scored"
+      ],
+      "seo_keywords": ["iphone 18 pro max vs pixel 11 pro xl", "pixel 11 vs galaxy s26", "best flagship phone 2026"],
+      "sources": [
+        {"title": "Apple iPhone 18 Pro Max vs. Google Pixel 11 Pro XL - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNU1ZbDNzSFpwQ21KNXA0Zy1TLVR1UG15cXRUbllXOFVEa3hEQUY1VDFQbDJfRGZWWXZVSXNqYnNZczZhNERqZFAzT3Q0bndNUmExUjdmdHhsUFlkY1ljTFNPcUg1MFVQbW44VlZ1WHU0WmdYUkdtY0QzS1BUR3VwQnFMVm9IM1N5Y2pHVFdjTlFTUTZuRnlBTGw4OUM0TktkdWZSWWVaZTkzdw?oc=5"},
+        {"title": "Compare Google Pixel 11 vs. Oppo Reno16 vs. Samsung Galaxy S26 - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHhRZ2JkOXFITjFyZEE0N1Y4SmFrN25VWHM1SGw4TUtaby1oaDQtdjZDa1dPSUJnWllZdFVsWnRkWDBUSHh5SnJiaWNDWWJIT3IzXy13YlhoYlo0VGdDQnRVQ194TWFjZ2xCYXItYUk2QV9rbE1CY2IzYl9RNVdONWRYS280WmRxTkl3?oc=5"}
+      ],
+      "notes_for_writer": "Pull exact specs/pricing straight from GSMArena's linked comparison tool — don't estimate numbers. Resolve the comparison with a number or a 'worth it if...' conditional per house style, don't leave it open-ended."
+    },
+    {
+      "rank": 4,
+      "candidate_ids": ["c48"],
+      "working_title": "Samsung is holding back 30+ Galaxy AI features for the Galaxy S27",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 70,
+      "why_now": "Android Authority's One UI 9.5 APK teardown found 30+ Galaxy AI features — including a new Vision camera mode, Auto portrait and Gen Video — gated behind a 'Galaxy AI version 20271' check the Galaxy S26 doesn't meet.",
+      "angle": "Give Galaxy S26 owners a clear 'will my phone get this' answer and frame it as the first concrete signal of what's coming next, without stating an Unpacked date Samsung hasn't confirmed.",
+      "format": "explainer",
+      "est_words": 1300,
+      "headline_options": [
+        "Samsung Is Holding Back 30+ Galaxy AI Features for the Galaxy S27 — Here's What Your S26 Is Missing",
+        "Your Galaxy S26 Won't Get These 30+ AI Features. The S27 Will."
+      ],
+      "seo_keywords": ["galaxy s27 ai features", "galaxy ai version 20271", "galaxy s26 missing features", "samsung one ui 9.5"],
+      "sources": [
+        {"title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27", "url": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/"}
+      ],
+      "notes_for_writer": "These are unconfirmed APK teardown findings, not an official Samsung announcement — label as reported/rumored throughout. A rumored January 2027 S27 launch is mentioned in the source but is itself unconfirmed — don't state it as fact."
+    },
+    {
+      "rank": 5,
+      "candidate_ids": ["c14"],
+      "working_title": "NY AG wins $1.37 billion judgment against NovaTech crypto fraud founders",
+      "category": "crypto",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 66,
+      "why_now": "CoinDesk and Cointelegraph both confirmed NY AG Letitia James secured a $1.37B judgment against NovaTech's founders, who defrauded over 200,000 investors — including 11,000 New Yorkers and immigrant families recruited through church groups — of roughly $650M before collapsing in 2023.",
+      "angle": "A consumer-protection explainer: how the scheme worked, who's covered by the ruling, and the practical fraud-pattern lesson for anyone approached with a similar pitch — not investment advice.",
+      "format": "explainer",
+      "est_words": 1200,
+      "headline_options": [
+        "NY AG Wins $1.37 Billion Ruling Against NovaTech Crypto Fraud Founders",
+        "How NovaTech's Founders Scammed 200,000 Investors Out of $650 Million"
+      ],
+      "seo_keywords": ["novatech crypto fraud", "ny ag 1.37 billion judgment", "novatech ponzi scheme", "crypto fraud 2026"],
+      "sources": [
+        {"title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech", "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech"},
+        {"title": "New York AG secures $1.37B court judgment against NovaTech founders", "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"}
+      ],
+      "notes_for_writer": "Frame as a fraud/regulatory story, not investment content — no price predictions. Credit Attorney General Letitia James by name and title."
+    },
+    {
+      "rank": 6,
+      "candidate_ids": ["c06"],
+      "working_title": "Is Allstate down? The outage affecting its app, site and roadside assistance",
+      "category": "tech",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 64,
+      "why_now": "The Wall Street Journal (via Techmeme) and The Verge both reported today that Allstate's app, website and roadside assistance have been down since Nov 23 — landing during one of the year's busiest travel weeks, and following recent outages at Microsoft and JPMorgan Chase.",
+      "angle": "Practical 'is Allstate down, what do I do if I need roadside help right now' service piece — the outage pattern that reliably performs — not speculation on a cause Allstate hasn't given.",
+      "format": "news",
+      "est_words": 1000,
+      "headline_options": [
+        "Allstate's App and Website Have Been Down Since Monday — Here's What to Do",
+        "Is Allstate Down? The Outage Affecting Its App, Site and Roadside Assistance"
+      ],
+      "seo_keywords": ["is allstate down", "allstate outage", "allstate app not working", "allstate roadside assistance"],
+      "sources": [
+        {"title": "US insurance giant Allstate has been suffering an outage since November 23 (Wall Street Journal)", "url": "https://www.techmeme.com/261127/p15#a261127p15"},
+        {"title": "Allstate has been suffering an outage since Monday", "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday"}
+      ],
+      "notes_for_writer": "Allstate hasn't stated a cause — don't speculate about a breach/hack unless a source confirms one. Include a roadside-assistance phone workaround if sourced."
+    },
+    {
+      "rank": 7,
+      "candidate_ids": ["c07"],
+      "working_title": "Samsung's camera app is getting a Siri-style AI 'Vision mode'",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 60,
+      "why_now": "Engadget and Android Authority both report Samsung is building a Siri-style 'Vision mode' and Auto portrait for its camera app, likely bound for the Galaxy S27 — arriving as Apple's own Siri visual-intelligence camera mode in iOS gets attention.",
+      "angle": "Position it as Samsung's answer to Apple's Siri camera mode — a quick 'what AI camera features are coming to your next Galaxy phone' piece with a direct comparison to what iPhone already does.",
+      "format": "explainer",
+      "est_words": 1000,
+      "headline_options": [
+        "Samsung's Camera App Is Getting a Siri-Style AI 'Vision Mode' — Here's What It Does",
+        "Samsung Is Copying Apple's Siri Camera Trick for the Next Galaxy Phone"
+      ],
+      "seo_keywords": ["samsung camera vision mode", "galaxy ai camera features", "samsung auto portrait"],
+      "sources": [
+        {"title": "Samsung is reportedly giving its camera app an AI mode", "url": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/"},
+        {"title": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait", "url": "https://www.androidauthority.com/samsung-one-ui-9-5-camera-vision-mode-auto-portrait-apk-teardown-3740793/"}
+      ],
+      "notes_for_writer": "Unconfirmed/rumored feature from an APK teardown — label clearly as reported, not official. Note overlap with rank 4's pick (same teardown source) — cross-link rather than duplicating content."
+    },
+    {
+      "rank": 8,
+      "candidate_ids": ["c18"],
+      "working_title": "iPhone 18 and iPhone 18e production reportedly delayed again",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 58,
+      "why_now": "GSMArena reports today that iPhone 18 and iPhone 18e production has been delayed again, the latest in a string of supply-chain reports about Apple's 2027 lineup.",
+      "angle": "Direct answer for anyone planning to buy the budget iPhone 18e: what the delay means for timing, and whether today's Black Friday iPhone deals are a better bet in the meantime.",
+      "format": "news",
+      "est_words": 900,
+      "headline_options": [
+        "iPhone 18 and iPhone 18e Production Delayed Again — Here's What We Know",
+        "Planning to Buy the iPhone 18e? It Might Be Delayed Even Longer"
+      ],
+      "seo_keywords": ["iphone 18e release date", "iphone 18e delayed", "iphone 18 production delay"],
+      "sources": [
+        {"title": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEtsS1YwcDgtVVVXazRBODJkcW5aZWNDTWRLYTA1YTI4VDhPLWVoYnFZX1BManJaRjFKMGRDZjM3WFBtZUZBTGUwYXhQR3M5UE1TVWtYRVRBbW0xckNDemsyV1hmejI1MnIzNjRYcUNiNGFscVl0ZUdnVnltVFpZWVBwQ2pBaFdGUWxIQ0paaDZJOXRNV2NCWmU3YjNRajU0WmfSAZ4BQVVfeXFMUENGeUgyalJVYXhJU0h2b3RmNndjQ1pkWERtTl9ueEpFTVV6Y0c2WGpBMzR5eDl4UXlCOHZqWklTZFBIWUxHWTFVUGFtQ3JZb1hSdkNKckpMSXlDUV9ZUW0wdnp4aEFqX2RyV0tRN2tqNDgtdEVkTDVVTXUtTWUyY2tMamR2cnprbDctOG4zSTZpMVhEMTd4NW03VndjWkE?oc=5"}
+      ],
+      "notes_for_writer": "Single-sourced (GSMArena syndication, no byline) — check for a second source or a known Apple supply-chain analyst corroboration before publishing."
+    },
+    {
+      "rank": 9,
+      "candidate_ids": ["c55"],
+      "working_title": "iOS 27.2 has two new CarPlay improvements — here's what's new",
+      "category": "phone",
+      "urgency": "today",
+      "traffic_potential": "medium",
+      "score": 56,
+      "why_now": "9to5Mac details two new CarPlay improvements shipping in iOS 27.2, a concrete 'what's new, is it worth updating' software story.",
+      "angle": "Quick, practical rundown of the two CarPlay changes and how to get them.",
+      "format": "explainer",
+      "est_words": 800,
+      "headline_options": [
+        "iOS 27.2 Has Two New CarPlay Features — Here's What's New",
+        "Update Your iPhone: iOS 27.2's CarPlay Changes, Explained"
+      ],
+      "seo_keywords": ["ios 27.2 carplay", "ios 27.2 features", "ios 27.2 update"],
+      "sources": [
+        {"title": "iOS 27.2 has two CarPlay improvements, here's what's new", "url": "https://9to5mac.com/2026/11/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/"}
+      ],
+      "notes_for_writer": "Per the outcome data, how-to/routine feature walkthroughs underperform — keep this tight and factual rather than a padded step-by-step, and drop it if a bigger story needs the slot."
+    },
+    {
+      "rank": 10,
+      "candidate_ids": ["c50"],
+      "working_title": "Samsung Galaxy A38 benchmark leak confirms its chipset",
+      "category": "phone",
+      "urgency": "evergreen",
+      "traffic_potential": "medium",
+      "score": 55,
+      "why_now": "GSMArena benchmarked the unannounced Samsung Galaxy A38 on Geekbench and published its full spec sheet, confirming its chipset ahead of an expected budget-tier launch.",
+      "angle": "Budget-buyer-focused rundown of what the Galaxy A38 is shaping up to offer, clearly labeled as pre-launch/leaked specs, not an official announcement.",
+      "format": "news",
+      "est_words": 900,
+      "headline_options": [
+        "Samsung Galaxy A38 Benchmark Leak Confirms Its Chipset — Here's What We Know So Far",
+        "What to Expect From the Samsung Galaxy A38, Samsung's Next Budget Phone"
+      ],
+      "seo_keywords": ["samsung galaxy a38 specs", "galaxy a38 release date", "galaxy a38 chipset"],
+      "sources": [
+        {"title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlIwMVVwV0RycEk5N1pPVEZuc2NKTXRWNklMSG9DZ0NSdjJYaHJYR3NzcHRuOWMtMmJvYkJVVVlzdXNNVS0xdHVnOE1ROGM2RFFGZ0FFbVc0YVJWTlVzSEpoOHlKTTFVbXVQMGdOSVAzb1dGWklXWFBBX1RvalNqd0JLbUktWTRQOFBaaEZZck5DaGIwNWxSWEl30gGWAUFVX3lxTE9vVUJuemgyUlJNOXhFdnhjb29keDlpRnVxNE5rdDdqMk5BcjBJcHV1Yllxa0xEMnV2MU5QVElOV0Q1R2VIU1ZSSTdCTkt2MnVqMlUwUjBydk1wbmg5bU43VEVKREY0SnFsdjFFVG9iVWJ1UU1hSnR3MXRsUGNzdUV6OVBwbzhXRXhITjNMUWhHeWRYQjBQZw?oc=5"},
+        {"title": "Samsung Galaxy A38 - Full phone specifications - GSMArena.com", "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RWTVteXcyUXZzeW5sNFdoWUc0cy03Z1VmYnlYMk0zbC1GTGxNS0hUc3EyNHFaQi1LUjBtRXRBMGs5ZG1EclRpUlBLUFBFNFJOSWpKZUZrcGZIeExfNV9BaTF1MHRmaWc?oc=5"}
+      ],
+      "notes_for_writer": "Stick to the Galaxy A38 specifics — the Xiaomi Redmi Note 17/18 Pro spec pages in the same source batch are unrelated devices; don't conflate them in this piece."
+    }
+  ],
+  "watchlist": [
+    "Nvidia's AI chip export crackdown: paused Southeast Asia shipments plus restricted Blackwell chips reportedly traced to a Shanghai data center — worth a dedicated piece if US export-control fallout widens",
+    "State AGs suing SpaceX/xAI over Grok generating child sexual abuse material and revenge porn — revisit once xAI responds or a court acts; needs careful, factual, non-graphic framing if it runs",
+    "The 'is Claude sabotaging ML research tasks' controversy (587-point HN thread, followed by a Techmeme-linked analysis) — revisit if Anthropic responds officially",
+    "US Air Force's Cloud One platform breach (Reuters) — revisit if the Pentagon confirms scope or data exposed",
+    "Verizon in talks to buy fiber operator Fidium for ~$6B (Financial Times) — revisit if the deal is confirmed"
+  ],
+  "upcoming": [
+    {
+      "date": "2026-11-30",
+      "event": "Cyber Monday",
+      "prep_idea": "Draft a Cyber Monday deals roundup building on this week's verified Black Friday prices (M6 MacBook Pro, Apple Watch Ultra 4) — refresh with Monday-specific drops closer to the date."
+    }
+  ]
+}

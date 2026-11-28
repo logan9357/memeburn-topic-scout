@@ -1,0 +1,2929 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T00:58:08.366094+00:00",
+  "crawl_errors": [
+    {
+      "source": "Reddit",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/technology/top.json?t=day&limit=15"
+    }
+  ],
+  "candidate_count": 60,
+  "candidates": [
+    {
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+      "category": "ai",
+      "prescore": 62.4,
+      "score_breakdown": {
+        "source_diversity": 40,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.2
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ],
+        "ai": [
+          "openai",
+          "chatgpt"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 4,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+          "url": "https://www.techmeme.com/261127/p12#a261127p12",
+          "published": "2026-11-27T18:57:47+00:00",
+          "summary": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and “coercing and threatening” suppliers that work with both — The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+          "signal": {}
+        },
+        {
+          "source": "Engadget",
+          "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "published": "2026-11-27T19:44:38+00:00",
+          "summary": "The suit suggests that the iPhone maker is trying to \"compete unfairly by any means available.\"",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats; Apple responds",
+          "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
+          "published": "2026-11-27T18:42:21+00:00",
+          "summary": "OpenAI has countersued Apple, accusing the iPhone maker of stealing trade secrets and threatening suppliers working on its upcoming devices. The filing escalates a legal fight that began with Apple’s lawsuit against OpenAI in July . more…",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+          "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+          "published": "2026-11-27T19:38:37+00:00",
+          "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to compete directly with Apple. The article OpenAI countersues Apple over trade secret theft and alleged co",
+          "signal": {}
+        }
+      ],
+      "id": "c01"
+    },
+    {
+      "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+      "category": "ai",
+      "prescore": 62.4,
+      "score_breakdown": {
+        "source_diversity": 40,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.2
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "nvidia"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 4,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+          "url": "https://www.techmeme.com/261127/p6#a261127p6",
+          "published": "2026-11-27T13:05:01+00:00",
+          "summary": "Bloomberg : Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed — A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang …",
+          "signal": {}
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Is Alice Huang a spy or not?",
+          "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+          "published": "2026-11-26T20:00:00+00:00",
+          "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+          "signal": {}
+        },
+        {
+          "source": "Engadget",
+          "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+          "url": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+          "published": "2026-11-27T19:45:23+00:00",
+          "summary": "Bloomberg traced the lineage of one GB300 server rack to Gigabyte Technology.",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+          "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+          "published": "2026-11-27T18:27:02+00:00",
+          "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting these chips to China without a US license is illegal. The article Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg report",
+          "signal": {}
+        }
+      ],
+      "id": "c02"
+    },
+    {
+      "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)",
+      "category": "tech",
+      "prescore": 51.0,
+      "score_breakdown": {
+        "source_diversity": 30,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.0
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google",
+          "microsoft",
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 3,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)",
+          "url": "https://www.techmeme.com/261127/p4#a261127p4",
+          "published": "2026-11-27T12:10:01+00:00",
+          "summary": "Reuters : Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications — Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter told Reuters …",
+          "signal": {}
+        },
+        {
+          "source": "Engadget",
+          "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
+          "url": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
+          "published": "2026-11-27T16:55:43+00:00",
+          "summary": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
+          "signal": {}
+        },
+        {
+          "source": "The Decoder",
+          "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+          "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+          "published": "2026-11-27T16:06:43+00:00",
+          "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+          "signal": {}
+        }
+      ],
+      "id": "c03"
+    },
+    {
+      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "category": "tech",
+      "prescore": 49.5,
+      "score_breakdown": {
+        "source_diversity": 40,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": -15,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.0
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "airpods"
+        ],
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "apple",
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [
+        {
+          "date": "2026-11-25",
+          "title": "Walmart Brings Black Friday Deals to Meta's AI Agent Muse"
+        },
+        {
+          "date": "2026-11-25",
+          "title": "Google Photos Is Forcing Some Galaxy Users to Save Every Edit as a Copy"
+        },
+        {
+          "date": "2026-11-27",
+          "title": "Best Black Friday 2026 tech deals: AirPods Pro 3 at $149, Galaxy S26 FE $200 off"
+        }
+      ],
+      "source_count": 4,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+          "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+          "published": "2026-11-27T23:53:19+00:00",
+          "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]",
+          "signal": {}
+        },
+        {
+          "source": "Engadget",
+          "title": "5 Costco Electronics With Deep Discounts For Black Friday 2026",
+          "url": "https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/",
+          "published": "2026-11-27T16:51:43+00:00",
+          "summary": "Costco members can get some pretty great deals this weekend.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Best Black Friday deals: Big discounts on phones, smartwatches, and more",
+          "url": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
+          "published": "2026-11-27T12:30:00+00:00",
+          "summary": "The biggest sale of the year is in full flow and prices are plunging. Here are the best tech deals you can grab now.",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves",
+          "url": "https://9to5toys.com/2026/11/27/we-buying-amazon-black-friday-deals/",
+          "published": "2026-11-27T23:58:36+00:00",
+          "summary": "The main event Amazon Black Friday sale is flying , and, much like some of you, we didn’t quite finish up our shopping during yesterday’s wild sale. For Black Friday edition of In My cart we are sharing with everyone the deals we are about to or have already checked out with today. From Amazon’s new Echo Time and Aulumu’s G05 Pro to a brick built Statue of Liberty and the LEGO Icons Project Hail M",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Here are the best Apple Watch deals for Black Friday",
+          "url": "https://9to5mac.com/2026/11/27/here-are-the-best-apple-watch-deals-for-black-friday/",
+          "published": "2026-11-27T20:40:35+00:00",
+          "summary": "Amazon is serving up the best prices ever on the latest Apple Watch models for Black Friday 2026. As we push through the biggest sale of the year, with particularly fantastic deals live on AirPods Pro 3 at an insane $100 off and 2026 AirPods Max at $130 off , not to mention the wild $400 discount on M5 MacBook Air and the new all-time low on the just-released M6 MacBook Pro at $250 off , we are go",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Here are the best Black Friday iPad deals",
+          "url": "https://9to5mac.com/2026/11/27/here-are-the-best-black-friday-ipad-deals/",
+          "published": "2026-11-27T18:03:10+00:00",
+          "summary": "The official Amazon Black Friday sale is flying right now with a bananas deal on AirPods Pro 3 at $100 off , an equally wild $400 off M5 MacBook Air , and now even lower prices on the new M6 MacBook Pro at $250 off , but there are some solid iPad discounts live today too. While perhaps not as eventful as the Mac discounts for some, we are still talking about the best price ever on the brand new OL",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Black Friday deals: AirPods Pro 3 $100 off, M6 MacBook Pro now $250 off, M5 Air $400 off, Series 12, more",
+          "url": "https://9to5mac.com/2026/11/27/apple-black-friday-deals-airpods-macbook-watch/",
+          "published": "2026-11-27T16:27:22+00:00",
+          "summary": "The official main event Black Friday sales are now live everywhere and the Apple deals are wild at Amazon. Alongside the brilliant deal on AirPods Pro 3 at a wild $100 off , the M5 MacBook Air offers at $400 off , and MacBook Neo models at $100 off , Amazon has also now dropped the price again on the brand new M6 MacBook Pro to deliver new all-time lows at $250 off . All of that joins the best pri",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "2026 tech gift guide for Apple users [Black Friday prices]",
+          "url": "https://9to5mac.com/2026/11/27/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
+          "published": "2026-11-27T16:00:00+00:00",
+          "summary": "It’s Black Friday, and I’ve updated my 2026 tech gift guide with today’s prices. These are products I’ve used myself and would give to the Apple users in my life. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c04"
+    },
+    {
+      "title": "Pudgy Penguins (PENGU) trending on CoinGecko (+1.4% 24h)",
+      "category": "crypto",
+      "prescore": 45.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 10,
+        "freshness": 15.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": 1
+        },
+        "newest_hours": 0.0
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "btc"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "CoinGecko trending",
+          "title": "Pudgy Penguins (PENGU) trending on CoinGecko (+1.4% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+          "published": "2026-11-28T00:58:07.033661+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 1,
+            "price_change_24h": 1.4201923784671153,
+            "market_cap_rank": 128
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "PumpChan (PUMPCHAN) trending on CoinGecko (+0.0% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pumpchan",
+          "published": "2026-11-28T00:58:07.033693+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 2,
+            "price_change_24h": 0,
+            "market_cap_rank": 845
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Zylo Ecosystem (ZYLO) trending on CoinGecko (+1.5% 24h)",
+          "url": "https://www.coingecko.com/en/coins/zylo-ecosystem",
+          "published": "2026-11-28T00:58:07.033703+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 3,
+            "price_change_24h": 1.4760826119893569,
+            "market_cap_rank": 719
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Portal (PORTAL) trending on CoinGecko (+229.5% 24h)",
+          "url": "https://www.coingecko.com/en/coins/portal-2",
+          "published": "2026-11-28T00:58:07.033711+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 4,
+            "price_change_24h": 229.48477722266358,
+            "market_cap_rank": 487
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Bitcoin (BTC) trending on CoinGecko (-1.2% 24h)",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "published": "2026-11-28T00:58:07.033717+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 5,
+            "price_change_24h": -1.2107432932771467,
+            "market_cap_rank": 1
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Monero (XMR) trending on CoinGecko (-12.5% 24h)",
+          "url": "https://www.coingecko.com/en/coins/monero",
+          "published": "2026-11-28T00:58:07.033723+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 6,
+            "price_change_24h": -12.47294262417836,
+            "market_cap_rank": 14
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Hyperliquid (HYPE) trending on CoinGecko (+1.0% 24h)",
+          "url": "https://www.coingecko.com/en/coins/hyperliquid",
+          "published": "2026-11-28T00:58:07.033729+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 7,
+            "price_change_24h": 1.049486151748247,
+            "market_cap_rank": 10
+          }
+        },
+        {
+          "source": "CoinGecko trending",
+          "title": "Pons (PONS) trending on CoinGecko (+15.3% 24h)",
+          "url": "https://www.coingecko.com/en/coins/pons",
+          "published": "2026-11-28T00:58:07.033735+00:00",
+          "summary": "",
+          "signal": {
+            "coingecko_rank": 8,
+            "price_change_24h": 15.256052300602635,
+            "market_cap_rank": 322
+          }
+        }
+      ],
+      "id": "c05"
+    },
+    {
+      "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
+      "category": "tech",
+      "prescore": 44.3,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.5
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "microsoft"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
+          "url": "https://www.techmeme.com/261127/p15#a261127p15",
+          "published": "2026-11-27T23:30:02+00:00",
+          "summary": "Jean Eaglesham / Wall Street Journal : US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage — The multiday outage has left customers struggling to reach the insurer during one of the year's busiest travel weeks",
+          "signal": {}
+        },
+        {
+          "source": "The Verge",
+          "title": "Allstate has been suffering an outage since Monday",
+          "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+          "published": "2026-11-27T21:52:42+00:00",
+          "summary": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts through the app and site appeared to still […]",
+          "signal": {}
+        }
+      ],
+      "id": "c06"
+    },
+    {
+      "title": "Samsung is reportedly giving its camera app an AI mode",
+      "category": "phone",
+      "prescore": 42.6,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung",
+          "galaxy",
+          "ios"
+        ],
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "Samsung is reportedly giving its camera app an AI mode",
+          "url": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
+          "published": "2026-11-27T20:06:02+00:00",
+          "summary": "The feature could mirror the Siri mode Apple added in iOS 27.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait",
+          "url": "https://www.androidauthority.com/samsung-one-ui-9-5-camera-vision-mode-auto-portrait-apk-teardown-3740793/",
+          "published": "2026-11-27T12:53:55+00:00",
+          "summary": "Both features are likely bound for the Galaxy S27 series.",
+          "signal": {}
+        }
+      ],
+      "id": "c07"
+    },
+    {
+      "title": "Compare Google Pixel 11 vs. Oppo Reno16 vs. Samsung Galaxy S26 - GSMArena.com",
+      "category": "phone",
+      "prescore": 42.5,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.9
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone",
+          "samsung",
+          "galaxy",
+          "pixel",
+          "oppo"
+        ],
+        "tech": [
+          "apple",
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Compare Google Pixel 11 vs. Oppo Reno16 vs. Samsung Galaxy S26 - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHhRZ2JkOXFITjFyZEE0N1Y4SmFrN25VWHM1SGw4TUtaby1oaDQtdjZDa1dPSUJnWllZdFVsWnRkWDBUSHh5SnJiaWNDWWJIT3IzXy13YlhoYlo0VGdDQnRVQ194TWFjZ2xCYXItYUk2QV9rbE1CY2IzYl9RNVdONWRYS280WmRxTkl3?oc=5",
+          "published": "2026-11-27T02:07:54+00:00",
+          "summary": "Compare Google Pixel 11 vs. Oppo Reno16 vs. Samsung Galaxy S26 GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Apple iPhone 18 Pro Max vs. Google Pixel 11 Pro XL - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNU1ZbDNzSFpwQ21KNXA0Zy1TLVR1UG15cXRUbllXOFVEa3hEQUY1VDFQbDJfRGZWWXZVSXNqYnNZczZhNERqZFAzT3Q0bndNUmExUjdmdHhsUFlkY1ljTFNPcUg1MFVQbW44VlZ1WHU0WmdYUkdtY0QzS1BUR3VwQnFMVm9IM1N5Y2pHVFdjTlFTUTZuRnlBTGw4OUM0TktkdWZSWWVaZTkzdw?oc=5",
+          "published": "2026-11-27T20:03:01+00:00",
+          "summary": "Apple iPhone 18 Pro Max vs. Google Pixel 11 Pro XL GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Three new iPhones will launch early next year, here’s what’s coming",
+          "url": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
+          "published": "2026-11-27T17:57:23+00:00",
+          "summary": "Apple recently launched the iPhone 18 Pro and iPhone Duo, but three more new iPhone models will reportedly arrive in early 2027. Here’s what’s coming. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "iPhone Duo Diary: Pros & cons in early real-life use",
+          "url": "https://9to5mac.com/2026/11/27/iphone-duo-diary-pros-cons-in-early-real-life-use/",
+          "published": "2026-11-27T17:00:00+00:00",
+          "summary": "I said back at the launch that I was experiencing extreme levels of technolust for the iPhone Duo despite feeling that it wasn’t the best match for me. A hands-on session of around half an hour in an Apple Store didn’t change either impression. But there’s of course no substitute for real-life usage of a device to find out how accurate my initial impressions might be, so I’m currently using the Du",
+          "signal": {}
+        }
+      ],
+      "id": "c08"
+    },
+    {
+      "title": "ChatGPT for Android could soon make calls and send texts - GSMArena.com news - GSMArena.com",
+      "category": "ai",
+      "prescore": 40.3,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android"
+        ],
+        "ai": [
+          "chatgpt",
+          "gemini"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "ChatGPT for Android could soon make calls and send texts - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUp2dUI1NEJQd2o0djhqSHpXU0tiNTBIeTVKQWNuOTQxMEtyQTdSUzQydzhSblRmaGw1SmtVNW85bnA5WVk3bGRuOTV4ZFBUT3IzN1BIZlpWcHlQdjNSMkNiTEd1U3FWMkxQTTFTTnI4ak9VbmNOTVd1Z21YRmJNdU03UV92Q3FXRVgxbTdobktDUUdRcEhSRzBqZDnSAZgBQVVfeXFMT1VlUWYtdW5IWDRDM1o1RWJMemNxTU1rc3poYUJwWmx1ODVNbHRXVUZnY1M4MkotVzNMb3FuckVhRUVna1VaRl9Xcy1DaWNuUDlFNFk4WWtjei1sRHZqVUZ2RUhlejhVQ1FRaTlMQ3NTYTd3b3poX2RjQksyOW43VzFHeHlYS2c3dHNuekp5WGczdzBVSDd6T3k?oc=5",
+          "published": "2026-11-27T15:34:02+00:00",
+          "summary": "ChatGPT for Android could soon make calls and send texts - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more",
+          "url": "https://www.androidauthority.com/chatgpt-android-call-text-view-screen-3740765/",
+          "published": "2026-11-27T12:07:21+00:00",
+          "summary": "It could also peek at your screen to answer your questions better.",
+          "signal": {}
+        }
+      ],
+      "id": "c09"
+    },
+    {
+      "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "category": "crypto",
+      "prescore": 38.8,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 8.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 12.3
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "stablecoin"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+          "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+          "published": "2026-11-27T10:51:27+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+          "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-27T12:39:54+00:00",
+          "summary": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
+          "signal": {}
+        }
+      ],
+      "id": "c10"
+    },
+    {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "category": "crypto",
+      "prescore": 38.2,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 8.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 13.6
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+          "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+          "published": "2026-11-27T11:22:42+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+          "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-26T16:40:44+00:00",
+          "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
+          "signal": {}
+        }
+      ],
+      "id": "c11"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "category": "ai",
+      "prescore": 36.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 9.8,
+        "crypto_trending": 0,
+        "freshness": 6.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 587,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 16.5
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "claude"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Claude sabotaging ML research tasks?",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "published": "2026-11-27T08:28:08+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 587,
+            "hn_comments": 283
+          }
+        }
+      ],
+      "id": "c12"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "category": "ai",
+      "prescore": 36.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 4.1,
+        "crypto_trending": 0,
+        "freshness": 12.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 248,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.3
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "grok"
+        ],
+        "tech": [
+          "spacex"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "published": "2026-11-27T19:42:25+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 248,
+            "hn_comments": 132
+          }
+        }
+      ],
+      "id": "c13"
+    },
+    {
+      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+      "category": "crypto",
+      "prescore": 36.2,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 6.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 17.6
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "CoinDesk",
+          "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+          "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+          "published": "2026-11-26T10:40:33+00:00",
+          "summary": "",
+          "signal": {}
+        },
+        {
+          "source": "Cointelegraph",
+          "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+          "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-27T07:19:44+00:00",
+          "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
+          "signal": {}
+        }
+      ],
+      "id": "c14"
+    },
+    {
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "category": "tech",
+      "prescore": 34.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 0.5
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "published": "2026-11-28T00:30:00+00:00",
+          "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, […]",
+          "signal": {}
+        }
+      ],
+      "id": "c15"
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "category": "tech",
+      "prescore": 34.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.6,
+        "crypto_trending": 0,
+        "freshness": 14.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 35,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.9
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "published": "2026-11-27T23:06:29+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 35,
+            "hn_comments": 9
+          }
+        }
+      ],
+      "id": "c16"
+    },
+    {
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "category": "tech",
+      "prescore": 34.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 14.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 1.5
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "playstation",
+          "xbox"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Verge",
+          "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+          "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+          "published": "2026-11-27T23:30:32+00:00",
+          "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the foreseeable future.\" In a statement posted on X, Playtronic said that […]",
+          "signal": {}
+        }
+      ],
+      "id": "c17"
+    },
+    {
+      "title": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 33.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "iphone"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEtsS1YwcDgtVVVXazRBODJkcW5aZWNDTWRLYTA1YTI4VDhPLWVoYnFZX1BManJaRjFKMGRDZjM3WFBtZUZBTGUwYXhQR3M5UE1TVWtYRVRBbW0xckNDemsyV1hmejI1MnIzNjRYcUNiNGFscVl0ZUdnVnltVFpZWVBwQ2pBaFdGUWxIQ0paaDZJOXRNV2NCWmU3YjNRajU0WmfSAZ4BQVVfeXFMUENGeUgyalJVYXhJU0h2b3RmNndjQ1pkWERtTl9ueEpFTVV6Y0c2WGpBMzR5eDl4UXlCOHZqWklTZFBIWUxHWTFVUGFtQ3JZb1hSdkNKckpMSXlDUV9ZUW0wdnp4aEFqX2RyV0tRN2tqNDgtdEVkTDVVTXUtTWUyY2tMamR2cnprbDctOG4zSTZpMVhEMTd4NW03VndjWkE?oc=5",
+          "published": "2026-11-27T22:39:02+00:00",
+          "summary": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c18"
+    },
+    {
+      "title": "AYANEO’s latest KONKR Pocket Advance color nails that classic translucent GBA look",
+      "category": "tech",
+      "prescore": 33.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.8
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "nintendo"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "AYANEO’s latest KONKR Pocket Advance color nails that classic translucent GBA look",
+          "url": "https://www.androidauthority.com/ice-blue-konkr-pocket-advance-3741052/",
+          "published": "2026-11-27T22:07:14+00:00",
+          "summary": "The Ice Blue KONKR Pocket Advance is the spitting image of Nintendo's GBA in Glacier.",
+          "signal": {}
+        }
+      ],
+      "id": "c19"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "category": "crypto",
+      "prescore": 33.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 2.8
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "crypto",
+          "blockchain",
+          "defi"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-27T22:12:51+00:00",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "signal": {}
+        }
+      ],
+      "id": "c20"
+    },
+    {
+      "title": "LA school district blocks Google's AI search features",
+      "category": "ai",
+      "prescore": 33.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.0
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Engadget",
+          "title": "LA school district blocks Google's AI search features",
+          "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+          "published": "2026-11-27T22:00:08+00:00",
+          "summary": "The company has insisted that AI overviews and search are a package deal.",
+          "signal": {}
+        }
+      ],
+      "id": "c21"
+    },
+    {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "category": "ai",
+      "prescore": 33.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.3,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 21,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.8
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "agent"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+          "url": "https://sessiongraph.ai/",
+          "published": "2026-11-27T21:07:34+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 21,
+            "hn_comments": 9
+          }
+        }
+      ],
+      "id": "c22"
+    },
+    {
+      "title": "SanDisk’s new 2TB Portable SSD is 33% cheaper right now",
+      "category": "phone",
+      "prescore": 33.4,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.4,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.2
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "SanDisk’s new 2TB Portable SSD is 33% cheaper right now",
+          "url": "https://www.androidauthority.com/sandisk-2tb-portable-ssd-deal-3741056/",
+          "published": "2026-11-27T21:46:26+00:00",
+          "summary": "SanDisk's latest 2TB Portable SSD with up to 1,000MB/s read speeds is down to $269.99, its lowest price since launch.",
+          "signal": {}
+        }
+      ],
+      "id": "c23"
+    },
+    {
+      "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+      "category": "ai",
+      "prescore": 33.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.4
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "claude"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+          "url": "https://www.techmeme.com/261127/p14#a261127p14",
+          "published": "2026-11-27T21:35:01+00:00",
+          "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following — Is Claude Throwing the Game? — There's a recent spate of claims that Claude is silently sabotaging people's projects, especially when they involve machine learning.",
+          "signal": {}
+        }
+      ],
+      "id": "c24"
+    },
+    {
+      "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
+      "category": "phone",
+      "prescore": 33.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "smartwatch"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
+          "url": "https://www.androidauthority.com/garmin-fenix-8-pro-51mm-deal-3741055/",
+          "published": "2026-11-27T21:30:50+00:00",
+          "summary": "Save $350 on the 51mm Garmin fenix 8 Pro, which adds LTE and satellite messaging to Garmin's rugged AMOLED watch.",
+          "signal": {}
+        }
+      ],
+      "id": "c25"
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "category": "ai",
+      "prescore": 33.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.5,
+        "crypto_trending": 0,
+        "freshness": 12.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 30,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.6
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Hacker News front page",
+          "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "url": "https://github.com/skeeto/prospero",
+          "published": "2026-11-27T20:23:14+00:00",
+          "summary": "",
+          "signal": {
+            "hn_points": 30,
+            "hn_comments": 5
+          }
+        }
+      ],
+      "id": "c26"
+    },
+    {
+      "title": "MacWhisper now remembers speakers’ voices across recordings",
+      "category": "phone",
+      "prescore": 33.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.8
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "MacWhisper now remembers speakers’ voices across recordings",
+          "url": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
+          "published": "2026-11-27T21:08:01+00:00",
+          "summary": "Dutch developer Jordi Bruin rolled out an update to his excellent transcription app MacWhisper this week with a much-requested feature: the ability to automatically identify previously named speakers in new recordings. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c27"
+    },
+    {
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+      "category": "crypto",
+      "prescore": 33.1,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 13.1,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 3.7
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "crypto",
+          "token",
+          "etf"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+          "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-27T21:15:29+00:00",
+          "summary": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.",
+          "signal": {}
+        }
+      ],
+      "id": "c28"
+    },
+    {
+      "title": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+      "category": "phone",
+      "prescore": 32.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "ios"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+          "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
+          "published": "2026-11-27T20:31:12+00:00",
+          "summary": "Chile’s national competition authority, Fiscalía Nacional Económica (FNE), has filed an antitrust lawsuit against Apple, accusing the company of abusing its dominant position in iOS app distribution and in-app purchases. Here are the details. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c29"
+    },
+    {
+      "title": "Compare ZTE Blade A35e - GSMArena.com",
+      "category": "phone",
+      "prescore": 32.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.6
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Compare ZTE Blade A35e - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VUFJkaUozNXpwcy1TR3B3NERubVVSSnp2NzJjUUNXRWYwR1YxdjZ3MXFLcHgxM3pnZzd2X1ZzWTBBUFdiUVlXN04zdmgtbjRpY0E5b0I1MERPT1NkcVZOM1dn?oc=5",
+          "published": "2026-11-27T20:24:09+00:00",
+          "summary": "Compare ZTE Blade A35e GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c30"
+    },
+    {
+      "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+      "category": "ai",
+      "prescore": 32.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+          "url": "https://www.techmeme.com/261127/p13#a261127p13",
+          "published": "2026-11-27T20:15:01+00:00",
+          "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more — “If we pause now, people still won't understand what's at stake.” — New podcast episode between Ege Erdil and Daniel Kokotajlo.",
+          "signal": {}
+        }
+      ],
+      "id": "c31"
+    },
+    {
+      "title": "9to5Mac Daily: November 27, 2026 – MacBook Air overhaul rumors, more",
+      "category": "tech",
+      "prescore": 32.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 4.9
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple",
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "9to5Mac Daily: November 27, 2026 – MacBook Air overhaul rumors, more",
+          "url": "https://9to5mac.com/2026/11/27/daily-november-27-2026/",
+          "published": "2026-11-27T20:01:59+00:00",
+          "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNovo’s dynamic ergonomic chairs are worth a look. The brand’s Black Friday and Cyber Monday campaign i",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
+          "url": "https://9to5mac.com/2026/11/26/daily-november-26-2026/",
+          "published": "2026-11-26T18:06:20+00:00",
+          "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNovo’s dynamic ergonomic chairs are worth a look. The brand’s Black Friday and Cyber Monday campaign i",
+          "signal": {}
+        }
+      ],
+      "id": "c32"
+    },
+    {
+      "title": "HomeKit Weekly: Meross’s new presence sensor splits a room into three zones for Apple Home",
+      "category": "tech",
+      "prescore": 32.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.5
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "HomeKit Weekly: Meross’s new presence sensor splits a room into three zones for Apple Home",
+          "url": "https://9to5mac.com/2026/11/27/meross-ms605/",
+          "published": "2026-11-27T19:30:00+00:00",
+          "summary": "Presence sensors tell Apple Home when someone is in a particular room, which is awesome for running automations based on that. They don’t tell it where in the room you are, though. That’s why these types of automations end up being all-or-nothing type things: you walk into a room, and every light comes on at full brightness, whether you came in to read at your desk or to grab something off the cou",
+          "signal": {}
+        }
+      ],
+      "id": "c33"
+    },
+    {
+      "title": "LineageOS 24 PC port brings Android 17 to your spare laptop",
+      "category": "phone",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "android"
+        ],
+        "tech": [
+          "laptop"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "LineageOS 24 PC port brings Android 17 to your spare laptop",
+          "url": "https://www.androidauthority.com/lineageos-pc-port-3741004/",
+          "published": "2026-11-27T19:26:29+00:00",
+          "summary": "This project might just be the cure for Googlebook envy.",
+          "signal": {}
+        }
+      ],
+      "id": "c34"
+    },
+    {
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+      "category": "crypto",
+      "prescore": 32.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 12.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 5.6
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "bitcoin",
+          "btc"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+          "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-27T19:23:00+00:00",
+          "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
+          "signal": {}
+        }
+      ],
+      "id": "c35"
+    },
+    {
+      "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
+      "category": "tech",
+      "prescore": 31.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.1
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
+          "url": "https://www.techmeme.com/261127/p11#a261127p11",
+          "published": "2026-11-27T18:50:02+00:00",
+          "summary": "Financial Times : Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses — US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence in New England region",
+          "signal": {}
+        }
+      ],
+      "id": "c36"
+    },
+    {
+      "title": "YouTube’s latest mobile redesign lets you like videos without opening them",
+      "category": "tech",
+      "prescore": 31.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.3
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "youtube"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "YouTube’s latest mobile redesign lets you like videos without opening them",
+          "url": "https://www.androidauthority.com/youtube-home-feed-redesign-shorts-engagement-buttons-3740986/",
+          "published": "2026-11-27T18:38:49+00:00",
+          "summary": "Just because you can doesn’t mean you should.",
+          "signal": {}
+        }
+      ],
+      "id": "c37"
+    },
+    {
+      "title": "rearis - user account - GSMArena.com",
+      "category": "phone",
+      "prescore": 31.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.5
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "rearis - user account - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoLVhMNjNnSHRvVlgwNUI4djBtRDNHemR6THpMN2pQYzRucTBBSVRUZ1hxV3Y1RzkwSmZjZ3dKNjFLbUxYa2I2Zm1pakxTd0x2RVRKTGZQX19jX2M?oc=5",
+          "published": "2026-11-27T16:26:28+00:00",
+          "summary": "rearis - user account GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Astolfik - user account - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84bzRvcWthbjVIV1ZrM2p2QWZJLVBXYlVZWV9scnBodjNvbGRoWDliUThEWXZpTGhHb3BzZTNPZmJ0OW9Qc3NNLUNSQWM5Y2hyNjJKTWg1UXRFcG8?oc=5",
+          "published": "2026-11-27T10:38:00+00:00",
+          "summary": "Astolfik - user account GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "tocabocamodapks - user account - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oT0NiaXktQ2c4LTNHaG1lMTVJRzE2aXJIX2k0Q293bnFia1Z0S2JnSW8xa1hybW91LUJ0cXF4YW5Ib0dkQ1lXTkhtREM1N1NyMFk3V3c4d0pqS1E?oc=5",
+          "published": "2026-11-27T18:27:42+00:00",
+          "summary": "tocabocamodapks - user account GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Raven001 - user account - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwcHNwRnRTTDd3N1hiU2w2ZEFscGJyWXM4OWhXT0NsekNmRVdNbWk0ZzVlYTlLRmlvTWlLOVF4eGZUWkJJT1d0cS10UklYNTYwSnBhODNCWFhxYTQ?oc=5",
+          "published": "2026-11-27T08:07:22+00:00",
+          "summary": "Raven001 - user account GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c38"
+    },
+    {
+      "title": "Review: Aqara W200 supports Adaptive Temperature in HomeKit at a great price",
+      "category": "phone",
+      "prescore": 31.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.5
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "Review: Aqara W200 supports Adaptive Temperature in HomeKit at a great price",
+          "url": "https://9to5mac.com/2026/11/27/aqara-w200-adaptive-temperature-thermostat-review/",
+          "published": "2026-11-27T18:26:36+00:00",
+          "summary": "Earlier this year, my wife and I bought our first house. Along with all the other exciting things, it’s also let me spend a lot of time testing new smart home gear. One of the most important and useful smart home accessories is a smart thermostat. Six months ago, I installed the Aqara Smart Thermostat W200 , and it’s been a fantastic addition to our smart home setup … especially because it support",
+          "signal": {}
+        }
+      ],
+      "id": "c39"
+    },
+    {
+      "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+      "category": "ai",
+      "prescore": 31.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 6.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "artificial intelligence"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+          "url": "https://www.techmeme.com/261127/p10#a261127p10",
+          "published": "2026-11-27T18:15:00+00:00",
+          "summary": "Alexander Weber / Bloomberg : European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels — Euro-area workers are turning to artificial intelligence at a similar rate as their peers in the US, though obstacles remain …",
+          "signal": {}
+        }
+      ],
+      "id": "c40"
+    },
+    {
+      "title": "Soundcore Nebula P1i projector drops to a record-low $279",
+      "category": "tech",
+      "prescore": 31.5,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.1
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Soundcore Nebula P1i projector drops to a record-low $279",
+          "url": "https://www.androidauthority.com/nebula-p1i-projector-deal-3740617/",
+          "published": "2026-11-27T17:53:25+00:00",
+          "summary": "Soundcore's budget Google TV projector with flip-out speakers is $120 off ahead of Black Friday.",
+          "signal": {}
+        }
+      ],
+      "id": "c41"
+    },
+    {
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "category": "crypto",
+      "prescore": 31.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 7.3
+      },
+      "category_keyword_hits": {
+        "crypto": [
+          "blockchain"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Cointelegraph",
+          "title": "China sets March 2027 rollout for blockchain identity regulations",
+          "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-11-27T17:37:23+00:00",
+          "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
+          "signal": {}
+        }
+      ],
+      "id": "c42"
+    },
+    {
+      "title": "Ecovacs Deebot X12 OmniCyclone robot vacuum is 50% off",
+      "category": "phone",
+      "prescore": 31.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.0
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Ecovacs Deebot X12 OmniCyclone robot vacuum is 50% off",
+          "url": "https://www.androidauthority.com/ecovacs-deebot-x12-omnicyclone-deal-3740957/",
+          "published": "2026-11-27T16:58:53+00:00",
+          "summary": "Save $751 on Ecovacs' flagship robot vacuum and mop with 22,000Pa suction and a bagless self-emptying station.",
+          "signal": {}
+        }
+      ],
+      "id": "c43"
+    },
+    {
+      "title": "macOS 27.3 adds three new Mac features, here’s what’s coming",
+      "category": "phone",
+      "prescore": 31.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.1
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "ios"
+        ],
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "macos"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "macOS 27.3 adds three new Mac features, here’s what’s coming",
+          "url": "https://9to5mac.com/2026/11/27/macos-27-3-adds-three-new-features-to-your-mac-heres-whats-coming/",
+          "published": "2026-11-27T16:53:06+00:00",
+          "summary": "macOS 27.3 is launching next month alongside iOS 27.3 and more, and it includes a variety of new features for Mac users. Here are three macOS 27.3 features coming soon. more…",
+          "signal": {}
+        },
+        {
+          "source": "9to5Mac",
+          "title": "iOS 27.3 adds limits for these advanced features, details here",
+          "url": "https://9to5mac.com/2026/11/27/ios-27-3-adds-limits-for-these-advanced-features-details-here/",
+          "published": "2026-11-27T14:50:41+00:00",
+          "summary": "iOS 27.3 launches soon with a key change: certain advanced AI features will have daily usage limits. In an article posted on X , leaker pdfu details how this new system works. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c44"
+    },
+    {
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "category": "tech",
+      "prescore": 31.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 11.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.0
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "meta",
+          "startup"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Decoder",
+          "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+          "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+          "published": "2026-11-27T16:58:56+00:00",
+          "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progress in robot planning, more efficient training, and error correction, though the pieces still need to grow together. The article Three studies from Meta and AMI Labs back Y",
+          "signal": {}
+        }
+      ],
+      "id": "c45"
+    },
+    {
+      "title": "TCL’s Note A1 NXTPAPER note-taking tablet is $150 off",
+      "category": "phone",
+      "prescore": 30.9,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.9,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.1
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "TCL’s Note A1 NXTPAPER note-taking tablet is $150 off",
+          "url": "https://www.androidauthority.com/tcl-note-a1-nxtpaper-deal-3740621/",
+          "published": "2026-11-27T16:50:40+00:00",
+          "summary": "TCL's paper-like Note A1 NXTPAPER tablet drops to a record-low $449.99, with a stylus and flip case included.",
+          "signal": {}
+        }
+      ],
+      "id": "c46"
+    },
+    {
+      "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
+      "category": "tech",
+      "prescore": 30.8,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.8,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.4
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "cybersecurity"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
+          "url": "https://www.techmeme.com/261127/p9#a261127p9",
+          "published": "2026-11-27T16:35:08+00:00",
+          "summary": "Eduard Kovacs / SecurityWeek : SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub — SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.",
+          "signal": {}
+        }
+      ],
+      "id": "c47"
+    },
+    {
+      "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
+      "category": "phone",
+      "prescore": 30.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.5
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung",
+          "galaxy",
+          "one ui"
+        ],
+        "ai": [
+          "ai"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
+          "published": "2026-11-27T16:26:00+00:00",
+          "summary": "One UI 9.5 beta code ties about three dozen features to a Galaxy AI version the Galaxy S26 doesn't have.",
+          "signal": {}
+        }
+      ],
+      "id": "c48"
+    },
+    {
+      "title": "Google app’s Images tab may get a major redesign with more control over your feed",
+      "category": "ai",
+      "prescore": 30.7,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.7,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.7
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google app’s Images tab may get a major redesign with more control over your feed",
+          "url": "https://www.androidauthority.com/google-app-images-tab-collections-ai-mode-apk-teardown-3740851/",
+          "published": "2026-11-27T16:17:13+00:00",
+          "summary": "Google is also working on a new AI Mode experience called ‘Ask Anything’ to answer questions about a collection.",
+          "signal": {}
+        }
+      ],
+      "id": "c49"
+    },
+    {
+      "title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset - GSMArena.com news - GSMArena.com",
+      "category": "phone",
+      "prescore": 30.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.8
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "samsung",
+          "galaxy",
+          "xiaomi"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "GSMArena",
+          "title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset - GSMArena.com news - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlIwMVVwV0RycEk5N1pPVEZuc2NKTXRWNklMSG9DZ0NSdjJYaHJYR3NzcHRuOWMtMmJvYkJVVVlzdXNNVS0xdHVnOE1ROGM2RFFGZ0FFbVc0YVJWTlVzSEpoOHlKTTFVbXVQMGdOSVAzb1dGWklXWFBBX1RvalNqd0JLbUktWTRQOFBaaEZZck5DaGIwNWxSWEl30gGWAUFVX3lxTE9vVUJuemgyUlJNOXhFdnhjb29keDlpRnVxNE5rdDdqMk5BcjBJcHV1Yllxa0xEMnV2MU5QVElOV0Q1R2VIU1ZSSTdCTkt2MnVqMlUwUjBydk1wbmg5bU43VEVKREY0SnFsdjFFVG9iVWJ1UU1hSnR3MXRsUGNzdUV6OVBwbzhXRXhITjNMUWhHeWRYQjBQZw?oc=5",
+          "published": "2026-11-27T03:31:02+00:00",
+          "summary": "Samsung Galaxy A38 runs Geekbench, confirms its chipset - GSMArena.com news GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Samsung Galaxy A38 - Full phone specifications - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RWTVteXcyUXZzeW5sNFdoWUc0cy03Z1VmYnlYMk0zbC1GTGxNS0hUc3EyNHFaQi1LUjBtRXRBMGs5ZG1EclRpUlBLUFBFNFJOSWpKZUZrcGZIeExfNV9BaTF1MHRmaWc?oc=5",
+          "published": "2026-11-27T14:21:15+00:00",
+          "summary": "Samsung Galaxy A38 - Full phone specifications GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Xiaomi Redmi Note 17 - Full phone specifications - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hd2JwbTJsQ2dTVHZBM2hWUzVWTFo3UHZNX2cwT0JDWlBvQ3Zfd0Y0ODNaR1UxWnJaN3h6SVdKeG4tNUFJVUV2d3RZNGttc19kSDNFVHM0cTNaalN6TTluSjdGNzh1Z3NvdFE?oc=5",
+          "published": "2026-11-27T11:42:01+00:00",
+          "summary": "Xiaomi Redmi Note 17 - Full phone specifications GSMArena.com",
+          "signal": {}
+        },
+        {
+          "source": "GSMArena",
+          "title": "Xiaomi 18 Pro - Full phone specifications - GSMArena.com",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVUw4WUdWVEc3TTA3cEJtUm5fU2JxTGxiRVZlbTQwWnpfbV94UzFCczBNVzFWVkg3ODdwMHhWS2hRSUQ2Rk1oaWd5SE9HbGRlNXBvRGdIZkI5SVFhWGY4WQ?oc=5",
+          "published": "2026-11-27T16:12:28+00:00",
+          "summary": "Xiaomi 18 Pro - Full phone specifications GSMArena.com",
+          "signal": {}
+        }
+      ],
+      "id": "c50"
+    },
+    {
+      "title": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming",
+      "category": "ai",
+      "prescore": 30.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "google"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming",
+          "url": "https://www.androidauthority.com/google-ai-mode-library-pin-rename-threads-3740893/",
+          "published": "2026-11-27T16:04:15+00:00",
+          "summary": "AI Mode could soon be much easier to navigate.",
+          "signal": {}
+        }
+      ],
+      "id": "c51"
+    },
+    {
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "category": "ai",
+      "prescore": 30.6,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.6,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 8.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "openai",
+          "chatgpt",
+          "agent",
+          "agents"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Decoder",
+          "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+          "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+          "published": "2026-11-27T16:05:23+00:00",
+          "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks. The article OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork appeared first on The Decode",
+          "signal": {}
+        }
+      ],
+      "id": "c52"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "category": "ai",
+      "prescore": 30.5,
+      "score_breakdown": {
+        "source_diversity": 20,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 0.5,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 28.9
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "nvidia"
+        ],
+        "tech": [
+          "chip"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 2,
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "published": "2026-11-26T20:03:54+00:00",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "signal": {}
+        },
+        {
+          "source": "Engadget",
+          "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "published": "2026-11-26T18:09:18+00:00",
+          "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+          "signal": {}
+        }
+      ],
+      "id": "c53"
+    },
+    {
+      "title": "Belkin’s 45W USB-C charger two-pack hits a record low of $24.99",
+      "category": "phone",
+      "prescore": 30.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.3
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "foldable"
+        ],
+        "tech": [
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Belkin’s 45W USB-C charger two-pack hits a record low of $24.99",
+          "url": "https://www.androidauthority.com/belkin-45w-charger-2-pack-deal-3740569/",
+          "published": "2026-11-27T15:38:55+00:00",
+          "summary": "Two of Belkin's compact 45W USB-C chargers are 29% off on Amazon, with foldable prongs and cables in the box.",
+          "signal": {}
+        }
+      ],
+      "id": "c54"
+    },
+    {
+      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
+      "category": "phone",
+      "prescore": 30.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "ios"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
+          "url": "https://9to5mac.com/2026/11/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
+          "published": "2026-11-27T15:31:52+00:00",
+          "summary": "iOS 27.2 introduced new features for Messages , Apple TV , and more, including two improvements for CarPlay. Here’s what’s new for CarPlay users. more…",
+          "signal": {}
+        }
+      ],
+      "id": "c55"
+    },
+    {
+      "title": "9to5Mac Overtime 092: The obvious answer is AirPods Pro 3",
+      "category": "phone",
+      "prescore": 30.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.4
+      },
+      "category_keyword_hits": {
+        "phone": [
+          "airpods",
+          "wearable"
+        ],
+        "ai": [
+          "ai"
+        ],
+        "tech": [
+          "apple"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "9to5Mac",
+          "title": "9to5Mac Overtime 092: The obvious answer is AirPods Pro 3",
+          "url": "https://9to5mac.com/2026/11/27/9to5mac-overtime-092-the-obvious-answer-is-airpods-pro-3/",
+          "published": "2026-11-27T15:31:45+00:00",
+          "summary": "On this week’s Overtime, we talk Magic Mouse vs. MX Master, the smart glasses everyone keeps asking about, and what Jeff found when he tested the HomePod mini 2’s latency. Then we get into the best Black Friday Apple deals, like AirPods Pro 3 for $149 and why you should skip the MacBook Neo for a $999 MacBook Air . Sponsored by Memoket : Memoket Gem is an AI wearable that slots beside your Apple W",
+          "signal": {}
+        }
+      ],
+      "id": "c56"
+    },
+    {
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "category": "ai",
+      "prescore": 30.3,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.3,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.3
+      },
+      "category_keyword_hits": {
+        "ai": [
+          "ai",
+          "claude",
+          "agents"
+        ],
+        "tech": [
+          "xbox"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "The Decoder",
+          "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+          "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+          "published": "2026-11-27T15:37:47+00:00",
+          "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running. Rockstar's delayed PC business model is coming under pressure. The article Rockstar's AI dilemma: Can GTA",
+          "signal": {}
+        }
+      ],
+      "id": "c57"
+    },
+    {
+      "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
+      "category": "tech",
+      "prescore": 30.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.6
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "meta"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Techmeme",
+          "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
+          "url": "https://www.techmeme.com/261127/p8#a261127p8",
+          "published": "2026-11-27T15:25:00+00:00",
+          "summary": "Joseph Bambridge / Politico : The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US — The U.K. terms of service for Muse give consumers far more protection than in the U.S. — LONDON — Meta will be on the hook …",
+          "signal": {}
+        }
+      ],
+      "id": "c58"
+    },
+    {
+      "title": "TCL’s 55-inch F8D Fire TV drops $160 for Black Friday",
+      "category": "phone",
+      "prescore": 30.2,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.2,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 9.6
+      },
+      "category_keyword_hits": {},
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "TCL’s 55-inch F8D Fire TV drops $160 for Black Friday",
+          "url": "https://www.androidauthority.com/tcl-55-inch-f8d-fire-tv-deal-3740918/",
+          "published": "2026-11-27T15:23:27+00:00",
+          "summary": "TCL's 2026 QLED Fire TV is 32% off, a new low for the 55-inch model with Dolby Vision and Dolby Atmos.",
+          "signal": {}
+        }
+      ],
+      "id": "c59"
+    },
+    {
+      "title": "Sony WF-C510 earbuds drop to $41.95, their lowest in months",
+      "category": "tech",
+      "prescore": 30.0,
+      "score_breakdown": {
+        "source_diversity": 10,
+        "search_demand": 0,
+        "community_buzz": 0.0,
+        "crypto_trending": 0,
+        "freshness": 10.0,
+        "beat_fit": 10,
+        "already_covered_by_memeburn": 0,
+        "suggested_recently": 0,
+        "signals": {
+          "trends_traffic": 0,
+          "hn_points": 0,
+          "reddit_score": 0,
+          "coingecko_rank": null
+        },
+        "newest_hours": 10.1
+      },
+      "category_keyword_hits": {
+        "tech": [
+          "amazon"
+        ]
+      },
+      "memeburn_recent_similar": [],
+      "suggested_in_recent_briefs": [],
+      "source_count": 1,
+      "items": [
+        {
+          "source": "Android Authority",
+          "title": "Sony WF-C510 earbuds drop to $41.95, their lowest in months",
+          "url": "https://www.androidauthority.com/sony-wf-c510-deal-3740883/",
+          "published": "2026-11-27T14:53:00+00:00",
+          "summary": "Save $28 on Sony's compact true wireless earbuds with multipoint and 22 hours of battery, in Black.",
+          "signal": {}
+        },
+        {
+          "source": "Android Authority",
+          "title": "Sony’s WI-C100 wireless earbuds drop to $23 with 42% off",
+          "url": "https://www.androidauthority.com/sony-wi-c100-black-friday-deal-3740573/",
+          "published": "2026-11-27T13:27:53+00:00",
+          "summary": "Sony's neckband-style WI-C100 earbuds are $17 off on Amazon, with up to 25 hours of battery and IPX4 protection.",
+          "signal": {}
+        }
+      ],
+      "id": "c60"
+    }
+  ]
+}

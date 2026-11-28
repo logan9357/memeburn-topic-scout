@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-27T01:00:36.344317+00:00",
+  "generated_at": "2026-11-28T00:58:08.216311+00:00",
   "topics_suggested": 139,
-  "topics_published": 29,
+  "topics_published": 0,
   "by_category": {
-    "ai": {
-      "suggested": 33,
-      "published": 9,
-      "pickup_rate": 0.27,
+    "tech": {
+      "suggested": 35,
+      "published": 0,
+      "pickup_rate": 0.0,
       "avg_pageviews": null
     },
-    "tech": {
-      "suggested": 34,
-      "published": 7,
-      "pickup_rate": 0.21,
+    "ai": {
+      "suggested": 31,
+      "published": 0,
+      "pickup_rate": 0.0,
       "avg_pageviews": null
     },
     "crypto": {
       "suggested": 19,
-      "published": 3,
-      "pickup_rate": 0.16,
+      "published": 0,
+      "pickup_rate": 0.0,
       "avg_pageviews": null
     },
     "phone": {
-      "suggested": 53,
-      "published": 10,
-      "pickup_rate": 0.19,
+      "suggested": 54,
+      "published": 0,
+      "pickup_rate": 0.0,
       "avg_pageviews": null
     }
   },
   "by_format": {
     "news": {
-      "suggested": 64,
-      "published": 14,
-      "pickup_rate": 0.22,
+      "suggested": 63,
+      "published": 0,
+      "pickup_rate": 0.0,
       "avg_pageviews": null
     },
     "explainer": {
-      "suggested": 44,
-      "published": 6,
-      "pickup_rate": 0.14,
-      "avg_pageviews": null
-    },
-    "how-to": {
-      "suggested": 16,
-      "published": 1,
-      "pickup_rate": 0.06,
-      "avg_pageviews": null
-    },
-    "listicle": {
-      "suggested": 5,
-      "published": 4,
-      "pickup_rate": 0.8,
+      "suggested": 46,
+      "published": 0,
+      "pickup_rate": 0.0,
       "avg_pageviews": null
     },
     "comparison": {
       "suggested": 10,
-      "published": 4,
-      "pickup_rate": 0.4,
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    },
+    "how-to": {
+      "suggested": 15,
+      "published": 0,
+      "pickup_rate": 0.0,
+      "avg_pageviews": null
+    },
+    "listicle": {
+      "suggested": 5,
+      "published": 0,
+      "pickup_rate": 0.0,
       "avg_pageviews": null
     }
   }

@@ -1,110 +1,5 @@
 [
   {
-    "brief_date": "2026-11-13",
-    "rank": 1,
-    "working_title": "Jensen Huang Resigns as Nvidia CEO Amid Affair Scandal",
-    "category": "ai",
-    "urgency": "breaking",
-    "format": "news",
-    "score": 90,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 2,
-    "working_title": "Google Launches Gemini 4 Hydrogen, and It's Already Beating Its Bigger Sibling",
-    "category": "ai",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 77,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 3,
-    "working_title": "Is Outlook Down? Microsoft Confirms a Widespread Outage",
-    "category": "tech",
-    "urgency": "breaking",
-    "format": "news",
-    "score": 67,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 4,
-    "working_title": "Anthropic's IPO Is Reportedly About 6x Oversubscribed",
-    "category": "ai",
-    "urgency": "today",
-    "format": "news",
-    "score": 66,
-    "published": true,
-    "article_url": "https://memeburn.com/anthropics-nasdaq-debut-founders-cash-out-2b/",
-    "article_title": "Anthropic’s Nasdaq Debut: Founders Cash Out $2B as the Stock Swings From $83 to Below $100",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 201.4,
-    "pageviews": null
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 5,
-    "working_title": "DOJ Moves to Seize $1.2B of the Crypto Frozen After North Korea's $6.3B Binance Hack",
-    "category": "crypto",
-    "urgency": "today",
-    "format": "explainer",
-    "score": 65,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 6,
-    "working_title": "Fairphone 6+ Gets Its First US Carrier Partner in Boost Mobile",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 64,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 7,
-    "working_title": "Samsung Held Two-Thirds of the Global Foldable Market in Q3, Thanks to the Z Fold8",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "news",
-    "score": 59,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 8,
-    "working_title": "Google's Fitbit Air Sync Issues Are Blocking Some iPhone Users From Their Health Data",
-    "category": "phone",
-    "urgency": "today",
-    "format": "news",
-    "score": 58,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 9,
-    "working_title": "Opera One for iOS Adds a Data Saver Feature That Cuts Browsing Data Use by 80%",
-    "category": "phone",
-    "urgency": "today",
-    "format": "how-to",
-    "score": 56,
-    "published": false
-  },
-  {
-    "brief_date": "2026-11-13",
-    "rank": 10,
-    "working_title": "Samsung's One UI 9.5 Leaks Keep Coming: A Social Contacts App and a Blocked-Calls Hub",
-    "category": "phone",
-    "urgency": "evergreen",
-    "format": "listicle",
-    "score": 56,
-    "published": false
-  },
-  {
     "brief_date": "2026-11-14",
     "rank": 1,
     "working_title": "FAA Ground Stop Halts All US Flights — What Happened and When Flights Resume",
@@ -122,12 +17,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 82,
-    "published": true,
-    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
-    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
-    "author": "Vincee Cole",
-    "hours_to_publish": 178.4,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-14",
@@ -247,12 +137,7 @@
     "urgency": "evergreen",
     "format": "news",
     "score": 55,
-    "published": true,
-    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
-    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
-    "author": "Michael Sacchitello",
-    "hours_to_publish": 213.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-15",
@@ -272,12 +157,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 84,
-    "published": true,
-    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
-    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
-    "author": "Vincee Cole",
-    "hours_to_publish": 154.4,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-15",
@@ -337,12 +217,7 @@
     "urgency": "evergreen",
     "format": "comparison",
     "score": 64,
-    "published": true,
-    "article_url": "https://memeburn.com/motorola-signature-27-vs-galaxy-a55-vs-oneplus-12r/",
-    "article_title": "Motorola Signature 27 vs Galaxy A55 vs OnePlus 12R: The $1,600 Phone Isn’t the Worst Value Here",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 262.8,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-15",
@@ -352,12 +227,7 @@
     "urgency": "today",
     "format": "listicle",
     "score": 61,
-    "published": true,
-    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
-    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
-    "author": "Michael Sacchitello",
-    "hours_to_publish": 189.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-15",
@@ -407,12 +277,7 @@
     "urgency": "today",
     "format": "news",
     "score": 80,
-    "published": true,
-    "article_url": "https://memeburn.com/jensen-huang-reinstated-nvidia-ceo/",
-    "article_title": "Jensen Huang Is Back, and Nvidia Won $952 Billion in a Day. Here Are 5 Problems His Return Doesn’t Touch",
-    "author": "Vincee Cole",
-    "hours_to_publish": 218.2,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-16",
@@ -442,12 +307,7 @@
     "urgency": "today",
     "format": "listicle",
     "score": 73,
-    "published": true,
-    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
-    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
-    "author": "Michael Sacchitello",
-    "hours_to_publish": 165.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-16",
@@ -477,12 +337,7 @@
     "urgency": "today",
     "format": "news",
     "score": 64,
-    "published": true,
-    "article_url": "https://memeburn.com/apple-is-reportedly-testing-two-designs-for-the-20th-anniversary/",
-    "article_title": "Apple Is Reportedly Testing Two Designs for the 20th-Anniversary iPhone. The Last Anniversary Shows Why",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 105.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-16",
@@ -522,12 +377,7 @@
     "urgency": "today",
     "format": "news",
     "score": 78,
-    "published": true,
-    "article_url": "https://memeburn.com/jensen-huang-reinstated-nvidia-ceo/",
-    "article_title": "Jensen Huang Is Back, and Nvidia Won $952 Billion in a Day. Here Are 5 Problems His Return Doesn’t Touch",
-    "author": "Vincee Cole",
-    "hours_to_publish": 194.2,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-17",
@@ -547,12 +397,7 @@
     "urgency": "today",
     "format": "news",
     "score": 75,
-    "published": true,
-    "article_url": "https://memeburn.com/how-to-install-ios-27-3-beta-on-your-iphone/",
-    "article_title": "How to Install iOS 27.3 Beta on Your iPhone",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 119.0,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-17",
@@ -672,12 +517,7 @@
     "urgency": "today",
     "format": "news",
     "score": 82,
-    "published": true,
-    "article_url": "https://memeburn.com/gpt-6-2-astra-and-sol-launch-same-token-price-as-claude-but-up-to-6x-cheaper-in-real-costs/",
-    "article_title": "GPT-6.2 Astra and Sol Launch: Same Token Price as Claude, but Up to 6x Cheaper in Real Costs",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 49.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-18",
@@ -697,12 +537,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 76,
-    "published": true,
-    "article_url": "https://memeburn.com/optimizely-hack-crypto-iphone/",
-    "article_title": "178 Major Websites Were Rigged to Steal Crypto and Hack iPhones",
-    "author": "Vincee Cole",
-    "hours_to_publish": 46.5,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-18",
@@ -732,12 +567,7 @@
     "urgency": "evergreen",
     "format": "listicle",
     "score": 61,
-    "published": true,
-    "article_url": "https://memeburn.com/how-to-install-ios-27-3-beta-on-your-iphone/",
-    "article_title": "How to Install iOS 27.3 Beta on Your iPhone",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 95.0,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-18",
@@ -747,12 +577,7 @@
     "urgency": "today",
     "format": "comparison",
     "score": 59,
-    "published": true,
-    "article_url": "https://memeburn.com/whats-new-in-the-ios-27-3-beta/",
-    "article_title": "What’s New in the iOS 27.3 Beta, and What Will Your iPhone Get?",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 45.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-18",
@@ -782,12 +607,7 @@
     "urgency": "breaking",
     "format": "news",
     "score": 85,
-    "published": true,
-    "article_url": "https://memeburn.com/anthropic-ipo-priced-83/",
-    "article_title": "Anthropic Priced Its IPO at $83. Here’s What the Extra $5 a Share Bought, and Where $1.5 Trillion Comes From",
-    "author": "Vincee Cole",
-    "hours_to_publish": 46.3,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-19",
@@ -797,12 +617,7 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 80,
-    "published": true,
-    "article_url": "https://memeburn.com/iphone-18-iphone-air-2-oled-production/",
-    "article_title": "iPhone 18 and iPhone Air 2 Screens Go Into Production by January. The Air 2 Is Reusing Last Year’s Panel",
-    "author": "Vincee Cole",
-    "hours_to_publish": 114.2,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-19",
@@ -812,12 +627,7 @@
     "urgency": "today",
     "format": "news",
     "score": 77,
-    "published": true,
-    "article_url": "https://memeburn.com/gemini-4-neon-costs-more-than-carbon-which-gemini-model-you-should-use/",
-    "article_title": "Gemini 4 Neon Costs More Than Carbon Until December 1. Here’s Which Gemini Model You Should Actually Use",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 37.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-19",
@@ -847,12 +657,7 @@
     "urgency": "evergreen",
     "format": "how-to",
     "score": 65,
-    "published": true,
-    "article_url": "https://memeburn.com/instagram-now-lets-you-edit-a-story-after-posting-15-minutes/",
-    "article_title": "Instagram Now Lets You Edit a Story After Posting, but Only for 15 Minutes",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 53.4,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-19",
@@ -882,12 +687,7 @@
     "urgency": "today",
     "format": "news",
     "score": 58,
-    "published": true,
-    "article_url": "https://memeburn.com/binance-freezing-6-billion-order-from-abu-dhabi/",
-    "article_title": "Binance’s $6.5 Billion Freezing Order Doesn’t Return a Dollar Yet",
-    "author": "Vincee Cole",
-    "hours_to_publish": 50.4,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-19",
@@ -917,12 +717,7 @@
     "urgency": "today",
     "format": "listicle",
     "score": 85,
-    "published": true,
-    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
-    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
-    "author": "Michael Sacchitello",
-    "hours_to_publish": 45.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-21",
@@ -962,12 +757,7 @@
     "urgency": "today",
     "format": "news",
     "score": 70,
-    "published": true,
-    "article_url": "https://memeburn.com/apple-is-building-its-own-ai-agent/",
-    "article_title": "Apple Is Building Its Own AI Agent While Making Rival Agents Harder to Use on Macs",
-    "author": "Vincee Cole",
-    "hours_to_publish": 10.4,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-21",
@@ -1027,12 +817,7 @@
     "urgency": "today",
     "format": "comparison",
     "score": 78,
-    "published": true,
-    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
-    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
-    "author": "Michael Sacchitello",
-    "hours_to_publish": 21.6,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-22",
@@ -1132,12 +917,7 @@
     "urgency": "today",
     "format": "news",
     "score": 75,
-    "published": true,
-    "article_url": "https://memeburn.com/trezor-black-friday-sale/",
-    "article_title": "Trezor Black Friday Sale 2026: Best Deals and Discounts",
-    "author": "Michael Sacchitello",
-    "hours_to_publish": -2.4,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-23",
@@ -1187,12 +967,7 @@
     "urgency": "today",
     "format": "news",
     "score": 68,
-    "published": true,
-    "article_url": "https://memeburn.com/tesla-fsd-v15-reality-view/",
-    "article_title": "Tesla’s FSD v15 Draws Your Street With AI Video Instead of a Game Engine",
-    "author": "Vincee Cole",
-    "hours_to_publish": 42.3,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-23",
@@ -1202,12 +977,7 @@
     "urgency": "today",
     "format": "explainer",
     "score": 68,
-    "published": true,
-    "article_url": "https://memeburn.com/kraken-bitcoin-crash-17k/",
-    "article_title": "Bitcoin Briefly Crashed to $17K on Kraken. Here’s What Actually Happened",
-    "author": "Vincee Cole",
-    "hours_to_publish": 46.3,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-23",
@@ -1257,12 +1027,7 @@
     "urgency": "evergreen",
     "format": "explainer",
     "score": 70,
-    "published": true,
-    "article_url": "https://memeburn.com/iphone-18e-camera-island/",
-    "article_title": "iPhone 18e Camera Island Leak: Apple’s Cheapest iPhone Gets a Bigger Bump, but Still One Lens",
-    "author": "Vincee Cole",
-    "hours_to_publish": 57.8,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-24",
@@ -1322,12 +1087,7 @@
     "urgency": "today",
     "format": "news",
     "score": 56,
-    "published": true,
-    "article_url": "https://memeburn.com/galaxy-a27-5g-vs-motorola-edge-70-neo/",
-    "article_title": "Galaxy A27 5G vs Motorola Edge 70 Neo: Motorola Packs 40% More Battery, Samsung Keeps the Ultrawide and the Updates",
-    "author": "Vincee Cole",
-    "hours_to_publish": 18.2,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-24",
@@ -1347,12 +1107,7 @@
     "urgency": "today",
     "format": "comparison",
     "score": 78,
-    "published": true,
-    "article_url": "https://memeburn.com/motorola-signature-27-vs-galaxy-a55-vs-oneplus-12r/",
-    "article_title": "Motorola Signature 27 vs Galaxy A55 vs OnePlus 12R: The $1,600 Phone Isn’t the Worst Value Here",
-    "author": "Marko Nguyen",
-    "hours_to_publish": 22.8,
-    "pageviews": null
+    "published": false
   },
   {
     "brief_date": "2026-11-25",
@@ -1532,6 +1287,106 @@
     "urgency": "today",
     "format": "news",
     "score": 53,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 1,
+    "working_title": "Best Black Friday 2026 tech deals: AirPods Pro 3 at $149, Galaxy S26 FE $200 off",
+    "category": "phone",
+    "urgency": "today",
+    "format": "listicle",
+    "score": 84,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 2,
+    "working_title": "GTA VI developers vote against unionizing, 75% to 25%",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 66,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 3,
+    "working_title": "OpenAI's billing fix means ChatGPT users hit limits up to 40% faster",
+    "category": "ai",
+    "urgency": "today",
+    "format": "explainer",
+    "score": 64,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 4,
+    "working_title": "Binance fully restores withdrawals, a month after record $6.3B hack",
+    "category": "crypto",
+    "urgency": "today",
+    "format": "news",
+    "score": 60,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 5,
+    "working_title": "1Password confirms a hack — but says your vault is safe",
+    "category": "tech",
+    "urgency": "today",
+    "format": "news",
+    "score": 59,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 6,
+    "working_title": "Apple now makes 57% of all US smartphones sold",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 58,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 7,
+    "working_title": "A month with the iPhone Duo: what actually changes about how you use your phone",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 57,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 8,
+    "working_title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 57,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 9,
+    "working_title": "Pixel's November update broke Android Auto's always-on display",
+    "category": "phone",
+    "urgency": "today",
+    "format": "news",
+    "score": 56,
+    "published": false
+  },
+  {
+    "brief_date": "2026-11-27",
+    "rank": 10,
+    "working_title": "iOS 28 will 'revamp' iPhone notifications, per report",
+    "category": "phone",
+    "urgency": "evergreen",
+    "format": "explainer",
+    "score": 55,
     "published": false
   }
 ]
